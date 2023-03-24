@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/entropy__winston-elasticsearch-apm",
     "private": true,
     "dependencies": {
         "elastic-apm-node": "^3.8.0",

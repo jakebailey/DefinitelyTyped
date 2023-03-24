@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/apimocker",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

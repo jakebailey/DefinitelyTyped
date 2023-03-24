@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/vuelidate",
     "private": true,
     "dependencies": {
         "vue": "^2.6.11"

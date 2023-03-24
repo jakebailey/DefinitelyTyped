@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-task-scheduler",
+    "private": true,
+    "dependencies": {
+        "@types/ember__service": "workspace:../ember__service"
+    }
+}

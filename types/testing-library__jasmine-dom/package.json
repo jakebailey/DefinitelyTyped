@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/testing-library__jasmine-dom",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine"
+    }
+}

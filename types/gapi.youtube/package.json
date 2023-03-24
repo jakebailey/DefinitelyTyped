@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gapi.youtube",
+    "private": true,
+    "dependencies": {
+        "@types/gapi": "workspace:../gapi"
+    }
+}

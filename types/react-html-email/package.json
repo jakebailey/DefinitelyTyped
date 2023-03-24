@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-html-email",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

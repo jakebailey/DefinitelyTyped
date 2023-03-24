@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tsc-watch",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

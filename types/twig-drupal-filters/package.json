@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/twig-drupal-filters",
+    "private": true,
+    "dependencies": {
+        "@types/twig": "workspace:../twig"
+    }
+}

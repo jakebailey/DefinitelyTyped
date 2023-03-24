@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/amap-js-api-indoor-map",
+    "private": true,
+    "dependencies": {
+        "@types/amap-js-api": "workspace:../amap-js-api"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/font-carrier",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

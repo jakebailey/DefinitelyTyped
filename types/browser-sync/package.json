@@ -1,6 +1,11 @@
 {
-  "private": true,
-  "dependencies": {
-    "chokidar": "^3.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/browser-sync",
+    "private": true,
+    "dependencies": {
+        "@types/micromatch": "workspace:../micromatch/v2",
+        "@types/node": "workspace:../node",
+        "@types/serve-static": "workspace:../serve-static",
+        "chokidar": "^3.0.0"
+    }
 }

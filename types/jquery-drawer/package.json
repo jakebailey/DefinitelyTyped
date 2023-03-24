@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery-drawer",
+    "private": true,
+    "dependencies": {
+        "@types/iscroll": "workspace:../iscroll",
+        "@types/jquery": "workspace:../jquery"
+    }
+}

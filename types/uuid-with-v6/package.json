@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/uuid-with-v6",
+    "private": true,
+    "dependencies": {
+        "@types/uuid": "workspace:../uuid"
+    }
+}

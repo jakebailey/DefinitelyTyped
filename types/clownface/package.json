@@ -1,6 +1,8 @@
 {
+    "CONVERTED": true,
+    "name": "@types/clownface",
     "private": true,
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "rdf-js": "^4.0.2"
     }
-  }
+}

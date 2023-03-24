@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/semantic-ui-dropdown",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/semantic-ui-api": "workspace:../semantic-ui-api"
+    }
+}

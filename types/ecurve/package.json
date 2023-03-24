@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ecurve",
+    "private": true,
+    "dependencies": {
+        "@types/bigi": "workspace:../bigi",
+        "@types/node": "workspace:../node"
+    }
+}

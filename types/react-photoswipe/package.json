@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-photoswipe",
+    "private": true,
+    "dependencies": {
+        "@types/photoswipe": "workspace:../photoswipe",
+        "@types/react": "workspace:../react"
+    }
+}

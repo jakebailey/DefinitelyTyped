@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/setup-polly-jest",
     "private": true,
     "dependencies": {
         "@pollyjs/adapter": "^6.0.4",

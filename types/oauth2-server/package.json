@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/oauth2-server",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

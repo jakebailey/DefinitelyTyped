@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ssh2-streams",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

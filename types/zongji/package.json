@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/zongji",
+    "private": true,
+    "dependencies": {
+        "@types/mysql": "workspace:../mysql"
+    }
+}

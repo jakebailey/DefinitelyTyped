@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pkginfo",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

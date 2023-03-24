@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/findup-sync",
+    "private": true,
+    "dependencies": {
+        "@types/micromatch": "workspace:../micromatch"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/summernote",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

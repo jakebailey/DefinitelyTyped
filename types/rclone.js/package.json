@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rclone.js",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet.pancontrol",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet"
+    }
+}

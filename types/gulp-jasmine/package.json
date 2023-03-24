@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-jasmine",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine",
+        "@types/node": "workspace:../node"
+    }
+}

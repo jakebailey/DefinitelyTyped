@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-sslify",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

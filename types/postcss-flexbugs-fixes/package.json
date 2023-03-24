@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/postcss-flexbugs-fixes",
     "private": true,
     "dependencies": {
         "postcss": "^7.0.27"

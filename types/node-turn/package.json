@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-turn",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

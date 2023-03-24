@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-text-marquee",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

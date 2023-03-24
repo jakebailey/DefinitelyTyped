@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/npmcli__config",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/semver": "workspace:../semver"
+    }
+}

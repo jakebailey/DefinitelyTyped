@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/feathersjs__authentication-oauth2",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/feathersjs__feathers": "workspace:../feathersjs__feathers",
+        "@types/passport": "workspace:../passport"
+    }
+}

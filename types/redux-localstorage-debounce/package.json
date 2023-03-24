@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-localstorage-debounce",
     "private": true,
     "dependencies": {
+        "@types/redux-localstorage": "workspace:../redux-localstorage",
         "redux": "^3.6.0"
     }
 }

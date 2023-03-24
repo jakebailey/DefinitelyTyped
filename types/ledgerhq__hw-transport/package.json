@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ledgerhq__hw-transport",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

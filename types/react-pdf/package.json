@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-pdf",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "pdfjs-dist": "^2.16.105"
     }
 }

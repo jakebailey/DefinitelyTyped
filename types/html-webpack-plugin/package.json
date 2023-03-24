@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/html-webpack-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/html-minifier": "workspace:../html-minifier",
+        "@types/tapable": "workspace:../tapable/v1",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

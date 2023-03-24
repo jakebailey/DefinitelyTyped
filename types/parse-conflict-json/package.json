@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/parse-conflict-json",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

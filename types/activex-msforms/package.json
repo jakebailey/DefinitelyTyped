@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-msforms",
     "private": true,
     "dependencies": {
+        "@types/activex-stdole": "workspace:../activex-stdole",
         "activex-helpers": "*"
     }
 }

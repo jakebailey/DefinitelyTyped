@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/text-mask-addons",
+    "private": true,
+    "dependencies": {
+        "@types/text-mask-core": "workspace:../text-mask-core"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/check-sum",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

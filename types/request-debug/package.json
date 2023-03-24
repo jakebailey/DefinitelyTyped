@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/request-debug",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

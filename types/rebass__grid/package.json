@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rebass__grid",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/styled-system": "workspace:../styled-system"
+    }
+}

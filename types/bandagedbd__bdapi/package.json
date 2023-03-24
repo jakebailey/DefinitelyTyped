@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bandagedbd__bdapi",
+    "private": true,
+    "dependencies": {
+        "@types/lodash": "workspace:../lodash",
+        "@types/react": "workspace:../react",
+        "@types/react-dom": "workspace:../react-dom"
+    }
+}

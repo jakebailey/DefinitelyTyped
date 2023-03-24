@@ -1,6 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__block-editor",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/wordpress__blocks": "workspace:../wordpress__blocks",
+        "@types/wordpress__components": "workspace:../wordpress__components",
+        "@types/wordpress__keycodes": "workspace:../wordpress__keycodes",
         "@wordpress/data": "^8.5.0",
         "@wordpress/element": "^5.0.0",
         "react-autosize-textarea": "^7.1.0"

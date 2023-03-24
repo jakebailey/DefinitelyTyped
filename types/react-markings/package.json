@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-markings",
+    "private": true,
+    "dependencies": {
+        "@types/commonmark-react-renderer": "workspace:../commonmark-react-renderer",
+        "@types/react": "workspace:../react"
+    }
+}

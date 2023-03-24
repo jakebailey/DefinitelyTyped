@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rx-lite-testing",
+    "private": true,
+    "dependencies": {
+        "@types/rx-lite-virtualtime": "workspace:../rx-lite-virtualtime"
+    }
+}

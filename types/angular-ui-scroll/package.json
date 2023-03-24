@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-ui-scroll",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

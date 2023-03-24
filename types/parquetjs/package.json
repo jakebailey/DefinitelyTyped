@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/parquetjs",
+    "private": true,
+    "dependencies": {
+        "@types/node-int64": "workspace:../node-int64"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/graygelf",
+    "private": true,
+    "dependencies": {
+        "@types/through": "workspace:../through"
+    }
+}

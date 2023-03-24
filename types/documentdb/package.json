@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/documentdb",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

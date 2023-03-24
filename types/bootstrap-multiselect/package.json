@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bootstrap-multiselect",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

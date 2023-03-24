@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/underscore",
     "private": true,
     "exports": {
         ".": {

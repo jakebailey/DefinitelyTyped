@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pg-large-object",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/pg": "workspace:../pg"
+    }
+}

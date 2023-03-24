@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/kuromoji",
+    "private": true,
+    "dependencies": {
+        "@types/doublearray": "workspace:../doublearray"
+    }
+}

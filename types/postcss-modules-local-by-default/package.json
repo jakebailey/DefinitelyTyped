@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/postcss-modules-local-by-default",
     "private": true,
     "dependencies": {
         "postcss": "^8.0.0"

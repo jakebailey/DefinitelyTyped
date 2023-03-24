@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/uuid-1345",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

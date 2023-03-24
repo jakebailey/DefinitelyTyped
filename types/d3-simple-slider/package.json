@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-simple-slider",
+    "private": true,
+    "dependencies": {
+        "@types/d3-selection": "workspace:../d3-selection"
+    }
+}

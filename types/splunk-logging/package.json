@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/splunk-logging",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

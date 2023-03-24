@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/knockback",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone",
+        "@types/knockout": "workspace:../knockout"
+    }
+}

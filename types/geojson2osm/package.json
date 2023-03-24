@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/geojson2osm",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson"
+    }
+}

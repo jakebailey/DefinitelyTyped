@@ -1,7 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/datadog-winston",
     "private": true,
     "dependencies": {
-        "winston-transport": "^4.3.0",
-        "logform": "^1.4.0"
+        "logform": "^1.4.0",
+        "winston-transport": "^4.3.0"
     }
 }

@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/winston-syslog",
     "private": true,
     "dependencies": {
+        "@types/glossy": "workspace:../glossy",
+        "@types/node": "workspace:../node",
         "winston": "^3.0.0"
     }
 }

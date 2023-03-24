@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/meteor-collection-hooks",
     "private": true,
     "dependencies": {
         "meteor-typings": "^1.3.1"

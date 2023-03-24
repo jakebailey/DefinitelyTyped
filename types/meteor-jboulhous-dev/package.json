@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/meteor-jboulhous-dev",
+    "private": true,
+    "dependencies": {
+        "@types/meteor": "workspace:../meteor"
+    }
+}

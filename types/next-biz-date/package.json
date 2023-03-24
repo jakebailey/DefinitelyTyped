@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/next-biz-date",
     "private": true,
     "dependencies": {
         "moment": "^2.29.1"

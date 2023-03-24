@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rheostat",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

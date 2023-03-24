@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/schema-registry",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

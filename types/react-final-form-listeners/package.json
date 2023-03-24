@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-final-form-listeners",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

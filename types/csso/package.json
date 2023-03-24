@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/csso",
+    "private": true,
+    "dependencies": {
+        "@types/css-tree": "workspace:../css-tree"
+    }
+}

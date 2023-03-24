@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/estraverse",
+    "private": true,
+    "dependencies": {
+        "@types/estree": "workspace:../estree"
+    }
+}

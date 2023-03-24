@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/phonon",
+    "private": true,
+    "dependencies": {
+        "@types/awesomplete": "workspace:../awesomplete"
+    }
+}

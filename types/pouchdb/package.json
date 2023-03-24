@@ -1,0 +1,22 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-adapter-cordova-sqlite": "workspace:../pouchdb-adapter-cordova-sqlite",
+        "@types/pouchdb-adapter-fruitdown": "workspace:../pouchdb-adapter-fruitdown",
+        "@types/pouchdb-adapter-http": "workspace:../pouchdb-adapter-http",
+        "@types/pouchdb-adapter-idb": "workspace:../pouchdb-adapter-idb",
+        "@types/pouchdb-adapter-leveldb": "workspace:../pouchdb-adapter-leveldb",
+        "@types/pouchdb-adapter-localstorage": "workspace:../pouchdb-adapter-localstorage",
+        "@types/pouchdb-adapter-memory": "workspace:../pouchdb-adapter-memory",
+        "@types/pouchdb-adapter-node-websql": "workspace:../pouchdb-adapter-node-websql",
+        "@types/pouchdb-adapter-websql": "workspace:../pouchdb-adapter-websql",
+        "@types/pouchdb-browser": "workspace:../pouchdb-browser",
+        "@types/pouchdb-core": "workspace:../pouchdb-core",
+        "@types/pouchdb-http": "workspace:../pouchdb-http",
+        "@types/pouchdb-mapreduce": "workspace:../pouchdb-mapreduce",
+        "@types/pouchdb-node": "workspace:../pouchdb-node",
+        "@types/pouchdb-replication": "workspace:../pouchdb-replication"
+    }
+}

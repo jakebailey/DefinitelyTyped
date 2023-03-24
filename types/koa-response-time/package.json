@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-response-time",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/imperium",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node"
+    }
+}

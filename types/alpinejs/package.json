@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/alpinejs",
     "private": true,
     "dependencies": {
         "@vue/reactivity": "^3.2.26"

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/commercetools__enzyme-extensions",
+    "private": true,
+    "dependencies": {
+        "@types/enzyme": "workspace:../enzyme"
+    }
+}

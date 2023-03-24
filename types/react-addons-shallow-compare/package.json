@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-addons-shallow-compare",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

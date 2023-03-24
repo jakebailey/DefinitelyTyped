@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/less-middleware",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

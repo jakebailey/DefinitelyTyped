@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hawk",
     "private": true,
     "dependencies": {
-        "@hapi/boom": "^9.0.0"
+        "@hapi/boom": "^9.0.0",
+        "@types/crypto-js": "workspace:../crypto-js",
+        "@types/node": "workspace:../node",
+        "@types/request": "workspace:../request"
     }
 }

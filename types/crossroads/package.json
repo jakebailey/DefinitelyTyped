@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/crossroads",
+    "private": true,
+    "dependencies": {
+        "@types/signals": "workspace:../signals"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/layui-layer",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

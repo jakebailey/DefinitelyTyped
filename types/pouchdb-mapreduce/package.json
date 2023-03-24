@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb-mapreduce",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-core": "workspace:../pouchdb-core"
+    }
+}

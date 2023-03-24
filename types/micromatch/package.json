@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/micromatch",
+    "private": true,
+    "dependencies": {
+        "@types/braces": "workspace:../braces"
+    }
+}

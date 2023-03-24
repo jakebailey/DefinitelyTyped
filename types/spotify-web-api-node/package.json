@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/spotify-web-api-node",
+    "private": true,
+    "dependencies": {
+        "@types/spotify-api": "workspace:../spotify-api"
+    }
+}

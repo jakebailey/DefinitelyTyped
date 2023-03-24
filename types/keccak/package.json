@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/keccak",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

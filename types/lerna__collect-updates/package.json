@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lerna__collect-updates",
+    "private": true,
+    "dependencies": {
+        "@types/lerna__child-process": "workspace:../lerna__child-process",
+        "@types/lerna__package": "workspace:../lerna__package",
+        "@types/lerna__package-graph": "workspace:../lerna__package-graph"
+    }
+}

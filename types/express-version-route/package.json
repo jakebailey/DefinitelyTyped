@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-version-route",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

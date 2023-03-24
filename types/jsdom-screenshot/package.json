@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jsdom-screenshot",
     "private": true,
     "dependencies": {
         "@types/puppeteer": "^5.0.0"

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yaireo__tagify",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

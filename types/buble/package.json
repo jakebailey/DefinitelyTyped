@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "magic-string": "^0.25.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/buble",
+    "private": true,
+    "dependencies": {
+        "magic-string": "^0.25.0"
+    }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-speech-recognition",
+    "private": true,
+    "dependencies": {
+        "@types/dom-speech-recognition": "workspace:../dom-speech-recognition"
+    }
+}

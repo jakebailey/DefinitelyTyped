@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sparkpost",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../../node",
+        "@types/request": "workspace:../../request"
+    }
+}

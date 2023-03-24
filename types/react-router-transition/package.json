@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-router-transition",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-motion": "workspace:../react-motion",
+        "@types/react-router-dom": "workspace:../react-router-dom"
+    }
+}

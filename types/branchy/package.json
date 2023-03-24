@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/branchy",
+    "private": true,
+    "dependencies": {
+        "@types/better-queue": "workspace:../better-queue"
+    }
+}

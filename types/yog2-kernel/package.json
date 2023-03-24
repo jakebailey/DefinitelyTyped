@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yog2-kernel",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/lodash": "workspace:../lodash",
+        "@types/node-ral": "workspace:../node-ral",
+        "@types/yog-bigpipe": "workspace:../yog-bigpipe",
+        "@types/yog-log": "workspace:../yog-log"
+    }
+}

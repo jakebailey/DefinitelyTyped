@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/js-data-angular",
     "private": true,
     "dependencies": {
+        "@types/angular": "workspace:../angular",
         "@types/js-data": "^2.8.31"
     }
 }

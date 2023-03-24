@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/basicauth-middleware",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

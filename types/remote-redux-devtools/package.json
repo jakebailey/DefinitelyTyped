@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/remote-redux-devtools",
     "private": true,
     "dependencies": {
         "redux": "^4.0.0"

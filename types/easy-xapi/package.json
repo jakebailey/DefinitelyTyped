@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/easy-xapi",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../bunyan",
+        "@types/easy-jsend": "workspace:../easy-jsend",
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pdfmake",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/pdfkit": "workspace:../pdfkit"
+    }
+}

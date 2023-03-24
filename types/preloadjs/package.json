@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/preloadjs",
+    "private": true,
+    "dependencies": {
+        "@types/createjs-lib": "workspace:../createjs-lib"
+    }
+}

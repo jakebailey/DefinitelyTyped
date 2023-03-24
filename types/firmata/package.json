@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/firmata",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/serialport": "workspace:../serialport/v4"
+    }
+}

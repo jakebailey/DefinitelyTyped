@@ -1,6 +1,8 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdfjs__score",
     "private": true,
     "dependencies": {
         "@rdfjs/types": "*"
     }
-  }
+}

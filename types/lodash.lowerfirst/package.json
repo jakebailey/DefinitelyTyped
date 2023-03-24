@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lodash.lowerfirst",
+    "private": true,
+    "dependencies": {
+        "@types/lodash": "workspace:../lodash"
+    }
+}

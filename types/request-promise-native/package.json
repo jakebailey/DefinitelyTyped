@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/request-promise-native",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

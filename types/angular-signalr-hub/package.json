@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-signalr-hub",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/signalr": "workspace:../signalr"
+    }
+}

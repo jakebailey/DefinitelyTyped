@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpack-blocks__extract-text",
+    "private": true,
+    "dependencies": {
+        "@types/webpack-blocks": "workspace:../webpack-blocks"
+    }
+}

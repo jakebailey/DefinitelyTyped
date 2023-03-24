@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lodash.topairsin",
+    "private": true,
+    "dependencies": {
+        "@types/lodash": "workspace:../lodash"
+    }
+}

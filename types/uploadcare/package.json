@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/uploadcare",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

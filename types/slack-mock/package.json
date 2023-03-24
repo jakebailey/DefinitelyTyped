@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "nock": "^11.1.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/slack-mock",
+    "private": true,
+    "dependencies": {
+        "@types/ws": "workspace:../ws",
+        "nock": "^11.1.0"
+    }
 }

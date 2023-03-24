@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "winston": "^3.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/newrelic__winston-enricher",
+    "private": true,
+    "dependencies": {
+        "winston": "^3.0.0"
+    }
 }

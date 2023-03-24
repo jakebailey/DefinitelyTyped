@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-static-cache",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa"
+    }
+}

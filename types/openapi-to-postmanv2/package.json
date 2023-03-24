@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/openapi-to-postmanv2",
+    "private": true,
+    "dependencies": {
+        "@types/postman-collection": "workspace:../postman-collection"
+    }
+}

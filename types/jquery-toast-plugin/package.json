@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery-toast-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

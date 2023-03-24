@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "form-data": "^2.5.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/mailgun-js",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "form-data": "^2.5.0"
+    }
 }

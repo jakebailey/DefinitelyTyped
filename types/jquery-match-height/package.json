@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery-match-height",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

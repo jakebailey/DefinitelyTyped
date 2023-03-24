@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/connect-mongodb-session",
     "private": true,
     "dependencies": {
+        "@types/express-session": "workspace:../express-session",
         "mongodb": "^4.5.0"
     }
 }

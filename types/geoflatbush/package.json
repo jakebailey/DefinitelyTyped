@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/geoflatbush",
+    "private": true,
+    "dependencies": {
+        "@types/flatbush": "workspace:../flatbush"
+    }
+}

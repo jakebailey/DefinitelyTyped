@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/list-git-remotes",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

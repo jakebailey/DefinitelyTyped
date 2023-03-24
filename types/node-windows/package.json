@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-windows",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

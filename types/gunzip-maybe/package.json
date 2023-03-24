@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gunzip-maybe",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

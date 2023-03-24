@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/remotedev-server",
+    "private": true,
+    "dependencies": {
+        "@types/socketcluster": "workspace:../socketcluster"
+    }
+}

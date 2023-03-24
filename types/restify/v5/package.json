@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/restify",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../../bunyan",
+        "@types/node": "workspace:../../node",
+        "@types/spdy": "workspace:../../spdy"
+    }
+}

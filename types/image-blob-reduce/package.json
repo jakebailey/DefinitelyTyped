@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/image-blob-reduce",
+    "private": true,
+    "dependencies": {
+        "@types/pica": "workspace:../pica"
+    }
+}

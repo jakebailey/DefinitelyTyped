@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bounce.js",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

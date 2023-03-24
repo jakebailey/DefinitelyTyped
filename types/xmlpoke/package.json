@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmlpoke",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

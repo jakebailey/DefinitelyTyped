@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pi-spi",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

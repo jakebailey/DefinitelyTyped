@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/dotenv-safe",
     "private": true,
     "dependencies": {
         "dotenv": "^8.2.0"

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/data-urls",
+    "private": true,
+    "dependencies": {
+        "@types/whatwg-mimetype": "workspace:../whatwg-mimetype",
+        "@types/whatwg-url": "workspace:../whatwg-url"
+    }
+}

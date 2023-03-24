@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/google-cloud__datastore",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

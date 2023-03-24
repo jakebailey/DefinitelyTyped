@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-http-bearer",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/koa": "workspace:../koa",
+        "@types/passport": "workspace:../passport"
+    }
+}

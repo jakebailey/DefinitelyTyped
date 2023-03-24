@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/clearbladejs-server",
+    "private": true,
+    "dependencies": {
+        "@types/paho-mqtt": "workspace:../paho-mqtt"
+    }
+}

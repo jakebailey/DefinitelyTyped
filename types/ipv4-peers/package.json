@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ipv4-peers",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

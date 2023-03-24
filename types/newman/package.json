@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/newman",
+    "private": true,
+    "dependencies": {
+        "@types/postman-collection": "workspace:../postman-collection",
+        "@types/tough-cookie": "workspace:../tough-cookie"
+    }
+}

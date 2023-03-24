@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-sass",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

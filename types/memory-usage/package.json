@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/memory-usage",
+    "private": true,
+    "dependencies": {
+        "@types/gc-profiler": "workspace:../gc-profiler",
+        "@types/node": "workspace:../node"
+    }
+}

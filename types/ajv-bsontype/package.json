@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ajv-bsontype",
     "private": true,
     "dependencies": {
         "ajv": "*"

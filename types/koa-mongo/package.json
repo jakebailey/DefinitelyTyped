@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-mongo",
     "private": true,
     "dependencies": {
         "@types/generic-pool": "3.1.11",
+        "@types/koa": "workspace:../koa",
         "mongodb": "^4.5.0"
     }
 }

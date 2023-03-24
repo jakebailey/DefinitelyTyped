@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/system-service",
+    "private": true,
+    "dependencies": {
+        "@types/system-logger": "workspace:../system-logger"
+    }
+}

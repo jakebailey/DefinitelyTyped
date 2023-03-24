@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jmuxer",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

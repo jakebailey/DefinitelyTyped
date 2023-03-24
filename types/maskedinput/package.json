@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/maskedinput",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

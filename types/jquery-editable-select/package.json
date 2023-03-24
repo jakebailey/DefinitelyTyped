@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery-editable-select",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

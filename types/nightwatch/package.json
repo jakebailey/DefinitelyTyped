@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/nightwatch",
     "private": true,
     "dependencies": {
+        "@types/chai": "workspace:../chai",
+        "@types/selenium-webdriver": "workspace:../selenium-webdriver",
         "devtools-protocol": "^0.0.1025565"
     }
 }

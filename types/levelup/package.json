@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/levelup",
+    "private": true,
+    "dependencies": {
+        "@types/abstract-leveldown": "workspace:../abstract-leveldown",
+        "@types/level-errors": "workspace:../level-errors",
+        "@types/node": "workspace:../node"
+    }
+}

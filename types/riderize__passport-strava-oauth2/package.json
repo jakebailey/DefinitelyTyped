@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/riderize__passport-strava-oauth2",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

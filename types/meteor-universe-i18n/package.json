@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/meteor-universe-i18n",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/react": "workspace:../react"
+    }
+}

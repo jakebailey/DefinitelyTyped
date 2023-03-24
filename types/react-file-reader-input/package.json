@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-file-reader-input",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-ignore",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa"
+    }
+}

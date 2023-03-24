@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/idyll-document",
+    "private": true,
+    "dependencies": {
+        "@types/idyll-compiler": "workspace:../idyll-compiler",
+        "@types/react": "workspace:../react"
+    }
+}

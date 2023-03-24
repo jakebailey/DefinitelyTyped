@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/alt",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-q-extras",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

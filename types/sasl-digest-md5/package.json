@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sasl-digest-md5",
+    "private": true,
+    "dependencies": {
+        "@types/saslmechanisms": "workspace:../saslmechanisms"
+    }
+}

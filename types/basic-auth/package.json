@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/basic-auth",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

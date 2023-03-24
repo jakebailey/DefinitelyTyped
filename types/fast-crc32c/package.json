@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fast-crc32c",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

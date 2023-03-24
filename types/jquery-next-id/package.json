@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery-next-id",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

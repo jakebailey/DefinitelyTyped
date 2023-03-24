@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/agent-base",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

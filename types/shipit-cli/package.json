@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/shipit-cli",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ng-command",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

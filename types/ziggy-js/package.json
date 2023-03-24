@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ziggy-js",
     "private": true,
     "dependencies": {
         "@types/history": "^4.7.11"

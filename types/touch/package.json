@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/touch",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/iconv",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ref-struct",
+    "private": true,
+    "dependencies": {
+        "@types/ref": "workspace:../ref"
+    }
+}

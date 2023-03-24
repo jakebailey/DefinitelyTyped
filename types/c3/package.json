@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/c3",
+    "private": true,
+    "dependencies": {
+        "@types/d3": "workspace:../d3/v4"
+    }
+}

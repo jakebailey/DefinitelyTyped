@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-timeout",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

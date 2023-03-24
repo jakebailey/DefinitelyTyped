@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery.uniform",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

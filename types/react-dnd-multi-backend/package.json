@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-dnd-multi-backend",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "react-dnd": "^10.0.2",
         "react-dnd-touch-backend": "^10.0.2"
     }

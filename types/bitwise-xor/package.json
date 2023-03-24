@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bitwise-xor",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

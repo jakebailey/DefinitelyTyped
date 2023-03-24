@@ -1,6 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/got": "^9"
-  }
+    "CONVERTED": true,
+    "name": "@types/download",
+    "private": true,
+    "dependencies": {
+        "@types/decompress": "workspace:../decompress",
+        "@types/got": "^9",
+        "@types/node": "workspace:../node"
+    }
 }

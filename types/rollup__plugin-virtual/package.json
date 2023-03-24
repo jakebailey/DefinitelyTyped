@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rollup__plugin-virtual",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "rollup": "^1.31.1"
     }
 }

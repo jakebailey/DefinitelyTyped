@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/window-size",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

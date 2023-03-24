@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmpp__component-core",
+    "private": true,
+    "dependencies": {
+        "@types/xmpp__connection-tcp": "workspace:../xmpp__connection-tcp",
+        "@types/xmpp__jid": "workspace:../xmpp__jid",
+        "@types/xmpp__xml": "workspace:../xmpp__xml"
+    }
+}

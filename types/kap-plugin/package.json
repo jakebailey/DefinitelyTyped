@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/kap-plugin",
     "private": true,
     "dependencies": {
-        "electron-store": ">=8.0.2",
-        "@types/got": "^9"
+        "@types/got": "^9",
+        "@types/json-schema": "workspace:../json-schema",
+        "electron-store": ">=8.0.2"
     }
 }

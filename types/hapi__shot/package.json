@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hapi__shot",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

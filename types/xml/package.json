@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xml",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

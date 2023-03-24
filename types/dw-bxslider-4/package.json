@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dw-bxslider-4",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

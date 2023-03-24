@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/postman-collection",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

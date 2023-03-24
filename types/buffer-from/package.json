@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/buffer-from",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

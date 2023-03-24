@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/filestack-react",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "filestack-js": "^3.20.0"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/web3-provider-engine",
+    "private": true,
+    "dependencies": {
+        "@types/ethereum-protocol": "workspace:../ethereum-protocol"
+    }
+}

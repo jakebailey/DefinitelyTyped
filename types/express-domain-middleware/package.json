@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-domain-middleware",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

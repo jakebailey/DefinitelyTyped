@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jjve",
+    "private": true,
+    "dependencies": {
+        "@types/jjv": "workspace:../jjv"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/shapefile",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/node": "workspace:../node"
+    }
+}

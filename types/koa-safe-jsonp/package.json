@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-safe-jsonp",
+    "private": true,
+    "dependencies": {
+        "@types/jsonp-body": "workspace:../jsonp-body",
+        "@types/koa": "workspace:../koa"
+    }
+}

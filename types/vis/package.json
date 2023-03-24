@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/vis",
     "private": true,
     "dependencies": {
         "moment": ">=2.13.0"

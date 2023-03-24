@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/superagent",
+    "private": true,
+    "dependencies": {
+        "@types/cookiejar": "workspace:../cookiejar",
+        "@types/node": "workspace:../node"
+    }
+}

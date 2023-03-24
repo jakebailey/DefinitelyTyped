@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/watchify",
+    "private": true,
+    "dependencies": {
+        "@types/browserify": "workspace:../browserify"
+    }
+}

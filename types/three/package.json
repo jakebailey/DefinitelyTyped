@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/three",
+    "private": true,
+    "dependencies": {
+        "@types/webxr": "workspace:../webxr"
+    }
+}

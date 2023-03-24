@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet-mouse-position",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet"
+    }
+}

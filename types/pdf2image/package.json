@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pdf2image",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

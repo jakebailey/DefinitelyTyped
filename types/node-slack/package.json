@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-slack",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

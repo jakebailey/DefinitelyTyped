@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/soundjs",
+    "private": true,
+    "dependencies": {
+        "@types/createjs-lib": "workspace:../createjs-lib",
+        "@types/preloadjs": "workspace:../preloadjs"
+    }
+}

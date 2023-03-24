@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-canvas-text",
+    "private": true,
+    "dependencies": {
+        "@types/opentype.js": "workspace:../opentype.js"
+    }
+}

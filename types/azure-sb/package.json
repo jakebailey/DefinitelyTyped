@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/azure-sb",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

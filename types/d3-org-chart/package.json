@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-org-chart",
+    "private": true,
+    "dependencies": {
+        "@types/d3-hierarchy": "workspace:../d3-hierarchy",
+        "@types/d3-selection": "workspace:../d3-selection",
+        "@types/d3-shape": "workspace:../d3-shape",
+        "@types/d3-zoom": "workspace:../d3-zoom"
+    }
+}

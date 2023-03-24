@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-virtualized-auto-sizer",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

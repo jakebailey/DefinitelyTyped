@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/yargs",
     "private": true,
     "exports": {
         ".": {
@@ -18,5 +20,8 @@
                 "default": "./yargs.d.ts"
             }
         }
+    },
+    "dependencies": {
+        "@types/yargs-parser": "workspace:../yargs-parser"
     }
 }

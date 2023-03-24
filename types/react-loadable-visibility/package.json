@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-loadable-visibility",
+    "private": true,
+    "dependencies": {
+        "@types/loadable__component": "workspace:../loadable__component",
+        "@types/react-loadable": "workspace:../react-loadable"
+    }
+}

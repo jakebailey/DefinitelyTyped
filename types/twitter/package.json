@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/twitter",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/request": "workspace:../request"
+    }
+}

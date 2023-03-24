@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/kill-port",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "shell-exec": "^1"
     }
 }

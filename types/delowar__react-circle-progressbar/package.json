@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/delowar__react-circle-progressbar",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

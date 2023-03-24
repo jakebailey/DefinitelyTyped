@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-watch",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/vinyl": "workspace:../vinyl",
+        "@types/vinyl-fs": "workspace:../vinyl-fs"
+    }
+}

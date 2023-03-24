@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/re-carousel",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

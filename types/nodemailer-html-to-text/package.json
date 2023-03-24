@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nodemailer-html-to-text",
+    "private": true,
+    "dependencies": {
+        "@types/html-to-text": "workspace:../html-to-text",
+        "@types/nodemailer": "workspace:../nodemailer"
+    }
+}

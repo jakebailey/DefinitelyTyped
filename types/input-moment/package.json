@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/input-moment",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "moment": "latest"
     }
 }

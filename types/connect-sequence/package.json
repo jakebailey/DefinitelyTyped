@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-sequence",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

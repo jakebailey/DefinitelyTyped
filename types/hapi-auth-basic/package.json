@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hapi-auth-basic",
+    "private": true,
+    "dependencies": {
+        "@types/hapi": "workspace:../hapi"
+    }
+}

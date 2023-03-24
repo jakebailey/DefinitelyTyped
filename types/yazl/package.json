@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yazl",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/phoenix_live_view",
+    "private": true,
+    "dependencies": {
+        "@types/phoenix": "workspace:../phoenix"
+    }
+}

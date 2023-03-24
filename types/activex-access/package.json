@@ -1,6 +1,13 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-access",
     "private": true,
     "dependencies": {
+        "@types/activex-adodb": "workspace:../activex-adodb",
+        "@types/activex-dao": "workspace:../activex-dao",
+        "@types/activex-interop": "workspace:../activex-interop",
+        "@types/activex-office": "workspace:../activex-office",
+        "@types/activex-vbide": "workspace:../activex-vbide",
         "activex-helpers": "*"
     }
 }

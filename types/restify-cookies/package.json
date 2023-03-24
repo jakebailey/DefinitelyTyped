@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/restify-cookies",
+    "private": true,
+    "dependencies": {
+        "@types/restify": "workspace:../restify"
+    }
+}

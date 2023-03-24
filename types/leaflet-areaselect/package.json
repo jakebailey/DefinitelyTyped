@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet-areaselect",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet"
+    }
+}

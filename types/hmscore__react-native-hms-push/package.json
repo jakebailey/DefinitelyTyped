@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hmscore__react-native-hms-push",
+    "private": true,
+    "dependencies": {
+        "@types/react-native": "workspace:../react-native"
+    }
+}

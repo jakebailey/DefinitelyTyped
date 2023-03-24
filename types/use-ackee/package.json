@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/use-ackee",
+    "private": true,
+    "dependencies": {
+        "@types/ackee-tracker": "workspace:../ackee-tracker"
+    }
+}

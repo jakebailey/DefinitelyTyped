@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-meteor",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/meteor": "workspace:../meteor"
+    }
+}

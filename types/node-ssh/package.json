@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-ssh",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/ssh2": "workspace:../ssh2",
+        "@types/ssh2-streams": "workspace:../ssh2-streams"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/coinstring",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

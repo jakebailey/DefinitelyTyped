@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mapbox__geojson-extent",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson"
+    }
+}

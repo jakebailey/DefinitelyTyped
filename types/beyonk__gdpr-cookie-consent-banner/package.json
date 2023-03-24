@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/beyonk__gdpr-cookie-consent-banner",
     "private": true,
     "exports": {
         ".": {

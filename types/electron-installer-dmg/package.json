@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/electron-installer-dmg",
+    "private": true,
+    "dependencies": {
+        "@types/appdmg": "workspace:../appdmg"
+    }
+}

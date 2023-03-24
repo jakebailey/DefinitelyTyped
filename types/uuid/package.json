@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/uuid",
     "private": true,
     "exports": {
         "./package.json": "./package.json",

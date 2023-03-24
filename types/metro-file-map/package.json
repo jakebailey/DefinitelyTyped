@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/metro-file-map",
+    "private": true,
+    "dependencies": {
+        "@types/metro-config": "workspace:../metro-config"
+    }
+}

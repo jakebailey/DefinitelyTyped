@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/watchpack",
+    "private": true,
+    "dependencies": {
+        "@types/graceful-fs": "workspace:../graceful-fs",
+        "@types/node": "workspace:../node"
+    }
+}

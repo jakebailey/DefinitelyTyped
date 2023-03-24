@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/oracledb",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../../node"
+    }
+}

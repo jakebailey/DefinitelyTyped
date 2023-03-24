@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-splitter-layout",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

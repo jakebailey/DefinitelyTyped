@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/atom-mocha-test-runner",
+    "private": true,
+    "dependencies": {
+        "@types/atom": "workspace:../atom",
+        "@types/mocha": "workspace:../mocha"
+    }
+}

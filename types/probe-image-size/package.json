@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/probe-image-size",
+    "private": true,
+    "dependencies": {
+        "@types/needle": "workspace:../needle",
+        "@types/node": "workspace:../node"
+    }
+}

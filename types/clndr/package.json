@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/clndr",
     "private": true,
     "dependencies": {
+        "@types/jquery": "workspace:../jquery",
         "moment": ">=2.8.3"
     }
 }

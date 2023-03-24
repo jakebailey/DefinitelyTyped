@@ -1,8 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-router-redux",
     "private": true,
     "dependencies": {
         "@types/history": "^3.2.5",
         "redux": "^3.6.0"
     }
 }
-

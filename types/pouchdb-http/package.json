@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb-http",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-adapter-http": "workspace:../pouchdb-adapter-http",
+        "@types/pouchdb-core": "workspace:../pouchdb-core"
+    }
+}

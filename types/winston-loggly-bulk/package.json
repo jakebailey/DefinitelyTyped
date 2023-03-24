@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/winston-loggly-bulk",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "winston": "^3.0.0"
     }
 }

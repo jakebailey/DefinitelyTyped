@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/raspi-peripheral",
+    "private": true,
+    "dependencies": {
+        "@types/events": "workspace:../events",
+        "@types/node": "workspace:../node"
+    }
+}

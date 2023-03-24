@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rollup-plugin-less",
     "private": true,
     "dependencies": {
+        "@types/less": "workspace:../less",
+        "@types/node": "workspace:../node",
         "rollup": "^0.63.4"
     }
 }

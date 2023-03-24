@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/slick-carousel",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

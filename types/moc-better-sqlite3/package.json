@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/moc-better-sqlite3",
+    "private": true,
+    "dependencies": {
+        "@types/integer": "workspace:../integer"
+    }
+}

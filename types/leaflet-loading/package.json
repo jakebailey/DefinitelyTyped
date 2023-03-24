@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet-loading",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/statsd-client",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

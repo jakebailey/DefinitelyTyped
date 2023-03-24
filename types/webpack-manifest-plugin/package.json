@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpack-manifest-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/tapable": "workspace:../tapable/v1",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

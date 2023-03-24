@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/readable-stream",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "safe-buffer": "~5.1.1"
     }
 }

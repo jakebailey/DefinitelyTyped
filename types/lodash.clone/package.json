@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lodash.clone",
+    "private": true,
+    "dependencies": {
+        "@types/lodash": "workspace:../lodash"
+    }
+}

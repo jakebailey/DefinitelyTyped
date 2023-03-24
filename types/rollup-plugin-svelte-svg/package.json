@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rollup-plugin-svelte-svg",
     "private": true,
     "dependencies": {
         "@types/svgo": "2",

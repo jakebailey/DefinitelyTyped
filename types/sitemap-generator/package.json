@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sitemap-generator",
+    "private": true,
+    "dependencies": {
+        "@types/simplecrawler": "workspace:../simplecrawler"
+    }
+}

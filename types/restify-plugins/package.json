@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/restify-plugins",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../bunyan",
+        "@types/restify": "workspace:../restify"
+    }
+}

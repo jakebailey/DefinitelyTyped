@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/client-sessions",
+    "private": true,
+    "dependencies": {
+        "@types/cookies": "workspace:../cookies",
+        "@types/node": "workspace:../node"
+    }
+}

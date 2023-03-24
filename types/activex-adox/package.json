@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-adox",
     "private": true,
     "dependencies": {
+        "@types/activex-adodb": "workspace:../activex-adodb",
+        "@types/activex-interop": "workspace:../activex-interop",
         "activex-helpers": "*"
     }
 }

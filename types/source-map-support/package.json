@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/source-map-support",
     "private": true,
     "dependencies": {
         "source-map": "^0.6.0"

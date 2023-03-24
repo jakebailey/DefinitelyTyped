@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/slate-html-serializer",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/slate": "workspace:../slate"
+    }
+}

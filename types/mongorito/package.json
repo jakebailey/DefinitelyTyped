@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/mongorito",
     "private": true,
     "dependencies": {
         "mongodb": "^4.5.0"

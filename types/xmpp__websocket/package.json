@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmpp__websocket",
+    "private": true,
+    "dependencies": {
+        "@types/ws": "workspace:../ws",
+        "@types/xmpp__connection": "workspace:../xmpp__connection",
+        "@types/xmpp__xml": "workspace:../xmpp__xml"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-subset-in-order",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai"
+    }
+}

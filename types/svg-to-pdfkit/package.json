@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/svg-to-pdfkit",
+    "private": true,
+    "dependencies": {
+        "@types/pdfkit": "workspace:../pdfkit"
+    }
+}

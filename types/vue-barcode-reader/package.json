@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/vue-barcode-reader",
     "private": true,
     "dependencies": {
         "vue": "^2.0.0"

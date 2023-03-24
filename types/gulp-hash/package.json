@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-hash",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

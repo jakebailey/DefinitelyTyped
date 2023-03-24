@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/json-schema-faker",
+    "private": true,
+    "dependencies": {
+        "@types/json-schema": "workspace:../json-schema"
+    }
+}

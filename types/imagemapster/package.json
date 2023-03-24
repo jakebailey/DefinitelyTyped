@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/imagemapster",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery/v2"
+    }
+}

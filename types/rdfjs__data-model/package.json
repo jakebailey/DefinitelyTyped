@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-      "@rdfjs/types": "^1.0.1"
-  }
+    "CONVERTED": true,
+    "name": "@types/rdfjs__data-model",
+    "private": true,
+    "dependencies": {
+        "@rdfjs/types": "^1.0.1"
+    }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lodash.iserror",
+    "private": true,
+    "dependencies": {
+        "@types/lodash": "workspace:../lodash"
+    }
+}

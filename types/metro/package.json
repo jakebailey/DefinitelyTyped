@@ -1,0 +1,17 @@
+{
+    "CONVERTED": true,
+    "name": "@types/metro",
+    "private": true,
+    "dependencies": {
+        "@types/babel__code-frame": "workspace:../babel__code-frame",
+        "@types/metro-babel-transformer": "workspace:../metro-babel-transformer",
+        "@types/metro-config": "workspace:../metro-config",
+        "@types/metro-core": "workspace:../metro-core",
+        "@types/metro-file-map": "workspace:../metro-file-map",
+        "@types/metro-resolver": "workspace:../metro-resolver",
+        "@types/metro-source-map": "workspace:../metro-source-map",
+        "@types/metro-transform-worker": "workspace:../metro-transform-worker",
+        "@types/ws": "workspace:../ws",
+        "@types/yargs": "workspace:../yargs"
+    }
+}

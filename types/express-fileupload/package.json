@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-fileupload",
+    "private": true,
+    "dependencies": {
+        "@types/busboy": "workspace:../busboy",
+        "@types/express": "workspace:../express"
+    }
+}

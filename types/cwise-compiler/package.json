@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cwise-compiler",
+    "private": true,
+    "dependencies": {
+        "@types/cwise-parser": "workspace:../cwise-parser",
+        "@types/ndarray": "workspace:../ndarray"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery.joyride",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery/v2"
+    }
+}

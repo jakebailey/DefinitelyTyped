@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-changeset-validations",
+    "private": true,
+    "dependencies": {
+        "@types/ember__array": "workspace:../ember__array"
+    }
+}

@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "@maxim_mazurok/gapi.client.googleads-v11": "latest"
-  }
+    "CONVERTED": true,
+    "name": "@types/gapi.client.googleads-v11",
+    "private": true,
+    "dependencies": {
+        "@maxim_mazurok/gapi.client.googleads-v11": "latest"
+    }
 }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/preq",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/request": "workspace:../request"
+    }
+}

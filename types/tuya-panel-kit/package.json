@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/tuya-panel-kit",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-native": "workspace:../react-native/v0.65",
         "react-native-gesture-handler": "1.8.0",
         "react-native-safe-area-context": "3.1.7",
         "react-native-svg": "5.5.1"

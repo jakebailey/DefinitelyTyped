@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/braintree-web",
+    "private": true,
+    "dependencies": {
+        "@types/googlepay": "workspace:../googlepay",
+        "@types/paypal-checkout-components": "workspace:../paypal-checkout-components"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/http-aws-es",
+    "private": true,
+    "dependencies": {
+        "@types/aws-sdk2-types": "workspace:../aws-sdk2-types",
+        "@types/elasticsearch": "workspace:../elasticsearch",
+        "@types/node": "workspace:../node"
+    }
+}

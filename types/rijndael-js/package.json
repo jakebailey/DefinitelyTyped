@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rijndael-js",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

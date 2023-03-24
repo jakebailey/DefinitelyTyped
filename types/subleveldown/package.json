@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/subleveldown",
+    "private": true,
+    "dependencies": {
+        "@types/abstract-leveldown": "workspace:../abstract-leveldown",
+        "@types/level-codec": "workspace:../level-codec",
+        "@types/levelup": "workspace:../levelup"
+    }
+}

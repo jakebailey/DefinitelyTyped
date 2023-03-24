@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/imagemin-jpegtran",
+    "private": true,
+    "dependencies": {
+        "@types/imagemin": "workspace:../imagemin"
+    }
+}

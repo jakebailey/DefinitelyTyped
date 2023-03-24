@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/mongoose-auto-increment",
     "private": true,
     "dependencies": {
         "mongoose": "^6.3.0"

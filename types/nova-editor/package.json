@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nova-editor",
+    "private": true,
+    "dependencies": {
+        "@types/nova-editor-node": "workspace:../nova-editor-node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xsalsa20-encoding",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

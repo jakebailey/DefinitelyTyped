@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lz4",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

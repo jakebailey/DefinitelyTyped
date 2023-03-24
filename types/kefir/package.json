@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/kefir",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

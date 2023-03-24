@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gulp-if",
     "private": true,
     "dependencies": {
-        "@types/minimatch": "*"
+        "@types/gulp-match": "workspace:../gulp-match",
+        "@types/minimatch": "*",
+        "@types/node": "workspace:../node"
     }
 }

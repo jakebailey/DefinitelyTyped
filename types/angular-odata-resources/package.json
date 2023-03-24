@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-odata-resources",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

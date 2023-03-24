@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/expect-puppeteer",
     "private": true,
     "dependencies": {
+        "@types/jest": "workspace:../jest",
         "@types/puppeteer": "^5.4.0"
     }
 }

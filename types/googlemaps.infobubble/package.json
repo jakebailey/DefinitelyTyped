@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/googlemaps.infobubble",
+    "private": true,
+    "dependencies": {
+        "@types/google-maps": "workspace:../google-maps"
+    }
+}

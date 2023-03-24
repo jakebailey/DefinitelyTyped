@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery",
+    "private": true,
+    "dependencies": {
+        "@types/sizzle": "workspace:../sizzle"
+    }
+}

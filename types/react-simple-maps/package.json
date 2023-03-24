@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-simple-maps",
+    "private": true,
+    "dependencies": {
+        "@types/d3-geo": "workspace:../d3-geo/v2",
+        "@types/d3-zoom": "workspace:../d3-zoom/v2",
+        "@types/geojson": "workspace:../geojson",
+        "@types/react": "workspace:../react"
+    }
+}

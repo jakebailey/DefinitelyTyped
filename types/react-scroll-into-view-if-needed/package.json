@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-scroll-into-view-if-needed",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "scroll-into-view-if-needed": "*"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/feedparser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/sax": "workspace:../sax"
+    }
+}

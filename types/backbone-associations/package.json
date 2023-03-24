@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/backbone-associations",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone"
+    }
+}

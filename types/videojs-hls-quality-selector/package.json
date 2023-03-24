@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/videojs-hls-quality-selector",
+    "private": true,
+    "dependencies": {
+        "@types/video.js": "workspace:../video.js"
+    }
+}

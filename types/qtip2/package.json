@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/qtip2",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

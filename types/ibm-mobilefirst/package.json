@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ibm-mobilefirst",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

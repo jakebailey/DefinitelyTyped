@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-html-parser",
+    "private": true,
+    "dependencies": {
+        "@types/htmlparser2": "workspace:../htmlparser2",
+        "@types/react": "workspace:../react"
+    }
+}

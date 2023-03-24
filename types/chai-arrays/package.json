@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-arrays",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai"
+    }
+}

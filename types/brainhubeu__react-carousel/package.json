@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/brainhubeu__react-carousel",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

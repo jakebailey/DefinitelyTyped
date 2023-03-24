@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/tasker-js-runner",
     "private": true,
     "dependencies": {
         "tasker-types": "^1.0.0"

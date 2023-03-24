@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-input-mask",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../../react"
+    }
+}

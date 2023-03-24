@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-test-helpers",
+    "private": true,
+    "dependencies": {
+        "@types/ember": "workspace:../../ember/v2",
+        "@types/htmlbars-inline-precompile": "workspace:../../htmlbars-inline-precompile",
+        "@types/jquery": "workspace:../../jquery",
+        "@types/rsvp": "workspace:../../rsvp"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-leaflet-markercluster",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../../leaflet",
+        "@types/leaflet.markercluster": "workspace:../../leaflet.markercluster",
+        "@types/react-leaflet": "*"
+    }
+}

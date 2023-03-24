@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/marked",
     "private": true,
     "exports": {
         ".": {

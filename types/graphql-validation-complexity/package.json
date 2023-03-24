@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/graphql-validation-complexity",
     "private": true,
     "dependencies": {
         "graphql": "15.4.0 || ^16.5.0"

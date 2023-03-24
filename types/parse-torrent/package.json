@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/parse-torrent",
+    "private": true,
+    "dependencies": {
+        "@types/magnet-uri": "workspace:../magnet-uri",
+        "@types/node": "workspace:../node",
+        "@types/parse-torrent-file": "workspace:../parse-torrent-file"
+    }
+}

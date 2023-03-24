@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stripe-checkout",
+    "private": true,
+    "dependencies": {
+        "@types/stripe-v3": "workspace:../stripe-v3"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cytoscape-context-menus",
+    "private": true,
+    "dependencies": {
+        "@types/cytoscape": "workspace:../cytoscape"
+    }
+}

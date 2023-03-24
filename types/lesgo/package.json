@@ -1,8 +1,15 @@
 {
+    "CONVERTED": true,
+    "name": "@types/lesgo",
     "private": true,
     "dependencies": {
         "@elastic/elasticsearch": "~7.4.0",
         "@middy/core": "^1.4.0",
+        "@types/aws-lambda": "workspace:../aws-lambda",
+        "@types/aws-sdk2-types": "workspace:../aws-sdk2-types",
+        "@types/data-api-client": "workspace:../data-api-client",
+        "@types/jsonwebtoken": "workspace:../jsonwebtoken",
+        "@types/memcached": "workspace:../memcached",
         "firebase-admin": "^11.5.0",
         "mysql2": "^2.2.5"
     }

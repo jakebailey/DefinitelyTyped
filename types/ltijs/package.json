@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ltijs",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

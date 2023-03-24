@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ignore-styles",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

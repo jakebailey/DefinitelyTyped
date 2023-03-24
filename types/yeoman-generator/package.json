@@ -1,6 +1,13 @@
 {
+    "CONVERTED": true,
+    "name": "@types/yeoman-generator",
     "private": true,
     "dependencies": {
+        "@types/debug": "workspace:../debug",
+        "@types/ejs": "workspace:../ejs",
+        "@types/inquirer": "workspace:../inquirer/v8",
+        "@types/mem-fs-editor": "workspace:../mem-fs-editor",
+        "@types/yeoman-environment": "workspace:../yeoman-environment",
         "rxjs": "^6.4.0"
     }
 }

@@ -1,7 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/swagger-stats",
     "private": true,
     "dependencies": {
         "@hapi/hapi": "21.1.0",
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node",
         "fastify": "^3.0.0",
         "joi": "^17.7.0",
         "prom-client": ">=11.5.3"

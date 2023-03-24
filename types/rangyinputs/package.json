@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rangyinputs",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

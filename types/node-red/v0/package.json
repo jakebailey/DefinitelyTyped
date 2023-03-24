@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-red",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../../node"
+    }
+}

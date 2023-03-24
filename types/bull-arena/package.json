@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/bull-arena",
     "private": true,
     "dependencies": {
+        "@types/express": "workspace:../express",
         "@types/ioredis": "^4.28.10",
         "@types/redis": "^2.8.0",
         "bull": "^4.10.0"

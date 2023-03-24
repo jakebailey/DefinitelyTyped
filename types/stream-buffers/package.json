@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stream-buffers",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/strip-final-newline",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

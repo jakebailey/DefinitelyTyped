@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pigpio-dht",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

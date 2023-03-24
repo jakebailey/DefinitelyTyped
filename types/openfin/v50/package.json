@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/openfin",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../../jquery",
+        "@types/node": "workspace:../../node",
+        "@types/resize-observer-browser": "workspace:../../resize-observer-browser",
+        "@types/ws": "workspace:../../ws"
+    }
+}

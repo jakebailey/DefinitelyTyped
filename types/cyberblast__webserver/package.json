@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cyberblast__webserver",
+    "private": true,
+    "dependencies": {
+        "@types/cyberblast__logger": "workspace:../cyberblast__logger",
+        "@types/node": "workspace:../node"
+    }
+}

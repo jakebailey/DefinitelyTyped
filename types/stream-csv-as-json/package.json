@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stream-csv-as-json",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/stream-chain": "workspace:../stream-chain"
+    }
+}

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/babel__traverse",
     "private": true,
     "dependencies": {
         "@babel/types": "^7.3.0"

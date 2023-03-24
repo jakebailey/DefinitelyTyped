@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/vite-plugin-react-svg",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "@types/svgo": "2",
         "vite": "^2.3.8"
     }

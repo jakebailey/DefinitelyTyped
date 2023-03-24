@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/esquery",
+    "private": true,
+    "dependencies": {
+        "@types/estree": "workspace:../estree"
+    }
+}

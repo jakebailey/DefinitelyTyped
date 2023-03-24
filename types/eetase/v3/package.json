@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/eetase",
+    "private": true,
+    "dependencies": {
+        "@types/async-stream-emitter": "workspace:../../async-stream-emitter/v3"
+    }
+}

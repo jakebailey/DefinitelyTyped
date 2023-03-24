@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ag-channel",
+    "private": true,
+    "dependencies": {
+        "@types/consumable-stream": "workspace:../../consumable-stream/v1",
+        "@types/stream-demux": "workspace:../../stream-demux/v7",
+        "@types/writable-consumable-stream": "workspace:../../writable-consumable-stream/v1"
+    }
+}

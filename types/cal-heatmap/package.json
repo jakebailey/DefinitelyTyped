@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cal-heatmap",
+    "private": true,
+    "dependencies": {
+        "@types/d3": "workspace:../d3/v3"
+    }
+}

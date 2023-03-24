@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/remotedev-serialize",
     "private": true,
     "dependencies": {
         "immutable": "^3.8.1"

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/clui",
+    "private": true,
+    "dependencies": {
+        "@types/cli-color": "workspace:../cli-color"
+    }
+}

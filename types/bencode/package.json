@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bencode",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/selenium-standalone",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

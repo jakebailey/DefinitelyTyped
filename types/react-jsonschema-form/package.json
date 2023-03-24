@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-jsonschema-form",
+    "private": true,
+    "dependencies": {
+        "@types/json-schema": "workspace:../json-schema",
+        "@types/react": "workspace:../react"
+    }
+}

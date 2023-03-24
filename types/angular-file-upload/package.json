@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-file-upload",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

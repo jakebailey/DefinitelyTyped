@@ -1,10 +1,17 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-router",
     "private": true,
     "dependencies": {
-        "@types/history": "^4.7.11"
+        "@types/history": "^4.7.11",
+        "@types/react": "workspace:../react"
     },
     "types": "index",
     "typesVersions": {
-        "<=4.6": { "*": ["ts4.6/*"] }
+        "<=4.6": {
+            "*": [
+                "ts4.6/*"
+            ]
+        }
     }
 }

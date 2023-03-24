@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/memdown",
+    "private": true,
+    "dependencies": {
+        "@types/abstract-leveldown": "workspace:../abstract-leveldown"
+    }
+}

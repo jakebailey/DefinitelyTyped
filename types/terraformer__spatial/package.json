@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/terraformer__spatial",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson"
+    }
+}

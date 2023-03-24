@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/eins-modal",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

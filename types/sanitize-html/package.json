@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "htmlparser2": "^8.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/sanitize-html",
+    "private": true,
+    "dependencies": {
+        "htmlparser2": "^8.0.0"
+    }
 }

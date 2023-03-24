@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wordpress__customize-browser",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

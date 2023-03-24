@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/mongoose-delete",
     "private": true,
     "dependencies": {
         "mongoose": "^5.11 || ^6"

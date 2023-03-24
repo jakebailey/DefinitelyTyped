@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/minizlib",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "minipass": "^3.3.5"
     }
 }

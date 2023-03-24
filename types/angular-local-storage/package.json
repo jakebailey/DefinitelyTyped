@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-local-storage",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

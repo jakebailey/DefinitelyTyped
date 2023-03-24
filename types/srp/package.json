@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/srp",
+    "private": true,
+    "dependencies": {
+        "@types/bignum": "workspace:../bignum",
+        "@types/node": "workspace:../node"
+    }
+}

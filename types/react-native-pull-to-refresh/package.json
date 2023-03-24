@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-pull-to-refresh",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

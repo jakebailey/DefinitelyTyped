@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/p-loading",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

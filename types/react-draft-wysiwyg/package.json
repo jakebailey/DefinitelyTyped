@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-draft-wysiwyg",
+    "private": true,
+    "dependencies": {
+        "@types/draft-js": "workspace:../draft-js",
+        "@types/react": "workspace:../react"
+    }
+}

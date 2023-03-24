@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsx-pdf",
+    "private": true,
+    "dependencies": {
+        "@types/pdfmake": "workspace:../pdfmake"
+    }
+}

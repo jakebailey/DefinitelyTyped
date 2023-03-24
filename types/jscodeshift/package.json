@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jscodeshift",
     "private": true,
     "dependencies": {
         "ast-types": "^0.14.1",

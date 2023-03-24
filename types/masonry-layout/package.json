@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/masonry-layout",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

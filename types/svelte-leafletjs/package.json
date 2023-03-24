@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/svelte-leafletjs",
     "private": true,
     "dependencies": {
+        "@types/leaflet": "workspace:../leaflet",
         "svelte": "^3.48.0"
     }
 }

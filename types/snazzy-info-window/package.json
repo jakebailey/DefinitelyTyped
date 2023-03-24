@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/snazzy-info-window",
     "private": true,
     "dependencies": {
+        "@types/google.maps": "workspace:../google.maps",
         "handlebars": "^4.1.0"
     }
 }

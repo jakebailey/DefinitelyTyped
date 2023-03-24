@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "postcss": "7.x.x"
-  }
+    "CONVERTED": true,
+    "name": "@types/css-modules-loader-core",
+    "private": true,
+    "dependencies": {
+        "postcss": "7.x.x"
+    }
 }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rx-jquery",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/rx": "workspace:../rx"
+    }
+}

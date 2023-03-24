@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/filter-css",
+    "private": true,
+    "dependencies": {
+        "@types/css": "workspace:../css"
+    }
+}

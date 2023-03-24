@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ember",
     "private": true,
     "dependencies": {
+        "@types/jquery": "workspace:../../jquery",
+        "@types/rsvp": "workspace:../../rsvp",
         "handlebars": "^4.1.0"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rx-lite-experimental",
+    "private": true,
+    "dependencies": {
+        "@types/rx-lite": "workspace:../rx-lite"
+    }
+}

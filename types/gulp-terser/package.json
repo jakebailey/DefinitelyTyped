@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "terser": "^4.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/gulp-terser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "terser": "^4.0.0"
+    }
 }

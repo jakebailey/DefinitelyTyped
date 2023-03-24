@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/braintree-web-drop-in",
+    "private": true,
+    "dependencies": {
+        "@types/applepayjs": "workspace:../applepayjs",
+        "@types/braintree-web": "workspace:../braintree-web",
+        "@types/googlepay": "workspace:../googlepay",
+        "@types/paypal-checkout-components": "workspace:../paypal-checkout-components"
+    }
+}

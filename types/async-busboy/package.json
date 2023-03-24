@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/async-busboy",
+    "private": true,
+    "dependencies": {
+        "@types/busboy": "workspace:../busboy/v0"
+    }
+}

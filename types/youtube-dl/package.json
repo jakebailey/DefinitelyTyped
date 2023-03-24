@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/youtube-dl",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

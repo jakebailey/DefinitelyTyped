@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/xml-crypto",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "xpath": "0.0.27"
     }
 }

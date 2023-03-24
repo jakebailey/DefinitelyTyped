@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ui-select",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

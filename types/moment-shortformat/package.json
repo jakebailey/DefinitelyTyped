@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/moment-shortformat",
     "private": true,
     "dependencies": {
         "moment": ">=2.22.2"

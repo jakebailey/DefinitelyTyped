@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/swagger-express-validator",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

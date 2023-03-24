@@ -1,0 +1,25 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember",
+    "private": true,
+    "dependencies": {
+        "@types/ember__application": "workspace:../../ember__application/v3",
+        "@types/ember__array": "workspace:../../ember__array/v3",
+        "@types/ember__component": "workspace:../../ember__component/v3",
+        "@types/ember__controller": "workspace:../../ember__controller/v3",
+        "@types/ember__debug": "workspace:../../ember__debug/v3",
+        "@types/ember__engine": "workspace:../../ember__engine/v3",
+        "@types/ember__error": "workspace:../../ember__error/v3",
+        "@types/ember__object": "workspace:../../ember__object/v3",
+        "@types/ember__polyfills": "workspace:../../ember__polyfills/v3",
+        "@types/ember__routing": "workspace:../../ember__routing/v3",
+        "@types/ember__runloop": "workspace:../../ember__runloop/v3",
+        "@types/ember__service": "workspace:../../ember__service/v3",
+        "@types/ember__string": "workspace:../../ember__string/v2",
+        "@types/ember__template": "workspace:../../ember__template/v3",
+        "@types/ember__test": "workspace:../../ember__test/v3",
+        "@types/ember__utils": "workspace:../../ember__utils/v3",
+        "@types/htmlbars-inline-precompile": "workspace:../../htmlbars-inline-precompile",
+        "@types/rsvp": "workspace:../../rsvp"
+    }
+}

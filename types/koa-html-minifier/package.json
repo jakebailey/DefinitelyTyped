@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-html-minifier",
+    "private": true,
+    "dependencies": {
+        "@types/html-minifier": "workspace:../html-minifier",
+        "@types/koa": "workspace:../koa"
+    }
+}

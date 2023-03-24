@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fluxible-router",
+    "private": true,
+    "dependencies": {
+        "@types/fluxible": "workspace:../fluxible",
+        "@types/node": "workspace:../node",
+        "@types/react": "workspace:../react"
+    }
+}

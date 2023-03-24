@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/debug",
+    "private": true,
+    "dependencies": {
+        "@types/ms": "workspace:../ms"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/forms",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

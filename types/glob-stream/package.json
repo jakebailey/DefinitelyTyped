@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/glob-stream",
+    "private": true,
+    "dependencies": {
+        "@types/glob": "workspace:../glob",
+        "@types/node": "workspace:../node"
+    }
+}

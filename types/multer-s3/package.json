@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/multer-s3",
     "private": true,
     "dependencies": {
-        "@aws-sdk/client-s3": "^3.0.0"
+        "@aws-sdk/client-s3": "^3.0.0",
+        "@types/multer": "workspace:../multer"
     }
 }

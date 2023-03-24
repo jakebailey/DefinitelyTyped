@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-bump",
+    "private": true,
+    "dependencies": {
+        "@types/bump-regex": "workspace:../bump-regex",
+        "@types/node": "workspace:../node"
+    }
+}

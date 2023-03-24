@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-async-wrap",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect",
+        "@types/express-serve-static-core": "workspace:../express-serve-static-core"
+    }
+}

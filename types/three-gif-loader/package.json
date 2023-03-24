@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/three-gif-loader",
+    "private": true,
+    "dependencies": {
+        "@types/omggif": "workspace:../omggif",
+        "@types/three": "workspace:../three"
+    }
+}

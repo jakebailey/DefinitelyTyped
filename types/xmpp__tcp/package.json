@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmpp__tcp",
+    "private": true,
+    "dependencies": {
+        "@types/xmpp__connection": "workspace:../xmpp__connection",
+        "@types/xmpp__connection-tcp": "workspace:../xmpp__connection-tcp"
+    }
+}

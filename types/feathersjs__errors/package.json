@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/feathersjs__errors",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

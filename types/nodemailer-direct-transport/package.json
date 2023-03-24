@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nodemailer-direct-transport",
+    "private": true,
+    "dependencies": {
+        "@types/nodemailer": "workspace:../nodemailer/v3"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/http-agent",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

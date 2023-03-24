@@ -1,6 +1,15 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__editor",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/wordpress__block-editor": "workspace:../wordpress__block-editor",
+        "@types/wordpress__blocks": "workspace:../wordpress__blocks",
+        "@types/wordpress__components": "workspace:../wordpress__components",
+        "@types/wordpress__core-data": "workspace:../wordpress__core-data",
+        "@types/wordpress__data": "workspace:../wordpress__data",
+        "@types/wordpress__media-utils": "workspace:../wordpress__media-utils",
         "@wordpress/element": "^5.0.0"
     }
 }

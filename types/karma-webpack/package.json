@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/karma-webpack",
     "private": true,
     "dependencies": {
+        "@types/karma": "workspace:../karma",
+        "@types/webpack": "workspace:../webpack/v4",
         "@types/webpack-dev-middleware": "3"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/biguintle",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

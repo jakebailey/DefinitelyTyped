@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rmc-drawer",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "moment": "^2.19.4"
     }
 }

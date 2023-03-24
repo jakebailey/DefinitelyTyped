@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-debug",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

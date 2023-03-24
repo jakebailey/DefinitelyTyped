@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-mocha",
+    "private": true,
+    "dependencies": {
+        "@types/ember": "workspace:../ember/v3",
+        "@types/ember-test-helpers": "workspace:../ember-test-helpers",
+        "@types/mocha": "workspace:../mocha"
+    }
+}

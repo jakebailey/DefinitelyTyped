@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/bootstrap",
     "private": true,
     "dependencies": {
+        "@types/jquery": "workspace:../../jquery",
         "popper.js": "^1.14.1"
     }
 }

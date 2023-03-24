@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/foundation-datepicker",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

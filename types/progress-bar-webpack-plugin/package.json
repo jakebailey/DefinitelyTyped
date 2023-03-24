@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/progress-bar-webpack-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/progress": "workspace:../progress",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

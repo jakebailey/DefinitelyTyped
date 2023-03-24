@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-override",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa"
+    }
+}

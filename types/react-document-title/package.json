@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-document-title",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

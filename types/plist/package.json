@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/plist",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "xmlbuilder": ">=11.0.1"
     }
 }

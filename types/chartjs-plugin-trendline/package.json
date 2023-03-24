@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/chartjs-plugin-trendline",
     "private": true,
     "dependencies": {
         "chart.js": "^3.7.1"

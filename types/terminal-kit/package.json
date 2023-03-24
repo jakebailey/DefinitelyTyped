@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/terminal-kit",
+    "private": true,
+    "dependencies": {
+        "@types/nextgen-events": "workspace:../nextgen-events"
+    }
+}

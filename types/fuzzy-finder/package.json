@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/fuzzy-finder",
     "private": true,
     "exports": {
         ".": {

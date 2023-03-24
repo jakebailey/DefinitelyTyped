@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/feathersjs__socketio",
     "private": true,
     "dependencies": {
+        "@types/feathersjs__socket-commons": "workspace:../feathersjs__socket-commons",
         "@types/socket.io": "2.1.13"
     }
 }

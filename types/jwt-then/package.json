@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jwt-then",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

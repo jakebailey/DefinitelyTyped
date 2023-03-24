@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-localstorage",
+    "private": true,
+    "dependencies": {
+        "@types/events": "workspace:../events"
+    }
+}

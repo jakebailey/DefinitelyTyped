@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/inquirer-autocomplete-prompt",
+    "private": true,
+    "dependencies": {
+        "@types/inquirer": "workspace:../../inquirer/v8"
+    }
+}

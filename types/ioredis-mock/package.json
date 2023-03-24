@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ioredis-mock",
     "private": true,
     "dependencies": {
         "ioredis": ">=5"

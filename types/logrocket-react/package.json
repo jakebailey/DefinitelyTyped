@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/logrocket-react",
     "private": true,
     "dependencies": {
         "logrocket": "1.0.1"

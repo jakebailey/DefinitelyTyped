@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__compose",
     "private": true,
     "dependencies": {
+        "@types/lodash": "workspace:../lodash",
+        "@types/react": "workspace:../react",
         "@wordpress/element": "^5.0.0"
     }
 }

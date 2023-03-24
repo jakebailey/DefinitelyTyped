@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pty.js",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

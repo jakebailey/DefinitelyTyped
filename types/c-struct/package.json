@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/c-struct",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb-node",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-adapter-http": "workspace:../pouchdb-adapter-http",
+        "@types/pouchdb-adapter-leveldb": "workspace:../pouchdb-adapter-leveldb",
+        "@types/pouchdb-core": "workspace:../pouchdb-core",
+        "@types/pouchdb-mapreduce": "workspace:../pouchdb-mapreduce",
+        "@types/pouchdb-replication": "workspace:../pouchdb-replication"
+    }
+}

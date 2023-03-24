@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__data-controls",
     "private": true,
     "dependencies": {
+        "@types/wordpress__data": "workspace:../wordpress__data",
         "@wordpress/api-fetch": "^5.2.5"
     }
 }

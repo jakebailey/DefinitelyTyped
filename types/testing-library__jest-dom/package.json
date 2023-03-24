@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/testing-library__jest-dom",
+    "private": true,
+    "dependencies": {
+        "@types/jest": "workspace:../jest"
+    }
+}

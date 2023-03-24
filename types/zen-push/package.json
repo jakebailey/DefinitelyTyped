@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/zen-push",
+    "private": true,
+    "dependencies": {
+        "@types/zen-observable": "workspace:../zen-observable"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/teen_process",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

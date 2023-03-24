@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-bootstrap-table2-paginator",
+    "private": true,
+    "dependencies": {
+        "@types/react-bootstrap-table-next": "workspace:../react-bootstrap-table-next"
+    }
+}

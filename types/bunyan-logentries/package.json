@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bunyan-logentries",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../bunyan",
+        "@types/node": "workspace:../node"
+    }
+}

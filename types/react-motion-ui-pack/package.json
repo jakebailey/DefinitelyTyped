@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-motion-ui-pack",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-motion": "workspace:../react-motion"
+    }
+}

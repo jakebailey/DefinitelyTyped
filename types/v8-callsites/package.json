@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/v8-callsites",
+    "private": true,
+    "dependencies": {
+        "@types/callsite": "workspace:../callsite"
+    }
+}

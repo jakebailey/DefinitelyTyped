@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-vagrant",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

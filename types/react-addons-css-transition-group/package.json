@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-addons-css-transition-group",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react/v15",
+        "@types/react-addons-transition-group": "workspace:../react-addons-transition-group"
+    }
+}

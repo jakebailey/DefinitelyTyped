@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ldap-authentication",
+    "private": true,
+    "dependencies": {
+        "@types/ldapjs": "workspace:../ldapjs"
+    }
+}

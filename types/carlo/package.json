@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/carlo",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "@types/puppeteer": "^5.0.0"
     }
 }

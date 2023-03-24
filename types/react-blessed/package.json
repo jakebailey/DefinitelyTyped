@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-blessed",
+    "private": true,
+    "dependencies": {
+        "@types/blessed": "workspace:../blessed",
+        "@types/react": "workspace:../react"
+    }
+}

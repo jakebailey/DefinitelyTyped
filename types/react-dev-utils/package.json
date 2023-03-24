@@ -1,6 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-dev-utils",
     "private": true,
     "dependencies": {
+        "@types/eslint": "workspace:../eslint",
+        "@types/express": "workspace:../express",
+        "@types/html-webpack-plugin": "workspace:../html-webpack-plugin",
+        "@types/webpack": "workspace:../webpack/v4",
         "@types/webpack-dev-server": "3"
     }
 }

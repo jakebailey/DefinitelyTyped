@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cli-interact",
+    "private": true,
+    "dependencies": {
+        "@types/readline-sync": "workspace:../readline-sync"
+    }
+}

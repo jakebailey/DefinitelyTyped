@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/chenfengyuan__vue-qrcode",
+    "private": true,
+    "dependencies": {
+        "vue": "^2.0.0"
+    }
 }

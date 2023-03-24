@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-data-grid",
     "private": true,
     "dependencies": {
-        "@types/faker": "^5.5.9"
+        "@types/faker": "^5.5.9",
+        "@types/react": "workspace:../react"
     }
 }

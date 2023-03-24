@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-modal-service",
+    "private": true,
+    "dependencies": {
+        "@types/ember__array": "workspace:../ember__array",
+        "@types/ember__component": "workspace:../ember__component",
+        "@types/ember__service": "workspace:../ember__service",
+        "@types/rsvp": "workspace:../rsvp"
+    }
+}

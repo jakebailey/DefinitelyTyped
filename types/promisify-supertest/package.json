@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/promisify-supertest",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/superagent": "workspace:../superagent"
+    }
+}

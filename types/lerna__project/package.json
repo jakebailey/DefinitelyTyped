@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lerna__project",
+    "private": true,
+    "dependencies": {
+        "@types/lerna__package": "workspace:../lerna__package"
+    }
+}

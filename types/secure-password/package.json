@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/secure-password",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

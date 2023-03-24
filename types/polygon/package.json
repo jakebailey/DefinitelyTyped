@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/polygon",
+    "private": true,
+    "dependencies": {
+        "@types/vec2": "workspace:../vec2"
+    }
+}

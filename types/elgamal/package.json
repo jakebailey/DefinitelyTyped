@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/elgamal",
+    "private": true,
+    "dependencies": {
+        "@types/jsbn": "workspace:../jsbn"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-data",
+    "private": true,
+    "dependencies": {
+        "@types/ember": "workspace:../ember",
+        "@types/ember__error": "workspace:../ember__error",
+        "@types/ember__object": "workspace:../ember__object",
+        "@types/rsvp": "workspace:../rsvp"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/valerie-browser",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout"
+    }
+}

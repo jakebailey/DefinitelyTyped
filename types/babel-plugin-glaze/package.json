@@ -1,7 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "glaze": ">=0.5.1",
-    "treat": "^1.2.4"
-  }
+    "CONVERTED": true,
+    "name": "@types/babel-plugin-glaze",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "glaze": ">=0.5.1",
+        "treat": "^1.2.4"
+    }
 }

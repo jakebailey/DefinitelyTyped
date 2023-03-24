@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-click-outside",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

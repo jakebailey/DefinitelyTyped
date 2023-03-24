@@ -1,6 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__components",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/tinycolor2": "workspace:../tinycolor2",
+        "@types/wordpress__notices": "workspace:../wordpress__notices",
+        "@types/wordpress__rich-text": "workspace:../wordpress__rich-text",
         "@wordpress/element": "^5.0.0",
         "downshift": "^6.0.15",
         "re-resizable": "^6.4.0"

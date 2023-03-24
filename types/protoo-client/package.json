@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/protoo-client",
+    "private": true,
+    "dependencies": {
+        "@types/retry": "workspace:../retry",
+        "@types/websocket": "workspace:../websocket"
+    }
+}

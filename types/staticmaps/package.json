@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/staticmaps",
+    "private": true,
+    "dependencies": {
+        "@types/sharp": "workspace:../sharp"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/geokdbush",
+    "private": true,
+    "dependencies": {
+        "@types/kdbush": "workspace:../kdbush/v1"
+    }
+}

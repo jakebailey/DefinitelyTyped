@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/piwik-tracker",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

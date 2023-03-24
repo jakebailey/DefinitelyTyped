@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/native-duplexpair",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/metro-core",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/postcss-modules-resolve-imports",
     "private": true,
     "dependencies": {
         "postcss": "7.x.x"

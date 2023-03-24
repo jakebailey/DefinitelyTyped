@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/enzyme-async-helpers",
+    "private": true,
+    "dependencies": {
+        "@types/enzyme": "workspace:../enzyme"
+    }
+}

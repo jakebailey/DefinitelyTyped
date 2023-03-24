@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/google-apps-script-oauth2",
+    "private": true,
+    "dependencies": {
+        "@types/google-apps-script": "workspace:../google-apps-script"
+    }
+}

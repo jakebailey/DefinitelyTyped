@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/qrcode",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

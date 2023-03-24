@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/uglify-js",
     "private": true,
     "dependencies": {
         "source-map": "^0.6.1"

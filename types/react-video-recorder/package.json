@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-video-recorder",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/shrink-ray",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

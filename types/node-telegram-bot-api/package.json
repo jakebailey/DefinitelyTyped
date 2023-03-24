@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-telegram-bot-api",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/request": "workspace:../request",
+        "eventemitter3": ">=3.0.0"
+    }
+}

@@ -1,6 +1,13 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webpack-plugin-serve",
     "private": true,
     "dependencies": {
+        "@types/connect-history-api-fallback": "workspace:../connect-history-api-fallback",
+        "@types/koa": "workspace:../koa",
+        "@types/koa-compress": "workspace:../koa-compress",
+        "@types/koa-static": "workspace:../koa-static",
+        "@types/node": "workspace:../node",
         "globby": "^11.0.1",
         "http-proxy-middleware": "^1.0.0"
     }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-bunyan-logger",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../bunyan",
+        "@types/express": "workspace:../express"
+    }
+}

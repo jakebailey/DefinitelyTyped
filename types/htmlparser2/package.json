@@ -1,6 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-      "domhandler": "^2.4.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/htmlparser2",
+    "private": true,
+    "dependencies": {
+        "@types/domutils": "workspace:../domutils",
+        "@types/node": "workspace:../node",
+        "domhandler": "^2.4.0"
+    }
 }

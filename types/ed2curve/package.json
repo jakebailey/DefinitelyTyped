@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ed2curve",
     "private": true,
     "dependencies": {
         "tweetnacl": "^1.0.0"

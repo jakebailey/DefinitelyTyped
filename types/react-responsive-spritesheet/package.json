@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-responsive-spritesheet",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "csstype": "^3.0.10"
     }
 }

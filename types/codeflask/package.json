@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/codeflask",
+    "private": true,
+    "dependencies": {
+        "@types/prismjs": "workspace:../prismjs"
+    }
+}

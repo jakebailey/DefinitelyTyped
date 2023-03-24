@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/js2coffee",
     "private": true,
     "dependencies": {
+        "@types/estree": "workspace:../estree",
         "source-map": "^0.7.3"
     }
 }

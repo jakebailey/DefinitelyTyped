@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember__debug",
+    "private": true,
+    "dependencies": {
+        "@types/ember__object": "workspace:../ember__object",
+        "@types/ember__owner": "workspace:../ember__owner"
+    }
+}

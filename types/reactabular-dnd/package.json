@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/reactabular-dnd",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/reactabular-table": "workspace:../reactabular-table"
+    }
+}

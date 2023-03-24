@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/postlight__mercury-parser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

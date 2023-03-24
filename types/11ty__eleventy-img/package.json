@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/11ty__eleventy-img",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/sharp": "workspace:../sharp"
+    }
+}

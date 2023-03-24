@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gulp-util",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/through2": "workspace:../through2",
+        "@types/vinyl": "workspace:../vinyl",
         "chalk": "^2.2.0"
     }
 }

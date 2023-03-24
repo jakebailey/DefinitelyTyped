@@ -1,0 +1,13 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb-browser",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-adapter-http": "workspace:../pouchdb-adapter-http",
+        "@types/pouchdb-adapter-idb": "workspace:../pouchdb-adapter-idb",
+        "@types/pouchdb-adapter-websql": "workspace:../pouchdb-adapter-websql",
+        "@types/pouchdb-core": "workspace:../pouchdb-core",
+        "@types/pouchdb-mapreduce": "workspace:../pouchdb-mapreduce",
+        "@types/pouchdb-replication": "workspace:../pouchdb-replication"
+    }
+}

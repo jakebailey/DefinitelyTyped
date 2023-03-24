@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/call-bind",
+    "private": true,
+    "dependencies": {
+        "@types/get-intrinsic": "workspace:../get-intrinsic"
+    }
+}

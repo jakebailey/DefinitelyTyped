@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-cache",
+    "private": true,
+    "dependencies": {
+        "@types/gulp-util": "workspace:../gulp-util",
+        "@types/node": "workspace:../node",
+        "@types/vinyl": "workspace:../vinyl"
+    }
+}

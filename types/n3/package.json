@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/n3",
     "private": true,
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "@types/node": "workspace:../node",
+        "rdf-js": "^4.0.2"
     }
-  }
+}

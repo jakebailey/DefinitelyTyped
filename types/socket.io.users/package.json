@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/socket.io.users",
     "private": true,
     "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/express-session": "workspace:../express-session",
         "@types/socket.io": "2.1.13"
     }
 }

@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-pino-logger",
     "private": true,
     "dependencies": {
-        "@types/pino": "6.3"
+        "@types/koa": "workspace:../koa",
+        "@types/pino": "6.3",
+        "@types/pino-http": "workspace:../pino-http"
     }
 }

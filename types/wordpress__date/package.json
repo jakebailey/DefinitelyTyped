@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__date",
     "private": true,
     "dependencies": {
         "moment": "^2.24.0"

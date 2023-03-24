@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/babel-template",
+    "private": true,
+    "dependencies": {
+        "@types/babel-types": "workspace:../babel-types",
+        "@types/babylon": "workspace:../babylon"
+    }
+}

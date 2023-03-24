@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdf-validate-shacl",
     "private": true,
     "dependencies": {
-        "@rdfjs/types": "*"
+        "@rdfjs/types": "*",
+        "@types/clownface": "workspace:../clownface"
     }
-  }
+}

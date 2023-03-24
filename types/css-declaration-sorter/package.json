@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/css-declaration-sorter",
     "private": true,
     "dependencies": {
         "postcss": "^8.0.9"

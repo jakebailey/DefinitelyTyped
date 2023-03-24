@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/duplexer3",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

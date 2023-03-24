@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-red__editor-client",
+    "private": true,
+    "dependencies": {
+        "@types/ace": "workspace:../ace",
+        "@types/jquery": "workspace:../jquery",
+        "@types/node-red__runtime": "workspace:../node-red__runtime",
+        "@types/node-red__util": "workspace:../node-red__util"
+    }
+}

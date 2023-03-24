@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/chartjs-plugin-annotation",
     "private": true,
     "dependencies": {
+        "@types/chart.js": "workspace:../chart.js",
         "moment": "^2.10.2"
     }
 }

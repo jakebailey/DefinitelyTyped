@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sc-auth",
+    "private": true,
+    "dependencies": {
+        "@types/jsonwebtoken": "workspace:../jsonwebtoken"
+    }
+}

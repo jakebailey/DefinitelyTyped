@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/protractor-beautiful-reporter",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine",
+        "@types/selenium-webdriver": "workspace:../selenium-webdriver"
+    }
+}

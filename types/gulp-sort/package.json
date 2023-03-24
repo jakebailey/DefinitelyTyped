@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-sort",
+    "private": true,
+    "dependencies": {
+        "@types/gulp-util": "workspace:../gulp-util",
+        "@types/node": "workspace:../node"
+    }
+}

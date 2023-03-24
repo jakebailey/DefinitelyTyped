@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/metalsmith",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

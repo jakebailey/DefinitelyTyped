@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/highcharts-ng",
     "private": true,
     "dependencies": {
         "@types/highcharts": "^5.0.44"

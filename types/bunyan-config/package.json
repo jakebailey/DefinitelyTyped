@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bunyan-config",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../bunyan"
+    }
+}

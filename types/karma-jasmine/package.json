@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/karma-jasmine",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine",
+        "@types/karma": "workspace:../karma"
+    }
+}

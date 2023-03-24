@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rebind-host",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/iltorb",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

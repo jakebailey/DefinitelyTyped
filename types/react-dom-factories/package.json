@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-dom-factories",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

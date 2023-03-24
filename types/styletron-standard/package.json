@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/styletron-standard",
     "private": true,
     "dependencies": {
         "csstype": "^3.0.2"

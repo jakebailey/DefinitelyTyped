@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hpp",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

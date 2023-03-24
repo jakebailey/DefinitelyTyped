@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/node-fetch",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "form-data": "^3.0.0"
     }
 }

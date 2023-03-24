@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sumoselect",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

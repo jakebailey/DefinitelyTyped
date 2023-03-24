@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/amazon-dax-client",
+    "private": true,
+    "dependencies": {
+        "@types/aws-sdk2-types": "workspace:../aws-sdk2-types",
+        "@types/node": "workspace:../node"
+    }
+}

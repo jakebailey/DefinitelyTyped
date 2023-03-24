@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hast",
+    "private": true,
+    "dependencies": {
+        "@types/unist": "workspace:../unist"
+    }
+}

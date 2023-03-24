@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-color",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../../react",
+        "@types/reactcss": "workspace:../../reactcss"
+    }
+}

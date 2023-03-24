@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-connect",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect"
+    }
+}

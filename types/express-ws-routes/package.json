@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-ws-routes",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/express-serve-static-core": "workspace:../express-serve-static-core",
+        "@types/ws": "workspace:../ws"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mapbox__aws-sdk-jest",
+    "private": true,
+    "dependencies": {
+        "@types/jest": "workspace:../jest",
+        "@types/node": "workspace:../node"
+    }
+}

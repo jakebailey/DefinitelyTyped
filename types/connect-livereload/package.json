@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-livereload",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect"
+    }
+}

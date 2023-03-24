@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/inversify-devtools",
     "private": true,
     "dependencies": {
         "inversify": "^2.0.1"

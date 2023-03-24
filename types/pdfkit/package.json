@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pdfkit",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

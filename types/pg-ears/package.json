@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pg-ears",
+    "private": true,
+    "dependencies": {
+        "@types/pg": "workspace:../pg"
+    }
+}

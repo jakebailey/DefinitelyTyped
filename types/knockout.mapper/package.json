@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/knockout.mapper",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout"
+    }
+}

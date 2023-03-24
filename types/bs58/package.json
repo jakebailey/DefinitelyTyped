@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/bs58",
     "private": true,
     "dependencies": {
         "base-x": "^3.0.6"

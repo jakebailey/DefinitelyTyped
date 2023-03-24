@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stompit",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

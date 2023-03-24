@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hls-parser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

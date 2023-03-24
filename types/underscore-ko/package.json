@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/underscore-ko",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout",
+        "@types/underscore": "workspace:../underscore"
+    }
+}

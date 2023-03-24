@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/array-normalize",
     "private": true,
     "exports": {
         ".": {

@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/cassandra-store",
     "private": true,
     "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/express-session": "workspace:../express-session",
         "cassandra-driver": "^4.3.0"
     }
 }

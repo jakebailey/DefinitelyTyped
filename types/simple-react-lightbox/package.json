@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/simple-react-lightbox",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

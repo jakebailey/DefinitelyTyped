@@ -1,4 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/oidc-provider",
     "private": true,
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "@types/koa": "workspace:../koa"
+    }
 }

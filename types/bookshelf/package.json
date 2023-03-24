@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/bookshelf",
     "private": true,
     "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/create-error": "workspace:../create-error",
+        "@types/lodash": "workspace:../lodash",
         "knex": "^0.21.12"
     }
 }

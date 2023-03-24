@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stream-shift",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

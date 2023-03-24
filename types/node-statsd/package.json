@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-statsd",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

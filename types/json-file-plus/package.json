@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/json-file-plus",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

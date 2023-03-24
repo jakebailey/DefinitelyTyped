@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/absolute-url",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

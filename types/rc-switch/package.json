@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rc-switch",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

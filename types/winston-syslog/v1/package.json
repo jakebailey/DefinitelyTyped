@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/winston-syslog",
     "private": true,
     "dependencies": {
         "@types/winston": "2.3.9"

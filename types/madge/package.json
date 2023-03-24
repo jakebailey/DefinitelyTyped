@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/madge",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

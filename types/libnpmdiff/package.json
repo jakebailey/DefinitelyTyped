@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/libnpmdiff",
+    "private": true,
+    "dependencies": {
+        "@types/pacote": "workspace:../pacote"
+    }
+}

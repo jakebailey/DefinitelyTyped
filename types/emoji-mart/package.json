@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/emoji-mart",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "got": "^11.8.2"
-  }
+    "CONVERTED": true,
+    "name": "@types/got-resume",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "got": "^11.8.2"
+    }
 }

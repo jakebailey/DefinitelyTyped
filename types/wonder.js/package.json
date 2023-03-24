@@ -1,7 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/wonder-commonlib": "0.2.0",
-    "@types/wonder-frp": "0.2.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/wonder.js",
+    "private": true,
+    "dependencies": {
+        "@types/wonder-commonlib": "0.2.0",
+        "@types/wonder-frp": "0.2.0"
+    }
 }

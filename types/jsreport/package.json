@@ -1,0 +1,19 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsreport",
+    "private": true,
+    "dependencies": {
+        "@types/jsreport-assets": "workspace:../jsreport-assets",
+        "@types/jsreport-chrome-pdf": "workspace:../jsreport-chrome-pdf",
+        "@types/jsreport-core": "workspace:../jsreport-core",
+        "@types/jsreport-docx": "workspace:../jsreport-docx",
+        "@types/jsreport-handlebars": "workspace:../jsreport-handlebars",
+        "@types/jsreport-html-to-xlsx": "workspace:../jsreport-html-to-xlsx",
+        "@types/jsreport-jsrender": "workspace:../jsreport-jsrender",
+        "@types/jsreport-pdf-utils": "workspace:../jsreport-pdf-utils",
+        "@types/jsreport-reports": "workspace:../jsreport-reports",
+        "@types/jsreport-scripts": "workspace:../jsreport-scripts",
+        "@types/jsreport-templates": "workspace:../jsreport-templates",
+        "@types/jsreport-xlsx": "workspace:../jsreport-xlsx"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/http-terminator",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fontagon",
+    "private": true,
+    "dependencies": {
+        "@types/svg2ttf": "workspace:../svg2ttf",
+        "@types/svgicons2svgfont": "workspace:../svgicons2svgfont",
+        "@types/ttf2woff": "workspace:../ttf2woff"
+    }
+}

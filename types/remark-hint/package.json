@@ -1,7 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "remark": "^14.0.2",
-    "unified": "^10.1.2"
-  }
+    "CONVERTED": true,
+    "name": "@types/remark-hint",
+    "private": true,
+    "dependencies": {
+        "@types/mdast": "workspace:../mdast",
+        "remark": "^14.0.2",
+        "unified": "^10.1.2"
+    }
 }

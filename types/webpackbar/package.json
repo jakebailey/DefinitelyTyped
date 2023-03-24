@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpackbar",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

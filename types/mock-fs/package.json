@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mock-fs",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

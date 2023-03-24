@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/firebase-client",
+    "private": true,
+    "dependencies": {
+        "@types/q": "workspace:../q/v0"
+    }
+}

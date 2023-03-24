@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/metro-transform-worker",
+    "private": true,
+    "dependencies": {
+        "@types/metro": "workspace:../metro",
+        "@types/metro-babel-transformer": "workspace:../metro-babel-transformer",
+        "@types/metro-source-map": "workspace:../metro-source-map"
+    }
+}

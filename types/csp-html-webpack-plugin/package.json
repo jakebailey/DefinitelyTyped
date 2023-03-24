@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/csp-html-webpack-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/html-webpack-plugin": "workspace:../html-webpack-plugin",
+        "@types/tapable": "workspace:../tapable/v1",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

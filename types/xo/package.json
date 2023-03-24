@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xo",
+    "private": true,
+    "dependencies": {
+        "@types/eslint": "workspace:../eslint"
+    }
+}

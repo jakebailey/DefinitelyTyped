@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-addons-test-utils",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react/v15"
+    }
+}

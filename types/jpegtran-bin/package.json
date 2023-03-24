@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jpegtran-bin",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/loader-utils",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

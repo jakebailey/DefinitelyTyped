@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/forever-monitor",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

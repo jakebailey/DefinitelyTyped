@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rtlcss",
     "private": true,
     "dependencies": {
         "postcss": "^8.2.x"

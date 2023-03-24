@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rpio",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

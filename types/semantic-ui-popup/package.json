@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/semantic-ui-popup",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

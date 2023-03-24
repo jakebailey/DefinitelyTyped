@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/url-parse-lax",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

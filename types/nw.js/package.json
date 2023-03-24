@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nw.js",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

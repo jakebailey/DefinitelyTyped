@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/casperjs",
+    "private": true,
+    "dependencies": {
+        "@types/phantomjs": "workspace:../phantomjs"
+    }
+}

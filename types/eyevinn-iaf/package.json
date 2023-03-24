@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/eyevinn-iaf",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

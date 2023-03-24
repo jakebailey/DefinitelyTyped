@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/intl-tel-input",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

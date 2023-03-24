@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/giraffe",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone",
+        "@types/jquery": "workspace:../jquery"
+    }
+}

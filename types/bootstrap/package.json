@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/bootstrap",
     "private": true,
     "dependencies": {
         "@popperjs/core": "^2.9.2"

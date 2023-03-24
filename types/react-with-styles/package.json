@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-with-styles",
     "private": true,
     "dependencies": {
+        "@types/prop-types": "workspace:../prop-types",
+        "@types/react": "workspace:../react",
         "aphrodite": "^2.0.0"
     }
 }

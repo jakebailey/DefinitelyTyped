@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sasl-plain",
+    "private": true,
+    "dependencies": {
+        "@types/saslmechanisms": "workspace:../saslmechanisms"
+    }
+}

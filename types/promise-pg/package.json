@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/promise-pg",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/pg": "workspace:../pg",
+        "@types/q": "workspace:../q/v0"
+    }
+}

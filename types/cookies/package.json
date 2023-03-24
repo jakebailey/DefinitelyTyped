@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cookies",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect",
+        "@types/express": "workspace:../express",
+        "@types/keygrip": "workspace:../keygrip",
+        "@types/node": "workspace:../node"
+    }
+}

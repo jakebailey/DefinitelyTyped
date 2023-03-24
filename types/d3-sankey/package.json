@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-sankey",
+    "private": true,
+    "dependencies": {
+        "@types/d3-shape": "workspace:../d3-shape/v1"
+    }
+}

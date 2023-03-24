@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-nunit-runner",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

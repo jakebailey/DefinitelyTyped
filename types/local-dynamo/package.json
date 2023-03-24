@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/local-dynamo",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

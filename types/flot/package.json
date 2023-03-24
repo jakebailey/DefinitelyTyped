@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/flot",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

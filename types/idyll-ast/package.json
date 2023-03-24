@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/idyll-ast",
+    "private": true,
+    "dependencies": {
+        "@types/idyll-compiler": "workspace:../idyll-compiler"
+    }
+}

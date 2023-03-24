@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-localstorage",
     "private": true,
     "dependencies": {
         "redux": "^3.6.0"

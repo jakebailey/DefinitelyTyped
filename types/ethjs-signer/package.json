@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ethjs-signer",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

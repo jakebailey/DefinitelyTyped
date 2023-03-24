@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hummus-recipe",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

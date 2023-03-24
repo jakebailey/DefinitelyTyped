@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/conventional-changelog-preset-loader",
     "private": true,
     "types": "index",
     "typesVersions": {
@@ -7,5 +9,10 @@
                 "ts4.9/*"
             ]
         }
+    },
+    "dependencies": {
+        "@types/conventional-changelog-core": "workspace:../conventional-changelog-core",
+        "@types/conventional-changelog-writer": "workspace:../conventional-changelog-writer",
+        "@types/conventional-commits-parser": "workspace:../conventional-commits-parser"
     }
 }

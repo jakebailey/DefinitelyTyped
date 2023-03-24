@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-ntlm",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/google-maps",
+    "private": true,
+    "dependencies": {
+        "@types/google.maps": "workspace:../google.maps"
+    }
+}

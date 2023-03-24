@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mark.js",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

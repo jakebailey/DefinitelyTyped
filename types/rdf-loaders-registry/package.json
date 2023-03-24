@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdf-loaders-registry",
     "private": true,
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "@types/clownface": "workspace:../clownface",
+        "rdf-js": "^4.0.2"
     }
-  }
+}

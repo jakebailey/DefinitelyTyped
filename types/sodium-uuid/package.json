@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sodium-uuid",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/crypto-pouch",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb": "workspace:../pouchdb"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-red",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/node-red__editor-api": "workspace:../node-red__editor-api",
+        "@types/node-red__editor-client": "workspace:../node-red__editor-client",
+        "@types/node-red__registry": "workspace:../node-red__registry",
+        "@types/node-red__runtime": "workspace:../node-red__runtime",
+        "@types/node-red__util": "workspace:../node-red__util"
+    }
+}

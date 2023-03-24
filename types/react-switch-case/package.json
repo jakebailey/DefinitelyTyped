@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-switch-case",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

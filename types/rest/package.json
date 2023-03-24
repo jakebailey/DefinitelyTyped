@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rest",
+    "private": true,
+    "dependencies": {
+        "@types/when": "workspace:../when"
+    }
+}

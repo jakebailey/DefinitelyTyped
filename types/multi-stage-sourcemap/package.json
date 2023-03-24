@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "source-map": "^0.7.4"
-  }
+    "CONVERTED": true,
+    "name": "@types/multi-stage-sourcemap",
+    "private": true,
+    "dependencies": {
+        "source-map": "^0.7.4"
+    }
 }

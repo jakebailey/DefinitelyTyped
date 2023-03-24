@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-easy-image",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-cloud-services": "workspace:../../ckeditor__ckeditor5-cloud-services",
+        "@types/ckeditor__ckeditor5-core": "workspace:../../ckeditor__ckeditor5-core",
+        "@types/ckeditor__ckeditor5-upload": "workspace:../../ckeditor__ckeditor5-upload"
+    }
+}

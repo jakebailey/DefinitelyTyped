@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/project-osrm__osrm",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

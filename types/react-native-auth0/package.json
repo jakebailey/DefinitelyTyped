@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-auth0",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

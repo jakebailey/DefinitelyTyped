@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsts",
+    "private": true,
+    "dependencies": {
+        "@types/openlayers": "workspace:../openlayers"
+    }
+}

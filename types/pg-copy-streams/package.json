@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pg-copy-streams",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/pg": "workspace:../pg"
+    }
+}

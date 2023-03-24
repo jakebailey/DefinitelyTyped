@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/whatwg-url",
+    "private": true,
+    "dependencies": {
+        "@types/webidl-conversions": "workspace:../webidl-conversions"
+    }
+}

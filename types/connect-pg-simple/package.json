@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-pg-simple",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/express-session": "workspace:../express-session",
+        "@types/pg": "workspace:../pg"
+    }
+}

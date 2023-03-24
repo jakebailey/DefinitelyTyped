@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/serialport",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../../node"
+    }
+}

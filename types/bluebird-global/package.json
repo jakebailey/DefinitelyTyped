@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bluebird-global",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird"
+    }
+}

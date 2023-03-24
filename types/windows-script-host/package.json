@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/windows-script-host",
+    "private": true,
+    "dependencies": {
+        "@types/activex-iwshruntimelibrary": "workspace:../activex-iwshruntimelibrary"
+    }
+}

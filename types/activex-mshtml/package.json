@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-mshtml",
     "private": true,
     "dependencies": {
         "activex-helpers": "*"

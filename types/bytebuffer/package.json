@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/bytebuffer",
     "private": true,
     "dependencies": {
-        "@types/long": "^3.0.0"
+        "@types/long": "^3.0.0",
+        "@types/node": "workspace:../node"
     },
     "exports": {
         ".": {

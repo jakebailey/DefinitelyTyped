@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/parse",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../../jquery",
+        "@types/node": "workspace:../../node",
+        "@types/underscore": "workspace:../../underscore"
+    }
+}

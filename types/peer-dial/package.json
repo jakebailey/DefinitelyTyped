@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/peer-dial",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node",
+        "@types/node-uuid": "workspace:../node-uuid"
+    }
+}

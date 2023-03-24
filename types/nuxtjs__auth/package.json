@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/nuxtjs__auth",
     "private": true,
     "dependencies": {
         "vue": "^2.6.10"

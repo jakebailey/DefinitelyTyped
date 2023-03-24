@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/derhuerst__cli-on-key",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

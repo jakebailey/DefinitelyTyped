@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gapi.drive",
+    "private": true,
+    "dependencies": {
+        "@types/gapi": "workspace:../gapi"
+    }
+}

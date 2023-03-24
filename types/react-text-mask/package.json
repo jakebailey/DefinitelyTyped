@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-text-mask",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,6 +1,8 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdfjs__namespace",
     "private": true,
     "dependencies": {
         "@rdfjs/types": "*"
     }
-  }
+}

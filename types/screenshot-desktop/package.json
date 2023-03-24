@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/screenshot-desktop",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

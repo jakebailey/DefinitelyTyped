@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mapbox__mapbox-gl-traffic",
+    "private": true,
+    "dependencies": {
+        "@types/mapbox-gl": "workspace:../mapbox-gl",
+        "@types/node": "workspace:../node"
+    }
+}

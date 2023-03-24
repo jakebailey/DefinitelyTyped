@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dkim-signer",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

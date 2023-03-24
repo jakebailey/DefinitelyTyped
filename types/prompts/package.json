@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "kleur": "^3.0.3"
-  }
+    "CONVERTED": true,
+    "name": "@types/prompts",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "kleur": "^3.0.3"
+    }
 }

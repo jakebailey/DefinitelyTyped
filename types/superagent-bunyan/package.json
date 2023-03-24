@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/superagent-bunyan",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../bunyan",
+        "@types/superagent": "workspace:../superagent"
+    }
+}

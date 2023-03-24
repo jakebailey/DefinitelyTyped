@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/babel__helper-module-imports",
+    "private": true,
+    "dependencies": {
+        "@types/babel__core": "workspace:../babel__core",
+        "@types/babel__traverse": "workspace:../babel__traverse"
+    }
+}

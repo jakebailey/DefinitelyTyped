@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/amqp-rpc",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

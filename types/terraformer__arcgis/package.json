@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/terraformer__arcgis",
+    "private": true,
+    "dependencies": {
+        "@types/arcgis-rest-api": "workspace:../arcgis-rest-api",
+        "@types/geojson": "workspace:../geojson"
+    }
+}

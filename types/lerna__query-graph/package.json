@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lerna__query-graph",
+    "private": true,
+    "dependencies": {
+        "@types/lerna__package": "workspace:../lerna__package",
+        "@types/lerna__package-graph": "workspace:../lerna__package-graph"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/byline",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

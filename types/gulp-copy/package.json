@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-copy",
+    "private": true,
+    "dependencies": {
+        "@types/through": "workspace:../through"
+    }
+}

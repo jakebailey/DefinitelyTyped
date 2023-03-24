@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-      "minipass": "^3.3.5"
-  }
+    "CONVERTED": true,
+    "name": "@types/fs-minipass",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "minipass": "^3.3.5"
+    }
 }

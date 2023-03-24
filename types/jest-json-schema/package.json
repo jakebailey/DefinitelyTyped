@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jest-json-schema",
     "private": true,
     "dependencies": {
+        "@types/jest": "workspace:../jest",
         "ajv": "^6.10.2"
     }
 }

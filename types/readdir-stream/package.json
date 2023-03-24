@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/readdir-stream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

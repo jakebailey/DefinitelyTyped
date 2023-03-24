@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/morgan-json",
+    "private": true,
+    "dependencies": {
+        "@types/morgan": "workspace:../morgan"
+    }
+}

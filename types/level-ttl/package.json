@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/level-ttl",
+    "private": true,
+    "dependencies": {
+        "@types/abstract-leveldown": "workspace:../abstract-leveldown",
+        "@types/levelup": "workspace:../levelup"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jsoneditor",
     "private": true,
     "dependencies": {
+        "@types/ace": "workspace:../ace",
         "ajv": "^6.12.0"
     }
 }

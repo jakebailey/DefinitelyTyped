@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/base45",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

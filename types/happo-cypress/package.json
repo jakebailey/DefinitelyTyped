@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/happo-cypress",
     "private": true,
     "dependencies": {
         "cypress": ">=6.4.0"

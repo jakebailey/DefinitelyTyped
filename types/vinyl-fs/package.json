@@ -1,6 +1,11 @@
 {
-  "private": true,
-  "dependencies": {
-      "@types/rimraf": "^2.0.3"
-  }
+    "CONVERTED": true,
+    "name": "@types/vinyl-fs",
+    "private": true,
+    "dependencies": {
+        "@types/glob-stream": "workspace:../glob-stream",
+        "@types/node": "workspace:../node",
+        "@types/rimraf": "^2.0.3",
+        "@types/vinyl": "workspace:../vinyl"
+    }
 }

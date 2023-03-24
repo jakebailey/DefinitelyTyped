@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-date-range",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../../react",
         "moment": ">=2.14.0"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-static",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa",
+        "@types/koa-send": "workspace:../koa-send"
+    }
+}

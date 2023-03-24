@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/open-wc__testing-karma-bs",
+    "private": true,
+    "dependencies": {
+        "@types/karma": "workspace:../karma",
+        "@types/karma-browserstack-launcher": "workspace:../karma-browserstack-launcher"
+    }
+}

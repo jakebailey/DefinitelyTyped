@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pem",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

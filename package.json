@@ -57,5 +57,6 @@
             "_comment": "This will remove husky from when we started migrating to use prettier",
             "pre-commit": "npm uninstall husky"
         }
-    }
+    },
+    "packageManager": "pnpm@7.30.0"
 }

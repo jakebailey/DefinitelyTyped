@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-dialog-service",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/angular-ui-bootstrap": "workspace:../angular-ui-bootstrap"
+    }
+}

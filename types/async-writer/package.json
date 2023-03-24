@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/async-writer",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

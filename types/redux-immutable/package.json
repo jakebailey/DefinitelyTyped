@@ -1,7 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-immutable",
     "private": true,
     "dependencies": {
-        "redux": "^4.0.0",
-        "immutable": "^4.0.0-rc.1"
+        "immutable": "^4.0.0-rc.1",
+        "redux": "^4.0.0"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-trim-body",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

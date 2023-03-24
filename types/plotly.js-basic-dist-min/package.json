@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/plotly.js-basic-dist-min",
+    "private": true,
+    "dependencies": {
+        "@types/plotly.js": "workspace:../plotly.js"
+    }
+}

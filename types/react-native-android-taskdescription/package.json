@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-android-taskdescription",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

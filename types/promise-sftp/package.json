@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/promise-sftp",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/node": "workspace:../node",
+        "@types/promise-ftp-common": "workspace:../promise-ftp-common",
+        "@types/ssh2": "workspace:../ssh2",
+        "@types/ssh2-streams": "workspace:../ssh2-streams"
+    }
+}

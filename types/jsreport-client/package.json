@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsreport-client",
+    "private": true,
+    "dependencies": {
+        "@types/jsreport": "workspace:../jsreport",
+        "@types/jsreport-core": "workspace:../jsreport-core"
+    }
+}

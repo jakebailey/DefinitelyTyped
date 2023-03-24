@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/infinite-scroll",
+    "private": true,
+    "dependencies": {
+        "@types/isotope-layout": "workspace:../isotope-layout",
+        "@types/jquery": "workspace:../jquery",
+        "@types/masonry-layout": "workspace:../masonry-layout",
+        "@types/packery": "workspace:../packery"
+    }
+}

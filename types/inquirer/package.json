@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/inquirer",
     "private": true,
     "type": "module",
     "dependencies": {
+        "@types/through": "workspace:../through",
         "rxjs": "^7.2.0"
     }
 }

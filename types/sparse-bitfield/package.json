@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sparse-bitfield",
+    "private": true,
+    "dependencies": {
+        "@types/memory-pager": "workspace:../memory-pager",
+        "@types/node": "workspace:../node"
+    }
+}

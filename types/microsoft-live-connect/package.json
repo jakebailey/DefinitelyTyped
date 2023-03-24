@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/microsoft-live-connect",
+    "private": true,
+    "dependencies": {
+        "@types/winjs": "workspace:../winjs",
+        "@types/winrt": "workspace:../winrt"
+    }
+}

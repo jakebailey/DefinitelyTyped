@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-read-more-text",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

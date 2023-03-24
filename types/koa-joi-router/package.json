@@ -1,6 +1,13 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-joi-router",
     "private": true,
     "dependencies": {
+        "@types/busboy": "workspace:../busboy",
+        "@types/co-body": "workspace:../co-body",
+        "@types/koa": "workspace:../koa",
+        "@types/koa-router": "workspace:../koa-router",
+        "@types/node": "workspace:../node",
         "joi": "^17.3.0"
     }
 }

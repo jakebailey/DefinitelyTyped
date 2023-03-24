@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/openpgp",
+    "private": true,
+    "dependencies": {
+        "@types/bn.js": "workspace:../bn.js"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-animate-on-scroll",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/markdown-it-attrs",
+    "private": true,
+    "dependencies": {
+        "@types/markdown-it": "workspace:../markdown-it"
+    }
+}

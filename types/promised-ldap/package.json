@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/promised-ldap",
+    "private": true,
+    "dependencies": {
+        "@types/ldapjs": "workspace:../ldapjs"
+    }
+}

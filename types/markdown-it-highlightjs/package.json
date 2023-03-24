@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/markdown-it-highlightjs",
     "private": true,
     "dependencies": {
+        "@types/markdown-it": "workspace:../markdown-it",
         "highlight.js": "^10.1.0"
     }
 }

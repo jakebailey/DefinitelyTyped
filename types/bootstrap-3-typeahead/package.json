@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bootstrap-3-typeahead",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

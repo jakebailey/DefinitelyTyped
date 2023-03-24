@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sodium-native",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

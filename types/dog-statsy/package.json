@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dog-statsy",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

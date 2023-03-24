@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-grid-layout",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

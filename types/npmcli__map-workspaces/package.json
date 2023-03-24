@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/npmcli__map-workspaces",
+    "private": true,
+    "dependencies": {
+        "@types/glob": "workspace:../glob",
+        "@types/npmcli__arborist": "workspace:../npmcli__arborist",
+        "@types/npmcli__package-json": "workspace:../npmcli__package-json"
+    }
+}

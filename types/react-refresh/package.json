@@ -1,24 +1,26 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-refresh",
     "private": true,
     "dependencies": {
-      "csstype": "^3.0.2"
+        "@types/babel__core": "workspace:../babel__core",
+        "csstype": "^3.0.2"
     },
     "exports": {
-      ".": {
-        "types": {
-          "default": "./runtime.d.ts"
+        ".": {
+            "types": {
+                "default": "./runtime.d.ts"
+            }
+        },
+        "./runtime": {
+            "types": {
+                "default": "./runtime.d.ts"
+            }
+        },
+        "./babel": {
+            "types": {
+                "default": "./babel.d.ts"
+            }
         }
-      },
-      "./runtime": {
-        "types": {
-          "default": "./runtime.d.ts"
-        }
-      },
-      "./babel": {
-        "types": {
-          "default": "./babel.d.ts"
-        }
-      }
     }
-  }
-  
+}

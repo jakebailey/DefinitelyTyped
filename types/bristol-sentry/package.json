@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bristol-sentry",
+    "private": true,
+    "dependencies": {
+        "@types/raven": "workspace:../raven"
+    }
+}

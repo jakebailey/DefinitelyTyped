@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/eslint-plugin-markdown",
+    "private": true,
+    "dependencies": {
+        "@types/eslint": "workspace:../eslint",
+        "@types/unist": "workspace:../unist"
+    }
+}

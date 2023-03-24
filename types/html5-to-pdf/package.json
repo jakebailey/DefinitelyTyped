@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/html5-to-pdf",
     "private": true,
     "dependencies": {
         "@types/puppeteer": "^5.0.0"

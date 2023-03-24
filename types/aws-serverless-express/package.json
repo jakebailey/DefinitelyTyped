@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/aws-serverless-express",
+    "private": true,
+    "dependencies": {
+        "@types/aws-lambda": "workspace:../aws-lambda",
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node"
+    }
+}

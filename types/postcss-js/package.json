@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/postcss-js",
     "private": true,
     "dependencies": {
         "postcss": "^8.3.3"

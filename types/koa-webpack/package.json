@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-webpack",
     "private": true,
     "dependencies": {
-        "@types/webpack-dev-middleware": "3"
+        "@types/koa": "workspace:../koa",
+        "@types/webpack": "workspace:../webpack/v4",
+        "@types/webpack-dev-middleware": "3",
+        "@types/webpack-hot-client": "workspace:../webpack-hot-client"
     }
 }

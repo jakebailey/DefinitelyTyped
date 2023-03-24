@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/amplify",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

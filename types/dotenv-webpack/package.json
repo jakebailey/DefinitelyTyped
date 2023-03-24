@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/dotenv-webpack",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "tapable": "^2.2.0",
         "webpack": "^5"
     }

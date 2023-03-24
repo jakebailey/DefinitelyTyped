@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/circle-to-polygon",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson"
+    }
+}

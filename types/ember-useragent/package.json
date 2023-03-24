@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-useragent",
+    "private": true,
+    "dependencies": {
+        "@types/ember-cli-fastboot": "workspace:../ember-cli-fastboot",
+        "@types/ember__component": "workspace:../ember__component",
+        "@types/ember__service": "workspace:../ember__service",
+        "@types/ua-parser-js": "workspace:../ua-parser-js"
+    }
+}

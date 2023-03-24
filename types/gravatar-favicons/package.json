@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gravatar-favicons",
     "private": true,
     "dependencies": {
         "@types/favicons": "^6.2.0"

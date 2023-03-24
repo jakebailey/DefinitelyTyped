@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-addons-pure-render-mixin",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

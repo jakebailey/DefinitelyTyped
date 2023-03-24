@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/babel__standalone",
     "private": true,
     "dependencies": {
         "@babel/core": "^7.1.0"

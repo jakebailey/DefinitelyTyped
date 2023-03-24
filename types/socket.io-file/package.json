@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/socket.io-file",
     "private": true,
     "dependencies": {
         "@types/socket.io": "2.1.13"

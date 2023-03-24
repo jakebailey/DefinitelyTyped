@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/amqplib",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

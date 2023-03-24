@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-google-picker",
+    "private": true,
+    "dependencies": {
+        "@types/gapi": "workspace:../gapi",
+        "@types/google.picker": "workspace:../google.picker",
+        "@types/react": "workspace:../react"
+    }
+}

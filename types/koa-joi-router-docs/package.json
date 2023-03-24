@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-joi-router-docs",
+    "private": true,
+    "dependencies": {
+        "@types/koa-joi-router": "workspace:../koa-joi-router"
+    }
+}

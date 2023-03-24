@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hoxy",
+    "private": true,
+    "dependencies": {
+        "@types/cheerio": "workspace:../cheerio"
+    }
+}

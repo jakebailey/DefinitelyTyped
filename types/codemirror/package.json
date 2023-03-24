@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/codemirror",
+    "private": true,
+    "dependencies": {
+        "@types/tern": "workspace:../tern"
+    }
+}

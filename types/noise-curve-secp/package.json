@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/noise-curve-secp",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

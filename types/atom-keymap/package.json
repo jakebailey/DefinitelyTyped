@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/atom-keymap",
+    "private": true,
+    "dependencies": {
+        "@types/event-kit": "workspace:../event-kit"
+    }
+}

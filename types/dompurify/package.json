@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dompurify",
+    "private": true,
+    "dependencies": {
+        "@types/trusted-types": "workspace:../trusted-types"
+    }
+}

@@ -1,9 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hapi__h2o2",
     "private": true,
     "dependencies": {
         "@hapi/boom": "^10.0.0",
         "@hapi/hapi": "^21.1.0",
         "@hapi/wreck": "^18.0.0",
+        "@types/node": "workspace:../node",
         "joi": "^17.7.0"
     }
 }

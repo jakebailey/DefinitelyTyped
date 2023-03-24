@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fluent-ffmpeg",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

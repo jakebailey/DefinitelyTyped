@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fbdl-core",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

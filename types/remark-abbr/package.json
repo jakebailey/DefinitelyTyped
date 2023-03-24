@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/remark-abbr",
     "private": true,
     "dependencies": {
         "remark": "^12.0.0",

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/i18next-sprintf-postprocessor",
     "private": true,
     "dependencies": {
         "i18next": ">=17.0.11"

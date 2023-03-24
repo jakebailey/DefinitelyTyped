@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-cli-fastboot",
+    "private": true,
+    "dependencies": {
+        "@types/ember__service": "workspace:../ember__service"
+    }
+}

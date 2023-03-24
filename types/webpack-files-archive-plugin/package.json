@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webpack-files-archive-plugin",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "buffer": "*",
         "tapable": "^2.2.0",
         "webpack": "^5"

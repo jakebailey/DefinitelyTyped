@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/httpsnippet",
+    "private": true,
+    "dependencies": {
+        "@types/har-format": "workspace:../har-format"
+    }
+}

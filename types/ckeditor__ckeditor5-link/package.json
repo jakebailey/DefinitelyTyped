@@ -1,0 +1,14 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-link",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-clipboard": "workspace:../ckeditor__ckeditor5-clipboard",
+        "@types/ckeditor__ckeditor5-core": "workspace:../ckeditor__ckeditor5-core",
+        "@types/ckeditor__ckeditor5-engine": "workspace:../ckeditor__ckeditor5-engine",
+        "@types/ckeditor__ckeditor5-image": "workspace:../ckeditor__ckeditor5-image",
+        "@types/ckeditor__ckeditor5-typing": "workspace:../ckeditor__ckeditor5-typing",
+        "@types/ckeditor__ckeditor5-ui": "workspace:../ckeditor__ckeditor5-ui",
+        "@types/ckeditor__ckeditor5-utils": "workspace:../ckeditor__ckeditor5-utils"
+    }
+}

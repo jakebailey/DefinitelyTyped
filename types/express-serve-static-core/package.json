@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-serve-static-core",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/qs": "workspace:../qs",
+        "@types/range-parser": "workspace:../range-parser"
+    }
+}

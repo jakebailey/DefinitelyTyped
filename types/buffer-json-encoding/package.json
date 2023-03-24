@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/buffer-json-encoding",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/joi-phone-number",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "joi": "^17.3.0"
     }
 }

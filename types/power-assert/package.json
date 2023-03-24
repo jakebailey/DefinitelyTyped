@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/power-assert",
+    "private": true,
+    "dependencies": {
+        "@types/empower": "workspace:../empower",
+        "@types/power-assert-formatter": "workspace:../power-assert-formatter"
+    }
+}

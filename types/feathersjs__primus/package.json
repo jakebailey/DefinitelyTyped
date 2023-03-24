@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/feathersjs__primus",
+    "private": true,
+    "dependencies": {
+        "@types/feathersjs__socket-commons": "workspace:../feathersjs__socket-commons"
+    }
+}

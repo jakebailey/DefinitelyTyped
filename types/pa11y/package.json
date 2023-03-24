@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/pa11y",
     "private": true,
     "dependencies": {
         "@types/puppeteer": "^5.4.0"

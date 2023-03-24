@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-jquery",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai",
+        "@types/jquery": "workspace:../jquery"
+    }
+}

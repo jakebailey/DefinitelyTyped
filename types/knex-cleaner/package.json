@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/knex-cleaner",
     "private": true,
     "dependencies": {
         "knex": ">=2.3.0"

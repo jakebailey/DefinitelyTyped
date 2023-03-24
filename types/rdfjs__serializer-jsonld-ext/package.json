@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdfjs__serializer-jsonld-ext",
     "private": true,
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "@types/jsonld": "workspace:../jsonld",
+        "rdf-js": "^4.0.2"
     }
-  }
+}

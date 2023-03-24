@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/browserify",
+    "private": true,
+    "dependencies": {
+        "@types/insert-module-globals": "workspace:../insert-module-globals",
+        "@types/node": "workspace:../node"
+    }
+}

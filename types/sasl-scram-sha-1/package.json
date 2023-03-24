@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sasl-scram-sha-1",
+    "private": true,
+    "dependencies": {
+        "@types/saslmechanisms": "workspace:../saslmechanisms"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-interpolate",
+    "private": true,
+    "dependencies": {
+        "@types/d3-color": "workspace:../../d3-color/v1"
+    }
+}

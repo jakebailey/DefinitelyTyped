@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/msnodesql",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

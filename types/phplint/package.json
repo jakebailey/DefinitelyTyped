@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/phplint",
+    "private": true,
+    "dependencies": {
+        "@types/grunt": "workspace:../grunt"
+    }
+}

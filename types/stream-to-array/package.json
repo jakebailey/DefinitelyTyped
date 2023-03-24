@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stream-to-array",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

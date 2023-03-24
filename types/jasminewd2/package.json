@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jasminewd2",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine"
+    }
+}

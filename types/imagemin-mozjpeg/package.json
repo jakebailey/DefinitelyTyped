@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/imagemin-mozjpeg",
+    "private": true,
+    "dependencies": {
+        "@types/imagemin": "workspace:../imagemin"
+    }
+}

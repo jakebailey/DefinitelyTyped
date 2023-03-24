@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/twitter-stream-channels",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/twit": "workspace:../twit"
+    }
+}

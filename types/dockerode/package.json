@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dockerode",
+    "private": true,
+    "dependencies": {
+        "@types/docker-modem": "workspace:../docker-modem",
+        "@types/node": "workspace:../node"
+    }
+}

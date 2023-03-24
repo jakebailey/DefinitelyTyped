@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-local",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/passport": "workspace:../passport",
+        "@types/passport-strategy": "workspace:../passport-strategy"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery.bbq",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery/v2"
+    }
+}

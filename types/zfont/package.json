@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/zfont",
+    "private": true,
+    "dependencies": {
+        "@types/zdog": "workspace:../zdog"
+    }
+}

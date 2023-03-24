@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/airbnb-prop-types",
+    "private": true,
+    "dependencies": {
+        "@types/prop-types": "workspace:../prop-types"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fs-plus",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-i18n",
+    "private": true,
+    "dependencies": {
+        "@types/i18n-js": "workspace:../i18n-js"
+    }
+}

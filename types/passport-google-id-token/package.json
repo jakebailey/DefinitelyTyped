@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-google-id-token",
+    "private": true,
+    "dependencies": {
+        "@types/passport": "workspace:../passport"
+    }
+}

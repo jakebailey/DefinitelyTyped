@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nodemailer",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../../node",
+        "@types/nodemailer-direct-transport": "workspace:../../nodemailer-direct-transport",
+        "@types/nodemailer-ses-transport": "workspace:../../nodemailer-ses-transport",
+        "@types/nodemailer-smtp-transport": "workspace:../../nodemailer-smtp-transport"
+    }
+}

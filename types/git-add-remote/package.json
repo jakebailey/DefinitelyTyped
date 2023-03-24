@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/git-add-remote",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

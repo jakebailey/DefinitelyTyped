@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/mustache-express",
     "private": true,
     "dependencies": {
         "@types/lru-cache": "^4.1.3"

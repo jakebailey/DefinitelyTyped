@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/heatmap.js",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet/v0"
+    }
+}

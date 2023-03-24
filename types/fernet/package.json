@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fernet",
+    "private": true,
+    "dependencies": {
+        "@types/crypto-js": "workspace:../crypto-js"
+    }
+}

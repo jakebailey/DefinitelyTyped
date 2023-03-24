@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/trunk8",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

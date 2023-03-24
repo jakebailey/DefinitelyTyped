@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wepy-redux",
     "private": true,
     "dependencies": {
+        "@types/wepy": "workspace:../wepy",
         "redux": "^4.0.0"
     }
 }

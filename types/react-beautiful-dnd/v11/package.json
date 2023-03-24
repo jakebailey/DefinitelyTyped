@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-beautiful-dnd",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../../react"
+    }
+}

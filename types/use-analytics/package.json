@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/use-analytics",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "analytics": "^0.8.1"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/json2csv",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

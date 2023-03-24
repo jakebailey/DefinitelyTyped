@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/commander-remaining-args",
     "private": true,
     "dependencies": {
         "commander": "^4.0.1"

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/passport-local-mongoose",
     "private": true,
     "dependencies": {
+        "@types/passport-local": "workspace:../passport-local",
         "mongoose": "^6.3.0"
     }
 }

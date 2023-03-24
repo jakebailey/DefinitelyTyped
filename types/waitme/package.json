@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/waitme",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

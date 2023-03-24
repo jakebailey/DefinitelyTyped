@@ -1,7 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/babel__core",
     "private": true,
     "dependencies": {
         "@babel/parser": "^7.20.7",
-        "@babel/types": "^7.20.7"
+        "@babel/types": "^7.20.7",
+        "@types/babel__generator": "workspace:../babel__generator",
+        "@types/babel__template": "workspace:../babel__template",
+        "@types/babel__traverse": "workspace:../babel__traverse"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mysql-query-util",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

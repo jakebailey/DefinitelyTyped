@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/workerpool",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

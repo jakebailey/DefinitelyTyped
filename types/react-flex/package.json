@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-flex",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

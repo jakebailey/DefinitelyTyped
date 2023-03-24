@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/happyguestmx__web-utilities",
+    "private": true,
+    "dependencies": {
+        "@types/aws-lambda": "workspace:../aws-lambda"
+    }
+}

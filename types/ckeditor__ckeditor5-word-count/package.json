@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-word-count",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-core": "workspace:../ckeditor__ckeditor5-core",
+        "@types/ckeditor__ckeditor5-engine": "workspace:../ckeditor__ckeditor5-engine"
+    }
+}

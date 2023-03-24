@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/semantic-ui-sticky",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

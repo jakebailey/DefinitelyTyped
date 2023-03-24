@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bloom-filter",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

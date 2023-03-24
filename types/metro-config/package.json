@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/metro-config",
+    "private": true,
+    "dependencies": {
+        "@types/metro": "workspace:../metro",
+        "@types/metro-cache": "workspace:../metro-cache",
+        "@types/metro-resolver": "workspace:../metro-resolver",
+        "@types/metro-transform-worker": "workspace:../metro-transform-worker"
+    }
+}

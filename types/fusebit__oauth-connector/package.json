@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fusebit__oauth-connector",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/fusebit__add-on-sdk": "workspace:../fusebit__add-on-sdk"
+    }
+}

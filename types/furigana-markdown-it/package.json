@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/furigana-markdown-it",
+    "private": true,
+    "dependencies": {
+        "@types/markdown-it": "workspace:../markdown-it"
+    }
+}

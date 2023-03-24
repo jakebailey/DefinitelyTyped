@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/semantic-ui-api",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

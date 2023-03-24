@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/clamav.js",
+    "private": true,
+    "dependencies": {
+        "@types/glob": "workspace:../glob"
+    }
+}

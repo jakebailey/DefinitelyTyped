@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-portal-tooltip",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mithril-global",
+    "private": true,
+    "dependencies": {
+        "@types/mithril": "workspace:../mithril"
+    }
+}

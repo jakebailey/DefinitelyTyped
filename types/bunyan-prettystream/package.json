@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bunyan-prettystream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

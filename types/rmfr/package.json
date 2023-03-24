@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-      "@types/rimraf": "^2.0.3"
-  }
+    "CONVERTED": true,
+    "name": "@types/rmfr",
+    "private": true,
+    "dependencies": {
+        "@types/rimraf": "^2.0.3"
+    }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-lastfm",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

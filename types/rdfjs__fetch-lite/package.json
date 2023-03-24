@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-      "@rdfjs/types": "*"
-  }
+    "CONVERTED": true,
+    "name": "@types/rdfjs__fetch-lite",
+    "private": true,
+    "dependencies": {
+        "@rdfjs/types": "*",
+        "@types/rdfjs__formats-common": "workspace:../rdfjs__formats-common"
+    }
 }

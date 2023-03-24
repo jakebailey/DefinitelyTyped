@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-      "@rdfjs/types": "*"
-  }
+    "CONVERTED": true,
+    "name": "@types/rdfjs__traverser",
+    "private": true,
+    "dependencies": {
+        "@rdfjs/types": "*"
+    }
 }

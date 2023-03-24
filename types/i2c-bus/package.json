@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/i2c-bus",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

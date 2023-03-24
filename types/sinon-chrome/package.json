@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sinon-chrome",
+    "private": true,
+    "dependencies": {
+        "@types/chrome": "workspace:../chrome",
+        "@types/sinon": "workspace:../sinon"
+    }
+}

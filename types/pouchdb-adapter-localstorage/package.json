@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb-adapter-localstorage",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-core": "workspace:../pouchdb-core"
+    }
+}

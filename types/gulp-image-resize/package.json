@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-image-resize",
+    "private": true,
+    "dependencies": {
+        "@types/gm": "workspace:../gm",
+        "@types/node": "workspace:../node"
+    }
+}

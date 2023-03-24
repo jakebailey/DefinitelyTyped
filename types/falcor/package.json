@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/falcor",
+    "private": true,
+    "dependencies": {
+        "@types/falcor-http-datasource": "workspace:../falcor-http-datasource",
+        "@types/falcor-json-graph": "workspace:../falcor-json-graph"
+    }
+}

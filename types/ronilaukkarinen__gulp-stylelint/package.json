@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ronilaukkarinen__gulp-stylelint",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "stylelint": "10 - 15"
     }
 }

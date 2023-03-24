@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-mce",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/tinymce": "workspace:../tinymce"
+    }
+}

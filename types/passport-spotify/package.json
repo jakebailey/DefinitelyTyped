@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-spotify",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

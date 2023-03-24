@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gl-react-image",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

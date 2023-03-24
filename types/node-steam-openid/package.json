@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-steam-openid",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

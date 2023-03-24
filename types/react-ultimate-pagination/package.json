@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-ultimate-pagination",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/markdown-draft-js",
+    "private": true,
+    "dependencies": {
+        "@types/draft-js": "workspace:../draft-js"
+    }
+}

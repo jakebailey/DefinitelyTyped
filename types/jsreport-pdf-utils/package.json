@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsreport-pdf-utils",
+    "private": true,
+    "dependencies": {
+        "@types/jsreport-core": "workspace:../jsreport-core"
+    }
+}

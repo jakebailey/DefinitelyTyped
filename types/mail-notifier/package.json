@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mail-notifier",
+    "private": true,
+    "dependencies": {
+        "@types/imap": "workspace:../imap",
+        "@types/node": "workspace:../node"
+    }
+}

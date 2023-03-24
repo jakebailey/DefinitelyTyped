@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/amp-message",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

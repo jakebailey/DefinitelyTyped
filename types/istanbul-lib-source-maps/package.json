@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/istanbul-lib-source-maps",
     "private": true,
     "dependencies": {
+        "@types/istanbul-lib-coverage": "workspace:../istanbul-lib-coverage",
         "source-map": "^0.6.1"
     }
 }

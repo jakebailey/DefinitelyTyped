@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rechoir",
+    "private": true,
+    "dependencies": {
+        "@types/interpret": "workspace:../interpret"
+    }
+}

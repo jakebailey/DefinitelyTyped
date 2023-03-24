@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/es-abstract",
+    "private": true,
+    "dependencies": {
+        "@types/es-to-primitive": "workspace:../es-to-primitive"
+    }
+}

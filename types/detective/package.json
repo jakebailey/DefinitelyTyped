@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/detective",
     "private": true,
     "dependencies": {
         "acorn": "^7.0.0"

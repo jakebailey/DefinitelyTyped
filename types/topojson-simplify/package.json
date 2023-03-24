@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/topojson-simplify",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/topojson-specification": "workspace:../topojson-specification"
+    }
+}

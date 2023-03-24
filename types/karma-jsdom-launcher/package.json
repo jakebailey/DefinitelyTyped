@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/karma-jsdom-launcher",
+    "private": true,
+    "dependencies": {
+        "@types/jsdom": "workspace:../jsdom",
+        "@types/karma": "workspace:../karma"
+    }
+}

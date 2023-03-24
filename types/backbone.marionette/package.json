@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/backbone.marionette",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone",
+        "@types/backbone.radio": "workspace:../backbone.radio",
+        "@types/jquery": "workspace:../jquery",
+        "@types/underscore": "workspace:../underscore"
+    }
+}

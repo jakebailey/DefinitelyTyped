@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/s3rver",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

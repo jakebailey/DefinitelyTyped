@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bootstrap-switch",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

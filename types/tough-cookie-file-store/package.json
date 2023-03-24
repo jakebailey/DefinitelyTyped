@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tough-cookie-file-store",
+    "private": true,
+    "dependencies": {
+        "@types/tough-cookie": "workspace:../tough-cookie"
+    }
+}

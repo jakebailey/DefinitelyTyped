@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-better-password",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

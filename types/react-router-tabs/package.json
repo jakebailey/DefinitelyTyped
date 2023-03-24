@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-router-tabs",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-router-dom": "workspace:../react-router-dom"
+    }
+}

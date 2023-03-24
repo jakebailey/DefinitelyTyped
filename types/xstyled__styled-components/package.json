@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xstyled__styled-components",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/styled-components": "workspace:../styled-components",
+        "@types/xstyled__system": "workspace:../xstyled__system"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/asana",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird"
+    }
+}

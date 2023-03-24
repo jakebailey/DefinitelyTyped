@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/base64-emoji",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

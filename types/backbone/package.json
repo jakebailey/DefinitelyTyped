@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/backbone",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/underscore": "workspace:../underscore"
+    }
+}

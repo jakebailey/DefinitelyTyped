@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/globaloffensive",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/steam-user": "workspace:../steam-user",
+        "@types/steamid": "workspace:../steamid"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/reconnect-core",
+    "private": true,
+    "dependencies": {
+        "@types/backoff": "workspace:../backoff"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-protractor",
+    "private": true,
+    "dependencies": {
+        "@types/gulp": "workspace:../gulp",
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-fido2-webauthn",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/passport-strategy": "workspace:../passport-strategy"
+    }
+}

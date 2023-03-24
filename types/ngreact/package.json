@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ngreact",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/react": "workspace:../react"
+    }
+}

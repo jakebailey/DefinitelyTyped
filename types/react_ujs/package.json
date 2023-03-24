@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react_ujs",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/react": "workspace:../react"
+    }
+}

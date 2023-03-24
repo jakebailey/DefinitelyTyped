@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/lightpick",
     "private": true,
     "dependencies": {
         "moment": "^2.22.2"

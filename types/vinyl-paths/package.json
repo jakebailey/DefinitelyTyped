@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vinyl-paths",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

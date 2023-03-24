@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gulp-dart-sass",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "sass": "^1.45.0"
     }
 }

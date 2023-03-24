@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/restify-errors",
+    "private": true,
+    "dependencies": {
+        "@types/verror": "workspace:../verror"
+    }
+}

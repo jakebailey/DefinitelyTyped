@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bip38",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

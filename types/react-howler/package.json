@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-howler",
+    "private": true,
+    "dependencies": {
+        "@types/howler": "workspace:../howler",
+        "@types/react": "workspace:../react"
+    }
+}

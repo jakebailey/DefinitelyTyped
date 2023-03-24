@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wordpress__block-serialization-default-parser",
+    "private": true,
+    "dependencies": {
+        "@types/wordpress__block-serialization-spec-parser": "workspace:../wordpress__block-serialization-spec-parser"
+    }
+}

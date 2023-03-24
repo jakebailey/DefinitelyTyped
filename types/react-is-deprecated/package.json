@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-is-deprecated",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

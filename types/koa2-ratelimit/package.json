@@ -1,7 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa2-ratelimit",
     "private": true,
     "dependencies": {
-        "mongoose": "^6.3.0",
-        "@types/redis": "^2.8.0"
+        "@types/koa": "workspace:../koa",
+        "@types/redis": "^2.8.0",
+        "@types/sequelize": "workspace:../sequelize",
+        "mongoose": "^6.3.0"
     }
 }

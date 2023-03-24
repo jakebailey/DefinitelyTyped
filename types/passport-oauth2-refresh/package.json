@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-oauth2-refresh",
+    "private": true,
+    "dependencies": {
+        "@types/oauth": "workspace:../oauth",
+        "@types/passport-oauth2": "workspace:../passport-oauth2"
+    }
+}

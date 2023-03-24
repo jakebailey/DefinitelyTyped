@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/owl.carousel",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

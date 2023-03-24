@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jasmine-enzyme",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine",
+        "@types/react": "workspace:../react"
+    }
+}

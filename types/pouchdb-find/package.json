@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb-find",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-core": "workspace:../pouchdb-core"
+    }
+}

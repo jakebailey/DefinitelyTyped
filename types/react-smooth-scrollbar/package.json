@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-smooth-scrollbar",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "smooth-scrollbar": "^8.2.5"
     }
 }

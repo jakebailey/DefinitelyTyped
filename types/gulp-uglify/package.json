@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-uglify",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/uglify-js": "workspace:../uglify-js"
+    }
+}

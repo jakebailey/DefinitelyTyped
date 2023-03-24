@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/midi",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

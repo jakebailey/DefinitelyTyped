@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nginstack__devops",
+    "private": true,
+    "dependencies": {
+        "@types/nginstack__engine": "workspace:../nginstack__engine"
+    }
+}

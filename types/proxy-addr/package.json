@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/proxy-addr",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

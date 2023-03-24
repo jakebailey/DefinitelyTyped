@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/svg-maps__usa",
+    "private": true,
+    "dependencies": {
+        "@types/svg-maps__common": "workspace:../svg-maps__common"
+    }
+}

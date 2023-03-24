@@ -1,6 +1,8 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdfjs__serializer-rdfjs",
     "private": true,
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "rdf-js": "^4.0.2"
     }
-  }
+}

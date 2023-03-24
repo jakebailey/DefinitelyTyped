@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/parse-mockdb",
+    "private": true,
+    "dependencies": {
+        "@types/parse": "workspace:../parse/v1"
+    }
+}

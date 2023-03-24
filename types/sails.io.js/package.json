@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/sails.io.js",
     "private": true,
     "dependencies": {
         "@types/socket.io-client": "1.4.36"

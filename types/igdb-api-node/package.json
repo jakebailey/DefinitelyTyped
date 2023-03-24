@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/igdb-api-node",
+    "private": true,
+    "dependencies": {
+        "@types/apicalypse": "workspace:../apicalypse"
+    }
+}

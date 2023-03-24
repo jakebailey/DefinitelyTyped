@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-sequence",
+    "private": true,
+    "dependencies": {
+        "@types/gulp": "workspace:../gulp"
+    }
+}

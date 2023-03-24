@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/open-wc__testing-karma",
+    "private": true,
+    "dependencies": {
+        "@types/karma": "workspace:../karma"
+    }
+}

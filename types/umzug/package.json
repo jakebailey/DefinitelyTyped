@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/umzug",
     "private": true,
     "dependencies": {
+        "@types/sequelize": "workspace:../sequelize",
         "mongodb": "^4.1.4"
     }
 }

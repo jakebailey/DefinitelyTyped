@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/zedit__upf",
     "private": true,
     "dependencies": {
+        "@types/xelib": "workspace:../xelib",
         "electron": "^10.1.2",
         "fs-jetpack": "^3.1.0"
     }

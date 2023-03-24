@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa__multer",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa"
+    }
+}

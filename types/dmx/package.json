@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dmx",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-uuid",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai",
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mjml",
+    "private": true,
+    "dependencies": {
+        "@types/mjml-core": "workspace:../mjml-core"
+    }
+}

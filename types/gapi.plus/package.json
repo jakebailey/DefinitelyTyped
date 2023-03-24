@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gapi.plus",
+    "private": true,
+    "dependencies": {
+        "@types/gapi": "workspace:../gapi"
+    }
+}

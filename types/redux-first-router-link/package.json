@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/redux-first-router-link",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/redux-first-router": "workspace:../redux-first-router"
+    }
+}

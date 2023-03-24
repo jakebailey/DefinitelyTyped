@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-cablecar",
     "private": true,
     "dependencies": {
         "redux": "^4.0.4"

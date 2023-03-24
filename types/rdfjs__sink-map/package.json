@@ -1,6 +1,8 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdfjs__sink-map",
     "private": true,
     "dependencies": {
         "@rdfjs/types": "*"
     }
-  }
+}

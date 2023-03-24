@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vex-js",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

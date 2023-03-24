@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lambda-wrapper",
+    "private": true,
+    "dependencies": {
+        "@types/aws-lambda": "workspace:../aws-lambda"
+    }
+}

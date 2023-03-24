@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tweenjs",
+    "private": true,
+    "dependencies": {
+        "@types/createjs-lib": "workspace:../createjs-lib"
+    }
+}

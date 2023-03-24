@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/marko",
+    "private": true,
+    "dependencies": {
+        "@types/async-writer": "workspace:../async-writer",
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node"
+    }
+}

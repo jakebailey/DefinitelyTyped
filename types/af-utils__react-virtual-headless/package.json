@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/af-utils__react-virtual-headless",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

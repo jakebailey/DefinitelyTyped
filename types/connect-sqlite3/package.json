@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-sqlite3",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

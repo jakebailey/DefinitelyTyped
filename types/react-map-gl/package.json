@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-map-gl",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/mapbox-gl": "workspace:../mapbox-gl",
+        "@types/react": "workspace:../react",
+        "@types/viewport-mercator-project": "workspace:../viewport-mercator-project"
+    }
+}

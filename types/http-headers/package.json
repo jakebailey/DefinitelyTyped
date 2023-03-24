@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/http-headers",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rascal",
+    "private": true,
+    "dependencies": {
+        "@types/amqplib": "workspace:../amqplib",
+        "@types/node": "workspace:../node"
+    }
+}

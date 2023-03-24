@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-rev-all",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

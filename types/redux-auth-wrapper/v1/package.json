@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-auth-wrapper",
     "private": true,
     "dependencies": {
         "@types/history": "^3.2.5",
+        "@types/react": "workspace:../../react",
         "redux": "^3.7.2"
     }
 }

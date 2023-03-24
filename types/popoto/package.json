@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/popoto",
     "private": true,
     "dependencies": {
+        "@types/d3": "workspace:../d3",
         "neo4j-driver-lite": "^4.3.3"
     }
 }

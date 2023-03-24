@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-route",
     "private": true,
     "dependencies": {
+        "@types/koa": "workspace:../koa",
         "path-to-regexp": "^1.7.0"
     }
 }

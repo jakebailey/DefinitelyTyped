@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/reactcss",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

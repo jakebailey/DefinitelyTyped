@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-ejs",
+    "private": true,
+    "dependencies": {
+        "@types/ejs": "workspace:../ejs",
+        "@types/koa": "workspace:../koa"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wreck",
+    "private": true,
+    "dependencies": {
+        "@types/boom": "workspace:../boom",
+        "@types/node": "workspace:../node"
+    }
+}

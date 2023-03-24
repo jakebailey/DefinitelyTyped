@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-moment",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai"
+    }
+}

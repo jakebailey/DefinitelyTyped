@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sequelize-cursor-pagination",
+    "private": true,
+    "dependencies": {
+        "@types/sequelize": "workspace:../sequelize"
+    }
+}

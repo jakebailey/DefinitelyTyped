@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/aws-lambda-http-server",
+    "private": true,
+    "dependencies": {
+        "@types/aws-lambda": "workspace:../aws-lambda"
+    }
+}

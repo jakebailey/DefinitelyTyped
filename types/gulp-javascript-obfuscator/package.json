@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gulp-javascript-obfuscator",
     "private": true,
     "dependencies": {
+        "@types/readable-stream": "workspace:../readable-stream",
         "javascript-obfuscator": "^3.0.0"
     }
 }

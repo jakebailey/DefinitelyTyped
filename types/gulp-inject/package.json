@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-inject",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/vinyl": "workspace:../vinyl"
+    }
+}

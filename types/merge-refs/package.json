@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/merge-refs",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

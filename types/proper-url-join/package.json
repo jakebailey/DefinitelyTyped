@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/proper-url-join",
     "private": true,
     "dependencies": {
         "query-string": "^6.3.0"

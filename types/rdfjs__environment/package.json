@@ -1,6 +1,12 @@
 {
-  "private": true,
-  "dependencies": {
-      "@rdfjs/types": "*"
-  }
+    "CONVERTED": true,
+    "name": "@types/rdfjs__environment",
+    "private": true,
+    "dependencies": {
+        "@rdfjs/types": "*",
+        "@types/rdfjs__namespace": "workspace:../rdfjs__namespace",
+        "@types/rdfjs__sink-map": "workspace:../rdfjs__sink-map",
+        "@types/rdfjs__term-map": "workspace:../rdfjs__term-map",
+        "@types/rdfjs__term-set": "workspace:../rdfjs__term-set"
+    }
 }

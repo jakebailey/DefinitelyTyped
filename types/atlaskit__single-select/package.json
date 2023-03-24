@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/atlaskit__single-select",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

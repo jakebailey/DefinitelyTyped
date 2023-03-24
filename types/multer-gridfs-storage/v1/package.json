@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/multer-gridfs-storage",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../../express",
+        "@types/gridfs-stream": "workspace:../../gridfs-stream",
+        "@types/multer": "workspace:../../multer"
+    }
+}

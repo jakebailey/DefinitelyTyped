@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "zipkin": ">=0.11.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/zipkin-context-cls",
+    "private": true,
+    "dependencies": {
+        "zipkin": ">=0.11.0"
+    }
 }

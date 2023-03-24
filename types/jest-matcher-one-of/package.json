@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jest-matcher-one-of",
+    "private": true,
+    "dependencies": {
+        "@types/jest": "workspace:../jest"
+    }
+}

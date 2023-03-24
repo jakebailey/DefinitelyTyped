@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "graphql": "^15.1.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/graphql-iso-date",
+    "private": true,
+    "dependencies": {
+        "graphql": "^15.1.0"
+    }
 }

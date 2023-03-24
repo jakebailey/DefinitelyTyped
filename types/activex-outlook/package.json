@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-outlook",
     "private": true,
     "dependencies": {
+        "@types/activex-interop": "workspace:../activex-interop",
+        "@types/activex-office": "workspace:../activex-office",
+        "@types/activex-stdole": "workspace:../activex-stdole",
         "activex-helpers": "*"
     }
 }

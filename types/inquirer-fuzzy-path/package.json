@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/inquirer-fuzzy-path",
+    "private": true,
+    "dependencies": {
+        "@types/inquirer": "workspace:../inquirer/v8",
+        "@types/inquirer-autocomplete-prompt": "workspace:../inquirer-autocomplete-prompt/v2"
+    }
+}

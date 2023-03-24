@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gsheetdb",
     "private": true,
     "dependencies": {
         "@types/node": "^17.0.25",

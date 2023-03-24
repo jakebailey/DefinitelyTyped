@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/slate",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "immutable": "^3.8.2"
     }
 }

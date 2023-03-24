@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/echarts",
+    "private": true,
+    "dependencies": {
+        "@types/zrender": "workspace:../zrender"
+    }
+}

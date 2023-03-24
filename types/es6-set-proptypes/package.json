@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/es6-set-proptypes",
+    "private": true,
+    "dependencies": {
+        "@types/prop-types": "workspace:../prop-types"
+    }
+}

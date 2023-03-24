@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/use-global-hook",
     "private": true,
     "dependencies": {
         "immer": "^9.0.6"

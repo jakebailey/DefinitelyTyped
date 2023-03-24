@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tether-drop",
+    "private": true,
+    "dependencies": {
+        "@types/tether": "workspace:../tether"
+    }
+}

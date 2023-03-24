@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "electron": ">=1.6.10"
-  }
+    "CONVERTED": true,
+    "name": "@types/electron-spellchecker",
+    "private": true,
+    "dependencies": {
+        "electron": ">=1.6.10"
+    }
 }

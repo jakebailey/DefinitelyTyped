@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/unzip",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

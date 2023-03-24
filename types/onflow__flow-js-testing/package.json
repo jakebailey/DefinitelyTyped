@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/onflow__flow-js-testing",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

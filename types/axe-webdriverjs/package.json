@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/axe-webdriverjs",
     "private": true,
     "dependencies": {
+        "@types/selenium-webdriver": "workspace:../selenium-webdriver",
         "axe-core": "^3.0.3"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ghost-storage-base",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

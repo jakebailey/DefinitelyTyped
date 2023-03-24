@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet.markercluster.layersupport",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet",
+        "@types/leaflet.markercluster": "workspace:../leaflet.markercluster"
+    }
+}

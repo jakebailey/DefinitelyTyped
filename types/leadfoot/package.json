@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leadfoot",
+    "private": true,
+    "dependencies": {
+        "@types/dojo": "workspace:../dojo",
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rollup-plugin-auto-external",
     "private": true,
     "dependencies": {
         "rollup": ">=2.0.0"

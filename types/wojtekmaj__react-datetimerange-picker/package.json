@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wojtekmaj__react-datetimerange-picker",
+    "private": true,
+    "dependencies": {
+        "@types/react-calendar": "workspace:../react-calendar"
+    }
+}

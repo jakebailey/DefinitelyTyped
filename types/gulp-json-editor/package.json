@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-json-editor",
+    "private": true,
+    "dependencies": {
+        "@types/js-beautify": "workspace:../js-beautify",
+        "@types/node": "workspace:../node"
+    }
+}

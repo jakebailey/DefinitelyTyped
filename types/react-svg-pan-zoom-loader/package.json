@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-svg-pan-zoom-loader",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

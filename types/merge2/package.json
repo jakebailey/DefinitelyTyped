@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/merge2",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

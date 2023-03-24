@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jwt-express",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/jsonwebtoken": "workspace:../jsonwebtoken",
+        "@types/node": "workspace:../node"
+    }
+}

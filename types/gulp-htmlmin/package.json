@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-htmlmin",
+    "private": true,
+    "dependencies": {
+        "@types/html-minifier": "workspace:../html-minifier",
+        "@types/node": "workspace:../node"
+    }
+}

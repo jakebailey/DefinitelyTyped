@@ -1,0 +1,13 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-essentials",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-clipboard": "workspace:../../ckeditor__ckeditor5-clipboard",
+        "@types/ckeditor__ckeditor5-core": "workspace:../../ckeditor__ckeditor5-core",
+        "@types/ckeditor__ckeditor5-enter": "workspace:../../ckeditor__ckeditor5-enter",
+        "@types/ckeditor__ckeditor5-select-all": "workspace:../../ckeditor__ckeditor5-select-all",
+        "@types/ckeditor__ckeditor5-typing": "workspace:../../ckeditor__ckeditor5-typing",
+        "@types/ckeditor__ckeditor5-undo": "workspace:../../ckeditor__ckeditor5-undo"
+    }
+}

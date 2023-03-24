@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/request-stats",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

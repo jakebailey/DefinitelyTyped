@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ledgerhq__hw-transport-node-hid",
+    "private": true,
+    "dependencies": {
+        "@types/ledgerhq__hw-transport": "workspace:../ledgerhq__hw-transport",
+        "@types/node": "workspace:../node",
+        "@types/node-hid": "workspace:../node-hid"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fill-pdf",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

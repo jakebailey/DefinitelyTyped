@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angulartics",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

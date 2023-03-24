@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-scale",
+    "private": true,
+    "dependencies": {
+        "@types/d3-time": "workspace:../../d3-time/v1"
+    }
+}

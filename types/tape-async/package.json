@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tape-async",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/tape": "workspace:../tape"
+    }
+}

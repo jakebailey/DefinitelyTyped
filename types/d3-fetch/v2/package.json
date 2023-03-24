@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-fetch",
+    "private": true,
+    "dependencies": {
+        "@types/d3-dsv": "workspace:../../d3-dsv/v2"
+    }
+}

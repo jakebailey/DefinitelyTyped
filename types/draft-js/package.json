@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/draft-js",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "immutable": "~3.7.4"
     }
 }

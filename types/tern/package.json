@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tern",
+    "private": true,
+    "dependencies": {
+        "@types/estree": "workspace:../estree"
+    }
+}

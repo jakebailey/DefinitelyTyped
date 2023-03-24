@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/meteor-synced-cron",
+    "private": true,
+    "dependencies": {
+        "@types/later": "workspace:../later"
+    }
+}

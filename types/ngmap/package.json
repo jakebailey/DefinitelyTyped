@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ngmap",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/google.maps": "workspace:../google.maps"
+    }
+}

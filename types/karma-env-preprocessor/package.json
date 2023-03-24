@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/karma-env-preprocessor",
+    "private": true,
+    "dependencies": {
+        "@types/karma": "workspace:../karma"
+    }
+}

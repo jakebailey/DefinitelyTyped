@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/db-migrate-pg",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/db-migrate-base": "workspace:../db-migrate-base",
+        "@types/pg": "workspace:../pg"
+    }
+}

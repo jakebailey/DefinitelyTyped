@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rsmq-worker",
     "private": true,
     "dependencies": {
+        "@types/redis": "*",
         "@types/rsmq": "^0.3.27"
     }
 }

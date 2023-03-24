@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angularjs-dragula",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/dragula": "workspace:../dragula"
+    }
+}

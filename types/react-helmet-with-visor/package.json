@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-helmet-with-visor",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

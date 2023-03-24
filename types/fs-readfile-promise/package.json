@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fs-readfile-promise",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

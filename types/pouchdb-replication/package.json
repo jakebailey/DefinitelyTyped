@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb-replication",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-core": "workspace:../pouchdb-core",
+        "@types/pouchdb-find": "workspace:../pouchdb-find"
+    }
+}

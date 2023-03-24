@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-microsoft",
+    "private": true,
+    "dependencies": {
+        "@types/passport-oauth2": "workspace:../passport-oauth2"
+    }
+}

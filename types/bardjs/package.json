@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bardjs",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/chai": "workspace:../chai",
+        "@types/mocha": "workspace:../mocha"
+    }
+}

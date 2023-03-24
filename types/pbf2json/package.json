@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pbf2json",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet.awesome-markers",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../../leaflet/v0"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yauzl-promise",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/yauzl": "workspace:../yauzl"
+    }
+}

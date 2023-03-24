@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "graphql": "*"
-  }
+    "CONVERTED": true,
+    "name": "@types/graphql-fields",
+    "private": true,
+    "dependencies": {
+        "graphql": "*"
+    }
 }

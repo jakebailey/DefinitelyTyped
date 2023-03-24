@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/styled-react-modal",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/styled-components": "workspace:../styled-components"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-plumber",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

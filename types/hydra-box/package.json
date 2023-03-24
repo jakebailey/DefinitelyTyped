@@ -1,6 +1,15 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hydra-box",
     "private": true,
     "dependencies": {
-      "@rdfjs/types": "*"
+        "@rdfjs/types": "*",
+        "@types/absolute-url": "workspace:../absolute-url",
+        "@types/clownface": "workspace:../clownface",
+        "@types/express": "workspace:../express",
+        "@types/rdf-ext": "workspace:../rdf-ext",
+        "@types/rdf-loaders-registry": "workspace:../rdf-loaders-registry",
+        "@types/rdfjs__express-handler": "workspace:../rdfjs__express-handler",
+        "@types/set-link": "workspace:../set-link"
     }
-  }
+}

@@ -1,0 +1,15 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa",
+    "private": true,
+    "dependencies": {
+        "@types/accepts": "workspace:../accepts",
+        "@types/content-disposition": "workspace:../content-disposition",
+        "@types/cookies": "workspace:../cookies",
+        "@types/http-assert": "workspace:../http-assert",
+        "@types/http-errors": "workspace:../http-errors",
+        "@types/keygrip": "workspace:../keygrip",
+        "@types/koa-compose": "workspace:../koa-compose",
+        "@types/node": "workspace:../node"
+    }
+}

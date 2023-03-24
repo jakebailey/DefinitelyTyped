@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tinder",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

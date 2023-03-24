@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmpp__sasl-anonymous",
+    "private": true,
+    "dependencies": {
+        "@types/xmpp__sasl": "workspace:../xmpp__sasl"
+    }
+}

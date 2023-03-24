@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/page-icon",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

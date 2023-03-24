@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/preact-virtual-list",
     "private": true,
     "dependencies": {
         "preact": "^10.0.0"

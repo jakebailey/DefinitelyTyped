@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/karma-detect-browsers",
+    "private": true,
+    "dependencies": {
+        "@types/karma": "workspace:../karma"
+    }
+}

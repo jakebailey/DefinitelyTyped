@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/memjs",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

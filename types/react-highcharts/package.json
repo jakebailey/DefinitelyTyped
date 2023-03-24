@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-highcharts",
     "private": true,
     "dependencies": {
-        "@types/highcharts": "^5.0.44"
+        "@types/highcharts": "^5.0.44",
+        "@types/react": "workspace:../react"
     }
 }

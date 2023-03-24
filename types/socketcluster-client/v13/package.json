@@ -1,0 +1,13 @@
+{
+    "CONVERTED": true,
+    "name": "@types/socketcluster-client",
+    "private": true,
+    "dependencies": {
+        "@types/component-emitter": "workspace:../../component-emitter",
+        "@types/sc-auth": "workspace:../../sc-auth",
+        "@types/sc-channel": "workspace:../../sc-channel/v1",
+        "@types/sc-errors": "workspace:../../sc-errors",
+        "@types/socketcluster-server": "workspace:../../socketcluster-server/v14",
+        "@types/ws": "workspace:../../ws"
+    }
+}

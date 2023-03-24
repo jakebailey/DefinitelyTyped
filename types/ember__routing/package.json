@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember__routing",
+    "private": true,
+    "dependencies": {
+        "@types/ember": "workspace:../ember",
+        "@types/ember__controller": "workspace:../ember__controller",
+        "@types/ember__object": "workspace:../ember__object",
+        "@types/ember__service": "workspace:../ember__service"
+    }
+}

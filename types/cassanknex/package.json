@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/cassanknex",
     "private": true,
     "dependencies": {
+        "@types/long": "*",
+        "@types/node": "workspace:../node",
         "cassandra-driver": "^4.2.0"
     }
 }

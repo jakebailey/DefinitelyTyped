@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/phantomcss",
+    "private": true,
+    "dependencies": {
+        "@types/casperjs": "workspace:../casperjs",
+        "@types/resemblejs": "workspace:../resemblejs"
+    }
+}

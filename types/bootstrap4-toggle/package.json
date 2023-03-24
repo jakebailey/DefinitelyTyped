@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bootstrap4-toggle",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

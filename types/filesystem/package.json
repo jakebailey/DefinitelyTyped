@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/filesystem",
+    "private": true,
+    "dependencies": {
+        "@types/filewriter": "workspace:../filewriter"
+    }
+}

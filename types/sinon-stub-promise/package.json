@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sinon-stub-promise",
+    "private": true,
+    "dependencies": {
+        "@types/sinon": "workspace:../sinon"
+    }
+}

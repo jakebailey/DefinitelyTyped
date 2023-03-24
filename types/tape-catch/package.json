@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tape-catch",
+    "private": true,
+    "dependencies": {
+        "@types/tape": "workspace:../tape"
+    }
+}

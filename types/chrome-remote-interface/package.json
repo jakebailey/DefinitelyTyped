@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/chrome-remote-interface",
     "private": true,
     "dependencies": {
         "devtools-protocol": "0.0.927104"

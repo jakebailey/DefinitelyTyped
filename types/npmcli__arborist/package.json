@@ -1,6 +1,11 @@
 {
-  "dependencies": {
-    "@npm/types": "*"
-  },
-  "private": true
+    "CONVERTED": true,
+    "name": "@types/npmcli__arborist",
+    "private": true,
+    "dependencies": {
+        "@npm/types": "*",
+        "@types/cacache": "workspace:../cacache",
+        "@types/npmcli__package-json": "workspace:../npmcli__package-json",
+        "@types/pacote": "workspace:../pacote"
+    }
 }

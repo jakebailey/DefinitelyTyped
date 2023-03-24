@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/color",
+    "private": true,
+    "dependencies": {
+        "@types/color-convert": "workspace:../../color-convert"
+    }
+}

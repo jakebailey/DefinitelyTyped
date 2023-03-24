@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/libsodium-wrappers-sumo",
+    "private": true,
+    "dependencies": {
+        "@types/libsodium-wrappers": "workspace:../libsodium-wrappers"
+    }
+}

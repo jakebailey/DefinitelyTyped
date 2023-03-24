@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-compress",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa",
+        "@types/node": "workspace:../node"
+    }
+}

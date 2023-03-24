@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/keycloak-connect-roles",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/cache-manager-redis-store",
     "private": true,
     "dependencies": {
+        "@types/cache-manager": "workspace:../cache-manager",
         "@types/redis": "^2.8.0"
     }
 }

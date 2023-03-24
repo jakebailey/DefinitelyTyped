@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cookie-session",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/keygrip": "workspace:../keygrip"
+    }
+}

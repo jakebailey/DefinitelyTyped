@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/crc32-stream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

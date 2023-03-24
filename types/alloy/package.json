@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/alloy",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone",
+        "@types/titanium": "workspace:../titanium"
+    }
+}

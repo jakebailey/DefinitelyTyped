@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/slocket",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

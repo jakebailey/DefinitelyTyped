@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmpp__connection",
+    "private": true,
+    "dependencies": {
+        "@types/xmpp__error": "workspace:../xmpp__error",
+        "@types/xmpp__events": "workspace:../xmpp__events",
+        "@types/xmpp__jid": "workspace:../xmpp__jid",
+        "@types/xmpp__xml": "workspace:../xmpp__xml"
+    }
+}

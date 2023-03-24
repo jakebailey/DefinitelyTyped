@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/enzyme",
+    "private": true,
+    "dependencies": {
+        "@types/cheerio": "workspace:../cheerio",
+        "@types/react": "workspace:../react"
+    }
+}

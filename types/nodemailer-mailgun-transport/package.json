@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nodemailer-mailgun-transport",
+    "private": true,
+    "dependencies": {
+        "@types/nodemailer": "workspace:../nodemailer"
+    }
+}

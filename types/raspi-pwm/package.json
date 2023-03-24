@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/raspi-pwm",
+    "private": true,
+    "dependencies": {
+        "@types/raspi-peripheral": "workspace:../raspi-peripheral"
+    }
+}

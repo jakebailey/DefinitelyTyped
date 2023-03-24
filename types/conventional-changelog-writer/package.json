@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/conventional-changelog-writer",
+    "private": true,
+    "dependencies": {
+        "@types/conventional-commits-parser": "workspace:../conventional-commits-parser",
+        "@types/node": "workspace:../node"
+    }
+}

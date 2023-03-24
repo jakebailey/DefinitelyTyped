@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-window",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

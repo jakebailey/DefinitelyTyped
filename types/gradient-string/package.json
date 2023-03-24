@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gradient-string",
+    "private": true,
+    "dependencies": {
+        "@types/tinycolor2": "workspace:../tinycolor2"
+    }
+}

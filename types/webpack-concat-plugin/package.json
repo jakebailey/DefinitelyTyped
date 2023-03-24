@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpack-concat-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/uglify-js": "workspace:../uglify-js",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

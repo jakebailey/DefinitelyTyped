@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stream-write",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/knockout-secure-binding",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout"
+    }
+}

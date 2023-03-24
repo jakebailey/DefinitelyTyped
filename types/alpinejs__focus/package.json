@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/alpinejs__focus",
+    "private": true,
+    "dependencies": {
+        "@types/alpinejs": "workspace:../alpinejs"
+    }
+}

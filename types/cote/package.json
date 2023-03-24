@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/cote",
     "private": true,
     "dependencies": {
         "@types/socket.io": "2.1.13",

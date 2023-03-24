@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/protractor-helpers",
+    "private": true,
+    "dependencies": {
+        "@types/selenium-webdriver": "workspace:../selenium-webdriver/v3"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-log4",
     "private": true,
     "dependencies": {
+        "@types/koa": "workspace:../koa",
         "log4js": "^3.0.0"
     }
 }

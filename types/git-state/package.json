@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/git-state",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

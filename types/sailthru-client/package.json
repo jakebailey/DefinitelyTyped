@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sailthru-client",
+    "private": true,
+    "dependencies": {
+        "@types/restler": "workspace:../restler"
+    }
+}

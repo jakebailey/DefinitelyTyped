@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-responsive-images",
+    "private": true,
+    "dependencies": {
+        "@types/gm": "workspace:../gm",
+        "@types/gulp-rename": "workspace:../gulp-rename",
+        "@types/node": "workspace:../node"
+    }
+}

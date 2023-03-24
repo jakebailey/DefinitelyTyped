@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sc-framework-health-check",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/socketcluster": "workspace:../socketcluster"
+    }
+}

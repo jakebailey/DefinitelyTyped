@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmpp__session-establishment",
+    "private": true,
+    "dependencies": {
+        "@types/xmpp__iq": "workspace:../xmpp__iq",
+        "@types/xmpp__middleware": "workspace:../xmpp__middleware",
+        "@types/xmpp__stream-features": "workspace:../xmpp__stream-features"
+    }
+}

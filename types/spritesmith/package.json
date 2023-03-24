@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/spritesmith",
+    "private": true,
+    "dependencies": {
+        "@types/vinyl": "workspace:../vinyl"
+    }
+}

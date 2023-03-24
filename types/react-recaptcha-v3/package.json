@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-recaptcha-v3",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

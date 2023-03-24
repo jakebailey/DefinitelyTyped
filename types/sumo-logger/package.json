@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/sumo-logger",
     "private": true,
     "dependencies": {
         "@types/expect": "^1.20.4"

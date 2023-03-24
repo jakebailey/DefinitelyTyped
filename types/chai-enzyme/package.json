@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-enzyme",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai",
+        "@types/cheerio": "workspace:../cheerio",
+        "@types/enzyme": "workspace:../enzyme",
+        "@types/react": "workspace:../react"
+    }
+}

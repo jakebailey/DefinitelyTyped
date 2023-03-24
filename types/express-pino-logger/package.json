@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/express-pino-logger",
     "private": true,
     "dependencies": {
-        "@types/pino": "6.3"
+        "@types/pino": "6.3",
+        "@types/pino-http": "workspace:../pino-http"
     }
 }

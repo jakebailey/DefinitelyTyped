@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/pg",
     "private": true,
     "dependencies": {
-        "pg-types": "^2.2.0",
-        "pg-protocol": "*"
+        "@types/node": "workspace:../node",
+        "pg-protocol": "*",
+        "pg-types": "^2.2.0"
     }
 }

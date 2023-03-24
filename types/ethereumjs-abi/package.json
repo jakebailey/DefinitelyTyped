@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ethereumjs-abi",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

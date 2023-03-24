@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/event-to-promise",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

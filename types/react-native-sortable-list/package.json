@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-sortable-list",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-native": "workspace:../react-native"
+    }
+}

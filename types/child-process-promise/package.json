@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/child-process-promise",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

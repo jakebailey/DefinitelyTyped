@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/redux-storage-engine-localstorage",
+    "private": true,
+    "dependencies": {
+        "@types/redux-storage": "workspace:../redux-storage"
+    }
+}

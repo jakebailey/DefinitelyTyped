@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/web-push",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

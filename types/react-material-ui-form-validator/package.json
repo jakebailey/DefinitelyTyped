@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-material-ui-form-validator",
+    "private": true,
+    "dependencies": {
+        "@types/material-ui": "workspace:../material-ui",
+        "@types/react": "workspace:../react"
+    }
+}

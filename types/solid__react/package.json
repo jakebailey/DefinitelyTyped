@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/solid__react",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/inert",
+    "private": true,
+    "dependencies": {
+        "@types/hapi": "workspace:../../hapi/v16"
+    }
+}

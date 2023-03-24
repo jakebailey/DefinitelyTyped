@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/refractor",
+    "private": true,
+    "dependencies": {
+        "@types/prismjs": "workspace:../prismjs"
+    }
+}

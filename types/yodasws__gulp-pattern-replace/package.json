@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yodasws__gulp-pattern-replace",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/replacestream": "workspace:../replacestream"
+    }
+}

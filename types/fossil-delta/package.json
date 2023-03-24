@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fossil-delta",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

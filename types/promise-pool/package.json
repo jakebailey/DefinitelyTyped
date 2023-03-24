@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/promise-pool",
+    "private": true,
+    "dependencies": {
+        "@types/q": "workspace:../q/v0",
+        "@types/q-retry": "workspace:../q-retry"
+    }
+}

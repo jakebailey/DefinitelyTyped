@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/post-message-stream",
+    "private": true,
+    "dependencies": {
+        "@types/readable-stream": "workspace:../readable-stream"
+    }
+}

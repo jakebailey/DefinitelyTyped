@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/enzyme-redux",
+    "private": true,
+    "dependencies": {
+        "@types/enzyme": "workspace:../enzyme",
+        "@types/react": "workspace:../react"
+    }
+}

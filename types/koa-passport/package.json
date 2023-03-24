@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-passport",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa",
+        "@types/passport": "workspace:../passport"
+    }
+}

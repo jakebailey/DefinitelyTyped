@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/w3c-image-capture",
+    "private": true,
+    "dependencies": {
+        "@types/webrtc": "workspace:../webrtc"
+    }
+}

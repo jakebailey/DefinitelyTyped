@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gestalt-datepicker",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

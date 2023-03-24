@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-timeout",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/react": "workspace:../react"
+    }
+}

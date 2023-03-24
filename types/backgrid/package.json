@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/backgrid",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone"
+    }
+}

@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "@maxim_mazurok/gapi.client.drive-v2": "latest"
-  }
+    "CONVERTED": true,
+    "name": "@types/gapi.client.drive-v2",
+    "private": true,
+    "dependencies": {
+        "@maxim_mazurok/gapi.client.drive-v2": "latest"
+    }
 }

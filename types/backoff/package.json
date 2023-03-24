@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/backoff",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

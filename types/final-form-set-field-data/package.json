@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/final-form-set-field-data",
     "private": true,
     "dependencies": {
         "final-form": "4.x.x"

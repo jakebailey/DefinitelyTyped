@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hapi__basic",
     "private": true,
     "dependencies": {
         "@hapi/hapi": "^21.1.0",

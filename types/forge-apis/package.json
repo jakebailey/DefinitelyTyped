@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/forge-apis",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

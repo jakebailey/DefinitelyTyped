@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/polycrc",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

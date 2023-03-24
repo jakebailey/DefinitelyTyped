@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-shdocvw",
     "private": true,
     "dependencies": {
+        "@types/activex-interop": "workspace:../activex-interop",
         "activex-helpers": "*"
     }
 }

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/testing-library__cypress",
     "private": true,
     "dependencies": {
         "@testing-library/dom": "^7.11.0",

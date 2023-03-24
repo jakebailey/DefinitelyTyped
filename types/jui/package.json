@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jui",
+    "private": true,
+    "dependencies": {
+        "@types/jui-core": "workspace:../jui-core"
+    }
+}

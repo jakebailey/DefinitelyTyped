@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/humblebee__styled-components-breakpoint",
     "private": true,
     "dependencies": {
+        "@types/styled-components": "workspace:../styled-components",
         "csstype": "^3.0.2"
     }
 }

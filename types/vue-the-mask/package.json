@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.6.10"
-  }
+    "CONVERTED": true,
+    "name": "@types/vue-the-mask",
+    "private": true,
+    "dependencies": {
+        "vue": "^2.6.10"
+    }
 }

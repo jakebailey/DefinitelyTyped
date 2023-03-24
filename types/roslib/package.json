@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/roslib",
     "private": true,
     "dependencies": {
         "eventemitter2": "^6.4.0"

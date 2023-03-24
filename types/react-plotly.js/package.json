@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-plotly.js",
+    "private": true,
+    "dependencies": {
+        "@types/plotly.js": "workspace:../plotly.js",
+        "@types/react": "workspace:../react"
+    }
+}

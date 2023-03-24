@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/strong-log-transformer",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

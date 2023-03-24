@@ -1,6 +1,11 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/express-serve-static-core": "^4.17.33"
-  }
+    "CONVERTED": true,
+    "name": "@types/express",
+    "private": true,
+    "dependencies": {
+        "@types/body-parser": "workspace:../body-parser",
+        "@types/express-serve-static-core": "^4.17.33",
+        "@types/qs": "workspace:../qs",
+        "@types/serve-static": "workspace:../serve-static"
+    }
 }

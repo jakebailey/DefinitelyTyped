@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/eslint",
     "private": true,
     "exports": {
         ".": {
@@ -10,5 +12,9 @@
         "./rules": {
             "types": "./rules/index.d.ts"
         }
+    },
+    "dependencies": {
+        "@types/estree": "workspace:../estree",
+        "@types/json-schema": "workspace:../json-schema"
     }
 }

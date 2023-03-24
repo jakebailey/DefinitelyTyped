@@ -1,7 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "next": "^12.2.5 || ^13.0.0",
-    "workbox-build": "^6.5.4"
-  }
+    "CONVERTED": true,
+    "name": "@types/next-pwa",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "next": "^12.2.5 || ^13.0.0",
+        "workbox-build": "^6.5.4"
+    }
 }

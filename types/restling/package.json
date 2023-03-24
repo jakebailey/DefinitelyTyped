@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/restling",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/restler": "workspace:../restler"
+    }
+}

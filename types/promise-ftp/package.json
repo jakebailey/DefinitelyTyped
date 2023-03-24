@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/promise-ftp",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/ftp": "workspace:../ftp",
+        "@types/node": "workspace:../node",
+        "@types/promise-ftp-common": "workspace:../promise-ftp-common"
+    }
+}

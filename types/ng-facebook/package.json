@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ng-facebook",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/facebook-js-sdk": "workspace:../facebook-js-sdk"
+    }
+}

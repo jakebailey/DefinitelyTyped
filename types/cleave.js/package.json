@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cleave.js",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

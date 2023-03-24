@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/db-migrate-base",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/node": "workspace:../node"
+    }
+}

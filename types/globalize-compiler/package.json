@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/globalize-compiler",
+    "private": true,
+    "dependencies": {
+        "@types/estree": "workspace:../estree",
+        "@types/globalize": "workspace:../globalize"
+    }
+}

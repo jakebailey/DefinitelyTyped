@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/swagger-ui-express",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/serve-static": "workspace:../serve-static"
+    }
+}

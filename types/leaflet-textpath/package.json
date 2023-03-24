@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet-textpath",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet",
+        "@types/react": "workspace:../react"
+    }
+}

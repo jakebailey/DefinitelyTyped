@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sequelize-fixtures",
+    "private": true,
+    "dependencies": {
+        "@types/sequelize": "workspace:../sequelize"
+    }
+}

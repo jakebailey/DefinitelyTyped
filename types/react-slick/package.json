@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-slick",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

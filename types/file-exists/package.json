@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/file-exists",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/open-graph",
+    "private": true,
+    "dependencies": {
+        "@types/cheerio": "workspace:../cheerio"
+    }
+}

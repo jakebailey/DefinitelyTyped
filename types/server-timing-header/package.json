@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/server-timing-header",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

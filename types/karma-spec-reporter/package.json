@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/karma-spec-reporter",
+    "private": true,
+    "dependencies": {
+        "@types/karma": "workspace:../karma"
+    }
+}

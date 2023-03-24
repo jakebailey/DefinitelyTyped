@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/any-db-transaction",
+    "private": true,
+    "dependencies": {
+        "@types/any-db": "workspace:../any-db",
+        "@types/node": "workspace:../node"
+    }
+}

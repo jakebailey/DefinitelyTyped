@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/static-eval",
+    "private": true,
+    "dependencies": {
+        "@types/esprima": "workspace:../esprima",
+        "@types/estree": "workspace:../estree"
+    }
+}

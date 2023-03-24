@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-popover",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

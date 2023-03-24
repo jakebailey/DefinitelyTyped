@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/shakacode__recompose",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

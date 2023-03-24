@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/superagent-no-cache",
+    "private": true,
+    "dependencies": {
+        "@types/superagent": "workspace:../superagent"
+    }
+}

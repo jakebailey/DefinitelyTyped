@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-image-fallback",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

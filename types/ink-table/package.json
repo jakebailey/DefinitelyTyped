@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ink-table",
     "private": true,
     "dependencies": {
         "@types/ink": "^0.5.2"

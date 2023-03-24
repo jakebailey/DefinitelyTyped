@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsreport-html-to-xlsx",
+    "private": true,
+    "dependencies": {
+        "@types/jsreport-core": "workspace:../../jsreport-core",
+        "@types/jsreport-xlsx": "workspace:../../jsreport-xlsx"
+    }
+}

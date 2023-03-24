@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/website-scraper",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

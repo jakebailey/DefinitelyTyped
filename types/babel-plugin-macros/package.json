@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/babel-plugin-macros",
+    "private": true,
+    "dependencies": {
+        "@types/babel__core": "workspace:../babel__core"
+    }
+}

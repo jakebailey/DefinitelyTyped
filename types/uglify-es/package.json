@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/uglify-es",
+    "private": true,
+    "dependencies": {
+        "@types/uglify-js": "workspace:../uglify-js"
+    }
+}

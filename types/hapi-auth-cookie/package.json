@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hapi-auth-cookie",
+    "private": true,
+    "dependencies": {
+        "@types/hapi": "workspace:../hapi"
+    }
+}

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/postcss-safe-parser",
     "private": true,
     "dependencies": {
         "postcss": "^8.4.4"

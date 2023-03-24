@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/are-we-there-yet",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

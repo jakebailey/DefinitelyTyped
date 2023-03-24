@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/mssql",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/tedious": "workspace:../tedious",
         "tarn": "^3.0.1"
     }
 }

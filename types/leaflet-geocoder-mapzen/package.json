@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet-geocoder-mapzen",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet/v0"
+    }
+}

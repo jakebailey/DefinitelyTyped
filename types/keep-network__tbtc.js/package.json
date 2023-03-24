@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/keep-network__tbtc.js",
+    "private": true,
+    "dependencies": {
+        "@types/bn.js": "workspace:../bn.js",
+        "@types/node": "workspace:../node"
+    }
+}

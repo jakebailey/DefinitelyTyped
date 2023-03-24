@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/metro-babel-transformer",
+    "private": true,
+    "dependencies": {
+        "@types/metro-source-map": "workspace:../metro-source-map"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/unbzip2-stream",
+    "private": true,
+    "dependencies": {
+        "@types/through": "workspace:../through"
+    }
+}

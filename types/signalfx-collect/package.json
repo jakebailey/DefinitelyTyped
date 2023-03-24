@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/signalfx-collect",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/koa": "workspace:../koa",
+        "@types/signalfx": "workspace:../signalfx"
+    }
+}

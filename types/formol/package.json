@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/formol",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

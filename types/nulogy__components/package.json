@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nulogy__components",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

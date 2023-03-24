@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/use-persisted-state",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

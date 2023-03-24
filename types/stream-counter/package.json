@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stream-counter",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

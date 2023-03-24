@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bs58check",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

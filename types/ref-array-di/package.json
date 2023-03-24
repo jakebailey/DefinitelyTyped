@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ref-array-di",
+    "private": true,
+    "dependencies": {
+        "@types/ref-napi": "workspace:../ref-napi"
+    }
+}

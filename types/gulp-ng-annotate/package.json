@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-ng-annotate",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/binary-file",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

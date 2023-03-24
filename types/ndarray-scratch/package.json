@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ndarray-scratch",
+    "private": true,
+    "dependencies": {
+        "@types/ndarray": "workspace:../ndarray"
+    }
+}

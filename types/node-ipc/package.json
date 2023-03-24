@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-ipc",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

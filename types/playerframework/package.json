@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/playerframework",
+    "private": true,
+    "dependencies": {
+        "@types/winrt": "workspace:../winrt"
+    }
+}

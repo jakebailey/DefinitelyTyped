@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/mpesa-node",
     "private": true,
     "dependencies": {
         "axios": "^0.19.2"

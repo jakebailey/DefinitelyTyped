@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/cypress-dark",
     "private": true,
     "dependencies": {
         "cypress": "8.5.0"

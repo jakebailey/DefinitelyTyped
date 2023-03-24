@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-star-ratings",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

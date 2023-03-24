@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/apicache",
     "private": true,
     "dependencies": {
         "@types/redis": "^2.8.0"

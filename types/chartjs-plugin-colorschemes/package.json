@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chartjs-plugin-colorschemes",
+    "private": true,
+    "dependencies": {
+        "@types/chart.js": "workspace:../chart.js"
+    }
+}

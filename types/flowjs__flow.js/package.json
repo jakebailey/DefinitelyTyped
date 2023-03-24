@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/flowjs__flow.js",
+    "private": true,
+    "dependencies": {
+        "@types/flowjs": "workspace:../flowjs"
+    }
+}

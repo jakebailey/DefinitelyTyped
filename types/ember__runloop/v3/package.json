@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember__runloop",
+    "private": true,
+    "dependencies": {
+        "@types/ember__runloop": "workspace:../v3"
+    }
+}

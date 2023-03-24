@@ -1,6 +1,8 @@
 {
+    "CONVERTED": true,
+    "name": "@types/metascraper-uol",
+    "private": true,
     "dependencies": {
         "metascraper": "^5.14.0"
-    },
-    "private": true
+    }
 }

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-flatpickr",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "flatpickr": "^4.0.6"
     }
 }

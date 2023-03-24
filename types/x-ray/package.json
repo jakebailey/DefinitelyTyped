@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/x-ray",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/node": "workspace:../node",
+        "@types/x-ray-crawler": "workspace:../x-ray-crawler"
+    }
+}

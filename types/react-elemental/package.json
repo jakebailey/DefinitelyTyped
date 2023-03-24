@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-elemental",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

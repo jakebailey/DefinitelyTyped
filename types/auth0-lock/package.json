@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/auth0-lock",
+    "private": true,
+    "dependencies": {
+        "@types/auth0-js": "workspace:../auth0-js"
+    }
+}

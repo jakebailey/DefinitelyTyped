@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rifat__miio",
+    "private": true,
+    "dependencies": {
+        "@types/abstract-things": "workspace:../abstract-things",
+        "@types/node": "workspace:../node"
+    }
+}

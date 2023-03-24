@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redlock",
     "private": true,
     "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
         "@types/ioredis": "^4.28.10",
         "@types/redis": "^2.8.0"
     }

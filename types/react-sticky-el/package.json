@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-sticky-el",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

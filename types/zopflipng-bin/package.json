@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/zopflipng-bin",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

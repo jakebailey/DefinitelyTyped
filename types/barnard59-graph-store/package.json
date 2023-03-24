@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/barnard59-graph-store",
     "private": true,
     "dependencies": {
+        "@types/readable-stream": "workspace:../readable-stream",
         "rdf-js": "^4.0.2"
     }
 }

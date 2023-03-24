@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-ellipsis-with-tooltip",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

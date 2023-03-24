@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jasmine-promise-matchers",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine"
+    }
+}

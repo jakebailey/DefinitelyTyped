@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mock-require",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

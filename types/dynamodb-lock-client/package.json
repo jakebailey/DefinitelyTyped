@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dynamodb-lock-client",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sql.js",
+    "private": true,
+    "dependencies": {
+        "@types/emscripten": "workspace:../emscripten",
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yargs-interactive",
+    "private": true,
+    "dependencies": {
+        "@types/yargs": "workspace:../yargs"
+    }
+}

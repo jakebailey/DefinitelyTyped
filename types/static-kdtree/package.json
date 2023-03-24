@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/static-kdtree",
+    "private": true,
+    "dependencies": {
+        "@types/ndarray": "workspace:../ndarray"
+    }
+}

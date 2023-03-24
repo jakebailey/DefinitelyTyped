@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/eslint-plugin-prettier",
+    "private": true,
+    "dependencies": {
+        "@types/eslint": "workspace:../eslint"
+    }
+}

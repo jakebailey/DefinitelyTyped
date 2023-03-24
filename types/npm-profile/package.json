@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/npm-profile",
+    "private": true,
+    "dependencies": {
+        "@types/npm-registry-fetch": "workspace:../npm-registry-fetch"
+    }
+}

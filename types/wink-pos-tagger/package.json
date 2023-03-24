@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wink-pos-tagger",
+    "private": true,
+    "dependencies": {
+        "@types/wink-tokenizer": "workspace:../wink-tokenizer"
+    }
+}

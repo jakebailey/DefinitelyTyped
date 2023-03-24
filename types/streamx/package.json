@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/streamx",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

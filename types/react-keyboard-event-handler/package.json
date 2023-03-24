@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-keyboard-event-handler",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

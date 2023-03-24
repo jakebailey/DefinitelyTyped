@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/enzyme-react-intl",
     "private": true,
     "dependencies": {
+        "@types/enzyme": "workspace:../enzyme",
+        "@types/react": "workspace:../react",
         "react-intl": "^3"
     }
 }

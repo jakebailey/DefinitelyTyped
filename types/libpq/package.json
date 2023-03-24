@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/libpq",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/browser-sync-webpack-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/browser-sync": "workspace:../browser-sync",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

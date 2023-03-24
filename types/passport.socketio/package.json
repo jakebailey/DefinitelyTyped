@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/passport.socketio",
     "private": true,
     "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/express-session": "workspace:../express-session",
+        "@types/passport": "workspace:../passport",
         "@types/socket.io": "2.1.13"
     }
 }

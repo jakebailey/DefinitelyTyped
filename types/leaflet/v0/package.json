@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../../geojson"
+    }
+}

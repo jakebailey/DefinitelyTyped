@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/transform-pouch",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-core": "workspace:../pouchdb-core"
+    }
+}

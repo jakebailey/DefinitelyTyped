@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/relay-test-utils",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-relay": "workspace:../react-relay",
+        "@types/relay-runtime": "workspace:../relay-runtime"
+    }
+}

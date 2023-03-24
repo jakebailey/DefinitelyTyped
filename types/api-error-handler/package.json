@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/api-error-handler",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

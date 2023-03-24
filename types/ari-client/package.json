@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ari-client",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

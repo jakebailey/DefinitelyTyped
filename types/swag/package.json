@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/swag",
     "private": true,
     "dependencies": {
         "handlebars": "^4.1.0"

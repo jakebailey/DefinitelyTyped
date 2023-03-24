@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gettext-parser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/readable-stream": "workspace:../readable-stream"
+    }
+}

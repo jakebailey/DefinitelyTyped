@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/virtual-keyboard",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

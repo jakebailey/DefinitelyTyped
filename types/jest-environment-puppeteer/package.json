@@ -1,8 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jest-environment-puppeteer",
     "private": true,
     "dependencies": {
         "@jest/types": ">=24 <=27",
-        "jest-environment-node": ">=24 <=27",
-        "@types/puppeteer": "^5.4.0"
+        "@types/puppeteer": "^5.4.0",
+        "jest-environment-node": ">=24 <=27"
     }
 }

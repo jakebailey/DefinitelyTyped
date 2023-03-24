@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-youtube-embed",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

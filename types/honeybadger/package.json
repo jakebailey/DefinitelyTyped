@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/honeybadger",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

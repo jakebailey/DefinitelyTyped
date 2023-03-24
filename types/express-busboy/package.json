@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-busboy",
+    "private": true,
+    "dependencies": {
+        "@types/connect-busboy": "workspace:../connect-busboy",
+        "@types/express": "workspace:../express"
+    }
+}

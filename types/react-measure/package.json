@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-measure",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

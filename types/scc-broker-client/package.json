@@ -1,0 +1,14 @@
+{
+    "CONVERTED": true,
+    "name": "@types/scc-broker-client",
+    "private": true,
+    "dependencies": {
+        "@types/ag-channel": "workspace:../ag-channel",
+        "@types/ag-simple-broker": "workspace:../ag-simple-broker",
+        "@types/async-stream-emitter": "workspace:../async-stream-emitter",
+        "@types/consumable-stream": "workspace:../consumable-stream",
+        "@types/jsonwebtoken": "workspace:../jsonwebtoken",
+        "@types/sc-broker": "workspace:../sc-broker",
+        "@types/socketcluster-client": "workspace:../socketcluster-client"
+    }
+}

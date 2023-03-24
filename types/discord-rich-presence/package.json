@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/discord-rich-presence",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

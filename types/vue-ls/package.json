@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/vue-ls",
+    "private": true,
+    "dependencies": {
+        "vue": "^2.0.0"
+    }
 }

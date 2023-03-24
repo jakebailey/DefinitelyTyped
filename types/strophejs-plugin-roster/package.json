@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/strophejs-plugin-roster",
+    "private": true,
+    "dependencies": {
+        "@types/strophe.js": "workspace:../strophe.js"
+    }
+}

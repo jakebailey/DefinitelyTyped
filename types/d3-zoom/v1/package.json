@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-zoom",
+    "private": true,
+    "dependencies": {
+        "@types/d3-interpolate": "workspace:../../d3-interpolate/v1",
+        "@types/d3-selection": "workspace:../../d3-selection/v1"
+    }
+}

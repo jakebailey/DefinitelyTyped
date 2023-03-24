@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/markdown-it-emoji",
+    "private": true,
+    "dependencies": {
+        "@types/markdown-it": "workspace:../markdown-it"
+    }
+}

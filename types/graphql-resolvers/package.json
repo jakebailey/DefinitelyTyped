@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/graphql-resolvers",
     "private": true,
     "dependencies": {
         "graphql": "^14.5.3",

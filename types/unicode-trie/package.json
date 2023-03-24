@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/unicode-trie",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

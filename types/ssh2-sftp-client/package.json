@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ssh2-sftp-client",
+    "private": true,
+    "dependencies": {
+        "@types/ssh2": "workspace:../ssh2"
+    }
+}

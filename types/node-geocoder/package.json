@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "node-fetch": "^3.3.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/node-geocoder",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "node-fetch": "^3.3.0"
+    }
 }

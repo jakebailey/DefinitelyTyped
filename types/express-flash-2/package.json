@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-flash-2",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

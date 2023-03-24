@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nat-upnp",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

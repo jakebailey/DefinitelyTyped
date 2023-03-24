@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/material-ui-pagination",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

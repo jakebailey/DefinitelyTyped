@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/multicast-dns",
+    "private": true,
+    "dependencies": {
+        "@types/dns-packet": "workspace:../dns-packet",
+        "@types/node": "workspace:../node"
+    }
+}

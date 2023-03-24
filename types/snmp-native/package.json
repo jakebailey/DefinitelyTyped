@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/snmp-native",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

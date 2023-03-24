@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gulp-filter",
     "private": true,
     "dependencies": {
-        "@types/minimatch": "*"
+        "@types/minimatch": "*",
+        "@types/node": "workspace:../node",
+        "@types/vinyl": "workspace:../vinyl"
     }
 }

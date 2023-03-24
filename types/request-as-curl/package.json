@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/request-as-curl",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

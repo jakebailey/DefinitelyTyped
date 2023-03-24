@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-typing-animation",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

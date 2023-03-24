@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/redux-devtools-themes",
+    "private": true,
+    "dependencies": {
+        "@types/base16": "workspace:../base16"
+    }
+}

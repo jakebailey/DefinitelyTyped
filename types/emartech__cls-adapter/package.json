@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/emartech__cls-adapter",
+    "private": true,
+    "dependencies": {
+        "@types/cls-hooked": "workspace:../cls-hooked",
+        "@types/express": "workspace:../express",
+        "@types/koa": "workspace:../koa"
+    }
+}

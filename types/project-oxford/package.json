@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/project-oxford",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/node": "workspace:../node"
+    }
+}

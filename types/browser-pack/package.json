@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/browser-pack",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/steam",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

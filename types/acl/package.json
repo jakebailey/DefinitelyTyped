@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/acl",
     "private": true,
     "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node",
         "@types/redis": "^2.8.0",
         "mongodb": "^4.5.0"
     }

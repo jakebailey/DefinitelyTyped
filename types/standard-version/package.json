@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/standard-version",
+    "private": true,
+    "dependencies": {
+        "@types/conventional-changelog-config-spec": "workspace:../conventional-changelog-config-spec",
+        "@types/node": "workspace:../node"
+    }
+}

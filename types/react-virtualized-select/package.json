@@ -1,6 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/react-select": "^1.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/react-virtualized-select",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react/v17",
+        "@types/react-select": "^1.0.0",
+        "@types/react-virtualized": "workspace:../react-virtualized"
+    }
 }

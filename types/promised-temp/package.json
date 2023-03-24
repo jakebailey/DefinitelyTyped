@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/promised-temp",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/temp": "workspace:../temp"
+    }
+}

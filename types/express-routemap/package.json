@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-routemap",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

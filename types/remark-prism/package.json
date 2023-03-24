@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/remark-prism",
     "private": true,
     "dependencies": {
+        "@types/mdast": "workspace:../mdast",
         "remark": "^14.0.2",
         "unified": "^10.0.0"
     }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/babel__register",
+    "private": true,
+    "dependencies": {
+        "@types/babel__core": "workspace:../babel__core"
+    }
+}

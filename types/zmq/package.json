@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/zmq",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

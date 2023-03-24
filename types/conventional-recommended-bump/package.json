@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/conventional-recommended-bump",
+    "private": true,
+    "dependencies": {
+        "@types/conventional-changelog-core": "workspace:../conventional-changelog-core",
+        "@types/conventional-changelog-writer": "workspace:../conventional-changelog-writer",
+        "@types/conventional-commits-parser": "workspace:../conventional-commits-parser"
+    }
+}

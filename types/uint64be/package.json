@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/uint64be",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

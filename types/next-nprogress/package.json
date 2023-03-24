@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/next-nprogress",
+    "private": true,
+    "dependencies": {
+        "@types/nprogress": "workspace:../nprogress",
+        "@types/react": "workspace:../react"
+    }
+}

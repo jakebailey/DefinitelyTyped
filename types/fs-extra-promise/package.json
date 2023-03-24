@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fs-extra-promise",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/fs-extra": "workspace:../fs-extra/v4",
+        "@types/node": "workspace:../node"
+    }
+}

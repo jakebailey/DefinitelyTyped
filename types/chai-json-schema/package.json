@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-json-schema",
+    "private": true,
+    "dependencies": {
+        "@types/tv4": "workspace:../tv4"
+    }
+}

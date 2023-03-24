@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rsocket-flowable",
+    "private": true,
+    "dependencies": {
+        "@types/rsocket-types": "workspace:../rsocket-types"
+    }
+}

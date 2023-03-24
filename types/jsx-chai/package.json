@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsx-chai",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai"
+    }
+}

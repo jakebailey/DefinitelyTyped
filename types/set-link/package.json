@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/set-link",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

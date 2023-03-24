@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/swaggerize-express",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

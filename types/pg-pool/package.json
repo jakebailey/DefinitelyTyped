@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pg-pool",
+    "private": true,
+    "dependencies": {
+        "@types/pg": "workspace:../pg"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/level-js",
+    "private": true,
+    "dependencies": {
+        "@types/abstract-leveldown": "workspace:../abstract-leveldown"
+    }
+}

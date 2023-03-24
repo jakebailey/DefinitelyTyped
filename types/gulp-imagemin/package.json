@@ -1,0 +1,13 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-imagemin",
+    "private": true,
+    "dependencies": {
+        "@types/imagemin": "workspace:../imagemin",
+        "@types/imagemin-gifsicle": "workspace:../imagemin-gifsicle",
+        "@types/imagemin-mozjpeg": "workspace:../imagemin-mozjpeg",
+        "@types/imagemin-optipng": "workspace:../imagemin-optipng",
+        "@types/imagemin-svgo": "workspace:../imagemin-svgo",
+        "@types/node": "workspace:../node"
+    }
+}

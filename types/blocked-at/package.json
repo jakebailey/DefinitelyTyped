@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/blocked-at",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

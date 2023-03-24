@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/easy-session",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/express-session": "workspace:../express-session"
+    }
+}

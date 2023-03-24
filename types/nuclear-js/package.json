@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/nuclear-js",
     "private": true,
     "dependencies": {
         "immutable": "^3.7.3"

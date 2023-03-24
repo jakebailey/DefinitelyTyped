@@ -1,6 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-word",
     "private": true,
     "dependencies": {
+        "@types/activex-interop": "workspace:../activex-interop",
+        "@types/activex-office": "workspace:../activex-office",
+        "@types/activex-stdole": "workspace:../activex-stdole",
+        "@types/activex-vbide": "workspace:../activex-vbide",
         "activex-helpers": "*"
     }
 }

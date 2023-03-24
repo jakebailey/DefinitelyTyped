@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-slashes",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

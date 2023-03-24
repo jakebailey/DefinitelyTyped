@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/falcor-express",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/falcor": "workspace:../falcor"
+    }
+}

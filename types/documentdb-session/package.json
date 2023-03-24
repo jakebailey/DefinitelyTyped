@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/documentdb-session",
+    "private": true,
+    "dependencies": {
+        "@types/express-session": "workspace:../express-session"
+    }
+}

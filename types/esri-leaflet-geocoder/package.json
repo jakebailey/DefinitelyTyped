@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/esri-leaflet-geocoder",
+    "private": true,
+    "dependencies": {
+        "@types/esri-leaflet": "workspace:../esri-leaflet",
+        "@types/leaflet": "workspace:../leaflet"
+    }
+}

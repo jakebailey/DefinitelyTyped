@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/writable-consumable-stream",
+    "private": true,
+    "dependencies": {
+        "@types/consumable-stream": "workspace:../consumable-stream"
+    }
+}

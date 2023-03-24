@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/json-server",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect",
+        "@types/express": "workspace:../express",
+        "@types/lowdb": "workspace:../lowdb"
+    }
+}

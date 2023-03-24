@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ink-spinner",
+    "private": true,
+    "dependencies": {
+        "@types/cli-spinners": "workspace:../cli-spinners",
+        "@types/react": "workspace:../react"
+    }
+}

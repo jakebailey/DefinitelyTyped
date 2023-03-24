@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-leaflet-markercluster",
     "private": true,
     "dependencies": {
+        "@types/leaflet": "workspace:../leaflet",
+        "@types/leaflet.markercluster": "workspace:../leaflet.markercluster",
+        "@types/react": "workspace:../react",
         "@types/react-leaflet": "^2.8.3"
     }
 }

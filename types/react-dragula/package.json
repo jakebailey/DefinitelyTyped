@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-dragula",
+    "private": true,
+    "dependencies": {
+        "@types/dragula": "workspace:../dragula"
+    }
+}

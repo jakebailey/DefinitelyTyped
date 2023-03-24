@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yeoman-test",
+    "private": true,
+    "dependencies": {
+        "@types/mem-fs": "workspace:../mem-fs",
+        "@types/mem-fs-editor": "workspace:../mem-fs-editor",
+        "@types/yeoman-environment": "workspace:../yeoman-environment",
+        "@types/yeoman-generator": "workspace:../yeoman-generator"
+    }
+}

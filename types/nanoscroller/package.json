@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nanoscroller",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

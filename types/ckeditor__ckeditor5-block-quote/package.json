@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-block-quote",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-core": "workspace:../ckeditor__ckeditor5-core",
+        "@types/ckeditor__ckeditor5-enter": "workspace:../ckeditor__ckeditor5-enter",
+        "@types/ckeditor__ckeditor5-typing": "workspace:../ckeditor__ckeditor5-typing"
+    }
+}

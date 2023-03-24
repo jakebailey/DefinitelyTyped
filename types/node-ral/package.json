@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-ral",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

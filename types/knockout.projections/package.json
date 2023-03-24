@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/knockout.projections",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout"
+    }
+}

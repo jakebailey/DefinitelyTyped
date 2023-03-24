@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/cache-manager-ioredis",
     "private": true,
     "dependencies": {
+        "@types/cache-manager": "workspace:../cache-manager",
         "@types/ioredis": "^4.28.10"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/df-visible",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

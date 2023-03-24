@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-add-to-calendar",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

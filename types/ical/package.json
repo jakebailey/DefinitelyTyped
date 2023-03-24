@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ical",
     "private": true,
     "dependencies": {
         "rrule": "2.6.4"

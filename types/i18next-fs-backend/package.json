@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/i18next-fs-backend",
     "private": true,
     "dependencies": {
         "i18next": "^21.0.1"

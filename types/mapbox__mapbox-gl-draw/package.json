@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mapbox__mapbox-gl-draw",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/mapbox-gl": "workspace:../mapbox-gl"
+    }
+}

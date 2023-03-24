@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/get-pixels",
+    "private": true,
+    "dependencies": {
+        "@types/ndarray": "workspace:../ndarray",
+        "@types/node": "workspace:../node"
+    }
+}

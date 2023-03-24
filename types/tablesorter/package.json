@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tablesorter",
+    "private": true,
+    "dependencies": {
+        "@types/globalize": "workspace:../globalize",
+        "@types/jquery": "workspace:../jquery",
+        "@types/jqueryui": "workspace:../jqueryui",
+        "@types/select2": "workspace:../select2"
+    }
+}

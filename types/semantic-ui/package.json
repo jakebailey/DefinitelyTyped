@@ -1,0 +1,28 @@
+{
+    "CONVERTED": true,
+    "name": "@types/semantic-ui",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/semantic-ui-accordion": "workspace:../semantic-ui-accordion",
+        "@types/semantic-ui-api": "workspace:../semantic-ui-api",
+        "@types/semantic-ui-checkbox": "workspace:../semantic-ui-checkbox",
+        "@types/semantic-ui-dimmer": "workspace:../semantic-ui-dimmer",
+        "@types/semantic-ui-dropdown": "workspace:../semantic-ui-dropdown",
+        "@types/semantic-ui-embed": "workspace:../semantic-ui-embed",
+        "@types/semantic-ui-form": "workspace:../semantic-ui-form",
+        "@types/semantic-ui-modal": "workspace:../semantic-ui-modal",
+        "@types/semantic-ui-nag": "workspace:../semantic-ui-nag",
+        "@types/semantic-ui-popup": "workspace:../semantic-ui-popup",
+        "@types/semantic-ui-progress": "workspace:../semantic-ui-progress",
+        "@types/semantic-ui-rating": "workspace:../semantic-ui-rating",
+        "@types/semantic-ui-search": "workspace:../semantic-ui-search",
+        "@types/semantic-ui-shape": "workspace:../semantic-ui-shape",
+        "@types/semantic-ui-sidebar": "workspace:../semantic-ui-sidebar",
+        "@types/semantic-ui-site": "workspace:../semantic-ui-site",
+        "@types/semantic-ui-sticky": "workspace:../semantic-ui-sticky",
+        "@types/semantic-ui-tab": "workspace:../semantic-ui-tab",
+        "@types/semantic-ui-transition": "workspace:../semantic-ui-transition",
+        "@types/semantic-ui-visibility": "workspace:../semantic-ui-visibility"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/videojs-seek-buttons",
+    "private": true,
+    "dependencies": {
+        "@types/video.js": "workspace:../video.js"
+    }
+}

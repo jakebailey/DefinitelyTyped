@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rsocket-websocket-server",
+    "private": true,
+    "dependencies": {
+        "@types/rsocket-core": "workspace:../rsocket-core",
+        "@types/rsocket-flowable": "workspace:../rsocket-flowable",
+        "@types/rsocket-types": "workspace:../rsocket-types",
+        "@types/ws": "workspace:../ws"
+    }
+}

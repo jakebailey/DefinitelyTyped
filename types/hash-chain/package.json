@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hash-chain",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-pushnotifications",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/web-push": "workspace:../web-push"
+    }
+}

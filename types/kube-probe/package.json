@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/kube-probe",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/overload-protection": "workspace:../overload-protection"
+    }
+}

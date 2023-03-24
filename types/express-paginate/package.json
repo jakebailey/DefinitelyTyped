@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-paginate",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

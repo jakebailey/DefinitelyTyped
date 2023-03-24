@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/to-json-schema",
+    "private": true,
+    "dependencies": {
+        "@types/json-schema": "workspace:../json-schema"
+    }
+}

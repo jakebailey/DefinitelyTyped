@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-svg-animated-linear-gradient",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

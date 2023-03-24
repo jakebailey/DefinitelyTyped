@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/af-utils__react-table",
+    "private": true,
+    "dependencies": {
+        "@types/af-utils__react-virtual-headless": "workspace:../af-utils__react-virtual-headless",
+        "@types/react": "workspace:../react"
+    }
+}

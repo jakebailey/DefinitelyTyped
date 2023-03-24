@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-form-data",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect",
+        "@types/multiparty": "workspace:../multiparty"
+    }
+}

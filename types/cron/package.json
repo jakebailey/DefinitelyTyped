@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cron",
+    "private": true,
+    "dependencies": {
+        "@types/luxon": "workspace:../luxon",
+        "@types/node": "workspace:../node"
+    }
+}

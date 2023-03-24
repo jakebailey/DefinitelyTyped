@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/typedarray-to-buffer",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

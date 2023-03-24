@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-native-doc-viewer",
     "private": true,
     "dependencies": {
         "react-native-fs": "^2.13.0"

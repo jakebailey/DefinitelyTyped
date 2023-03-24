@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tile-reduce",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

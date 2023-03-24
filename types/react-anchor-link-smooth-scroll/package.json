@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-anchor-link-smooth-scroll",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

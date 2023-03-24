@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-azure-ad",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/passport": "workspace:../passport"
+    }
+}

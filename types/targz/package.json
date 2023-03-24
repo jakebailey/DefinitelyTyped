@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/targz",
+    "private": true,
+    "dependencies": {
+        "@types/tar-fs": "workspace:../tar-fs"
+    }
+}

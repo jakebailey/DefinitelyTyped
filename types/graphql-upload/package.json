@@ -1,25 +1,29 @@
 {
-  "private": true,
-  "dependencies": {
-    "graphql": "0.13.1 - 16",
-    "fs-capacitor": "^8.0.0"
-  },
-  "exports": {
-    "./package.json": "./package.json",
-    "./GraphQLUpload.mjs": {
-      "types": "./GraphQLUpload.d.mts"
+    "CONVERTED": true,
+    "name": "@types/graphql-upload",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/koa": "workspace:../koa",
+        "fs-capacitor": "^8.0.0",
+        "graphql": "0.13.1 - 16"
     },
-    "./Upload.mjs": {
-      "types": "./Upload.d.mts"
-    },
-    "./graphqlUploadExpress.mjs": {
-      "types": "./graphqlUploadExpress.d.mts"
-    },
-    "./graphqlUploadKoa.mjs": {
-      "types": "./graphqlUploadKoa.d.mts"
-    },
-    "./processRequest.mjs": {
-      "types": "./processRequest.d.mts"
+    "exports": {
+        "./package.json": "./package.json",
+        "./GraphQLUpload.mjs": {
+            "types": "./GraphQLUpload.d.mts"
+        },
+        "./Upload.mjs": {
+            "types": "./Upload.d.mts"
+        },
+        "./graphqlUploadExpress.mjs": {
+            "types": "./graphqlUploadExpress.d.mts"
+        },
+        "./graphqlUploadKoa.mjs": {
+            "types": "./graphqlUploadKoa.d.mts"
+        },
+        "./processRequest.mjs": {
+            "types": "./processRequest.d.mts"
+        }
     }
-  }
 }

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/frisby",
     "private": true,
     "dependencies": {
+        "@types/node-fetch": "workspace:../node-fetch",
         "joi": "^17.3.0"
     }
 }

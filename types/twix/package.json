@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/twix",
     "private": true,
     "dependencies": {
         "moment": ">=2.14.0"

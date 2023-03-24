@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/azdata",
+    "private": true,
+    "dependencies": {
+        "@types/vscode": "workspace:../vscode"
+    }
+}

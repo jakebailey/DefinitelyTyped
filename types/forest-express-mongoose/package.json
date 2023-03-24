@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/forest-express-mongoose",
     "private": true,
     "dependencies": {
+        "@types/express": "workspace:../express",
         "mongoose": "^6.3.0"
     }
 }

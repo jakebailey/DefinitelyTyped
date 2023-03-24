@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery-validation-unobtrusive",
+    "private": true,
+    "dependencies": {
+        "@types/jquery.validation": "workspace:../jquery.validation"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-oauth2-client-password",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/passport": "workspace:../passport"
+    }
+}

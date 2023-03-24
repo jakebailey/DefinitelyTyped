@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-subdomain",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa",
+        "@types/koa-router": "workspace:../koa-router"
+    }
+}

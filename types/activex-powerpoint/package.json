@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-powerpoint",
     "private": true,
     "dependencies": {
+        "@types/activex-office": "workspace:../activex-office",
+        "@types/activex-vbide": "workspace:../activex-vbide",
         "activex-helpers": "*"
     }
 }

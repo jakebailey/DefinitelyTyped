@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/kendo-ui",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

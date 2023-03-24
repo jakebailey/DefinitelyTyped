@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.5.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/vue2-datepicker",
+    "private": true,
+    "dependencies": {
+        "vue": "^2.5.0"
+    }
 }

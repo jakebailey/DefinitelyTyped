@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/host-validation",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

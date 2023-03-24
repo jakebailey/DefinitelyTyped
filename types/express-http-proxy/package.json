@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-http-proxy",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

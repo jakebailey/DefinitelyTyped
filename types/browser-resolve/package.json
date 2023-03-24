@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/browser-resolve",
+    "private": true,
+    "dependencies": {
+        "@types/resolve": "workspace:../resolve"
+    }
+}

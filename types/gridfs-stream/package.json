@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gridfs-stream",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "mongodb": "^4.5.0"
     }
 }

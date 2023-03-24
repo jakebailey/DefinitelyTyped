@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-data__serializer",
+    "private": true,
+    "dependencies": {
+        "@types/ember-data": "workspace:../../ember-data/v3"
+    }
+}

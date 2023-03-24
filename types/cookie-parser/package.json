@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cookie-parser",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmpp__events",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

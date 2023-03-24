@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/svgr__rollup",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "rollup": "^1.23.1"
     }
 }

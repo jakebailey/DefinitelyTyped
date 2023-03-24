@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-seamless-immutable",
     "private": true,
     "dependencies": {
+        "@types/seamless-immutable": "workspace:../seamless-immutable",
         "redux": "^4.0.1"
     }
 }

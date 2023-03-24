@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/which-polygon",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/rbush": "workspace:../rbush"
+    }
+}

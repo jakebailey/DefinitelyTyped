@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/docker-events",
+    "private": true,
+    "dependencies": {
+        "@types/dockerode": "workspace:../dockerode",
+        "@types/node": "workspace:../node"
+    }
+}

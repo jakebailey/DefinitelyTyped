@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/amap-js-api-transfer",
+    "private": true,
+    "dependencies": {
+        "@types/amap-js-api": "workspace:../amap-js-api",
+        "@types/amap-js-api-place-search": "workspace:../amap-js-api-place-search"
+    }
+}

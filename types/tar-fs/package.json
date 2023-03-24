@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tar-fs",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/tar-stream": "workspace:../tar-stream"
+    }
+}

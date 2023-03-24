@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/knex-db-manager",
     "private": true,
     "dependencies": {
         "@types/node": "16.0.0",

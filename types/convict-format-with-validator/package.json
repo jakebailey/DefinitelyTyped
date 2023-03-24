@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/convict-format-with-validator",
+    "private": true,
+    "dependencies": {
+        "@types/convict": "workspace:../convict"
+    }
+}

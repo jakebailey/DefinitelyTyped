@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/w3c-generic-sensor",
     "private": true,
     "dependencies": {
         "typescript": "^2.2.2"

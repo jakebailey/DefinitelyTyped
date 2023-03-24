@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular.throttle",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

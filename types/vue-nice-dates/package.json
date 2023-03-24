@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/vue-nice-dates",
     "private": true,
     "dependencies": {
         "date-fns": "^2.9.0",

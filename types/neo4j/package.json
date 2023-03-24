@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/neo4j",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

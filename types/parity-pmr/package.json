@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/parity-pmr",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

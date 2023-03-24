@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-formidable",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/formidable": "workspace:../formidable"
+    }
+}

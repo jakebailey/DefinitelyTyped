@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/apollo-upload-client",
     "private": true,
     "dependencies": {
         "@apollo/client": "^3.7.0",
+        "@types/extract-files": "workspace:../extract-files",
         "graphql": "14 - 16"
     }
 }

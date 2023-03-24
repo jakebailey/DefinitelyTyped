@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vision",
+    "private": true,
+    "dependencies": {
+        "@types/hapi": "workspace:../../hapi/v16"
+    }
+}

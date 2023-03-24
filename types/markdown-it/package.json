@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/markdown-it",
+    "private": true,
+    "dependencies": {
+        "@types/linkify-it": "workspace:../linkify-it",
+        "@types/mdurl": "workspace:../mdurl"
+    }
+}

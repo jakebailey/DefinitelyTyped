@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/esm-utils",
     "private": true,
     "dependencies": {
         "@types/node": "^16.11.6"

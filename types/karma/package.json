@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/karma",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "log4js": "^6.4.1"
     }
 }

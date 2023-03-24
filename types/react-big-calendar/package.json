@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-big-calendar",
+    "private": true,
+    "dependencies": {
+        "@types/date-arithmetic": "workspace:../date-arithmetic",
+        "@types/prop-types": "workspace:../prop-types",
+        "@types/react": "workspace:../react"
+    }
+}

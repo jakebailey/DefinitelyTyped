@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/node-redis-pubsub",
     "private": true,
     "dependencies": {
         "@types/redis": "^2.8.0"

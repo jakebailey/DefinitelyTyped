@@ -1,0 +1,13 @@
+{
+    "CONVERTED": true,
+    "name": "@types/conventional-changelog-core",
+    "private": true,
+    "dependencies": {
+        "@types/conventional-changelog-writer": "workspace:../conventional-changelog-writer",
+        "@types/conventional-commits-parser": "workspace:../conventional-commits-parser",
+        "@types/conventional-recommended-bump": "workspace:../conventional-recommended-bump",
+        "@types/git-raw-commits": "workspace:../git-raw-commits",
+        "@types/node": "workspace:../node",
+        "@types/normalize-package-data": "workspace:../normalize-package-data"
+    }
+}

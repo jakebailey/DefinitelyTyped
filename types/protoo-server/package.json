@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/protoo-server",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/websocket": "workspace:../websocket"
+    }
+}

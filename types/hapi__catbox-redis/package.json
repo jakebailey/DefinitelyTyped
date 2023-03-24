@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hapi__catbox-redis",
     "private": true,
     "dependencies": {
+        "@types/hapi__catbox": "workspace:../hapi__catbox",
         "@types/ioredis": "^4.28.10"
     }
 }

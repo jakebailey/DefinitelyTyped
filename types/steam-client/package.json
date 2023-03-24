@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/steam-client",
+    "private": true,
+    "dependencies": {
+        "@types/bytebuffer": "workspace:../bytebuffer",
+        "@types/node": "workspace:../node"
+    }
+}

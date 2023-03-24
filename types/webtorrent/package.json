@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webtorrent",
+    "private": true,
+    "dependencies": {
+        "@types/bittorrent-protocol": "workspace:../bittorrent-protocol",
+        "@types/node": "workspace:../node",
+        "@types/parse-torrent": "workspace:../parse-torrent",
+        "@types/simple-peer": "workspace:../simple-peer"
+    }
+}

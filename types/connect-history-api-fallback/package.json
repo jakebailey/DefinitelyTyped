@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-history-api-fallback",
+    "private": true,
+    "dependencies": {
+        "@types/express-serve-static-core": "workspace:../express-serve-static-core",
+        "@types/node": "workspace:../node"
+    }
+}

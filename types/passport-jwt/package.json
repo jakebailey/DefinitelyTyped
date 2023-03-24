@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-jwt",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/jsonwebtoken": "workspace:../jsonwebtoken",
+        "@types/passport-strategy": "workspace:../passport-strategy"
+    }
+}

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/micro-cors",
     "private": true,
     "dependencies": {
         "@types/micro": "^7.3.7"

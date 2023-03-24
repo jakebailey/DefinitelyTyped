@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chrome-apps",
+    "private": true,
+    "dependencies": {
+        "@types/filesystem": "workspace:../filesystem"
+    }
+}

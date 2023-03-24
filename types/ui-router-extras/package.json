@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ui-router-extras",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/angular-ui-router": "workspace:../angular-ui-router"
+    }
+}

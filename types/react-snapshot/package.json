@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-snapshot",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

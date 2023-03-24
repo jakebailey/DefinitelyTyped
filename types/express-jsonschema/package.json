@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-jsonschema",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/json-schema": "workspace:../json-schema"
+    }
+}

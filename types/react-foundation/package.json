@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-foundation",
+    "private": true,
+    "dependencies": {
+        "@types/prop-types": "workspace:../prop-types",
+        "@types/react": "workspace:../react"
+    }
+}

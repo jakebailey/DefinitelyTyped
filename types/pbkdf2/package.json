@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pbkdf2",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

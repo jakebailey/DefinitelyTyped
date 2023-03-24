@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/exit",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

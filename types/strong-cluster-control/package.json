@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/strong-cluster-control",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

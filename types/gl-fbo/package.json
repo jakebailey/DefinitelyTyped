@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gl-fbo",
+    "private": true,
+    "dependencies": {
+        "@types/gl-texture2d": "workspace:../gl-texture2d"
+    }
+}

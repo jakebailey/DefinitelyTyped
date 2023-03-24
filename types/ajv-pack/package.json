@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ajv-pack",
     "private": true,
     "dependencies": {
         "ajv": "^5.0.0"

@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pacote",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/npm-registry-fetch": "workspace:../npm-registry-fetch",
+        "@types/npmlog": "workspace:../npmlog",
+        "@types/ssri": "workspace:../ssri"
+    }
+}

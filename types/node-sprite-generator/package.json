@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-sprite-generator",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/karma-browserify",
+    "private": true,
+    "dependencies": {
+        "@types/browserify": "workspace:../browserify",
+        "@types/karma": "workspace:../karma",
+        "@types/watchify": "workspace:../watchify"
+    }
+}

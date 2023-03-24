@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jest-axe",
     "private": true,
     "dependencies": {
+        "@types/jest": "workspace:../jest",
         "axe-core": "^3.5.5"
     }
 }

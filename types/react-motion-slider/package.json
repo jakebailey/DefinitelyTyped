@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-motion-slider",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-motion": "workspace:../react-motion"
+    }
+}

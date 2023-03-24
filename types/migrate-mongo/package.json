@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/migrate-mongo",
     "private": true,
     "dependencies": {
         "mongodb": "^4.0.1"

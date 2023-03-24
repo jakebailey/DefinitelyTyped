@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/npm-packlist",
+    "private": true,
+    "dependencies": {
+        "@types/ignore-walk": "workspace:../ignore-walk",
+        "@types/npmcli__arborist": "workspace:../npmcli__arborist"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nuclear-js-react-addons-chefsplate",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

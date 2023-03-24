@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sade",
+    "private": true,
+    "dependencies": {
+        "@types/mri": "workspace:../mri"
+    }
+}

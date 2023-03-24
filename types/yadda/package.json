@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yadda",
+    "private": true,
+    "dependencies": {
+        "@types/mocha": "workspace:../mocha"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/imapflow",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

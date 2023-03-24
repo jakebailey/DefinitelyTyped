@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/vue3-carousel-3d",
     "private": true,
     "dependencies": {
         "@babel/types": "^7.21.2",

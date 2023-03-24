@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tap",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

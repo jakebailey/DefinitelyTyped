@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-logger-winston",
     "private": true,
     "dependencies": {
+        "@types/koa": "workspace:../koa",
+        "@types/node": "workspace:../node",
         "winston": "^3.0.0"
     }
 }

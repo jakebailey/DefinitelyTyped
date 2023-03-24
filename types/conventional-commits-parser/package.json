@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/conventional-commits-parser",
     "private": true,
     "types": "index",
     "typesVersions": {
@@ -7,5 +9,8 @@
                 "ts4.9/*"
             ]
         }
+    },
+    "dependencies": {
+        "@types/node": "workspace:../node"
     }
 }

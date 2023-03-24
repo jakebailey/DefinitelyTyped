@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/selenium-webdriver",
+    "private": true,
+    "dependencies": {
+        "@types/ws": "workspace:../ws"
+    }
+}

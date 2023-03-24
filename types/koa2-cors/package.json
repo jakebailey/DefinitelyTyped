@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa2-cors",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa"
+    }
+}

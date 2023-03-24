@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/angular-breadcrumb",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular",
+        "@types/angular-ui-router": "workspace:../angular-ui-router"
+    }
+}

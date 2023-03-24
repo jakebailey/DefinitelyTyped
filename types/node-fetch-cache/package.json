@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-fetch-cache",
+    "private": true,
+    "dependencies": {
+        "@types/node-fetch": "workspace:../node-fetch"
+    }
+}

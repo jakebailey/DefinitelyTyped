@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jqueryui",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

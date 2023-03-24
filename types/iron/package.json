@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/iron",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

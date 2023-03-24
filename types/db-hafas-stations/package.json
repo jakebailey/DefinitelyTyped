@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/db-hafas-stations",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

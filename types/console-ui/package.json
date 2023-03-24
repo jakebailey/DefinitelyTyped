@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/console-ui",
+    "private": true,
+    "dependencies": {
+        "@types/inquirer": "workspace:../inquirer"
+    }
+}

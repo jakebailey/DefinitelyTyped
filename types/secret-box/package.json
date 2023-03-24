@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/secret-box",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/varstruct": "workspace:../varstruct"
+    }
+}

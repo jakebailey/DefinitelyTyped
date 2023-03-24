@@ -1,4 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/inquirer-autocomplete-prompt",
     "private": true,
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "@types/inquirer": "workspace:../inquirer"
+    }
 }

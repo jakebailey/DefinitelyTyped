@@ -1,0 +1,14 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sc-broker-cluster",
+    "private": true,
+    "dependencies": {
+        "@types/async": "workspace:../../async",
+        "@types/expirymanager": "workspace:../../expirymanager",
+        "@types/fleximap": "workspace:../../fleximap",
+        "@types/sc-broker": "workspace:../../sc-broker",
+        "@types/sc-channel": "workspace:../../sc-channel/v1",
+        "@types/socketcluster": "workspace:../../socketcluster",
+        "@types/socketcluster-server": "workspace:../../socketcluster-server/v14"
+    }
+}

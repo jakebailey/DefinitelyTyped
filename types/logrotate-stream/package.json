@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/logrotate-stream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/indy-sdk",
     "private": true,
     "dependencies": {
         "buffer": "^6.0.0"

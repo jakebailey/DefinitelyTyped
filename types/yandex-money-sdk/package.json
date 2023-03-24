@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yandex-money-sdk",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

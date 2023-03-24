@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__edit-post",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/wordpress__components": "workspace:../wordpress__components",
+        "@types/wordpress__data": "workspace:../wordpress__data",
         "@wordpress/element": "^5.0.0"
     }
 }

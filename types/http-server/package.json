@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/http-server",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect"
+    }
+}

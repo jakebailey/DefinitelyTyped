@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/atna-audit",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

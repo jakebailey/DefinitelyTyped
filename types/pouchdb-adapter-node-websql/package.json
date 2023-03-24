@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pouchdb-adapter-node-websql",
+    "private": true,
+    "dependencies": {
+        "@types/pouchdb-adapter-websql": "workspace:../pouchdb-adapter-websql",
+        "@types/pouchdb-core": "workspace:../pouchdb-core"
+    }
+}

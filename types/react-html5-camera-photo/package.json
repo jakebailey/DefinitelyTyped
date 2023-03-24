@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-html5-camera-photo",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

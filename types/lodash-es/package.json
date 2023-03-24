@@ -1,4 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/lodash-es",
     "private": true,
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "@types/lodash": "workspace:../lodash"
+    }
 }

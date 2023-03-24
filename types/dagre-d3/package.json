@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dagre-d3",
+    "private": true,
+    "dependencies": {
+        "@types/d3": "workspace:../d3/v5",
+        "@types/dagre": "workspace:../dagre",
+        "@types/graphlib": "workspace:../graphlib"
+    }
+}

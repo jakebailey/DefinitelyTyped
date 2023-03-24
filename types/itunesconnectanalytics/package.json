@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/itunesconnectanalytics",
     "private": true,
     "dependencies": {
         "moment": "^2.26.0"

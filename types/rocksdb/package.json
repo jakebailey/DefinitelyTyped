@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rocksdb",
+    "private": true,
+    "dependencies": {
+        "@types/abstract-leveldown": "workspace:../abstract-leveldown",
+        "@types/node": "workspace:../node"
+    }
+}

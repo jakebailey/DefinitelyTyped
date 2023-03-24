@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/chalk-pipe",
     "private": true,
     "dependencies": {
         "chalk": "^2.4.1"

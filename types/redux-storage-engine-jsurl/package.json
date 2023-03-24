@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/redux-storage-engine-jsurl",
+    "private": true,
+    "dependencies": {
+        "@types/redux-storage": "workspace:../redux-storage"
+    }
+}

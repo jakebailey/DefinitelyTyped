@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/google-cloud__kms",
+    "private": true,
+    "dependencies": {
+        "@types/google-protobuf": "workspace:../google-protobuf",
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-dynamic-number",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

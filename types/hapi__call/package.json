@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hapi__call",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

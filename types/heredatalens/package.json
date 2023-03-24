@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/heredatalens",
+    "private": true,
+    "dependencies": {
+        "@types/heremaps": "workspace:../heremaps"
+    }
+}

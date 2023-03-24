@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nowigence-react-simple-maps",
+    "private": true,
+    "dependencies": {
+        "@types/d3-geo": "workspace:../d3-geo/v1",
+        "@types/d3-zoom": "workspace:../d3-zoom/v1",
+        "@types/geojson": "workspace:../geojson",
+        "@types/react": "workspace:../react"
+    }
+}

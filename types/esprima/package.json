@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/esprima",
+    "private": true,
+    "dependencies": {
+        "@types/estree": "workspace:../estree"
+    }
+}

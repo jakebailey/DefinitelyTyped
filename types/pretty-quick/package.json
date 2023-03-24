@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pretty-quick",
+    "private": true,
+    "dependencies": {
+        "@types/prettier": "workspace:../prettier"
+    }
+}

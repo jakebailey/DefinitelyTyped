@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mochaccino",
+    "private": true,
+    "dependencies": {
+        "@types/sinon": "workspace:../sinon"
+    }
+}

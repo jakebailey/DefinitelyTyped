@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/tapable",
     "private": true,
     "dependencies": {
         "tapable": "^2.2.0"

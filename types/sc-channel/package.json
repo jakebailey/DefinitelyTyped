@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sc-channel",
+    "private": true,
+    "dependencies": {
+        "@types/async-iterable-stream": "workspace:../async-iterable-stream",
+        "@types/stream-demux": "workspace:../stream-demux"
+    }
+}

@@ -1,7 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-router",
     "private": true,
     "dependencies": {
         "@types/history": "^2.0.51",
+        "@types/react": "workspace:../react",
+        "@types/react-router": "workspace:../react-router/v2",
         "redux": "^3.6.0"
     }
 }

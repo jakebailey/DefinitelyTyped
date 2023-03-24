@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vitalsigns",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

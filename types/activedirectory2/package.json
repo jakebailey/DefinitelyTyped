@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/activedirectory2",
+    "private": true,
+    "dependencies": {
+        "@types/ldapjs": "workspace:../ldapjs"
+    }
+}

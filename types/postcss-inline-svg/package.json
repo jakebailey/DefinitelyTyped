@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/postcss-inline-svg",
     "private": true,
     "dependencies": {
         "postcss": "^8.1.4"

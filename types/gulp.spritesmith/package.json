@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp.spritesmith",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

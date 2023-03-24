@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-shortcuts",
     "private": true,
     "dependencies": {
+        "@types/mousetrap": "workspace:../mousetrap",
         "redux": "^3.6.0"
     }
 }

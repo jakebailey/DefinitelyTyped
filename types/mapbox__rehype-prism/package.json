@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/mapbox__rehype-prism",
     "private": true,
     "dependencies": {
+        "@types/hast": "workspace:../hast",
         "unified": "^10.0.0"
     }
 }

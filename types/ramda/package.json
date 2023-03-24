@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ramda",
     "private": true,
     "dependencies": {
         "ts-toolbelt": "^6.15.1"

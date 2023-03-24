@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-promise-listener",
     "private": true,
     "dependencies": {
         "redux": "^4.0.0"

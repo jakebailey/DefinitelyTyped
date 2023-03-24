@@ -1,6 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-infopath",
     "private": true,
     "dependencies": {
+        "@types/activex-adodb": "workspace:../activex-adodb",
+        "@types/activex-mshtml": "workspace:../activex-mshtml",
+        "@types/activex-msxml2": "workspace:../activex-msxml2",
+        "@types/activex-stdole": "workspace:../activex-stdole",
         "activex-helpers": "*"
     }
 }

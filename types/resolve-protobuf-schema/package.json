@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/resolve-protobuf-schema",
+    "private": true,
+    "dependencies": {
+        "@types/protocol-buffers-schema": "workspace:../protocol-buffers-schema"
+    }
+}

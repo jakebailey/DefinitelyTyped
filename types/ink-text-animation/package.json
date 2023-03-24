@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ink-text-animation",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

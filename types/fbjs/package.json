@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fbjs",
+    "private": true,
+    "dependencies": {
+        "@types/jsdom": "workspace:../jsdom"
+    }
+}

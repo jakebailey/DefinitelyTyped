@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/meteor-dburles-collection-helpers",
+    "private": true,
+    "dependencies": {
+        "@types/meteor": "workspace:../meteor"
+    }
+}

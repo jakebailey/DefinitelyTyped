@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/styled-components",
     "private": true,
     "dependencies": {
+        "@types/hoist-non-react-statics": "workspace:../hoist-non-react-statics",
+        "@types/react": "workspace:../react",
         "csstype": "^3.0.2"
     }
 }

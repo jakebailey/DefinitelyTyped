@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ngbootbox",
+    "private": true,
+    "dependencies": {
+        "@types/bootbox": "workspace:../bootbox"
+    }
+}

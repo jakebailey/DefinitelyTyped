@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/materialize-css",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../../jquery",
+        "@types/pickadate": "workspace:../../pickadate"
+    }
+}

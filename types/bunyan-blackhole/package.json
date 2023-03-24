@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bunyan-blackhole",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../bunyan"
+    }
+}

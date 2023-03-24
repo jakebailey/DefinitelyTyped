@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-ip2region",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

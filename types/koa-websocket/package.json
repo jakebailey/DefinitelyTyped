@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-websocket",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa",
+        "@types/koa-compose": "workspace:../koa-compose",
+        "@types/ws": "workspace:../ws"
+    }
+}

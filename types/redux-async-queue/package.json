@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "redux": "^4.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/redux-async-queue",
+    "private": true,
+    "dependencies": {
+        "redux": "^4.0.0"
+    }
 }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-xmpp-core",
+    "private": true,
+    "dependencies": {
+        "@types/ltx": "workspace:../ltx",
+        "@types/node": "workspace:../node"
+    }
+}

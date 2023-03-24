@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wordpress__admin",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone",
+        "@types/lodash": "workspace:../lodash/v3"
+    }
+}

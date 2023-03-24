@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "electron": "latest"
-  }
+    "CONVERTED": true,
+    "name": "@types/electron-prompt",
+    "private": true,
+    "dependencies": {
+        "electron": "latest"
+    }
 }

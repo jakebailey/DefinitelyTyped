@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/commangular",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

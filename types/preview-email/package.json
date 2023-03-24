@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/preview-email",
+    "private": true,
+    "dependencies": {
+        "@types/nodemailer": "workspace:../nodemailer"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lusca",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

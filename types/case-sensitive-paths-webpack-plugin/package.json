@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/case-sensitive-paths-webpack-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

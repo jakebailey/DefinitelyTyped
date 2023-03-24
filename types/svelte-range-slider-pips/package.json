@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/svelte-range-slider-pips",
     "private": true,
     "dependencies": {
         "svelte": "^3.0.0"

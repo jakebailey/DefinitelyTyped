@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/halogen",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

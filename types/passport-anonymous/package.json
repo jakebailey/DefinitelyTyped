@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-anonymous",
+    "private": true,
+    "dependencies": {
+        "@types/passport": "workspace:../passport"
+    }
+}

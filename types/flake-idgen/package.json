@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/flake-idgen",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

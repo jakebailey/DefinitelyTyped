@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsreport-html-embedded-in-docx",
+    "private": true,
+    "dependencies": {
+        "@types/jsreport-core": "workspace:../jsreport-core"
+    }
+}

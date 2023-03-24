@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/thrift",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/node-int64": "workspace:../node-int64",
+        "@types/q": "workspace:../q"
+    }
+}

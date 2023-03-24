@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-shape",
+    "private": true,
+    "dependencies": {
+        "@types/d3-path": "workspace:../../d3-path/v1"
+    }
+}

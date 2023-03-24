@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/token-introspection",
     "private": true,
     "dependencies": {
-        "@types/node-fetch": "^2.5.12"
+        "@types/jsonwebtoken": "workspace:../jsonwebtoken",
+        "@types/node-fetch": "^2.5.12",
+        "@types/pem-jwk": "workspace:../pem-jwk"
     }
 }

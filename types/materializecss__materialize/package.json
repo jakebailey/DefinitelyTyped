@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/materializecss__materialize",
     "private": true,
     "dependencies": {
+        "@types/jquery": "workspace:../jquery",
         "cash-dom": "^8.1.1"
     }
 }

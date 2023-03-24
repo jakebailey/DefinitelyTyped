@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/undertaker",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/undertaker-registry": "workspace:../undertaker-registry",
         "async-done": "~1.3.2"
     }
 }

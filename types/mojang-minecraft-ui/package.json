@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mojang-minecraft-ui",
+    "private": true,
+    "dependencies": {
+        "@types/mojang-minecraft": "workspace:../mojang-minecraft"
+    }
+}

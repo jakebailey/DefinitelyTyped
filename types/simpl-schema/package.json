@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/simpl-schema",
+    "private": true,
+    "dependencies": {
+        "@types/meteor": "workspace:../meteor"
+    }
+}

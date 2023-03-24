@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/multy",
+    "private": true,
+    "dependencies": {
+        "@types/busboy": "workspace:../busboy/v0",
+        "@types/koa": "workspace:../koa"
+    }
+}

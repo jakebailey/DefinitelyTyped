@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/json-rpc-ws",
+    "private": true,
+    "dependencies": {
+        "@types/ws": "workspace:../ws"
+    }
+}

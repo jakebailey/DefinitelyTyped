@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/packery",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

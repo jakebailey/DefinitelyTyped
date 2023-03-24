@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ref-union",
+    "private": true,
+    "dependencies": {
+        "@types/ref": "workspace:../ref"
+    }
+}

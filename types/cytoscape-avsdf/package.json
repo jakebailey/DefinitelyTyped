@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cytoscape-avsdf",
+    "private": true,
+    "dependencies": {
+        "@types/cytoscape": "workspace:../cytoscape"
+    }
+}

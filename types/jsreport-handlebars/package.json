@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsreport-handlebars",
+    "private": true,
+    "dependencies": {
+        "@types/jsreport-core": "workspace:../jsreport-core"
+    }
+}

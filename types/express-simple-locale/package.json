@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-simple-locale",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

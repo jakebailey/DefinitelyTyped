@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-generic-session",
+    "private": true,
+    "dependencies": {
+        "@types/cookies": "workspace:../cookies",
+        "@types/koa": "workspace:../koa"
+    }
+}

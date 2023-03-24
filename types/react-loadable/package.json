@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-loadable",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

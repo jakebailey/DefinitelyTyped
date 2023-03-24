@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/csv-write-stream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

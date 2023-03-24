@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hyperdeck-js-lib",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "js-logger": "^1.6.1"
     }
 }

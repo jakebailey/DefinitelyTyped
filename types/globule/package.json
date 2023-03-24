@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/globule",
     "private": true,
     "dependencies": {
+        "@types/glob": "workspace:../glob",
         "@types/minimatch": "*"
     }
 }

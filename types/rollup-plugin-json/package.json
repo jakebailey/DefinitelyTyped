@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rollup-plugin-json",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "rollup": "^0.63.4"
     }
 }

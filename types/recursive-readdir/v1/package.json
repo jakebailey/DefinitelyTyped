@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/recursive-readdir",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../../node"
+    }
+}

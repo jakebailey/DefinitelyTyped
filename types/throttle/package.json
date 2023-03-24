@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/throttle",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

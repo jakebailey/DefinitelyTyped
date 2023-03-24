@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdfjs__formats-common",
     "private": true,
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "@types/rdfjs__sink-map": "workspace:../rdfjs__sink-map",
+        "rdf-js": "^4.0.2"
     }
-  }
+}

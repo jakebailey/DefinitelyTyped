@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/inline-css",
+    "private": true,
+    "dependencies": {
+        "@types/cheerio": "workspace:../cheerio"
+    }
+}

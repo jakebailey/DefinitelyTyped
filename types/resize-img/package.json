@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/resize-img",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

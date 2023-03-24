@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-graphviz",
+    "private": true,
+    "dependencies": {
+        "@types/d3-selection": "workspace:../d3-selection/v1",
+        "@types/d3-transition": "workspace:../d3-transition/v1",
+        "@types/d3-zoom": "workspace:../d3-zoom/v1"
+    }
+}

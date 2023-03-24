@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-masonry-layout",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

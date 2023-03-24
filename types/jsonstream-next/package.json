@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsonstream-next",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ref-napi",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-red__editor-api",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/node-red__runtime": "workspace:../node-red__runtime"
+    }
+}

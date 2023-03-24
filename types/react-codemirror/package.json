@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-codemirror",
+    "private": true,
+    "dependencies": {
+        "@types/codemirror": "workspace:../codemirror",
+        "@types/react": "workspace:../react"
+    }
+}

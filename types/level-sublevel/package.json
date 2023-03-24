@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/level-sublevel",
+    "private": true,
+    "dependencies": {
+        "@types/levelup": "workspace:../levelup/v1"
+    }
+}

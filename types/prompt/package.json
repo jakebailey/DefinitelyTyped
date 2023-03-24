@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/prompt",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/revalidator": "workspace:../revalidator"
+    }
+}

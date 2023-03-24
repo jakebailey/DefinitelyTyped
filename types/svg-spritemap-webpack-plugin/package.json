@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/svg-spritemap-webpack-plugin",
     "private": true,
     "dependencies": {
+        "@types/glob": "workspace:../glob",
+        "@types/node": "workspace:../node",
         "tapable": "^2.2.0",
         "webpack": "^5.0.0"
     }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stringify-author",
+    "private": true,
+    "dependencies": {
+        "@types/parse-author": "workspace:../parse-author"
+    }
+}

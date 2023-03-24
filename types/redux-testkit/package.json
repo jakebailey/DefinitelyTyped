@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/redux-testkit",
     "private": true,
     "dependencies": {
         "redux": "*",

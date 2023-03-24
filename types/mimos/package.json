@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mimos",
+    "private": true,
+    "dependencies": {
+        "@types/mime-db": "workspace:../mime-db"
+    }
+}

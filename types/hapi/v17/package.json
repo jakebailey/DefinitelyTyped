@@ -1,6 +1,15 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hapi",
     "private": true,
     "dependencies": {
+        "@types/boom": "workspace:../../boom",
+        "@types/catbox": "workspace:../../catbox",
+        "@types/iron": "workspace:../../iron",
+        "@types/mimos": "workspace:../../mimos",
+        "@types/node": "workspace:../../node",
+        "@types/podium": "workspace:../../podium",
+        "@types/shot": "workspace:../../shot",
         "joi": "^17.3.0"
     }
 }

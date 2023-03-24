@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chrome",
+    "private": true,
+    "dependencies": {
+        "@types/filesystem": "workspace:../filesystem",
+        "@types/har-format": "workspace:../har-format"
+    }
+}

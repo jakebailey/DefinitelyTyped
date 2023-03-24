@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/get-sass-vars",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "sass": "^1.45.0"
     }
 }

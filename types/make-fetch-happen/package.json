@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/make-fetch-happen",
+    "private": true,
+    "dependencies": {
+        "@types/node-fetch": "workspace:../node-fetch",
+        "@types/retry": "workspace:../retry",
+        "@types/ssri": "workspace:../ssri"
+    }
+}

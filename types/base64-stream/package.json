@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/base64-stream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

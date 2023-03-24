@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-live-server",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

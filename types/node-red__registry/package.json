@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-red__registry",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/node-red__runtime": "workspace:../node-red__runtime",
+        "@types/node-red__util": "workspace:../node-red__util"
+    }
+}

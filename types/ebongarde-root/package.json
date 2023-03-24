@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ebongarde-root",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

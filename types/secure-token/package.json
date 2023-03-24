@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/secure-token",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

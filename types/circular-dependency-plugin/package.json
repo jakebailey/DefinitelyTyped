@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/circular-dependency-plugin",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "webpack": "^5.1.0"
     }
 }

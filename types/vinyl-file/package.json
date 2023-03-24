@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vinyl-file",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/vinyl": "workspace:../vinyl"
+    }
+}

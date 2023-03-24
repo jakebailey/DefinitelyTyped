@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/html-minifier-terser",
     "private": true,
     "type": "module"
 }

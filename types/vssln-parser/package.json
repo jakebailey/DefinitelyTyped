@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vssln-parser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

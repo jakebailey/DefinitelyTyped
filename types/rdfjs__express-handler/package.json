@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdfjs__express-handler",
     "private": true,
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "@types/express": "workspace:../express",
+        "@types/rdfjs__formats-common": "workspace:../rdfjs__formats-common",
+        "rdf-js": "^4.0.2"
     }
-  }
+}

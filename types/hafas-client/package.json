@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hafas-client",
     "private": true,
     "type": "module"
 }

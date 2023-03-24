@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/eslint-utils",
+    "private": true,
+    "dependencies": {
+        "@types/eslint": "workspace:../eslint",
+        "@types/estree": "workspace:../estree"
+    }
+}

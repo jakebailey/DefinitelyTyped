@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-mysql-session",
+    "private": true,
+    "dependencies": {
+        "@types/express-session": "workspace:../express-session"
+    }
+}

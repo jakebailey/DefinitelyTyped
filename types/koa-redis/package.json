@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-redis",
     "private": true,
     "dependencies": {
+        "@types/koa-session": "workspace:../koa-session",
         "@types/redis": "^2.8.0"
     }
 }

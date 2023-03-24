@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/json-schema-compare",
+    "private": true,
+    "dependencies": {
+        "@types/json-schema": "workspace:../json-schema"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/protractor-browser-logs",
     "private": true,
     "dependencies": {
+        "@types/selenium-webdriver": "workspace:../selenium-webdriver/v3",
         "protractor": "5.4.3"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/archiver",
+    "private": true,
+    "dependencies": {
+        "@types/readdir-glob": "workspace:../readdir-glob"
+    }
+}

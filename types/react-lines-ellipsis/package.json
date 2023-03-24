@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-lines-ellipsis",
+    "private": true,
+    "dependencies": {
+        "@types/lodash": "workspace:../lodash",
+        "@types/react": "workspace:../react"
+    }
+}

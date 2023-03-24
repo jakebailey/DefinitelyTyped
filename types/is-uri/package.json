@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/is-uri",
+    "private": true,
+    "dependencies": {
+        "@types/parse-uri": "workspace:../parse-uri"
+    }
+}

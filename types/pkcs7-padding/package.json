@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pkcs7-padding",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/get-image-colors",
+    "private": true,
+    "dependencies": {
+        "@types/chroma-js": "workspace:../chroma-js",
+        "@types/node": "workspace:../node"
+    }
+}

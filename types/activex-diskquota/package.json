@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/activex-diskquota",
     "private": true,
     "dependencies": {
+        "@types/activex-interop": "workspace:../activex-interop",
         "activex-helpers": "*"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/polyline",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson"
+    }
+}

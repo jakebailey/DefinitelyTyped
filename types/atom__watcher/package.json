@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/atom__watcher",
+    "private": true,
+    "dependencies": {
+        "@types/event-kit": "workspace:../event-kit"
+    }
+}

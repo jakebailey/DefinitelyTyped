@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/create-hash",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

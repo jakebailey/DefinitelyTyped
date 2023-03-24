@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/feathersjs__socketio-client",
     "private": true,
     "dependencies": {
         "@types/socket.io-client": "1.4.36"

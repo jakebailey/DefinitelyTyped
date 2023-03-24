@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/through2-concurrent",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/through2": "workspace:../through2"
+    }
+}

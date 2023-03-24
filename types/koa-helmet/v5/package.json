@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/helmet": "0.0.48"
-  }
+    "CONVERTED": true,
+    "name": "@types/koa-helmet",
+    "private": true,
+    "dependencies": {
+        "@types/helmet": "0.0.48",
+        "@types/koa": "workspace:../../koa"
+    }
 }

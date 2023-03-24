@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nodal",
+    "private": true,
+    "dependencies": {
+        "@types/fxn": "workspace:../fxn",
+        "@types/node": "workspace:../node"
+    }
+}

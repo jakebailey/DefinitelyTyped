@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-language",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-core": "workspace:../ckeditor__ckeditor5-core"
+    }
+}

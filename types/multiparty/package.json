@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/multiparty",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

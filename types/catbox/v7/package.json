@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/catbox",
+    "private": true,
+    "dependencies": {
+        "@types/boom": "workspace:../../boom/v4"
+    }
+}

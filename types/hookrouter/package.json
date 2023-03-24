@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hookrouter",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "csstype": "^3.0.2"
     }
 }

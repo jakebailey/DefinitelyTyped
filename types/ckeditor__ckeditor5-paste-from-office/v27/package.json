@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-paste-from-office",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-clipboard": "workspace:../../ckeditor__ckeditor5-clipboard",
+        "@types/ckeditor__ckeditor5-core": "workspace:../../ckeditor__ckeditor5-core",
+        "@types/ckeditor__ckeditor5-engine": "workspace:../../ckeditor__ckeditor5-engine"
+    }
+}

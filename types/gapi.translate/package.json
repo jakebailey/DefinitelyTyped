@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gapi.translate",
+    "private": true,
+    "dependencies": {
+        "@types/gapi": "workspace:../gapi"
+    }
+}

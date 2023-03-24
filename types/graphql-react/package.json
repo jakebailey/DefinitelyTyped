@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/graphql-react",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

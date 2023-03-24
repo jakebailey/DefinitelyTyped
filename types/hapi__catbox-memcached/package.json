@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hapi__catbox-memcached",
     "private": true,
     "dependencies": {
         "@hapi/hapi": "^21.1.0",
+        "@types/hapi__catbox": "workspace:../hapi__catbox",
         "joi": "^17.7.0"
     }
 }

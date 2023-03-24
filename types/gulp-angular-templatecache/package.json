@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-angular-templatecache",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bearcat-es6",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

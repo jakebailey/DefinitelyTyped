@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/got": "^9"
-  }
+    "CONVERTED": true,
+    "name": "@types/onionoo",
+    "private": true,
+    "dependencies": {
+        "@types/got": "^9"
+    }
 }

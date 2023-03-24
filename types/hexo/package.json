@@ -1,6 +1,14 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hexo",
     "private": true,
     "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/bunyan": "workspace:../bunyan",
+        "@types/connect": "workspace:../connect",
+        "@types/hexo-util": "workspace:../hexo-util",
+        "@types/minimist": "workspace:../minimist",
+        "@types/underscore": "workspace:../underscore",
         "moment": "^2.19.4"
     }
 }

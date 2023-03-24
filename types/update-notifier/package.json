@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/update-notifier",
     "private": true,
     "type": "module",
     "dependencies": {
+        "@types/configstore": "workspace:../configstore",
         "boxen": "^7.0.0"
     }
 }

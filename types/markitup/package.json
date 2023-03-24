@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/markitup",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

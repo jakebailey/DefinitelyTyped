@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fs-extra-promise-es6",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

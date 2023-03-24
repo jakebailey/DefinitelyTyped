@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/absinthe__socket",
+    "private": true,
+    "dependencies": {
+        "@types/phoenix": "workspace:../phoenix"
+    }
+}

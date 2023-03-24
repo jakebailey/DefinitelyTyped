@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sshpk",
+    "private": true,
+    "dependencies": {
+        "@types/asn1": "workspace:../asn1",
+        "@types/node": "workspace:../node"
+    }
+}

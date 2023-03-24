@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/raven-for-redux",
     "private": true,
     "dependencies": {
         "raven-js": ">=3.21.0",

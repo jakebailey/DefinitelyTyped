@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/beanstalkd-worker",
+    "private": true,
+    "dependencies": {
+        "@types/beanstalkd": "workspace:../beanstalkd"
+    }
+}

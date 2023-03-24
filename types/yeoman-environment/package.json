@@ -1,6 +1,14 @@
 {
+    "CONVERTED": true,
+    "name": "@types/yeoman-environment",
     "private": true,
     "dependencies": {
+        "@types/diff": "workspace:../diff",
+        "@types/inquirer": "workspace:../inquirer/v8",
+        "@types/mem-fs": "workspace:../mem-fs",
+        "@types/text-table": "workspace:../text-table",
+        "@types/vinyl": "workspace:../vinyl",
+        "@types/yeoman-generator": "workspace:../yeoman-generator",
         "chalk": "^4.1.0",
         "commander": "^9.0.0",
         "execa": "^5.0.0",

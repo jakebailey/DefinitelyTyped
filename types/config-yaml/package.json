@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/config-yaml",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/recharts",
+    "private": true,
+    "dependencies": {
+        "@types/d3-shape": "workspace:../d3-shape/v1",
+        "@types/react": "workspace:../react"
+    }
+}

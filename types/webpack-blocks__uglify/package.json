@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpack-blocks__uglify",
+    "private": true,
+    "dependencies": {
+        "@types/uglify-js": "workspace:../uglify-js",
+        "@types/webpack-blocks": "workspace:../webpack-blocks"
+    }
+}

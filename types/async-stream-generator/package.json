@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/async-stream-generator",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/buffer-split",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

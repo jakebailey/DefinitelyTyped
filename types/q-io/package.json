@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/q-io",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/q": "workspace:../q/v0"
+    }
+}

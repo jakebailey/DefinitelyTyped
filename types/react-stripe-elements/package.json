@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-stripe-elements",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/stripe-v3": "workspace:../stripe-v3"
+    }
+}

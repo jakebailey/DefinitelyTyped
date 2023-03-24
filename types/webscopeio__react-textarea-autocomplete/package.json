@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webscopeio__react-textarea-autocomplete",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

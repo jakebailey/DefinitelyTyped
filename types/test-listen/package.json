@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/test-listen",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

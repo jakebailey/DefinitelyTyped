@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpack-watched-glob-entries-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/glob": "workspace:../glob",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

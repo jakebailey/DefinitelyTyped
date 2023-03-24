@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-version-check",
+    "private": true,
+    "dependencies": {
+        "@types/node-fetch": "workspace:../node-fetch"
+    }
+}

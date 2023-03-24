@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gestalt",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

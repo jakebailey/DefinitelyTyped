@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bootstrap.paginator",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

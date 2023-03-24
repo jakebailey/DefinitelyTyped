@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pumpify",
+    "private": true,
+    "dependencies": {
+        "@types/duplexify": "workspace:../duplexify",
+        "@types/node": "workspace:../node"
+    }
+}

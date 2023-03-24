@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-brute",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/angularfire",
     "private": true,
     "dependencies": {
+        "@types/angular": "workspace:../angular",
         "@types/firebase": "^2.4.1"
     }
 }

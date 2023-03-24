@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/simple-cw-node",
+    "private": true,
+    "dependencies": {
+        "@types/superagent": "workspace:../superagent"
+    }
+}

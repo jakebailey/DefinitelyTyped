@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-sass-tilde-importer",
+    "private": true,
+    "dependencies": {
+        "@types/node-sass": "workspace:../node-sass"
+    }
+}

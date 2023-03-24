@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/batch-stream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

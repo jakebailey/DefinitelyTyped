@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/knockout.validation",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout"
+    }
+}

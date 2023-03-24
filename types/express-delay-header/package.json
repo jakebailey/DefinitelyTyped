@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-delay-header",
+    "private": true,
+    "dependencies": {
+        "@types/express-serve-static-core": "workspace:../express-serve-static-core"
+    }
+}

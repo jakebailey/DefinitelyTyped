@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dygraphs",
+    "private": true,
+    "dependencies": {
+        "@types/google.visualization": "workspace:../google.visualization"
+    }
+}

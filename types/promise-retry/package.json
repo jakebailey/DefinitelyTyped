@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/promise-retry",
+    "private": true,
+    "dependencies": {
+        "@types/retry": "workspace:../retry"
+    }
+}

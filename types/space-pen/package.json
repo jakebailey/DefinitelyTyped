@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/space-pen",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

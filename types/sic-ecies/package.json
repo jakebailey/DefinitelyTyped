@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sic-ecies",
+    "private": true,
+    "dependencies": {
+        "@types/bitcore-lib": "workspace:../bitcore-lib"
+    }
+}

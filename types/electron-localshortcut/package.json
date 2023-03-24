@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/electron-localshortcut",
     "private": true,
     "dependencies": {
         "electron": "*"

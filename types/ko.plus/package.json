@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ko.plus",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout"
+    }
+}

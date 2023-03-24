@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpack-blocks__webpack",
+    "private": true,
+    "dependencies": {
+        "@types/webpack": "workspace:../webpack/v4",
+        "@types/webpack-blocks__core": "workspace:../webpack-blocks__core"
+    }
+}

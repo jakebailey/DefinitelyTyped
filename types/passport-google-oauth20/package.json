@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-google-oauth20",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/passport": "workspace:../passport",
+        "@types/passport-oauth2": "workspace:../passport-oauth2"
+    }
+}

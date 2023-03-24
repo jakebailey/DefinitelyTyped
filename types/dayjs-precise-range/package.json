@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "dayjs": "^1.10.4"
-  }
+    "CONVERTED": true,
+    "name": "@types/dayjs-precise-range",
+    "private": true,
+    "dependencies": {
+        "dayjs": "^1.10.4"
+    }
 }

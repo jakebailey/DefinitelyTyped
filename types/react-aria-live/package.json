@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-aria-live",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

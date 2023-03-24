@@ -1,6 +1,11 @@
 {
-  "private": true,
-  "dependencies": {
-    "form-data": "^2.5.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/request",
+    "private": true,
+    "dependencies": {
+        "@types/caseless": "workspace:../caseless",
+        "@types/node": "workspace:../node",
+        "@types/tough-cookie": "workspace:../tough-cookie",
+        "form-data": "^2.5.0"
+    }
 }

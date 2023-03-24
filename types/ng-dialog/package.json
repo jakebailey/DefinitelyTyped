@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ng-dialog",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

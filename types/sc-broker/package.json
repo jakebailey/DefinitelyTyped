@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sc-broker",
+    "private": true,
+    "dependencies": {
+        "@types/expirymanager": "workspace:../expirymanager",
+        "@types/fleximap": "workspace:../fleximap",
+        "@types/ncom": "workspace:../ncom"
+    }
+}

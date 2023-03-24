@@ -1,8 +1,13 @@
 {
+    "CONVERTED": true,
+    "name": "@types/craco__craco",
     "private": true,
     "dependencies": {
         "@jest/types": "^27.4.2",
         "@types/autoprefixer": "^9.7.2",
+        "@types/babel-core": "workspace:../babel-core",
+        "@types/eslint": "workspace:../eslint",
+        "@types/webpack": "workspace:../webpack/v4",
         "@types/webpack-dev-server": "^3.11.6"
     }
 }

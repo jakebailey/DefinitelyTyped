@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/blob-stream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

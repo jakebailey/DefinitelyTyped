@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/atlaskit__layer",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,7 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/reflexbox",
     "private": true,
     "dependencies": {
+        "@emotion/react": "*",
         "@emotion/styled": "*",
-        "@emotion/react": "*"
+        "@types/react": "workspace:../react",
+        "@types/styled-system": "workspace:../styled-system"
     }
 }

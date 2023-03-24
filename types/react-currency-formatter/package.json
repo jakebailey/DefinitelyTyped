@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-currency-formatter",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

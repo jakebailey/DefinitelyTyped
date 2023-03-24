@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-adapter-ckfinder",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-core": "workspace:../ckeditor__ckeditor5-core",
+        "@types/ckeditor__ckeditor5-upload": "workspace:../ckeditor__ckeditor5-upload",
+        "@types/ckeditor__ckeditor5-utils": "workspace:../ckeditor__ckeditor5-utils"
+    }
+}

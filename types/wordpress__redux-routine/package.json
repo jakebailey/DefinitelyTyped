@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__redux-routine",
     "private": true,
     "dependencies": {
         "redux": "^4.0.1"

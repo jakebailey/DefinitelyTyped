@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/html-to-pdfmake",
+    "private": true,
+    "dependencies": {
+        "@types/jsdom": "workspace:../jsdom",
+        "@types/pdfmake": "workspace:../pdfmake"
+    }
+}

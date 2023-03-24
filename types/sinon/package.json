@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sinon",
+    "private": true,
+    "dependencies": {
+        "@types/sinonjs__fake-timers": "workspace:../sinonjs__fake-timers"
+    }
+}

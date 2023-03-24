@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ngprogress-lite",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

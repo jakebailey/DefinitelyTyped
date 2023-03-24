@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/secp256k1",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

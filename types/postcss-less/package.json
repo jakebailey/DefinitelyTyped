@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "postcss": "^8.1.2"
-  }
+    "CONVERTED": true,
+    "name": "@types/postcss-less",
+    "private": true,
+    "dependencies": {
+        "postcss": "^8.1.2"
+    }
 }

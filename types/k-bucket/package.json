@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/k-bucket",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

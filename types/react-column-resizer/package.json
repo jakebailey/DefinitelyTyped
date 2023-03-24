@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-column-resizer",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

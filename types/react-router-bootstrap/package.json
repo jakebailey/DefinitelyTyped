@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-router-bootstrap",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

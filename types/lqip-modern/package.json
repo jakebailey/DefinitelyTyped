@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lqip-modern",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/sharp": "workspace:../sharp"
+    }
+}

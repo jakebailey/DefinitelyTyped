@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-correlation-id",
+    "private": true,
+    "dependencies": {
+        "@types/express-serve-static-core": "workspace:../express-serve-static-core"
+    }
+}

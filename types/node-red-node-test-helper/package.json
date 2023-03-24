@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-red-node-test-helper",
+    "private": true,
+    "dependencies": {
+        "@types/node-red": "workspace:../node-red",
+        "@types/node-red__runtime": "workspace:../node-red__runtime",
+        "@types/sinon": "workspace:../sinon",
+        "@types/supertest": "workspace:../supertest"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-flextree",
+    "private": true,
+    "dependencies": {
+        "@types/d3-hierarchy": "workspace:../d3-hierarchy"
+    }
+}

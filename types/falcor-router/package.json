@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/falcor-router",
+    "private": true,
+    "dependencies": {
+        "@types/falcor": "workspace:../falcor",
+        "@types/falcor-json-graph": "workspace:../falcor-json-graph",
+        "@types/rx": "workspace:../rx"
+    }
+}

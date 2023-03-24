@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pino-datadog",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

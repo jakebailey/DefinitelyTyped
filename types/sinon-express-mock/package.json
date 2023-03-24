@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sinon-express-mock",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/sinon": "workspace:../sinon"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bootbox",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/snapsvg",
+    "private": true,
+    "dependencies": {
+        "@types/mina": "workspace:../mina"
+    }
+}

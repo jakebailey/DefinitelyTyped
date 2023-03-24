@@ -1,0 +1,16 @@
+{
+    "CONVERTED": true,
+    "name": "@types/socketcluster-server",
+    "private": true,
+    "dependencies": {
+        "@types/ag-auth": "workspace:../../ag-auth",
+        "@types/ag-simple-broker": "workspace:../../ag-simple-broker/v4",
+        "@types/async-stream-emitter": "workspace:../../async-stream-emitter/v3",
+        "@types/consumable-stream": "workspace:../../consumable-stream/v1",
+        "@types/jsonwebtoken": "workspace:../../jsonwebtoken",
+        "@types/sc-errors": "workspace:../../sc-errors",
+        "@types/stream-demux": "workspace:../../stream-demux/v7",
+        "@types/writable-consumable-stream": "workspace:../../writable-consumable-stream/v1",
+        "@types/ws": "workspace:../../ws"
+    }
+}

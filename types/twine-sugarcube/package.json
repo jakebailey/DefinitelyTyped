@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/twine-sugarcube",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

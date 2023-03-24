@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/git-diff-parser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

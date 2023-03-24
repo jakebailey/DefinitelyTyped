@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/svg2png",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

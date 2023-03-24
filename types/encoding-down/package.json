@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/encoding-down",
+    "private": true,
+    "dependencies": {
+        "@types/abstract-leveldown": "workspace:../abstract-leveldown",
+        "@types/level-codec": "workspace:../level-codec"
+    }
+}

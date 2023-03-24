@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/protractor-console-plugin",
     "private": true,
     "dependencies": {
         "protractor": "7.0.0"

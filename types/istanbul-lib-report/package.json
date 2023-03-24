@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/istanbul-lib-report",
+    "private": true,
+    "dependencies": {
+        "@types/istanbul-lib-coverage": "workspace:../istanbul-lib-coverage"
+    }
+}

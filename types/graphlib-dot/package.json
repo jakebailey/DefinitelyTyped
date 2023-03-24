@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/graphlib-dot",
+    "private": true,
+    "dependencies": {
+        "@types/graphlib": "workspace:../graphlib"
+    }
+}

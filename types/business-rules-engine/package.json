@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/business-rules-engine",
     "private": true,
     "dependencies": {
+        "@types/q": "workspace:../q/v0",
         "moment": ">=2.14.0"
     }
 }

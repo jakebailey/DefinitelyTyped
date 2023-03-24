@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/restangular",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

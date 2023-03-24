@@ -1,6 +1,10 @@
 {
-  "dependencies": {
-    "@npm/types": "*"
-  },
-  "private": true
+    "CONVERTED": true,
+    "name": "@types/libnpmpublish",
+    "private": true,
+    "dependencies": {
+        "@npm/types": "*",
+        "@types/node-fetch": "workspace:../node-fetch",
+        "@types/npm-registry-fetch": "workspace:../npm-registry-fetch"
+    }
 }

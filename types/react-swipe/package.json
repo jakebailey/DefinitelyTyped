@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-swipe",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/swipe": "workspace:../swipe"
+    }
+}

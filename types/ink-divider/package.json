@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ink-divider",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fresh-tabula-js",
+    "private": true,
+    "dependencies": {
+        "@types/highland": "workspace:../highland",
+        "@types/node": "workspace:../node"
+    }
+}

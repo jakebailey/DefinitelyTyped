@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hippy__react",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-reconciler": "workspace:../react-reconciler"
+    }
+}

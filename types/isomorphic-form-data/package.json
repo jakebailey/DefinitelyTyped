@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/isomorphic-form-data",
     "private": true,
     "dependencies": {
         "form-data": "^2.5.1"

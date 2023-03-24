@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/quill",
     "private": true,
     "dependencies": {
         "parchment": "^1.1.2",

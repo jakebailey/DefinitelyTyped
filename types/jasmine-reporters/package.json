@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jasmine-reporters",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine"
+    }
+}

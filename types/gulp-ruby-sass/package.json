@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-ruby-sass",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/karma-sinon-chai",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai",
+        "@types/karma": "workspace:../karma",
+        "@types/sinon": "workspace:../sinon",
+        "@types/sinon-chai": "workspace:../sinon-chai"
+    }
+}

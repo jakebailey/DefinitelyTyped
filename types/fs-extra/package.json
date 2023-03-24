@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/fs-extra",
     "private": true,
     "exports": {
         ".": {
@@ -9,5 +11,9 @@
                 "import": "./esm.d.mts"
             }
         }
+    },
+    "dependencies": {
+        "@types/jsonfile": "workspace:../jsonfile",
+        "@types/node": "workspace:../node"
     }
 }

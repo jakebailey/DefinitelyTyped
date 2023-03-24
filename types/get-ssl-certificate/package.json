@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/get-ssl-certificate",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

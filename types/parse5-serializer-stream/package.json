@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/parse5-serializer-stream",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "@types/parse5": "^6.0.3"
     }
 }

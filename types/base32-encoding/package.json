@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/base32-encoding",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

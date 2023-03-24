@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/superagent-prefix",
+    "private": true,
+    "dependencies": {
+        "@types/superagent": "workspace:../superagent"
+    }
+}

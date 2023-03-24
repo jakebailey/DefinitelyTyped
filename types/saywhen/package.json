@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/saywhen",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine"
+    }
+}

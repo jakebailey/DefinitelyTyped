@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/async-retry",
+    "private": true,
+    "dependencies": {
+        "@types/retry": "workspace:../retry"
+    }
+}

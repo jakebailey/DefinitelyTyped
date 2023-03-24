@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/autobahn",
+    "private": true,
+    "dependencies": {
+        "@types/when": "workspace:../when"
+    }
+}

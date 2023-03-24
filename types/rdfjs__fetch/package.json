@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "rdf-js": "^4.0.2"
-  }
+    "CONVERTED": true,
+    "name": "@types/rdfjs__fetch",
+    "private": true,
+    "dependencies": {
+        "@types/rdfjs__fetch-lite": "workspace:../rdfjs__fetch-lite",
+        "rdf-js": "^4.0.2"
+    }
 }

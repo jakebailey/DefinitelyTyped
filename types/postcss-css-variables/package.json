@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/postcss-css-variables",
     "private": true,
     "dependencies": {
         "postcss": "^8.2.6"

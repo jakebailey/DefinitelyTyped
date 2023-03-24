@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dv",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

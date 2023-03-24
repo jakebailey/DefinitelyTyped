@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yargs",
+    "private": true,
+    "dependencies": {
+        "@types/yargs-parser": "workspace:../../yargs-parser"
+    }
+}

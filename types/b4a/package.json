@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/b4a",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

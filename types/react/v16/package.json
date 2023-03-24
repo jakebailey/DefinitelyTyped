@@ -1,23 +1,27 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react",
     "private": true,
     "dependencies": {
-      "csstype": "^3.0.2"
+        "@types/prop-types": "workspace:../../prop-types",
+        "@types/scheduler": "workspace:../../scheduler",
+        "csstype": "^3.0.2"
     },
     "exports": {
-      ".": {
-        "types": {
-          "default": "./index.d.ts"
+        ".": {
+            "types": {
+                "default": "./index.d.ts"
+            }
+        },
+        "./jsx-runtime": {
+            "types": {
+                "default": "./jsx-runtime.d.ts"
+            }
+        },
+        "./jsx-dev-runtime": {
+            "types": {
+                "default": "./jsx-dev-runtime.d.ts"
+            }
         }
-      },
-      "./jsx-runtime": {
-        "types": {
-          "default": "./jsx-runtime.d.ts"
-        }
-      },
-      "./jsx-dev-runtime": {
-        "types": {
-          "default": "./jsx-dev-runtime.d.ts"
-        }
-      }
     }
-  }
+}

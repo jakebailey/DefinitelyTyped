@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/merge-img",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "jimp": "^0.9.5"
     }
 }

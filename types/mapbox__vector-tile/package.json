@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mapbox__vector-tile",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/mapbox__point-geometry": "workspace:../mapbox__point-geometry",
+        "@types/pbf": "workspace:../pbf"
+    }
+}

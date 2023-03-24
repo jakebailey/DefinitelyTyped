@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hashset",
+    "private": true,
+    "dependencies": {
+        "@types/hashtable": "workspace:../hashtable"
+    }
+}

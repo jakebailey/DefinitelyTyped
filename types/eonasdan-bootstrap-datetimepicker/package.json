@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/eonasdan-bootstrap-datetimepicker",
     "private": true,
     "dependencies": {
+        "@types/jquery": "workspace:../jquery",
         "moment": ">=2.14.0"
     }
 }

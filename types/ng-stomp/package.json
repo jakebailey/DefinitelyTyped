@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ng-stomp",
+    "private": true,
+    "dependencies": {
+        "@types/angular": "workspace:../angular"
+    }
+}

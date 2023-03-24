@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-time-picker",
+    "private": true,
+    "dependencies": {
+        "@types/react-clock": "workspace:../react-clock"
+    }
+}

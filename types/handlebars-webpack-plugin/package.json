@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/handlebars-webpack-plugin",
     "private": true,
     "dependencies": {
+        "@types/html-webpack-plugin": "workspace:../html-webpack-plugin",
+        "@types/webpack": "workspace:../webpack/v4",
         "handlebars": ">=4.0.3"
     }
 }

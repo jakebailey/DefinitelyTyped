@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-hint",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

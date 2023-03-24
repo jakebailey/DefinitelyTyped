@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/fluxxor",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "eventemitter3": "^2.0.3"
     }
 }

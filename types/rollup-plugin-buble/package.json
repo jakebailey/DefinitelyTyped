@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rollup-plugin-buble",
     "private": true,
     "dependencies": {
+        "@types/buble": "workspace:../buble",
+        "@types/node": "workspace:../node",
         "rollup": "^0.63.4"
     }
 }

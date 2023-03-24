@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__plugins",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/wordpress__components": "workspace:../wordpress__components",
         "@wordpress/element": "^3.0.0"
     }
 }

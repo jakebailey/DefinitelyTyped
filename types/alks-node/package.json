@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "moment": ">=2.15.2"
-  }
+    "CONVERTED": true,
+    "name": "@types/alks-node",
+    "private": true,
+    "dependencies": {
+        "moment": ">=2.15.2"
+    }
 }

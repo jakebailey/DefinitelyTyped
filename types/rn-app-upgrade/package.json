@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rn-app-upgrade",
+    "private": true,
+    "dependencies": {
+        "@types/react-native": "workspace:../react-native"
+    }
+}

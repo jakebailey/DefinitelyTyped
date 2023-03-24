@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-autocomplete",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

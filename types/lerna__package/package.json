@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lerna__package",
+    "private": true,
+    "dependencies": {
+        "@types/npm-package-arg": "workspace:../npm-package-arg"
+    }
+}

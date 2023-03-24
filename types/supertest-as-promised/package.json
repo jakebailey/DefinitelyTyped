@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/supertest-as-promised",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/superagent": "workspace:../superagent",
+        "@types/supertest": "workspace:../supertest"
+    }
+}

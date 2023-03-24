@@ -1,0 +1,13 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mem-fs-editor",
+    "private": true,
+    "dependencies": {
+        "@types/ejs": "workspace:../ejs",
+        "@types/glob": "workspace:../glob",
+        "@types/json-schema": "workspace:../json-schema",
+        "@types/mem-fs": "workspace:../mem-fs",
+        "@types/node": "workspace:../node",
+        "@types/vinyl": "workspace:../vinyl"
+    }
+}

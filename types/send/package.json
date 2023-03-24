@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/send",
+    "private": true,
+    "dependencies": {
+        "@types/mime": "workspace:../mime/v1",
+        "@types/node": "workspace:../node"
+    }
+}

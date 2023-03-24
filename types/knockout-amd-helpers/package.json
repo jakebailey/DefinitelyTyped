@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/knockout-amd-helpers",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout"
+    }
+}

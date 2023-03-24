@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/koa-better-body",
+    "private": true,
+    "dependencies": {
+        "@types/formidable": "workspace:../formidable",
+        "@types/koa": "workspace:../koa"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-relay",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../../react",
+        "@types/relay-runtime": "workspace:../../relay-runtime"
+    }
+}

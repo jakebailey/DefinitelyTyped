@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/proper-lockfile",
+    "private": true,
+    "dependencies": {
+        "@types/retry": "workspace:../retry"
+    }
+}

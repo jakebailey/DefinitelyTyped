@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-swipeable-views-core",
+    "private": true,
+    "dependencies": {
+        "@types/react-swipeable-views": "workspace:../react-swipeable-views"
+    }
+}

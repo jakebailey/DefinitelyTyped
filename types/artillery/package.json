@@ -1,6 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "got": "^11.8.5"
-  }
+    "CONVERTED": true,
+    "name": "@types/artillery",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/tough-cookie": "workspace:../tough-cookie",
+        "got": "^11.8.5"
+    }
 }

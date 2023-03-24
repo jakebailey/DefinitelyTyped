@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/git-raw-commits",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

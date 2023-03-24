@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mapbox__tilebelt",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson"
+    }
+}

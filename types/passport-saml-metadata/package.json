@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-saml-metadata",
+    "private": true,
+    "dependencies": {
+        "@types/passport-saml": "workspace:../passport-saml"
+    }
+}

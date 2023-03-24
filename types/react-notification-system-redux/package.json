@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-notification-system-redux",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-notification-system": "workspace:../react-notification-system",
         "redux": "^3.6.0"
     }
 }

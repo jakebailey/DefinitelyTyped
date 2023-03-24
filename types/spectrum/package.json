@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/spectrum",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/tinycolor2": "workspace:../tinycolor2"
+    }
+}

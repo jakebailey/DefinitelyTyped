@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mock-express-request",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

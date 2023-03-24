@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/django-bananas",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

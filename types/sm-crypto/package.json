@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sm-crypto",
+    "private": true,
+    "dependencies": {
+        "@types/bigi": "workspace:../bigi"
+    }
+}

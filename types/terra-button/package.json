@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/terra-button",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/terra-theme-context": "workspace:../terra-theme-context"
+    }
+}

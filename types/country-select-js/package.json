@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/country-select-js",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

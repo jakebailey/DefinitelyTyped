@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/agiledigital__mule-preview",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

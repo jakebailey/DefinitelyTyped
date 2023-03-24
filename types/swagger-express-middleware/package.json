@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "swagger-parser": "^7.0.1"
-  }
+    "CONVERTED": true,
+    "name": "@types/swagger-express-middleware",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "swagger-parser": "^7.0.1"
+    }
 }

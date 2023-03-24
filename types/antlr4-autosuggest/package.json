@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/antlr4-autosuggest",
+    "private": true,
+    "dependencies": {
+        "@types/antlr4": "workspace:../antlr4"
+    }
+}

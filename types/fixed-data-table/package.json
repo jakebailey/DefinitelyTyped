@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fixed-data-table",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

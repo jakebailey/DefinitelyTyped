@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-ensure-login",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

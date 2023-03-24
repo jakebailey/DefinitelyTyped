@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-swipeable-views-utils",
     "private": true,
     "dependencies": {
-        "@material-ui/types": "^4.0.0"
+        "@material-ui/types": "^4.0.0",
+        "@types/react": "workspace:../react",
+        "@types/react-swipeable-views": "workspace:../react-swipeable-views"
     }
 }

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/openjscad",
     "private": true,
     "dependencies": {
         "three": "*"

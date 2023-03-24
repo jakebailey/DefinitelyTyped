@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/transform-coordinates",
+    "private": true,
+    "dependencies": {
+        "@types/proj4": "workspace:../proj4"
+    }
+}

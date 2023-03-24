@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/binary-parser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

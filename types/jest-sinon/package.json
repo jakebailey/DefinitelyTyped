@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jest-sinon",
+    "private": true,
+    "dependencies": {
+        "@types/jest": "workspace:../jest",
+        "@types/sinon": "workspace:../sinon"
+    }
+}

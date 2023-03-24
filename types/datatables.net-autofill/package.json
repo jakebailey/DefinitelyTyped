@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/datatables.net-autofill",
+    "private": true,
+    "dependencies": {
+        "@types/datatables.net": "workspace:../datatables.net",
+        "@types/jquery": "workspace:../jquery"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsoneditor-for-react",
+    "private": true,
+    "dependencies": {
+        "@types/jsoneditor": "workspace:../jsoneditor",
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/msgpack-lite",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

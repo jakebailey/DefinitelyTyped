@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/imagemin-svgo",
     "private": true,
     "dependencies": {
+        "@types/imagemin": "workspace:../imagemin",
         "@types/svgo": "2"
     }
 }

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jsforce",
     "private": true,
     "dependencies": {
         "@types/node": ">=4.0"

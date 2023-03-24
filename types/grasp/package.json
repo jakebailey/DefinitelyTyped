@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/grasp",
+    "private": true,
+    "dependencies": {
+        "@types/cli-color": "workspace:../cli-color",
+        "@types/estree": "workspace:../estree",
+        "@types/node": "workspace:../node"
+    }
+}

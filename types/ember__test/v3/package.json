@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember__test",
+    "private": true,
+    "dependencies": {
+        "@types/ember__application": "workspace:../../ember__application/v3"
+    }
+}

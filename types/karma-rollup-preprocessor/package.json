@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/karma-rollup-preprocessor",
     "private": true,
     "dependencies": {
+        "@types/karma": "workspace:../karma",
         "rollup": ">=1.0.0"
     }
 }

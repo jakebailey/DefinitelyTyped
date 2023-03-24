@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/npm-registry-fetch",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/node-fetch": "workspace:../node-fetch",
+        "@types/npm-package-arg": "workspace:../npm-package-arg",
+        "@types/npmlog": "workspace:../npmlog",
+        "@types/ssri": "workspace:../ssri"
+    }
+}

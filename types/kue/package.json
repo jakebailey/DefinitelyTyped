@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/kue",
     "private": true,
     "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node",
         "@types/redis": "^2.8.0"
     }
 }

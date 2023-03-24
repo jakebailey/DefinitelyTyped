@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/clearbladejs-node",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

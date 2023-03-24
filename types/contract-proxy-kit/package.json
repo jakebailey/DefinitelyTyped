@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/contract-proxy-kit",
     "private": true,
     "dependencies": {
         "ethers": "^4.0.43"

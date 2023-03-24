@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/snowflake-sdk",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "generic-pool": "^3.9.0"
     }
 }

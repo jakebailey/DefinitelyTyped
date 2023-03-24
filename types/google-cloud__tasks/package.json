@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/google-cloud__tasks",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "google-gax": "^0.22.1"
     }
 }

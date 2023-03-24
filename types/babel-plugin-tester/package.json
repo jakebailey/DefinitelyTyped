@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/babel-plugin-tester",
+    "private": true,
+    "dependencies": {
+        "@types/babel__core": "workspace:../babel__core",
+        "@types/prettier": "workspace:../prettier"
+    }
+}

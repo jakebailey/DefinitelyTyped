@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sc-channel",
+    "private": true,
+    "dependencies": {
+        "@types/component-emitter": "workspace:../../component-emitter"
+    }
+}

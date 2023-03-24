@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gapi.auth2",
+    "private": true,
+    "dependencies": {
+        "@types/gapi": "workspace:../gapi"
+    }
+}

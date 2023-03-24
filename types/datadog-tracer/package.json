@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/datadog-tracer",
     "private": true,
     "dependencies": {
         "opentracing": "^0.14.1"

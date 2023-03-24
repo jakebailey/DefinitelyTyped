@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-instantsearch-dom",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-instantsearch-core": "workspace:../react-instantsearch-core"
+    }
+}

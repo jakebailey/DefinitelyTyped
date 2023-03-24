@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/image-thumbnail",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

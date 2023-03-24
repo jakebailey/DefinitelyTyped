@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/web-resource-inliner",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

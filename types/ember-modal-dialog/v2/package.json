@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-modal-dialog",
+    "private": true,
+    "dependencies": {
+        "@types/ember": "workspace:../../ember/v2"
+    }
+}

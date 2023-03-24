@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/swagger-tools",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect"
+    }
+}

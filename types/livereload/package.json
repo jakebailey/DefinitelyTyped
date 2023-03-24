@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/livereload",
+    "private": true,
+    "dependencies": {
+        "@types/ws": "workspace:../ws"
+    }
+}

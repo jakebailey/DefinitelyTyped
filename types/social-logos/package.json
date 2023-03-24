@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/social-logos",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

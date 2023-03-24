@@ -1,0 +1,16 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpack-blocks",
+    "private": true,
+    "dependencies": {
+        "@types/webpack-blocks__assets": "workspace:../webpack-blocks__assets",
+        "@types/webpack-blocks__babel": "workspace:../webpack-blocks__babel",
+        "@types/webpack-blocks__dev-server": "workspace:../webpack-blocks__dev-server",
+        "@types/webpack-blocks__extract-text": "workspace:../webpack-blocks__extract-text",
+        "@types/webpack-blocks__postcss": "workspace:../webpack-blocks__postcss",
+        "@types/webpack-blocks__sass": "workspace:../webpack-blocks__sass",
+        "@types/webpack-blocks__typescript": "workspace:../webpack-blocks__typescript",
+        "@types/webpack-blocks__uglify": "workspace:../webpack-blocks__uglify",
+        "@types/webpack-blocks__webpack": "workspace:../webpack-blocks__webpack"
+    }
+}

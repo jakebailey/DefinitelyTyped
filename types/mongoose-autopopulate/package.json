@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/mongoose-autopopulate",
     "private": true,
     "dependencies": {
         "mongoose": "^6.3.0"

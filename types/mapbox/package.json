@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mapbox",
+    "private": true,
+    "dependencies": {
+        "@types/leaflet": "workspace:../leaflet/v0"
+    }
+}

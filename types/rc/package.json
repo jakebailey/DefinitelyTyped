@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rc",
+    "private": true,
+    "dependencies": {
+        "@types/minimist": "workspace:../minimist"
+    }
+}

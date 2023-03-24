@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/url-assembler",
+    "private": true,
+    "dependencies": {
+        "@types/qs": "workspace:../qs"
+    }
+}

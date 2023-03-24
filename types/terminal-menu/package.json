@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/terminal-menu",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

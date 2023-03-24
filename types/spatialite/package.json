@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/spatialite",
+    "private": true,
+    "dependencies": {
+        "@types/sqlite3": "workspace:../sqlite3"
+    }
+}

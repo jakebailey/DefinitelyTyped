@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/serverless-jest-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/lambda-wrapper": "workspace:../lambda-wrapper",
+        "@types/serverless": "workspace:../serverless"
+    }
+}

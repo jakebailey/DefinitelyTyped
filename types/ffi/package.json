@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ffi",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/ref": "workspace:../ref",
+        "@types/ref-struct": "workspace:../ref-struct"
+    }
+}

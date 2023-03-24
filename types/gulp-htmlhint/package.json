@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-htmlhint",
+    "private": true,
+    "dependencies": {
+        "@types/htmlhint": "workspace:../htmlhint",
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/globalize",
+    "private": true,
+    "dependencies": {
+        "@types/cldrjs": "workspace:../cldrjs"
+    }
+}

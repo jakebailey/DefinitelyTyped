@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pi-pir-sensor",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

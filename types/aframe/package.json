@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/aframe",
+    "private": true,
+    "dependencies": {
+        "@types/animejs": "workspace:../animejs",
+        "@types/three": "workspace:../three"
+    }
+}

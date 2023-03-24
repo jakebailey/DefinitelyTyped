@@ -1,6 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webpack-serve",
     "private": true,
     "dependencies": {
-        "@types/webpack-dev-middleware": "3"
+        "@types/koa": "workspace:../../koa",
+        "@types/node": "workspace:../../node",
+        "@types/webpack": "workspace:../../webpack/v4",
+        "@types/webpack-dev-middleware": "3",
+        "@types/webpack-hot-client": "workspace:../../webpack-hot-client"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-linkify",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

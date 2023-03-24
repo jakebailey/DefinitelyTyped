@@ -1,6 +1,9 @@
 {
-   "private": true,
-   "dependencies": {
-      "typescript": "*"
-   }
+    "CONVERTED": true,
+    "name": "@types/dts-generator",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "typescript": "*"
+    }
 }

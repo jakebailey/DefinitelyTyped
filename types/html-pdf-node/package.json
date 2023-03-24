@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/html-pdf-node",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

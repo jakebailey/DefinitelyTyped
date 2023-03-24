@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-typing-animation",
+    "private": true,
+    "dependencies": {
+        "@types/react-native": "workspace:../react-native"
+    }
+}

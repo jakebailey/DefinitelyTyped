@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-cheerio",
+    "private": true,
+    "dependencies": {
+        "@types/cheerio": "workspace:../cheerio",
+        "@types/node": "workspace:../node",
+        "@types/vinyl": "workspace:../vinyl"
+    }
+}

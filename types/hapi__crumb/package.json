@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hapi__crumb",
     "private": true,
     "dependencies": {
         "@hapi/hapi": "^21.1.0",

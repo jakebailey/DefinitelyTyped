@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/marv-pg-driver",
+    "private": true,
+    "dependencies": {
+        "@types/marv": "workspace:../marv",
+        "@types/pg": "workspace:../pg"
+    }
+}

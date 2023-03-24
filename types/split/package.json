@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/split",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/through": "workspace:../through"
+    }
+}

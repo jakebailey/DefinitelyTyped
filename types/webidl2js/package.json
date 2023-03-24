@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webidl2js",
+    "private": true,
+    "dependencies": {
+        "@types/webidl2": "workspace:../webidl2"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/koa-ratelimit",
     "private": true,
     "dependencies": {
+        "@types/koa": "workspace:../koa",
         "ioredis": "^5.2.3"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bitcore-lib",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

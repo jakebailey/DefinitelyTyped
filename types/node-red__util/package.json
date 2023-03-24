@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/node-red__util",
     "private": true,
     "dependencies": {
+        "@types/node-red__registry": "workspace:../node-red__registry",
+        "@types/node-red__runtime": "workspace:../node-red__runtime",
         "jsonata": "1.8.3"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-strip-debug",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

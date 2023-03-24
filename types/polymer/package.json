@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/polymer",
+    "private": true,
+    "dependencies": {
+        "@types/webcomponents.js": "workspace:../webcomponents.js"
+    }
+}

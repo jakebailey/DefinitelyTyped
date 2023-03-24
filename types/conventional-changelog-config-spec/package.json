@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/conventional-changelog-config-spec",
+    "private": true,
+    "dependencies": {
+        "@types/json-schema": "workspace:../json-schema"
+    }
+}

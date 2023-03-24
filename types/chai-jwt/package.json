@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-jwt",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai",
+        "@types/node": "workspace:../node"
+    }
+}

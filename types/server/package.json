@@ -1,6 +1,13 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/helmet": "0.0.48"
-  }
+    "CONVERTED": true,
+    "name": "@types/server",
+    "private": true,
+    "dependencies": {
+        "@types/body-parser": "workspace:../body-parser",
+        "@types/csurf": "workspace:../csurf",
+        "@types/express": "workspace:../express",
+        "@types/express-session": "workspace:../express-session",
+        "@types/formidable": "workspace:../formidable",
+        "@types/helmet": "0.0.48"
+    }
 }

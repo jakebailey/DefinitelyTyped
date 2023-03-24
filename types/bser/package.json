@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/node-int64": "workspace:../node-int64"
+    }
+}

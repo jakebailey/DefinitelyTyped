@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/inquirer-npm-name",
+    "private": true,
+    "dependencies": {
+        "@types/inquirer": "workspace:../inquirer/v8"
+    }
+}

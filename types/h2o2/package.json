@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/h2o2",
     "private": true,
     "dependencies": {
+        "@types/boom": "workspace:../boom",
+        "@types/hapi": "workspace:../hapi",
+        "@types/node": "workspace:../node",
         "joi": "^17.3.0"
     }
 }

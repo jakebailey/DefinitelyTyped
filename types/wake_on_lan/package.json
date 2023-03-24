@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wake_on_lan",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

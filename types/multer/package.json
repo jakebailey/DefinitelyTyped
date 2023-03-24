@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/multer",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

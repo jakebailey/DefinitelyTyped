@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-myconnection",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/mysql": "workspace:../mysql"
+    }
+}

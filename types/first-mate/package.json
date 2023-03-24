@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/first-mate",
+    "private": true,
+    "dependencies": {
+        "@types/event-kit": "workspace:../event-kit"
+    }
+}

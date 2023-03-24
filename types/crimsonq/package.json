@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/crimsonq",
     "private": true,
     "dependencies": {
         "@types/ioredis": "^4.28.10"

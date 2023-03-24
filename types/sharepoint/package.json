@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sharepoint",
+    "private": true,
+    "dependencies": {
+        "@types/microsoft-ajax": "workspace:../microsoft-ajax"
+    }
+}

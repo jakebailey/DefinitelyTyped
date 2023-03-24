@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/azure-function-log-intercept",
     "private": true,
     "dependencies": {
         "@azure/functions": "^1.2"

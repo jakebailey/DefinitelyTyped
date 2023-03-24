@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webpack-shell-plugin",
     "private": true,
     "dependencies": {
+        "@types/webpack": "workspace:../webpack/v4",
         "@types/webpack-dev-server": "3"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/amplify-deferred",
+    "private": true,
+    "dependencies": {
+        "@types/amplify": "workspace:../amplify",
+        "@types/jquery": "workspace:../jquery"
+    }
+}

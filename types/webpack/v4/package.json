@@ -1,6 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webpack",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../../node",
+        "@types/tapable": "workspace:../../tapable/v1",
+        "@types/uglify-js": "workspace:../../uglify-js",
+        "@types/webpack-sources": "workspace:../../webpack-sources",
         "anymatch": "^3.0.0",
         "source-map": "^0.6.0"
     }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dynatable",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

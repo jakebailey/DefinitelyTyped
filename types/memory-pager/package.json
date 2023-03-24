@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/memory-pager",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/proj4leaflet",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/leaflet": "workspace:../leaflet",
+        "@types/proj4": "workspace:../proj4"
+    }
+}

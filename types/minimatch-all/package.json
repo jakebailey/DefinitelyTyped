@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/minimatch-all",
     "private": true,
     "dependencies": {
         "@types/minimatch": "*"

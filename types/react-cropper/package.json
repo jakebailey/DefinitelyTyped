@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-cropper",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "cropperjs": "^1.5.5"
     }
 }

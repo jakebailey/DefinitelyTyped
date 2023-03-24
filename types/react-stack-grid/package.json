@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-stack-grid",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

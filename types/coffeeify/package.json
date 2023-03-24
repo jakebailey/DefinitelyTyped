@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/coffeeify",
+    "private": true,
+    "dependencies": {
+        "@types/through": "workspace:../through"
+    }
+}

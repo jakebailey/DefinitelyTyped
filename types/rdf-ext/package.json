@@ -1,6 +1,19 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdf-ext",
     "private": true,
     "dependencies": {
-        "@rdfjs/types": "*"
+        "@rdfjs/types": "*",
+        "@types/clownface": "workspace:../clownface",
+        "@types/rdfjs__data-model": "workspace:../rdfjs__data-model",
+        "@types/rdfjs__dataset": "workspace:../rdfjs__dataset",
+        "@types/rdfjs__environment": "workspace:../rdfjs__environment",
+        "@types/rdfjs__fetch-lite": "workspace:../rdfjs__fetch-lite",
+        "@types/rdfjs__namespace": "workspace:../rdfjs__namespace",
+        "@types/rdfjs__prefix-map": "workspace:../rdfjs__prefix-map",
+        "@types/rdfjs__score": "workspace:../rdfjs__score",
+        "@types/rdfjs__term-map": "workspace:../rdfjs__term-map",
+        "@types/rdfjs__term-set": "workspace:../rdfjs__term-set",
+        "@types/rdfjs__traverser": "workspace:../rdfjs__traverser"
     }
 }

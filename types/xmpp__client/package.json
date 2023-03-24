@@ -1,0 +1,17 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xmpp__client",
+    "private": true,
+    "dependencies": {
+        "@types/koa-compose": "workspace:../koa-compose",
+        "@types/xmpp__client-core": "workspace:../xmpp__client-core",
+        "@types/xmpp__connection": "workspace:../xmpp__connection",
+        "@types/xmpp__iq": "workspace:../xmpp__iq",
+        "@types/xmpp__middleware": "workspace:../xmpp__middleware",
+        "@types/xmpp__reconnect": "workspace:../xmpp__reconnect",
+        "@types/xmpp__resource-binding": "workspace:../xmpp__resource-binding",
+        "@types/xmpp__sasl": "workspace:../xmpp__sasl",
+        "@types/xmpp__stream-features": "workspace:../xmpp__stream-features",
+        "@types/xmpp__stream-management": "workspace:../xmpp__stream-management"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/restify-cors-middleware",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/restify": "workspace:../restify"
+    }
+}

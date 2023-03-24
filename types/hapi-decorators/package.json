@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/hapi-decorators",
     "private": true,
     "dependencies": {
+        "@types/hapi": "workspace:../hapi/v16",
         "joi": "^17.3.0"
     }
 }

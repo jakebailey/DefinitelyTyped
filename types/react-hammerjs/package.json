@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-hammerjs",
+    "private": true,
+    "dependencies": {
+        "@types/hammerjs": "workspace:../hammerjs",
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cacache",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

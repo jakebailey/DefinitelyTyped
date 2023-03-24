@@ -1,7 +1,11 @@
 {
-  "private": true,
-  "dependencies": {
-    "graphql": "^15.1.0",
-    "express-graphql": "^0.10.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/koa-graphql",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa",
+        "@types/node": "workspace:../node",
+        "express-graphql": "^0.10.0",
+        "graphql": "^15.1.0"
+    }
 }

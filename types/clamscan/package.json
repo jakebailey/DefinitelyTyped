@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/clamscan",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "axios": "^0.24.0"
     }
 }

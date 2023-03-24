@@ -1,6 +1,13 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ember__application",
     "private": true,
     "dependencies": {
-        "@glimmer/component": "^1.1.0"
+        "@glimmer/component": "^1.1.0",
+        "@types/ember": "workspace:../ember",
+        "@types/ember__engine": "workspace:../ember__engine",
+        "@types/ember__object": "workspace:../ember__object",
+        "@types/ember__owner": "workspace:../ember__owner",
+        "@types/ember__routing": "workspace:../ember__routing"
     }
 }

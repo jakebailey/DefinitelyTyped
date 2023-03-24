@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jquery.dynatree",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/jqueryui": "workspace:../jqueryui"
+    }
+}

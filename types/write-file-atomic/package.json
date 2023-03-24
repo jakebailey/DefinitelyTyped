@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/write-file-atomic",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

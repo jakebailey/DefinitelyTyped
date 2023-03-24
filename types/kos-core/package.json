@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/kos-core",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

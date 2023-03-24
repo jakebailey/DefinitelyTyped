@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/serve-index",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

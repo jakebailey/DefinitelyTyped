@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sync-fetch",
+    "private": true,
+    "dependencies": {
+        "@types/node-fetch": "workspace:../node-fetch"
+    }
+}

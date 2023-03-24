@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/estree-jsx",
+    "private": true,
+    "dependencies": {
+        "@types/estree": "workspace:../estree"
+    }
+}

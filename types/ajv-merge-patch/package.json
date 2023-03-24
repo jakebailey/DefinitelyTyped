@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ajv-merge-patch",
     "private": true,
     "dependencies": {
         "ajv": ">=4.1.0"

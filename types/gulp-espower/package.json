@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-espower",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

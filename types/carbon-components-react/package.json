@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/carbon-components-react",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "flatpickr": "4.6.9"
     }
 }

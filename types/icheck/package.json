@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/icheck",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

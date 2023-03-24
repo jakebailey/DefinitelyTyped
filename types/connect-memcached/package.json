@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/connect-memcached",
+    "private": true,
+    "dependencies": {
+        "@types/express-session": "workspace:../express-session",
+        "@types/memcached": "workspace:../memcached"
+    }
+}

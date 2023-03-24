@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stream-demux",
+    "private": true,
+    "dependencies": {
+        "@types/consumable-stream": "workspace:../../consumable-stream/v1",
+        "@types/writable-consumable-stream": "workspace:../../writable-consumable-stream/v1"
+    }
+}

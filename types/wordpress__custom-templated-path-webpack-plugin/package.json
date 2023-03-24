@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wordpress__custom-templated-path-webpack-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

@@ -1,7 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/storybook-react-router",
     "private": true,
     "dependencies": {
         "@storybook/addons": "^6.5.9",
-        "@storybook/react": "^6.5.9"
+        "@storybook/react": "^6.5.9",
+        "@types/react": "workspace:../react",
+        "@types/react-router": "workspace:../react-router"
     }
 }

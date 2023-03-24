@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hystrixjs",
+    "private": true,
+    "dependencies": {
+        "@types/rx": "workspace:../rx"
+    }
+}

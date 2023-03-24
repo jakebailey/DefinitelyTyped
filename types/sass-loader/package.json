@@ -1,6 +1,11 @@
 {
+    "CONVERTED": true,
+    "name": "@types/sass-loader",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/node-sass": "workspace:../node-sass",
+        "@types/webpack": "workspace:../webpack/v4",
         "sass": "^1.45.0"
     }
 }

@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/aws-lambda-fastify",
     "private": true,
     "dependencies": {
+        "@types/aws-lambda": "workspace:../aws-lambda",
+        "@types/node": "workspace:../node",
         "fastify": "^3.14.2"
     }
 }

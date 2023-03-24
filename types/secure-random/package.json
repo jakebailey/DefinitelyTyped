@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/secure-random",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

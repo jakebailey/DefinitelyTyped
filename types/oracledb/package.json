@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/oracledb",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "dotenv": "^8.2.0"
     }
 }

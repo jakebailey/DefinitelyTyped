@@ -1,6 +1,9 @@
 {
-  "dependencies": {
-    "rxjs": "^6.5.1"
-  },
-  "private": true
+    "CONVERTED": true,
+    "name": "@types/listr",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "rxjs": "^6.5.1"
+    }
 }

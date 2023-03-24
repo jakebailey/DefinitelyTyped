@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/adeira__graphql-global-id",
     "private": true,
     "dependencies": {
         "graphql": "^15.0.0 || ^16.0.0"

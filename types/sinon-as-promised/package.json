@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sinon-as-promised",
+    "private": true,
+    "dependencies": {
+        "@types/sinon": "workspace:../sinon"
+    }
+}

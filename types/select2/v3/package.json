@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/select2",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../../jquery"
+    }
+}

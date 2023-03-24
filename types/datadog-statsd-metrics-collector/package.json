@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/datadog-statsd-metrics-collector",
+    "private": true,
+    "dependencies": {
+        "@types/node-dogstatsd": "workspace:../node-dogstatsd"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/moment-locales-webpack-plugin",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "tapable": "^2.2.0",
         "webpack": "^5"
     }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/appium-adb",
+    "private": true,
+    "dependencies": {
+        "@types/semver": "workspace:../semver",
+        "@types/teen_process": "workspace:../teen_process"
+    }
+}

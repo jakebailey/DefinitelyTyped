@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/npm-run",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

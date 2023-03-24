@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/waterline",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/node": "workspace:../node"
+    }
+}

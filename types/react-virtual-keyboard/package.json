@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-virtual-keyboard",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/virtual-keyboard": "workspace:../virtual-keyboard"
+    }
+}

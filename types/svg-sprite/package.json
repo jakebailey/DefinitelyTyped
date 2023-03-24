@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/svg-sprite",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/vinyl": "workspace:../vinyl",
         "winston": "^3.0.0"
     }
 }

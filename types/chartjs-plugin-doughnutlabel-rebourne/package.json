@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/chartjs-plugin-doughnutlabel-rebourne",
     "private": true,
     "dependencies": {
         "chart.js": "^3.0.0-beta"

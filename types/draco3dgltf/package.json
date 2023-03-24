@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/draco3dgltf",
+    "private": true,
+    "dependencies": {
+        "@types/draco3d": "workspace:../draco3d"
+    }
+}

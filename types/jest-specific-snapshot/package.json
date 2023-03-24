@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jest-specific-snapshot",
+    "private": true,
+    "dependencies": {
+        "@types/jest": "workspace:../jest"
+    }
+}

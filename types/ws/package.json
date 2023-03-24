@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/ws",
     "private": true,
     "exports": {
         ".": {
@@ -7,5 +9,8 @@
                 "default": "./index.d.ts"
             }
         }
+    },
+    "dependencies": {
+        "@types/node": "workspace:../node"
     }
 }

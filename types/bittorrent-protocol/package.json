@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bittorrent-protocol",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

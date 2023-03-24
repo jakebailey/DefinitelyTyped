@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/vusion__webfonts-generator",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "handlebars": "^4.0.11"
     }
 }

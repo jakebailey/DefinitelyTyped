@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/steam-login",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

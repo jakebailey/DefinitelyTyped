@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/babylon",
+    "private": true,
+    "dependencies": {
+        "@types/babel-types": "workspace:../babel-types"
+    }
+}

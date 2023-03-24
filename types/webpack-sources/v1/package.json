@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webpack-sources",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../../node",
+        "@types/source-list-map": "workspace:../../source-list-map",
         "source-map": "^0.7.3"
     }
 }

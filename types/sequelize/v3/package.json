@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sequelize",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../../bluebird",
+        "@types/lodash": "workspace:../../lodash",
+        "@types/validator": "workspace:../../validator"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yog-ral",
+    "private": true,
+    "dependencies": {
+        "@types/node-ral": "workspace:../node-ral"
+    }
+}

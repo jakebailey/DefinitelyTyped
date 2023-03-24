@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/edit-json-file",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/set-value": "workspace:../set-value"
+    }
+}

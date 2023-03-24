@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/axon",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jest-dev-server",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/wait-on": "workspace:../wait-on"
+    }
+}

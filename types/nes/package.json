@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nes",
+    "private": true,
+    "dependencies": {
+        "@types/hapi": "workspace:../hapi"
+    }
+}

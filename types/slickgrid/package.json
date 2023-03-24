@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/slickgrid",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

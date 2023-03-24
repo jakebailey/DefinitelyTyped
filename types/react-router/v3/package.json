@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-router",
     "private": true,
     "dependencies": {
-        "@types/history": "^3.2.5"
+        "@types/history": "^3.2.5",
+        "@types/react": "workspace:../../react"
     }
 }

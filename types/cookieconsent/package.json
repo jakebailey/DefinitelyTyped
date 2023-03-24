@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/cookieconsent",
     "private": true,
     "dependencies": {
         "csstype": "^3.0.2"

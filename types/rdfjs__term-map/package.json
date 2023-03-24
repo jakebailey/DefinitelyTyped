@@ -1,6 +1,8 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdfjs__term-map",
     "private": true,
     "dependencies": {
         "@rdfjs/types": "*"
     }
-  }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/paypal__checkout-server-sdk",
+    "private": true,
+    "dependencies": {
+        "@types/paypal__paypalhttp": "workspace:../paypal__paypalhttp"
+    }
+}

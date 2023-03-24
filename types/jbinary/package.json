@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jbinary",
+    "private": true,
+    "dependencies": {
+        "@types/jdataview": "workspace:../jdataview",
+        "@types/node": "workspace:../node"
+    }
+}

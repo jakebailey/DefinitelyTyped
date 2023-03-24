@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/scc-broker-client",
+    "private": true,
+    "dependencies": {
+        "@types/jsonwebtoken": "workspace:../../jsonwebtoken",
+        "@types/sc-broker": "workspace:../../sc-broker",
+        "@types/socketcluster-client": "workspace:../../socketcluster-client/v13"
+    }
+}

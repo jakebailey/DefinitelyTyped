@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/flux",
+    "private": true,
+    "dependencies": {
+        "@types/fbemitter": "workspace:../fbemitter",
+        "@types/react": "workspace:../react"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/labeled-stream-splicer",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

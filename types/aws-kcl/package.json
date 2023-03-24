@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/aws-kcl",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

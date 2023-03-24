@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/decompress",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

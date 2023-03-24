@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-calendar-timeline",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "moment": "^2.0.0"
     }
 }

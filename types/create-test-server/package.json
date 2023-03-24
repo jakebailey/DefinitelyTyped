@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/create-test-server",
+    "private": true,
+    "dependencies": {
+        "@types/body-parser": "workspace:../body-parser",
+        "@types/create-cert": "workspace:../create-cert",
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node"
+    }
+}

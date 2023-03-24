@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/google-ads-scripts",
+    "private": true,
+    "dependencies": {
+        "@types/google-apps-script": "workspace:../google-apps-script"
+    }
+}

@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/gulp-svgmin",
     "private": true,
     "dependencies": {
-        "@types/svgo": "1"
+        "@types/node": "workspace:../node",
+        "@types/svgo": "1",
+        "@types/vinyl": "workspace:../vinyl"
     }
 }

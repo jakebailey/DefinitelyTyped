@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/styletron-engine-monolithic",
+    "private": true,
+    "dependencies": {
+        "@types/styletron-standard": "workspace:../styletron-standard"
+    }
+}

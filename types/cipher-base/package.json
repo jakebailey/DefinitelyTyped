@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cipher-base",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

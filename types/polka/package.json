@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/polka",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/express-serve-static-core": "workspace:../express-serve-static-core",
+        "@types/node": "workspace:../node",
+        "@types/trouter": "workspace:../trouter"
+    }
+}

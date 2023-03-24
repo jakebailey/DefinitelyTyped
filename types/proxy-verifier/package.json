@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/proxy-verifier",
+    "private": true,
+    "dependencies": {
+        "@types/request": "workspace:../request"
+    }
+}

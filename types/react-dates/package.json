@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-dates",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-outside-click-handler": "workspace:../react-outside-click-handler",
         "moment": "^2.26.0"
     }
 }

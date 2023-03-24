@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.5.17"
-  }
+    "CONVERTED": true,
+    "name": "@types/hcaptcha__vue-hcaptcha",
+    "private": true,
+    "dependencies": {
+        "vue": "^2.5.17"
+    }
 }

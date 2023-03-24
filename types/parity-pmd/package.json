@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/parity-pmd",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

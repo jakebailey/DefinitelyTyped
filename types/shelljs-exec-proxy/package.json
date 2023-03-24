@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/shelljs-exec-proxy",
+    "private": true,
+    "dependencies": {
+        "@types/shelljs": "workspace:../shelljs"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dos2unix",
+    "private": true,
+    "dependencies": {
+        "@types/glob": "workspace:../glob"
+    }
+}

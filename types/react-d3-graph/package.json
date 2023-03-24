@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-d3-graph",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

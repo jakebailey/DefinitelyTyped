@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/x-ray-crawler",
+    "private": true,
+    "dependencies": {
+        "@types/http-context": "workspace:../http-context"
+    }
+}

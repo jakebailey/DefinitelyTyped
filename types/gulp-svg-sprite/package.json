@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-svg-sprite",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/svg-sprite": "workspace:../svg-sprite"
+    }
+}

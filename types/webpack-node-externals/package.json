@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webpack-node-externals",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "webpack": "^5"
     }
 }

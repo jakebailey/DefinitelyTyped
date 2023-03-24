@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ncom",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

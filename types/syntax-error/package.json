@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/syntax-error",
     "private": true,
     "dependencies": {
         "acorn": "^7.0.0"

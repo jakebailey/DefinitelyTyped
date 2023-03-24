@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-geo",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../../geojson"
+    }
+}

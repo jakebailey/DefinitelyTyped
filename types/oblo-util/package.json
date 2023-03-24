@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/oblo-util",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

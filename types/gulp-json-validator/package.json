@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-json-validator",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/yaml-front-matter",
+    "private": true,
+    "dependencies": {
+        "@types/js-yaml": "workspace:../js-yaml",
+        "@types/node": "workspace:../node"
+    }
+}

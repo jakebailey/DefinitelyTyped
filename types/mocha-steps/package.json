@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mocha-steps",
+    "private": true,
+    "dependencies": {
+        "@types/mocha": "workspace:../mocha"
+    }
+}

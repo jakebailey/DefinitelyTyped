@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/prosemirror-dev-tools",
     "private": true,
     "dependencies": {
         "prosemirror-view": "^1.24.0"

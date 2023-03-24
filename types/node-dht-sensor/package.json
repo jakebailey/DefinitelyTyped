@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-dht-sensor",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

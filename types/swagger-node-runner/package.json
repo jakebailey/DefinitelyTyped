@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/swagger-node-runner",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/hapi": "workspace:../hapi/v16",
+        "@types/node": "workspace:../node",
+        "@types/restify": "workspace:../restify",
+        "@types/swagger-schema-official": "workspace:../swagger-schema-official"
+    }
+}

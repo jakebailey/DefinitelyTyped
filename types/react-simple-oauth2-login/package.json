@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-simple-oauth2-login",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

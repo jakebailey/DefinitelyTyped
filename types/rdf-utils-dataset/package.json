@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rdf-utils-dataset",
     "private": true,
     "dependencies": {
-        "@rdfjs/types": "*"
+        "@rdfjs/types": "*",
+        "@types/rdf-ext": "workspace:../rdf-ext"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-clean-css",
+    "private": true,
+    "dependencies": {
+        "@types/clean-css": "workspace:../clean-css",
+        "@types/node": "workspace:../node"
+    }
+}

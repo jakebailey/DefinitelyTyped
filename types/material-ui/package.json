@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/material-ui",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-addons-linked-state-mixin": "workspace:../react-addons-linked-state-mixin"
+    }
+}

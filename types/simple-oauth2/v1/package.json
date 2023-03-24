@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/simple-oauth2",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../../bluebird"
+    }
+}

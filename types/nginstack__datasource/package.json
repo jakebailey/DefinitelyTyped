@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nginstack__datasource",
+    "private": true,
+    "dependencies": {
+        "@types/nginstack__engine": "workspace:../nginstack__engine",
+        "@types/nginstack__iquery": "workspace:../nginstack__iquery"
+    }
+}

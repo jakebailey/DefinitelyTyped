@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/should-sinon",
     "private": true,
     "dependencies": {
+        "@types/sinon": "workspace:../sinon",
         "should": "^13.2.1"
     }
 }

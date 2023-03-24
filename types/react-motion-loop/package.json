@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-motion-loop",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-motion": "workspace:../react-motion"
+    }
+}

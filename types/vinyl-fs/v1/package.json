@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vinyl-fs",
+    "private": true,
+    "dependencies": {
+        "@types/glob-stream": "workspace:../../glob-stream",
+        "@types/node": "workspace:../../node",
+        "@types/vinyl": "workspace:../../vinyl"
+    }
+}

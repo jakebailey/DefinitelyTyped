@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-muxml",
+    "private": true,
+    "dependencies": {
+        "@types/muxml": "workspace:../muxml",
+        "@types/node": "workspace:../node"
+    }
+}

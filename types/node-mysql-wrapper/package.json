@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-mysql-wrapper",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird",
+        "@types/mysql": "workspace:../mysql"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/lerna__run-topologically",
+    "private": true,
+    "dependencies": {
+        "@types/lerna__package": "workspace:../lerna__package",
+        "@types/lerna__query-graph": "workspace:../lerna__query-graph"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/swagger-sails-hook",
+    "private": true,
+    "dependencies": {
+        "@types/swagger-node-runner": "workspace:../swagger-node-runner"
+    }
+}

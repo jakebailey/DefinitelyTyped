@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cordova-plugin-ibeacon",
+    "private": true,
+    "dependencies": {
+        "@types/q": "workspace:../q/v0"
+    }
+}

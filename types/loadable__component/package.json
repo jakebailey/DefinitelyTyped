@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/loadable__component",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

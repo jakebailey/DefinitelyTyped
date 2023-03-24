@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-signature-canvas",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/signature_pad": "workspace:../signature_pad"
+    }
+}

@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/yup-locale-pl",
     "private": true,
     "dependencies": {
         "yup": "^0.32.11"

@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jsdom",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/tough-cookie": "workspace:../tough-cookie",
         "parse5": "^7.0.0"
     },
     "exports": {

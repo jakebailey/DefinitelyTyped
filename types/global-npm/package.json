@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/global-npm",
+    "private": true,
+    "dependencies": {
+        "@types/npm": "workspace:../npm"
+    }
+}

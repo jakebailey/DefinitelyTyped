@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/backbone-fetch-cache",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone"
+    }
+}

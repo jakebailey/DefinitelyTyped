@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/complexviewer",
+    "private": true,
+    "dependencies": {
+        "@types/d3-scale": "workspace:../d3-scale"
+    }
+}

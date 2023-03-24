@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/drag-controls",
     "private": true,
     "dependencies": {
         "three": "*"

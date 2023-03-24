@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/svg-outline-stroke",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

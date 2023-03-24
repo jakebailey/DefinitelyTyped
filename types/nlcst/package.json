@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/nlcst",
+    "private": true,
+    "dependencies": {
+        "@types/unist": "workspace:../unist"
+    }
+}

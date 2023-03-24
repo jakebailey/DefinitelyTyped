@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "graphql": ">=14"
-  }
+    "CONVERTED": true,
+    "name": "@types/graphql-resolve-batch",
+    "private": true,
+    "dependencies": {
+        "graphql": ">=14"
+    }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vhost",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

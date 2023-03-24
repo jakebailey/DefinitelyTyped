@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/marvelapp__react-ab-test",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

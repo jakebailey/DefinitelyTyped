@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/http-rx",
     "private": true,
     "dependencies": {
+        "@types/request": "workspace:../request",
         "rxjs": "^6.2.0"
     }
 }

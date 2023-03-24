@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/barnard59",
     "private": true,
     "dependencies": {
+        "@types/barnard59-core": "workspace:../barnard59-core",
+        "@types/clownface": "workspace:../clownface",
         "rdf-js": "^4.0.2",
         "winston": "^3.3.3"
     }

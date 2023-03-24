@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/karma-coverage",
+    "private": true,
+    "dependencies": {
+        "@types/istanbul": "workspace:../istanbul",
+        "@types/karma": "workspace:../karma"
+    }
+}

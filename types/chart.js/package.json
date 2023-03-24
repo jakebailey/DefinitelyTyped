@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/chart.js",
     "private": true,
     "dependencies": {
         "moment": "^2.10.2"

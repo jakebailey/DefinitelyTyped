@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/babelify",
+    "private": true,
+    "dependencies": {
+        "@types/babel-core": "workspace:../babel-core",
+        "@types/node": "workspace:../node"
+    }
+}

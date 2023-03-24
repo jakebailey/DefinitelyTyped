@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jui-core",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

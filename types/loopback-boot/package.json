@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/loopback-boot",
+    "private": true,
+    "dependencies": {
+        "@types/loopback": "workspace:../loopback"
+    }
+}

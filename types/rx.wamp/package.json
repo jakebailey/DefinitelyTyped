@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rx.wamp",
+    "private": true,
+    "dependencies": {
+        "@types/autobahn": "workspace:../autobahn",
+        "@types/rx": "workspace:../rx"
+    }
+}

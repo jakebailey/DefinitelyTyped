@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "chalk": "^2.4.1"
-  }
+    "CONVERTED": true,
+    "name": "@types/marked-terminal",
+    "private": true,
+    "dependencies": {
+        "@types/marked": "workspace:../marked/v3",
+        "chalk": "^2.4.1"
+    }
 }

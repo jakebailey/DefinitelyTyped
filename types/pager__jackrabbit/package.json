@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pager__jackrabbit",
+    "private": true,
+    "dependencies": {
+        "@types/amqplib": "workspace:../amqplib"
+    }
+}

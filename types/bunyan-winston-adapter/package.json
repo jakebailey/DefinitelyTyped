@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/bunyan-winston-adapter",
     "private": true,
     "dependencies": {
+        "@types/bunyan": "workspace:../bunyan",
         "winston": "^3.0.0"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/main-bower-files",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

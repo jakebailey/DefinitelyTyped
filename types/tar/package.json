@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/tar",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "minipass": "^4.0.0"
     }
 }

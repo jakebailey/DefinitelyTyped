@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/chai-snapshot-matcher",
+    "private": true,
+    "dependencies": {
+        "@types/chai": "workspace:../chai",
+        "@types/mocha": "workspace:../mocha"
+    }
+}

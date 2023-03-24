@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/jest-image-snapshot",
     "private": true,
     "dependencies": {
+        "@types/jest": "workspace:../jest",
+        "@types/pixelmatch": "workspace:../pixelmatch",
         "ssim.js": "^3.1.1"
     }
 }

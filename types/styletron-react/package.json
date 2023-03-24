@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/styletron-react",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/styletron-standard": "workspace:../styletron-standard"
+    }
+}

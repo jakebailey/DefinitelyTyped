@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-cron",
+    "private": true,
+    "dependencies": {
+        "@types/tz-offset": "workspace:../../tz-offset"
+    }
+}

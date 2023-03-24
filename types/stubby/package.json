@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/stubby",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sinon-sandbox",
+    "private": true,
+    "dependencies": {
+        "@types/sinon": "workspace:../sinon"
+    }
+}

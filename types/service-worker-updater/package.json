@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/service-worker-updater",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

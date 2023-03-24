@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/secret-blob",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/sodium-native": "workspace:../sodium-native"
+    }
+}

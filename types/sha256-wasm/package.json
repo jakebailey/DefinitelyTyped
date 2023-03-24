@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sha256-wasm",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

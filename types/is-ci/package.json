@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "ci-info": "^3.1.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/is-ci",
+    "private": true,
+    "dependencies": {
+        "ci-info": "^3.1.0"
+    }
 }

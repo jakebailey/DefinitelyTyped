@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/pause",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

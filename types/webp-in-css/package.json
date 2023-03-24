@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webp-in-css",
     "private": true,
     "dependencies": {
+        "@types/node": "workspace:../node",
         "postcss": "^8.4.4"
     }
 }

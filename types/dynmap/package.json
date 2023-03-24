@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dynmap",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/jquery-mousewheel": "workspace:../jquery-mousewheel",
+        "@types/leaflet": "workspace:../leaflet"
+    }
+}

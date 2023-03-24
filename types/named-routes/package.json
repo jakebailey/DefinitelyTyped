@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/named-routes",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/merkle",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

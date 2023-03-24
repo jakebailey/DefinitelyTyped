@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/webpack-hot-middleware",
     "private": true,
     "dependencies": {
+        "@types/connect": "workspace:../connect",
         "tapable": "^2.2.0",
         "webpack": "^5"
     }

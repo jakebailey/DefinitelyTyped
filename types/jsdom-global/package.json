@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jsdom-global",
+    "private": true,
+    "dependencies": {
+        "@types/jsdom": "workspace:../jsdom"
+    }
+}

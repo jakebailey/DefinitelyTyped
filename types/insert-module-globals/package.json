@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/insert-module-globals",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

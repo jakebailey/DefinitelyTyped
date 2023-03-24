@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/cache-manager-memcached-store",
+    "private": true,
+    "dependencies": {
+        "@types/cache-manager": "workspace:../cache-manager"
+    }
+}

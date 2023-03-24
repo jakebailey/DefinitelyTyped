@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/rx-core-binding",
+    "private": true,
+    "dependencies": {
+        "@types/rx-core": "workspace:../rx-core"
+    }
+}

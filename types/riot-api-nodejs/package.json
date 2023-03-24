@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/riot-api-nodejs",
+    "private": true,
+    "dependencies": {
+        "@types/riot-games-api": "workspace:../riot-games-api"
+    }
+}

@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-instantsearch-core",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "algoliasearch": ">=4",
         "algoliasearch-helper": ">=3"
     }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/microsoft-sdk-soap",
+    "private": true,
+    "dependencies": {
+        "@types/q": "workspace:../q/v0"
+    }
+}

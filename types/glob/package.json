@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/glob",
     "private": true,
     "dependencies": {
-        "@types/minimatch": "^5.1.2"
+        "@types/minimatch": "^5.1.2",
+        "@types/node": "workspace:../node"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/express-boom",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

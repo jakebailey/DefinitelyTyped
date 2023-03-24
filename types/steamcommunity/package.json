@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/steamcommunity",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/request": "workspace:../request",
+        "@types/steamid": "workspace:../steamid"
+    }
+}

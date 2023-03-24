@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.0.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/vue2-editor",
+    "private": true,
+    "dependencies": {
+        "vue": "^2.0.0"
+    }
 }

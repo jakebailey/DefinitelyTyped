@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sse4_crc32",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

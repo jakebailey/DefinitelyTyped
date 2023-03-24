@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/win-ca",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/node-forge": "workspace:../node-forge"
+    }
+}

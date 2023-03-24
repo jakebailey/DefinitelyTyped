@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/html-minifier",
+    "private": true,
+    "dependencies": {
+        "@types/clean-css": "workspace:../clean-css",
+        "@types/relateurl": "workspace:../relateurl",
+        "@types/uglify-js": "workspace:../uglify-js"
+    }
+}

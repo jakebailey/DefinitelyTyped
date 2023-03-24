@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/libxmljs",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

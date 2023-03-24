@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/angular-localforage",
     "private": true,
     "dependencies": {
+        "@types/angular": "workspace:../angular",
         "localforage": "^1.5.0"
     }
 }

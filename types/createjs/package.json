@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/createjs",
+    "private": true,
+    "dependencies": {
+        "@types/createjs-lib": "workspace:../createjs-lib",
+        "@types/easeljs": "workspace:../easeljs",
+        "@types/preloadjs": "workspace:../preloadjs",
+        "@types/soundjs": "workspace:../soundjs",
+        "@types/tweenjs": "workspace:../tweenjs"
+    }
+}

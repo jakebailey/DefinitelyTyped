@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/babel__template",
     "private": true,
     "dependencies": {
         "@babel/parser": "^7.1.0",

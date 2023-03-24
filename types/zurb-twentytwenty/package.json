@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/zurb-twentytwenty",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

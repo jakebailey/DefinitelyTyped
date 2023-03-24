@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/easy-soap-request",
     "private": true,
     "dependencies": {
         "axios": "^0.21.1"

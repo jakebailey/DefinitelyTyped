@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/meteor-persistent-session",
+    "private": true,
+    "dependencies": {
+        "@types/meteor": "workspace:../meteor"
+    }
+}

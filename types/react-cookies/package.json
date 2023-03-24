@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-cookies",
+    "private": true,
+    "dependencies": {
+        "@types/cookie": "workspace:../cookie",
+        "@types/express": "workspace:../express"
+    }
+}

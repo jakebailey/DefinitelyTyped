@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/pouch-redux-middleware",
     "private": true,
     "dependencies": {
+        "@types/pouchdb": "workspace:../pouchdb",
         "redux": "^3.6.0"
     }
 }

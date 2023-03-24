@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/joigoose",
     "private": true,
     "dependencies": {
         "joi": "^17.3.0",

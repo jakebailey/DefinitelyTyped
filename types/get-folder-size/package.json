@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/get-folder-size",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

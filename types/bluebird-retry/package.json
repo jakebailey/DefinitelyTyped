@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/bluebird-retry",
+    "private": true,
+    "dependencies": {
+        "@types/bluebird": "workspace:../bluebird"
+    }
+}

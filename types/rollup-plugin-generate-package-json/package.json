@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rollup-plugin-generate-package-json",
     "private": true,
     "dependencies": {
         "rollup": ">=1.0.0"

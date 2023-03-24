@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/noble-mac",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

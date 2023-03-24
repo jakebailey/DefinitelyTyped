@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wordpress__notices",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@wordpress/data": "^8.5.0"
+    }
+}

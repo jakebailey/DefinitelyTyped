@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sticky-cluster",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

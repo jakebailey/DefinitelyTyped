@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/underscore.string",
+    "private": true,
+    "dependencies": {
+        "@types/underscore": "workspace:../underscore"
+    }
+}

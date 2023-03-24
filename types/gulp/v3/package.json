@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../../node",
+        "@types/orchestrator": "workspace:../../orchestrator",
+        "@types/vinyl": "workspace:../../vinyl"
+    }
+}

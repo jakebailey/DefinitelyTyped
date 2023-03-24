@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-intl-redux",
     "private": true,
     "dependencies": {
-        "redux": "^4.0.0",
-        "react-intl": "^3"
+        "@types/react-redux": "workspace:../react-redux",
+        "react-intl": "^3",
+        "redux": "^4.0.0"
     }
 }

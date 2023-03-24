@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mongoose-seeder",
+    "private": true,
+    "dependencies": {
+        "@types/q": "workspace:../q/v0"
+    }
+}

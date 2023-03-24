@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/kolite",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/knockout": "workspace:../knockout"
+    }
+}

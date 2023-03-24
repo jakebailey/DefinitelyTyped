@@ -1,6 +1,9 @@
 {
-	"private": true,
-	"dependencies": {
-		"iconv-lite": "^0.6.3"
-	}
+    "CONVERTED": true,
+    "name": "@types/mailparser",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "iconv-lite": "^0.6.3"
+    }
 }

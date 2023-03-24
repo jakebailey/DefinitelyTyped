@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ronomon__hash-table",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

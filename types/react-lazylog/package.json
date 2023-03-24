@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-lazylog",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "immutable": ">=3.8.2"
     }
 }

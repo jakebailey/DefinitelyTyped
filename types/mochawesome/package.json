@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mochawesome",
+    "private": true,
+    "dependencies": {
+        "@types/mocha": "workspace:../mocha"
+    }
+}

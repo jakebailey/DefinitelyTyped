@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet.vectorgrid",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/geojson-vt": "workspace:../geojson-vt",
+        "@types/leaflet": "workspace:../leaflet"
+    }
+}

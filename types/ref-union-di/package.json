@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ref-union-di",
+    "private": true,
+    "dependencies": {
+        "@types/ref-napi": "workspace:../ref-napi"
+    }
+}

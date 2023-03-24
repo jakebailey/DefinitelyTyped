@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/leaflet-boundary-canvas",
+    "private": true,
+    "dependencies": {
+        "@types/geojson": "workspace:../geojson",
+        "@types/leaflet": "workspace:../leaflet"
+    }
+}

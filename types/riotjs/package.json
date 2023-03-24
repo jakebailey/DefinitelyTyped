@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/riotjs",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

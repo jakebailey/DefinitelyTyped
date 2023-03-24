@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vxna__mini-html-webpack-template",
+    "private": true,
+    "dependencies": {
+        "@types/mini-html-webpack-plugin": "workspace:../mini-html-webpack-plugin"
+    }
+}

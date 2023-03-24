@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-simple-radio-button",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-native": "workspace:../react-native"
+    }
+}

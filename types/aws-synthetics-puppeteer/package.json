@@ -1,7 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/aws-synthetics-puppeteer",
     "private": true,
     "dependencies": {
-        "aws-xray-sdk-core": "=3.3.1",
-        "@types/puppeteer": "^5.4.0"
+        "@types/node": "workspace:../node",
+        "@types/puppeteer": "^5.4.0",
+        "aws-xray-sdk-core": "=3.3.1"
     }
 }

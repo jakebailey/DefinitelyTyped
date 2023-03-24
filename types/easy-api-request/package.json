@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/easy-api-request",
+    "private": true,
+    "dependencies": {
+        "@types/bunyan": "workspace:../bunyan",
+        "@types/express": "workspace:../express",
+        "@types/node": "workspace:../node",
+        "@types/q": "workspace:../q/v0",
+        "@types/request": "workspace:../request"
+    }
+}

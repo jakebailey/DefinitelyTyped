@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/create-cert",
+    "private": true,
+    "dependencies": {
+        "@types/pem": "workspace:../pem"
+    }
+}

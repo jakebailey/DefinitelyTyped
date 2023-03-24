@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-netlify-form",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-google-recaptcha": "workspace:../react-google-recaptcha"
+    }
+}

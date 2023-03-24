@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hexo-log",
+    "private": true,
+    "dependencies": {
+        "@types/hexo-bunyan": "workspace:../hexo-bunyan"
+    }
+}

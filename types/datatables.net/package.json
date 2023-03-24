@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/datatables.net",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

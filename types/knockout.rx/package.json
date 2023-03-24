@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/knockout.rx",
+    "private": true,
+    "dependencies": {
+        "@types/knockout": "workspace:../knockout",
+        "@types/rx": "workspace:../rx"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/easeljs",
+    "private": true,
+    "dependencies": {
+        "@types/createjs-lib": "workspace:../createjs-lib",
+        "@types/tweenjs": "workspace:../tweenjs"
+    }
+}

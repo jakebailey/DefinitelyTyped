@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/d3-contour",
+    "private": true,
+    "dependencies": {
+        "@types/d3-array": "workspace:../../d3-array/v1",
+        "@types/geojson": "workspace:../../geojson"
+    }
+}

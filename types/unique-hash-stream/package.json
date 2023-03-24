@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/unique-hash-stream",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

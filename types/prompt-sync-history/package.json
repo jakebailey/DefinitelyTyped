@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/prompt-sync-history",
+    "private": true,
+    "dependencies": {
+        "@types/prompt-sync": "workspace:../prompt-sync"
+    }
+}

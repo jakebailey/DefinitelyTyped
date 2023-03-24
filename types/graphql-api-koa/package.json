@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "graphql": "^14.5.3"
-  }
+    "CONVERTED": true,
+    "name": "@types/graphql-api-koa",
+    "private": true,
+    "dependencies": {
+        "@types/koa": "workspace:../koa",
+        "graphql": "^14.5.3"
+    }
 }

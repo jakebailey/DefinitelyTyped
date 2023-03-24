@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/react-lifecycle-component",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
+        "@types/react-redux": "workspace:../react-redux",
         "redux": "^4.0.0"
     }
 }

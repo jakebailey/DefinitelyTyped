@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/dynamodb",
     "private": true,
     "dependencies": {
+        "@types/bunyan": "workspace:../bunyan",
         "joi": "^17.3.0"
     }
 }

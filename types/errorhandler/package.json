@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/errorhandler",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

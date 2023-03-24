@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/magnet-uri",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

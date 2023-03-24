@@ -1,6 +1,13 @@
 {
+    "CONVERTED": true,
+    "name": "@types/meteor",
     "private": true,
     "dependencies": {
+        "@types/connect": "workspace:../connect",
+        "@types/jquery": "workspace:../jquery",
+        "@types/nodemailer": "workspace:../nodemailer",
+        "@types/react": "workspace:../react",
+        "@types/underscore": "workspace:../underscore",
         "mongodb": "^4.3.1"
     }
 }

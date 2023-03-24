@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/dhis2__ui-icons",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

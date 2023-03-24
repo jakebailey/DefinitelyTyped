@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mocha-sugar-free",
+    "private": true,
+    "dependencies": {
+        "@types/mocha": "workspace:../mocha"
+    }
+}

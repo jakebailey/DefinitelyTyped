@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-combine-reducers",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

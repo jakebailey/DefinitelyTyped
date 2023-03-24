@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/xsd-schema-validator",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

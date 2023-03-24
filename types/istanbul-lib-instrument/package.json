@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/istanbul-lib-instrument",
     "private": true,
     "dependencies": {
+        "@types/babel-types": "workspace:../babel-types",
+        "@types/istanbul-lib-coverage": "workspace:../istanbul-lib-coverage",
         "source-map": "^0.6.1"
     }
 }

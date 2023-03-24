@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/worker-threads-pool",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

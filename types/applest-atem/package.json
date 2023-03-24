@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/applest-atem",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/pngjs": "workspace:../pngjs"
+    }
+}

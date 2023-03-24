@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/featherlight",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

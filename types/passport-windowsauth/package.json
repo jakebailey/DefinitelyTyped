@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/passport-windowsauth",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/ldapjs": "workspace:../ldapjs",
+        "@types/passport": "workspace:../passport"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/steam-user",
+    "private": true,
+    "dependencies": {
+        "@types/bytebuffer": "workspace:../bytebuffer",
+        "@types/file-manager": "workspace:../file-manager",
+        "@types/node": "workspace:../node",
+        "@types/steamid": "workspace:../steamid"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/socketcluster",
+    "private": true,
+    "dependencies": {
+        "@types/sc-auth": "workspace:../sc-auth",
+        "@types/sc-broker-cluster": "workspace:../sc-broker-cluster/v6",
+        "@types/socketcluster-server": "workspace:../socketcluster-server/v14"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-leaflet-sidebarv2",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

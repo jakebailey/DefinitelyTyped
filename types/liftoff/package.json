@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/liftoff",
+    "private": true,
+    "dependencies": {
+        "@types/fined": "workspace:../fined",
+        "@types/node": "workspace:../node"
+    }
+}

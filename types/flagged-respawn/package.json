@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/flagged-respawn",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

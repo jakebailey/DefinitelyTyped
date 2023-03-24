@@ -1,6 +1,10 @@
 {
+    "CONVERTED": true,
+    "name": "@types/email-templates",
     "private": true,
     "dependencies": {
+        "@types/html-to-text": "workspace:../html-to-text",
+        "@types/nodemailer": "workspace:../nodemailer",
         "juice": "^8.0.0"
     }
 }

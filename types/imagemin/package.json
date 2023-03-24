@@ -1,4 +1,9 @@
 {
-  "private": true,
-  "type": "module"
+    "CONVERTED": true,
+    "name": "@types/imagemin",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
 }

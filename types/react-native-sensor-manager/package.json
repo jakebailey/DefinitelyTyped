@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-native-sensor-manager",
+    "private": true,
+    "dependencies": {
+        "@types/react-native": "workspace:../react-native/v0.70"
+    }
+}

@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "hot-shots": "^6.3.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/connect-datadog",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "hot-shots": "^6.3.0"
+    }
 }

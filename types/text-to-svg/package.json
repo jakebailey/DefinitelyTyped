@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/text-to-svg",
+    "private": true,
+    "dependencies": {
+        "@types/opentype.js": "workspace:../opentype.js"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/protractor-http-mock",
+    "private": true,
+    "dependencies": {
+        "@types/selenium-webdriver": "workspace:../selenium-webdriver/v2"
+    }
+}

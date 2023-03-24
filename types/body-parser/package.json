@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/body-parser",
+    "private": true,
+    "dependencies": {
+        "@types/connect": "workspace:../connect",
+        "@types/node": "workspace:../node"
+    }
+}

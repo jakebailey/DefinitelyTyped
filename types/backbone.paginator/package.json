@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/backbone.paginator",
+    "private": true,
+    "dependencies": {
+        "@types/backbone": "workspace:../backbone"
+    }
+}

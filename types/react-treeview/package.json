@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-treeview",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

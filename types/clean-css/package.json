@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "source-map": "^0.6.0"
-  }
+    "CONVERTED": true,
+    "name": "@types/clean-css",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "source-map": "^0.6.0"
+    }
 }

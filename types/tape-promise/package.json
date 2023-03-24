@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tape-promise",
+    "private": true,
+    "dependencies": {
+        "@types/tape": "workspace:../tape"
+    }
+}

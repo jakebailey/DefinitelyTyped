@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/handlebars-helpers",
     "private": true,
     "dependencies": {
         "handlebars": ">=4.1.0"

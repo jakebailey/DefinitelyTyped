@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/qs-middleware",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/qs": "workspace:../qs"
+    }
+}

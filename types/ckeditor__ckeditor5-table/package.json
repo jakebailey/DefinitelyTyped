@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ckeditor__ckeditor5-table",
+    "private": true,
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-core": "workspace:../ckeditor__ckeditor5-core",
+        "@types/ckeditor__ckeditor5-engine": "workspace:../ckeditor__ckeditor5-engine",
+        "@types/ckeditor__ckeditor5-ui": "workspace:../ckeditor__ckeditor5-ui",
+        "@types/ckeditor__ckeditor5-utils": "workspace:../ckeditor__ckeditor5-utils",
+        "@types/ckeditor__ckeditor5-widget": "workspace:../ckeditor__ckeditor5-widget"
+    }
+}

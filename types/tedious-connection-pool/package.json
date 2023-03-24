@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/tedious-connection-pool",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/tedious": "workspace:../tedious"
+    }
+}

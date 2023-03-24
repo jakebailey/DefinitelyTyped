@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gatsbyjs__reach-router",
+    "private": true,
+    "dependencies": {
+        "@types/reach__router": "workspace:../reach__router",
+        "@types/react": "workspace:../react"
+    }
+}

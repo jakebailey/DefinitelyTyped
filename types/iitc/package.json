@@ -1,0 +1,11 @@
+{
+    "CONVERTED": true,
+    "name": "@types/iitc",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery",
+        "@types/jqueryui": "workspace:../jqueryui",
+        "@types/leaflet": "workspace:../leaflet",
+        "@types/spectrum": "workspace:../spectrum"
+    }
+}

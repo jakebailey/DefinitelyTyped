@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ip-packet",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/hasher",
+    "private": true,
+    "dependencies": {
+        "@types/signals": "workspace:../signals"
+    }
+}

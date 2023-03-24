@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/babel-core",
+    "private": true,
+    "dependencies": {
+        "@types/babel-generator": "workspace:../babel-generator",
+        "@types/babel-template": "workspace:../babel-template",
+        "@types/babel-traverse": "workspace:../babel-traverse",
+        "@types/babel-types": "workspace:../babel-types",
+        "@types/babylon": "workspace:../babylon"
+    }
+}

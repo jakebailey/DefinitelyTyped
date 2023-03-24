@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/node-redmine",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

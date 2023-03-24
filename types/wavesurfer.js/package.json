@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/wavesurfer.js",
+    "private": true,
+    "dependencies": {
+        "@types/debounce": "workspace:../debounce"
+    }
+}

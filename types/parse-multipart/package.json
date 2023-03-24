@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/parse-multipart",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

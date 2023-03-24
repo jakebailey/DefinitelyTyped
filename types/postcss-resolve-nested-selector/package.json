@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/postcss-resolve-nested-selector",
     "private": true,
     "dependencies": {
         "postcss": "^8.0.0"

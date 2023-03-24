@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/http-context",
+    "private": true,
+    "dependencies": {
+        "@types/accepts": "workspace:../accepts",
+        "@types/node": "workspace:../node"
+    }
+}

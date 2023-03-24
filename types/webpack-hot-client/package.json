@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/webpack-hot-client",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/webpack": "workspace:../webpack/v4",
+        "@types/ws": "workspace:../ws"
+    }
+}

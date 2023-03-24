@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/wordpress__data",
     "private": true,
     "dependencies": {
+        "@types/react": "workspace:../react",
         "redux": "^4.1.0"
     }
 }

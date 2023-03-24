@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/react-codesandboxer",
+    "private": true,
+    "dependencies": {
+        "@types/react": "workspace:../react"
+    }
+}

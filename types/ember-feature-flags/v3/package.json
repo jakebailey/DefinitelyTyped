@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ember-feature-flags",
+    "private": true,
+    "dependencies": {
+        "@types/ember": "workspace:../../ember/v2"
+    }
+}

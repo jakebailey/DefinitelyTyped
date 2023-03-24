@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jasmine-jquery",
+    "private": true,
+    "dependencies": {
+        "@types/jasmine": "workspace:../jasmine",
+        "@types/jquery": "workspace:../jquery"
+    }
+}

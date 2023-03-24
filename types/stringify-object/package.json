@@ -1,4 +1,6 @@
 {
-  "type": "module",
-  "private": true
+    "CONVERTED": true,
+    "name": "@types/stringify-object",
+    "private": true,
+    "type": "module"
 }

@@ -1,0 +1,12 @@
+{
+    "CONVERTED": true,
+    "name": "@types/ag-simple-broker",
+    "private": true,
+    "dependencies": {
+        "@types/ag-channel": "workspace:../../ag-channel/v4",
+        "@types/async-stream-emitter": "workspace:../../async-stream-emitter/v3",
+        "@types/consumable-stream": "workspace:../../consumable-stream/v1",
+        "@types/socketcluster-server": "workspace:../../socketcluster-server/v15",
+        "@types/writable-consumable-stream": "workspace:../../writable-consumable-stream/v1"
+    }
+}

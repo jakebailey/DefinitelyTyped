@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/raty",
+    "private": true,
+    "dependencies": {
+        "@types/jquery": "workspace:../jquery"
+    }
+}

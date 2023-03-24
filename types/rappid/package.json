@@ -1,6 +1,9 @@
 {
+    "CONVERTED": true,
+    "name": "@types/rappid",
     "private": true,
     "dependencies": {
+        "@types/backbone": "workspace:../backbone",
         "jointjs": "^3.5.5"
     }
 }

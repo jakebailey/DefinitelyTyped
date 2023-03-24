@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/slate-base64-serializer",
+    "private": true,
+    "dependencies": {
+        "@types/slate": "workspace:../slate"
+    }
+}

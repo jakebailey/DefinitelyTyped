@@ -1,0 +1,10 @@
+{
+    "CONVERTED": true,
+    "name": "@types/feathersjs__express",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express",
+        "@types/express-serve-static-core": "workspace:../express-serve-static-core",
+        "@types/feathersjs__feathers": "workspace:../feathersjs__feathers"
+    }
+}

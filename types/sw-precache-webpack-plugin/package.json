@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/sw-precache-webpack-plugin",
+    "private": true,
+    "dependencies": {
+        "@types/sw-precache": "workspace:../sw-precache",
+        "@types/webpack": "workspace:../webpack/v4"
+    }
+}

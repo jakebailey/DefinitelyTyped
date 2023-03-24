@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/evernote",
+    "private": true,
+    "dependencies": {
+        "@types/oauth": "workspace:../oauth"
+    }
+}

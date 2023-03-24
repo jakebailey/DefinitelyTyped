@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/activex-iwshruntimelibrary",
+    "private": true,
+    "dependencies": {
+        "@types/activex-interop": "workspace:../activex-interop"
+    }
+}

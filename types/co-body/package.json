@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/co-body",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node",
+        "@types/qs": "workspace:../qs"
+    }
+}

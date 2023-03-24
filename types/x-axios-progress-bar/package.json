@@ -1,4 +1,6 @@
 {
+    "CONVERTED": true,
+    "name": "@types/x-axios-progress-bar",
     "private": true,
     "dependencies": {
         "axios": "^0.21.1"

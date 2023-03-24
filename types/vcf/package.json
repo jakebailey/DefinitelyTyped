@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/vcf",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

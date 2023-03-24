@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/gulp-mustache",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/asn1",
+    "private": true,
+    "dependencies": {
+        "@types/node": "workspace:../node"
+    }
+}

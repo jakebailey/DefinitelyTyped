@@ -1,6 +1,12 @@
 {
+    "CONVERTED": true,
+    "name": "@types/karma-image-snapshot",
     "private": true,
     "dependencies": {
+        "@types/jasmine": "workspace:../jasmine",
+        "@types/karma": "workspace:../karma",
+        "@types/node": "workspace:../node",
+        "@types/pixelmatch": "workspace:../pixelmatch",
         "ssim.js": "^3.1.1"
     }
 }

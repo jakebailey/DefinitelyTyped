@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/kraken-js",
+    "private": true,
+    "dependencies": {
+        "@types/express": "workspace:../express"
+    }
+}

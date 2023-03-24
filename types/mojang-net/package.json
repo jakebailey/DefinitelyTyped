@@ -1,0 +1,8 @@
+{
+    "CONVERTED": true,
+    "name": "@types/mojang-net",
+    "private": true,
+    "dependencies": {
+        "@types/mojang-minecraft-server-admin": "workspace:../mojang-minecraft-server-admin"
+    }
+}

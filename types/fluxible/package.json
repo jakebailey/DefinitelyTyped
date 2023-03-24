@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/fluxible",
+    "private": true,
+    "dependencies": {
+        "@types/dispatchr": "workspace:../dispatchr",
+        "@types/node": "workspace:../node"
+    }
+}

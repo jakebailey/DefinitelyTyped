@@ -1,0 +1,9 @@
+{
+    "CONVERTED": true,
+    "name": "@types/jest-in-case",
+    "private": true,
+    "dependencies": {
+        "@types/jest": "workspace:../jest",
+        "@types/node": "workspace:../node"
+    }
+}
