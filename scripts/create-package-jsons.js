@@ -2,15 +2,22 @@ import fs from "fs";
 import path from "path";
 import url from "url";
 import fetch from "node-fetch";
-import assert from "assert";
 
 const __filename = url.fileURLToPath(new URL(import.meta.url));
 const __dirname = path.dirname(__filename);
 
-const types = path.join(__dirname, "..", "types");
+const dtRoot = path.join(__dirname, ".."); 
+const types = path.join(dtRoot, "types");
+
+/**
+ * @param {string} p
+ */
+function prettyPath(p) {
+    return path.relative(dtRoot, p);
+}
+
 
 const packages = fs.readdirSync(types);
-
 const versionDirRegex = /^v\d+(?:\.\d+)?$/;
 
 /**
@@ -40,18 +47,21 @@ function compareComparableValues(a, b) {
  * @param {string} [version]
  */
 async function handlePackage(pkgName, p, version) {
-    // console.log(pkgName);
+    console.log(pkgName);
     const packageJsonPath = path.join(p, "package.json");
     /** @type {Record<string, any>} */
-    // const packageJsonContents = { name: pkgName, private: true };
-    const packageJsonContents = { };
+    const packageJsonContents = { CONVERTED: true, name: pkgName, private: true };
+    // const packageJsonContents = { };
     try {
         const existing = JSON.parse(await fs.promises.readFile(packageJsonPath, { encoding: "utf8" }));
+        if (existing.CONVERTED) {
+            return;
+        }
         Object.assign(packageJsonContents, existing);
     }
     catch {
         // OK
-        return; // TODO(jakebailey): remove
+        // return; // TODO(jakebailey): remove
     }
 
     // registry is faster, but unpkg handles semver
@@ -62,7 +72,7 @@ async function handlePackage(pkgName, p, version) {
 
     for (const key of Object.keys(packageJsonContents.dependencies)) {
         if (allPackages.has(key)) {
-            console.log(`Check ${p}/package.json for ${key} dependency, may need to be mapped to a folder.`)
+            console.log(`Check ${prettyPath(p)}/package.json for ${key} dependency, may need to be mapped to a folder.`)
         }
     }
 
@@ -71,8 +81,21 @@ async function handlePackage(pkgName, p, version) {
     for (const [key, value] of Object.entries(publishedPackageJson.dependencies)) {
         if (!packageJsonContents.dependencies[key]) {
             // Dependency added by the publisher, map locally.
-            const depRoot = path.relative(p, path.join(types, key.slice("@types/".length)));
-            const relativePathToDep = value === "*" ? depRoot : path.join(depRoot, `v${value.slice(1)}`)
+            const depRoot = path.join(types, key.slice("@types/".length));
+            if (!fs.existsSync(depRoot)) {
+                // Somehow, we got an unlisted * dep?
+                console.log(`Check ${prettyPath(p)}/package.json; unlisted dep ${key}`)
+                packageJsonContents.dependencies[key] = "*";
+            }
+
+            const depRelative = path.relative(p, depRoot);
+            if (!depRelative) {
+                // Some packages appear to accidentally depend on themselves?
+                console.log(`Check ${prettyPath(p)}/package.json; depends on itself`)
+                continue;
+            }
+
+            const relativePathToDep = value === "*" ? depRelative : path.join(depRelative, `v${value.slice(1)}`)
             packageJsonContents.dependencies[key] = `workspace:${relativePathToDep}`;
         }
     }
