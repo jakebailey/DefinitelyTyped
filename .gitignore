@@ -53,3 +53,5 @@ pnpm-debug.log
 
 # Output of 'npm pack'
 *.tgz
+
+!types/*/
