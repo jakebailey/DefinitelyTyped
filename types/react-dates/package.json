@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/react-dates",
+    "version": "21.8.0",
     "dependencies": {
+        "@types/react": "*",
+        "@types/react-outside-click-handler": "*",
         "moment": "^2.26.0"
     }
 }

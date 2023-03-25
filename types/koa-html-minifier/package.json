@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/koa-html-minifier",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/html-minifier": "*",
+        "@types/koa": "*"
+    }
+}

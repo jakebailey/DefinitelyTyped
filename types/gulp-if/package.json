@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/gulp-if",
+    "version": "3.0.0",
     "dependencies": {
-        "@types/minimatch": "*"
+        "@types/gulp-match": "*",
+        "@types/minimatch": "*",
+        "@types/node": "*"
     }
 }

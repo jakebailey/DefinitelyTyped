@@ -1,11 +1,15 @@
 {
     "private": true,
-    "dependencies": {
-        "parse5": "^7.0.0"
-    },
+    "name": "@types/jsdom",
+    "version": "21.1.0",
     "exports": {
         ".": {
             "types": "./index.d.ts"
         }
+    },
+    "dependencies": {
+        "@types/node": "*",
+        "@types/tough-cookie": "*",
+        "parse5": "^7.0.0"
     }
 }

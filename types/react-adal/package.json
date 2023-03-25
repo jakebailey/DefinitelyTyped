@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-adal",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

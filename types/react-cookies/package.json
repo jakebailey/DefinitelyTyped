@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-cookies",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/cookie": "*",
+        "@types/express": "*"
+    }
+}

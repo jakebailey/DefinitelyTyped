@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/pouchdb-core",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/debug": "*",
+        "@types/pouchdb-find": "*"
+    }
+}

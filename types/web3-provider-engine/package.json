@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/web3-provider-engine",
+    "version": "14.0.0",
+    "dependencies": {
+        "@types/ethereum-protocol": "*"
+    }
+}

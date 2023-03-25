@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/postcss-prefix-selector",
+    "version": "1.15.0"
+}

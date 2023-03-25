@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/use-ackee",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/ackee-tracker": "*"
+    }
+}

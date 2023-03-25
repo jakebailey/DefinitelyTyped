@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/unbzip2-stream",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/through": "*"
+    }
+}

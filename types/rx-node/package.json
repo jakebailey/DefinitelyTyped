@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/rx-node",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/rx": "*"
+    }
+}

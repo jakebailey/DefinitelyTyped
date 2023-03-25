@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ngreact",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/react": "*"
+    }
+}

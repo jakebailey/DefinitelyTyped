@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/opener",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

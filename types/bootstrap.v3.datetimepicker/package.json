@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/bootstrap.v3.datetimepicker",
+    "version": "4.17.0",
     "dependencies": {
+        "@types/jquery": "*",
         "moment": ">=2.14.0"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-modal",
+    "version": "3.13.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

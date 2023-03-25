@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/node-red__editor-api",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/node-red__runtime": "*"
+    }
+}

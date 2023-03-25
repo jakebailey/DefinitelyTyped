@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/express-mung",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/node": "*"
+    }
+}

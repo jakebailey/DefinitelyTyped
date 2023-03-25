@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/ffi-napi",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/ref-napi": "*",
+        "@types/ref-struct-di": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/koa-better-body",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/formidable": "*",
+        "@types/koa": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/keep-network__tbtc.js",
+    "version": "0.18.0",
+    "dependencies": {
+        "@types/bn.js": "*",
+        "@types/node": "*"
+    }
+}

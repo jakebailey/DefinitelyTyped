@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/node-pushnotifications",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/web-push": "*"
+    }
+}

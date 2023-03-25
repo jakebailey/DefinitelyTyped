@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/reactabular-sticky",
+    "version": "8.14.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/reactabular-table": "*"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-url",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/node": "*",
         "rollup": "^0.63.4"
     }
 }

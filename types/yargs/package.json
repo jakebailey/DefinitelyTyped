@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/yargs",
+    "version": "17.0.0",
     "exports": {
         ".": {
             "types": {
@@ -18,5 +20,8 @@
                 "default": "./yargs.d.ts"
             }
         }
+    },
+    "dependencies": {
+        "@types/yargs-parser": "*"
     }
 }

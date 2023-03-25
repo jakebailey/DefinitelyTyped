@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/sendcloud",
+    "version": "1.6.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/nodemailer": "*"
+    }
+}

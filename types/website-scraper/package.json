@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/website-scraper",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/request": "*"
+    }
+}

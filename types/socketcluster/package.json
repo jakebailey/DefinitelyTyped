@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/socketcluster",
+    "version": "14.0.0",
+    "dependencies": {
+        "@types/sc-auth": "*",
+        "@types/sc-broker-cluster": "^6",
+        "@types/socketcluster-server": "^14"
+    }
+}

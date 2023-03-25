@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/inquirer",
+    "version": "8.2.0",
     "dependencies": {
+        "@types/through": "*",
         "rxjs": "^7.2.0"
     }
 }

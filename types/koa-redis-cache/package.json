@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/koa-redis-cache",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/koa": "*",
         "@types/redis": "^2.8.0"
     }
 }

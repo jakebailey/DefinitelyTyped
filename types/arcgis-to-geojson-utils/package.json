@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/arcgis-to-geojson-utils",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/arcgis-rest-api": "*",
+        "@types/geojson": "*"
+    }
+}

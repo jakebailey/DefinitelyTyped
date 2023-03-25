@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/jest-image-snapshot",
+    "version": "6.1.0",
     "dependencies": {
+        "@types/jest": "*",
+        "@types/pixelmatch": "*",
         "ssim.js": "^3.1.1"
     }
 }

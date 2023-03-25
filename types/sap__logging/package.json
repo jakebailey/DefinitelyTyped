@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/sap__logging",
+    "version": "6.2.0",
+    "dependencies": {
+        "@types/express-serve-static-core": "*"
+    }
+}

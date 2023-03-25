@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/webpack-concat-plugin",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/uglify-js": "*",
+        "@types/webpack": "^4"
+    }
+}

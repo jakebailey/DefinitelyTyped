@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/express-pino-logger",
+    "version": "4.0.0",
     "dependencies": {
-        "@types/pino": "6.3"
+        "@types/pino": "6.3",
+        "@types/pino-http": "*"
     }
 }

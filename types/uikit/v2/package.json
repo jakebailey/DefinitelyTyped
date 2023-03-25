@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/uikit",
+    "version": "2.27.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

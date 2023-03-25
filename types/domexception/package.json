@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/domexception",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/webidl-conversions": "*"
+    }
+}

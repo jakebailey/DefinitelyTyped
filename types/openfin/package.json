@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/openfin",
+    "version": "51.0.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/node": "*",
+        "@types/resize-observer-browser": "*",
+        "@types/ws": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-typewriter",
+    "version": "0.7.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/preact-custom-element",
+    "version": "4.0.0",
     "dependencies": {
         "preact": "^10.0.0"
     }

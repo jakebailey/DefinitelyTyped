@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-highcharts",
+    "version": "16.0.0",
     "dependencies": {
-        "@types/highcharts": "^5.0.44"
+        "@types/highcharts": "^5.0.44",
+        "@types/react": "*"
     }
 }

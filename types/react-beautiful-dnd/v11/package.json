@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-beautiful-dnd",
+    "version": "11.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

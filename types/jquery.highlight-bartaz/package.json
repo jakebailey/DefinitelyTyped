@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery.highlight-bartaz",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

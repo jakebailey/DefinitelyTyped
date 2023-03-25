@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ckeditor__ckeditor5-pagination",
+    "version": "27.0.0",
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-core": "*"
+    }
+}

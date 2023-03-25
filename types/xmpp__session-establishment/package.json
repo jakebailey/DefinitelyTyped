@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/xmpp__session-establishment",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/xmpp__iq": "*",
+        "@types/xmpp__middleware": "*",
+        "@types/xmpp__stream-features": "*"
+    }
+}

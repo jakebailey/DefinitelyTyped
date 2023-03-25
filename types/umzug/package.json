@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/umzug",
+    "version": "2.3.0",
     "dependencies": {
+        "@types/sequelize": "*",
         "mongodb": "^4.1.4"
     }
 }

@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/vertx3-eventbus-client",
+    "version": "3.5.0"
+}

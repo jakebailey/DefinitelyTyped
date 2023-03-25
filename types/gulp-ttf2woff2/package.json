@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/gulp-ttf2woff2",
+    "version": "4.0.0",
     "dependencies": {
+        "@types/node": "*",
         "plugin-error": "^1.0.1"
     }
 }

@@ -1,4 +1,9 @@
 {
     "private": true,
-    "type": "module"
+    "name": "@types/inquirer-autocomplete-prompt",
+    "version": "3.0.0",
+    "type": "module",
+    "dependencies": {
+        "@types/inquirer": "*"
+    }
 }

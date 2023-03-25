@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/cwise",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/cwise-compiler": "*",
+        "@types/ndarray": "*"
+    }
+}

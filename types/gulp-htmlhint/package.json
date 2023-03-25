@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-htmlhint",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/htmlhint": "*",
+        "@types/node": "*"
+    }
+}

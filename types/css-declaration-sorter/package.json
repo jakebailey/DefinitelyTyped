@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/css-declaration-sorter",
+    "version": "6.0.0",
     "dependencies": {
         "postcss": "^8.0.9"
     }

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/jquery.livestampjs",
+    "version": "0.0.0",
     "dependencies": {
+        "@types/jquery": "*",
         "moment": ">=2.14.0"
     }
 }

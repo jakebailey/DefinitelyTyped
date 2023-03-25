@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/cytoscape-context-menus",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/cytoscape": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/liftoff",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/fined": "*",
+        "@types/node": "*"
+    }
+}

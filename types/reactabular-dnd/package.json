@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/reactabular-dnd",
+    "version": "8.16.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/reactabular-table": "*"
+    }
+}

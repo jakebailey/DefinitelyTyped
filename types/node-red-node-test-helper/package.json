@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/node-red-node-test-helper",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/node-red": "*",
+        "@types/node-red__runtime": "*",
+        "@types/sinon": "*",
+        "@types/supertest": "*"
+    }
+}

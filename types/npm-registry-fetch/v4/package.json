@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/npm-registry-fetch",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/npm-package-arg": "*",
+        "@types/npmlog": "*",
+        "@types/ssri": "*"
+    }
+}

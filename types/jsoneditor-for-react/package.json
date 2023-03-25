@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jsoneditor-for-react",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/jsoneditor": "*",
+        "@types/react": "*"
+    }
+}

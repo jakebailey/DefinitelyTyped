@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/hexo-util",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

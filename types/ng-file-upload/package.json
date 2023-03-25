@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ng-file-upload",
+    "version": "12.2.0",
+    "dependencies": {
+        "@types/angular": "*"
+    }
+}

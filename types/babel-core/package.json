@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/babel-core",
+    "version": "6.25.0",
+    "dependencies": {
+        "@types/babel-generator": "*",
+        "@types/babel-template": "*",
+        "@types/babel-traverse": "*",
+        "@types/babel-types": "*",
+        "@types/babylon": "*"
+    }
+}

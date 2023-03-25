@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/babelify",
+    "version": "7.3.0",
+    "dependencies": {
+        "@types/babel-core": "*",
+        "@types/node": "*"
+    }
+}

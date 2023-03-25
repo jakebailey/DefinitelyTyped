@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/metro",
+    "version": "0.76.0",
+    "dependencies": {
+        "@types/babel__code-frame": "*",
+        "@types/metro-babel-transformer": "*",
+        "@types/metro-config": "*",
+        "@types/metro-core": "*",
+        "@types/metro-file-map": "*",
+        "@types/metro-resolver": "*",
+        "@types/metro-source-map": "*",
+        "@types/metro-transform-worker": "*",
+        "@types/ws": "*",
+        "@types/yargs": "*"
+    }
+}

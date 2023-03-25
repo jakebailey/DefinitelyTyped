@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-html5-camera-photo",
+    "version": "1.5.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

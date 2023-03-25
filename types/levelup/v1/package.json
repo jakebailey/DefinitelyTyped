@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/levelup",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/leveldown": "^1",
+        "@types/node": "*"
+    }
+}

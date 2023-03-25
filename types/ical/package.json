@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/ical",
+    "version": "0.8.0",
     "dependencies": {
         "rrule": "2.6.4"
     }

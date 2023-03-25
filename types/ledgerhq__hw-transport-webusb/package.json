@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ledgerhq__hw-transport-webusb",
+    "version": "4.70.0",
+    "dependencies": {
+        "@types/ledgerhq__hw-transport": "*",
+        "@types/node": "*"
+    }
+}

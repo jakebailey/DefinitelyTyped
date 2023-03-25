@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ember__component",
+    "version": "3.16.0",
+    "dependencies": {
+        "@types/ember__object": "^3",
+        "@types/jquery": "*"
+    }
+}

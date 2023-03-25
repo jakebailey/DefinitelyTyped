@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/ckeditor__ckeditor5-heading",
+    "version": "29.0.0",
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-core": "*",
+        "@types/ckeditor__ckeditor5-engine": "*",
+        "@types/ckeditor__ckeditor5-paragraph": "*"
+    }
+}

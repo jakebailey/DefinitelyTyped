@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-avatar-editor",
+    "version": "13.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

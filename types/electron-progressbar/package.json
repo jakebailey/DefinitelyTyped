@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/electron-progressbar",
+    "version": "1.2.0",
     "dependencies": {
         "electron": "^10.1.4"
     }

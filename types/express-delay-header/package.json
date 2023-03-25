@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/express-delay-header",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/express-serve-static-core": "*"
+    }
+}

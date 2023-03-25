@@ -1,6 +1,11 @@
 {
-  "private": true,
-  "dependencies": {
-    "chokidar": "^3.0.0"
-  }
+    "private": true,
+    "name": "@types/browser-sync",
+    "version": "2.27.0",
+    "dependencies": {
+        "@types/micromatch": "^2",
+        "@types/node": "*",
+        "@types/serve-static": "*",
+        "chokidar": "^3.0.0"
+    }
 }

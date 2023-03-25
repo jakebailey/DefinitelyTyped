@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/karma-jsdom-launcher",
+    "version": "8.0.0",
+    "dependencies": {
+        "@types/jsdom": "*",
+        "@types/karma": "*"
+    }
+}

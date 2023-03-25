@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/gridfs-stream",
+    "version": "0.5.0",
     "dependencies": {
+        "@types/node": "*",
         "mongodb": "^4.5.0"
     }
 }

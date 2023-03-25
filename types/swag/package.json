@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/swag",
+    "version": "0.6.0",
     "dependencies": {
         "handlebars": "^4.1.0"
     }

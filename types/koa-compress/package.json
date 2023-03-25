@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/koa-compress",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/koa": "*",
+        "@types/node": "*"
+    }
+}

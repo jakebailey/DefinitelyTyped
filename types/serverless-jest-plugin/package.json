@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/serverless-jest-plugin",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/lambda-wrapper": "*",
+        "@types/serverless": "*"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/coffeescript",
+    "version": "2.5.0",
     "dependencies": {
         "@babel/core": "^7.1.15"
     }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/extra-watch-webpack-plugin",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/webpack": "^4"
+    }
+}

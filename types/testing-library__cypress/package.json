@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/testing-library__cypress",
+    "version": "5.0.0",
     "dependencies": {
         "@testing-library/dom": "^7.11.0",
         "cypress": "*"

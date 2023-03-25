@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/ramda",
+    "version": "0.28.0",
     "dependencies": {
         "ts-toolbelt": "^6.15.1"
     }

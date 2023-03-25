@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-modalbox",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

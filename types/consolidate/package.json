@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/consolidate",
+    "version": "0.14.0",
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/node": "*"
+    }
+}

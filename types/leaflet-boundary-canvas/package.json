@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/leaflet-boundary-canvas",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/leaflet": "*"
+    }
+}

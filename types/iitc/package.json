@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/iitc",
+    "version": "0.30.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/jqueryui": "*",
+        "@types/leaflet": "*",
+        "@types/spectrum": "*"
+    }
+}

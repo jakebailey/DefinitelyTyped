@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery.color",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

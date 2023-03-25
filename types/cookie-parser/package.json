@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/cookie-parser",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

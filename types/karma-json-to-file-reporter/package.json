@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/karma-json-to-file-reporter",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/karma": "*"
+    }
+}

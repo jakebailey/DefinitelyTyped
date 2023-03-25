@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/nodemailer-express-handlebars",
+    "version": "4.0.0",
     "dependencies": {
-        "@types/express-handlebars": "^5"
+        "@types/express-handlebars": "^5",
+        "@types/nodemailer": "*"
     }
 }

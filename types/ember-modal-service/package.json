@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/ember-modal-service",
+    "version": "2.7.0",
+    "dependencies": {
+        "@types/ember__array": "*",
+        "@types/ember__component": "*",
+        "@types/ember__service": "*",
+        "@types/rsvp": "*"
+    }
+}

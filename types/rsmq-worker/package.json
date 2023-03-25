@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rsmq-worker",
+    "version": "0.3.0",
     "dependencies": {
+        "@types/redis": "*",
         "@types/rsmq": "^0.3.27"
     }
 }

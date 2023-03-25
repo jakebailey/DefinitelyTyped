@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/redlock",
+    "version": "4.0.0",
     "dependencies": {
+        "@types/bluebird": "*",
         "@types/ioredis": "^4.28.10",
         "@types/redis": "^2.8.0"
     }

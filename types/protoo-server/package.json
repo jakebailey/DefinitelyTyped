@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/protoo-server",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/websocket": "*"
+    }
+}

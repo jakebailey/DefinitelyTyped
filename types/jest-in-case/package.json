@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jest-in-case",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/jest": "*",
+        "@types/node": "*"
+    }
+}

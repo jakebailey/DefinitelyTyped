@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/windows-script-host",
+    "version": "5.8.0",
+    "dependencies": {
+        "@types/activex-iwshruntimelibrary": "*"
+    }
+}

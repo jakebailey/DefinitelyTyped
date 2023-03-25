@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/d3-sankey",
+    "version": "0.12.0",
+    "dependencies": {
+        "@types/d3-shape": "^1"
+    }
+}

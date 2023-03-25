@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-visualizer",
+    "version": "4.2.0",
     "dependencies": {
+        "@types/node": "*",
         "rollup": "^2.42.3"
     }
 }

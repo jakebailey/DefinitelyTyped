@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/conventional-recommended-bump",
+    "version": "6.1.0",
+    "dependencies": {
+        "@types/conventional-changelog-core": "*",
+        "@types/conventional-changelog-writer": "*",
+        "@types/conventional-commits-parser": "*"
+    }
+}

@@ -1,7 +1,10 @@
 {
     "private": true,
+    "name": "@types/redux-auth-wrapper",
+    "version": "1.0.0",
     "dependencies": {
         "@types/history": "^3.2.5",
+        "@types/react": "*",
         "redux": "^3.7.2"
     }
 }

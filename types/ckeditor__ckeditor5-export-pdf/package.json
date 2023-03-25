@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ckeditor__ckeditor5-export-pdf",
+    "version": "31.0.0",
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-core": "*",
+        "@types/ckeditor__ckeditor5-utils": "*"
+    }
+}

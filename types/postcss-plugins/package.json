@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/postcss-plugins",
+    "version": "1.13.0"
+}

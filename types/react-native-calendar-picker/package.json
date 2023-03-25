@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/react-native-calendar-picker",
+    "version": "7.0.0",
     "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*",
         "moment": ">=2.0.0"
     }
 }

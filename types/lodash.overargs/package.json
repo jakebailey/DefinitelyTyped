@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/lodash.overargs",
+    "version": "4.7.0",
+    "dependencies": {
+        "@types/lodash": "*"
+    }
+}

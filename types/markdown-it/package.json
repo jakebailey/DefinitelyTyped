@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/markdown-it",
+    "version": "12.2.0",
+    "dependencies": {
+        "@types/linkify-it": "*",
+        "@types/mdurl": "*"
+    }
+}

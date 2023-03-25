@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-loadable",
+    "version": "5.5.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/webpack": "^4"
+    }
+}

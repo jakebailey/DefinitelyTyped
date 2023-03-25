@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/styled-react-modal",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/styled-components": "*"
+    }
+}

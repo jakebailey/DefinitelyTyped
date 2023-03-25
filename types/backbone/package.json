@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/backbone",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/underscore": "*"
+    }
+}

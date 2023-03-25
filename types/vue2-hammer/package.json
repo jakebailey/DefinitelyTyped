@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.0.0"
-  }
+    "private": true,
+    "name": "@types/vue2-hammer",
+    "version": "2.1.0",
+    "dependencies": {
+        "vue": "^2.0.0"
+    }
 }

@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "name": "@types/pouchdb-browser",
+    "version": "6.1.0",
+    "dependencies": {
+        "@types/pouchdb-adapter-http": "*",
+        "@types/pouchdb-adapter-idb": "*",
+        "@types/pouchdb-adapter-websql": "*",
+        "@types/pouchdb-core": "*",
+        "@types/pouchdb-mapreduce": "*",
+        "@types/pouchdb-replication": "*"
+    }
+}

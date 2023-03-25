@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/karma-jasmine-html-reporter",
+    "version": "1.7.0",
+    "dependencies": {
+        "@types/karma": "*"
+    }
+}

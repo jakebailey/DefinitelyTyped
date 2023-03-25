@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-scroll",
+    "version": "1.8.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

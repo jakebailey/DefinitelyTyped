@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-video",
+    "version": "5.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

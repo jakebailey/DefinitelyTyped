@@ -1,6 +1,12 @@
 {
     "private": true,
+    "name": "@types/webpack-serve",
+    "version": "1.0.0",
     "dependencies": {
-        "@types/webpack-dev-middleware": "3"
+        "@types/koa": "*",
+        "@types/node": "*",
+        "@types/webpack": "^4",
+        "@types/webpack-dev-middleware": "3",
+        "@types/webpack-hot-client": "*"
     }
 }

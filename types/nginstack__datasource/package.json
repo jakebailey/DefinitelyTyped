@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/nginstack__datasource",
+    "version": "70.0.0",
+    "dependencies": {
+        "@types/nginstack__engine": "*",
+        "@types/nginstack__iquery": "*"
+    }
+}

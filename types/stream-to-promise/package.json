@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/stream-to-promise",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

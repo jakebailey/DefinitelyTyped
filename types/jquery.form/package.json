@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery.form",
+    "version": "3.26.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

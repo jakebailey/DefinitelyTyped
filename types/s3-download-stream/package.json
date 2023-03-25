@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/s3-download-stream",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/aws-sdk2-types": "*",
+        "@types/node": "*"
+    }
+}

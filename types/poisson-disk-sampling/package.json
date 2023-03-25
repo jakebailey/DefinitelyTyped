@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/poisson-disk-sampling",
+    "version": "2.2.0"
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/wepy-redux",
+    "version": "1.7.0",
     "dependencies": {
+        "@types/wepy": "*",
         "redux": "^4.0.0"
     }
 }

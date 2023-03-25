@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/stripe-checkout",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/stripe-v3": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/open-wc__testing-karma",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/karma": "*"
+    }
+}

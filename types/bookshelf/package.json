@@ -1,6 +1,11 @@
 {
     "private": true,
+    "name": "@types/bookshelf",
+    "version": "1.2.0",
     "dependencies": {
+        "@types/bluebird": "*",
+        "@types/create-error": "*",
+        "@types/lodash": "*",
         "knex": "^0.21.12"
     }
 }

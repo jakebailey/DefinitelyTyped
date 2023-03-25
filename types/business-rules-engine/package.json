@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/business-rules-engine",
+    "version": "1.0.0",
     "dependencies": {
+        "@types/q": "^0",
         "moment": ">=2.14.0"
     }
 }

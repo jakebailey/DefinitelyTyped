@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/sitemap-generator",
+    "version": "8.5.0",
+    "dependencies": {
+        "@types/simplecrawler": "*"
+    }
+}

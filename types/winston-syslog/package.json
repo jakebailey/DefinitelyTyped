@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/winston-syslog",
+    "version": "2.4.0",
     "dependencies": {
+        "@types/glossy": "*",
+        "@types/node": "*",
         "winston": "^3.0.0"
     }
 }

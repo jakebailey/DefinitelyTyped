@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/flux",
+    "version": "3.1.0",
+    "dependencies": {
+        "@types/fbemitter": "*",
+        "@types/react": "*"
+    }
+}

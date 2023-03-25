@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-table",
+    "version": "6.8.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

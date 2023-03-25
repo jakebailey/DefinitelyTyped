@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/wordpress__compose",
+    "version": "6.0.0",
     "dependencies": {
+        "@types/lodash": "*",
+        "@types/react": "*",
         "@wordpress/element": "^5.0.0"
     }
 }

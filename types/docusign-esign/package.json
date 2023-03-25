@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/docusign-esign",
+    "version": "5.19.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

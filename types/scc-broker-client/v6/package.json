@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/scc-broker-client",
+    "version": "6.1.0",
+    "dependencies": {
+        "@types/jsonwebtoken": "*",
+        "@types/sc-broker": "*",
+        "@types/socketcluster-client": "^13"
+    }
+}

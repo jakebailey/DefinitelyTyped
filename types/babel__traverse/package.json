@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/babel__traverse",
+    "version": "7.18.0",
     "dependencies": {
         "@babel/types": "^7.3.0"
     }

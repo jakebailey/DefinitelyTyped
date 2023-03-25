@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/node-red__runtime",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/cors": "*",
+        "@types/express": "*",
+        "@types/node-red__editor-api": "*",
+        "@types/node-red__util": "*",
+        "@types/passport": "*"
+    }
+}

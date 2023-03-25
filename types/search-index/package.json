@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/search-index",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/abstract-leveldown": "*"
+    }
+}

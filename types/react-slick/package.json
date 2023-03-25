@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-slick",
+    "version": "0.23.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

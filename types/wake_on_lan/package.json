@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/wake_on_lan",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

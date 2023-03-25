@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-facebook-login",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

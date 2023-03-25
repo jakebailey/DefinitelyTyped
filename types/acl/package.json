@@ -1,6 +1,11 @@
 {
     "private": true,
+    "name": "@types/acl",
+    "version": "0.4.0",
     "dependencies": {
+        "@types/bluebird": "*",
+        "@types/express": "*",
+        "@types/node": "*",
         "@types/redis": "^2.8.0",
         "mongodb": "^4.5.0"
     }

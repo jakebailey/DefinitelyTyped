@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/inquirer-npm-name",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/inquirer": "^8"
+    }
+}

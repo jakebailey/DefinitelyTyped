@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-sortable-tree-theme-file-explorer",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/react-sortable-tree": "*"
+    }
+}

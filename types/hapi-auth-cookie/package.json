@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/hapi-auth-cookie",
+    "version": "10.0.0",
+    "dependencies": {
+        "@types/hapi": "*"
+    }
+}

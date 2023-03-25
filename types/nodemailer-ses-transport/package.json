@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/nodemailer-ses-transport",
+    "version": "1.5.0",
+    "dependencies": {
+        "@types/aws-sdk2-types": "*",
+        "@types/nodemailer": "^3"
+    }
+}

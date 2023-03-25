@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "kleur": "^3.0.3"
-  }
+    "private": true,
+    "name": "@types/prompts",
+    "version": "2.4.0",
+    "dependencies": {
+        "@types/node": "*",
+        "kleur": "^3.0.3"
+    }
 }

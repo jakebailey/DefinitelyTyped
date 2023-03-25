@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/npm-packlist",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/ignore-walk": "*",
+        "@types/npmcli__arborist": "*"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/svelte-leafletjs",
+    "version": "0.8.0",
     "dependencies": {
+        "@types/leaflet": "*",
         "svelte": "^3.48.0"
     }
 }

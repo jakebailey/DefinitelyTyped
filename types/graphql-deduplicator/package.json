@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/graphql-deduplicator",
+    "version": "2.0.0"
+}

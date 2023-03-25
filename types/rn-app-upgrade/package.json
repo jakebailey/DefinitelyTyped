@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/rn-app-upgrade",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/react-native": "*"
+    }
+}

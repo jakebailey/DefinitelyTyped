@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/email-templates",
+    "version": "10.0.0",
     "dependencies": {
+        "@types/html-to-text": "*",
+        "@types/nodemailer": "*",
         "juice": "^8.0.0"
     }
 }

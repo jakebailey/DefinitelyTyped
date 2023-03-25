@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/shipit-cli",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

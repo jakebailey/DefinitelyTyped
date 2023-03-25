@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/karma-rollup-preprocessor",
+    "version": "7.0.0",
     "dependencies": {
+        "@types/karma": "*",
         "rollup": ">=1.0.0"
     }
 }

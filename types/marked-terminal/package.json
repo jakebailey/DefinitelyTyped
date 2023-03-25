@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "chalk": "^2.4.1"
-  }
+    "private": true,
+    "name": "@types/marked-terminal",
+    "version": "3.1.0",
+    "dependencies": {
+        "@types/marked": "^3",
+        "chalk": "^2.4.1"
+    }
 }

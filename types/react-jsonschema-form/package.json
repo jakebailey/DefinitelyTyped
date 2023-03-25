@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-jsonschema-form",
+    "version": "1.7.0",
+    "dependencies": {
+        "@types/json-schema": "*",
+        "@types/react": "*"
+    }
+}

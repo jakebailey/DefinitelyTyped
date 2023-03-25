@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/serve-static",
+    "version": "1.15.0",
+    "dependencies": {
+        "@types/mime": "*",
+        "@types/node": "*"
+    }
+}

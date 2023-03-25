@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/cyberblast__webserver",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/cyberblast__logger": "*",
+        "@types/node": "*"
+    }
+}

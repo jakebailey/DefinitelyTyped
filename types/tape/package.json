@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/tape",
+    "version": "4.13.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/through": "*"
+    }
+}

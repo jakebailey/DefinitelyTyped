@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "swagger-parser": "^7.0.1"
-  }
+    "private": true,
+    "name": "@types/swagger-express-middleware",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "swagger-parser": "^7.0.1"
+    }
 }

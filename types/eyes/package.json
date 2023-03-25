@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/eyes",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

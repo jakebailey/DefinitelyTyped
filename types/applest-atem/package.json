@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/applest-atem",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/pngjs": "*"
+    }
+}

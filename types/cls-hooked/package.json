@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/cls-hooked",
+    "version": "4.3.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-html-parser",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/htmlparser2": "*",
+        "@types/react": "*"
+    }
+}

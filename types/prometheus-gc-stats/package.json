@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/prometheus-gc-stats",
+    "version": "0.6.0"
+}

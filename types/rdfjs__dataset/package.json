@@ -1,6 +1,8 @@
 {
     "private": true,
+    "name": "@types/rdfjs__dataset",
+    "version": "2.0.0",
     "dependencies": {
         "@rdfjs/types": "*"
     }
-  }
+}

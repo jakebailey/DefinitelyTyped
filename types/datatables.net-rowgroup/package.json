@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/datatables.net-rowgroup",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/datatables.net": "*",
+        "@types/jquery": "*"
+    }
+}

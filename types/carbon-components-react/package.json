@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/carbon-components-react",
+    "version": "7.55.0",
     "dependencies": {
+        "@types/react": "*",
         "flatpickr": "4.6.9"
     }
 }

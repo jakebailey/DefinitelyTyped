@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/backbone-relational",
+    "version": "0.10.0",
+    "dependencies": {
+        "@types/backbone": "*",
+        "@types/jquery": "*"
+    }
+}

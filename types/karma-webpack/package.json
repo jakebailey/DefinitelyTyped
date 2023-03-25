@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/karma-webpack",
+    "version": "2.0.0",
     "dependencies": {
+        "@types/karma": "*",
+        "@types/webpack": "^4",
         "@types/webpack-dev-middleware": "3"
     }
 }

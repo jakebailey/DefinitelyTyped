@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "name": "@types/mem-fs-editor",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/ejs": "*",
+        "@types/glob": "*",
+        "@types/json-schema": "*",
+        "@types/mem-fs": "*",
+        "@types/node": "*",
+        "@types/vinyl": "*"
+    }
+}

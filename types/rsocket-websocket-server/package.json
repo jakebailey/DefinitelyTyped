@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/rsocket-websocket-server",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/rsocket-core": "*",
+        "@types/rsocket-flowable": "*",
+        "@types/rsocket-types": "*",
+        "@types/ws": "*"
+    }
+}

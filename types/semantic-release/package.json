@@ -1,4 +1,9 @@
 {
     "private": true,
-    "type": "module"
+    "name": "@types/semantic-release",
+    "version": "20.0.0",
+    "type": "module",
+    "dependencies": {
+        "@types/node": "*"
+    }
 }

@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/debounce-promise",
+    "version": "3.1.0"
+}

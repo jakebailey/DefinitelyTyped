@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/redux-batched-subscribe",
+    "version": "0.1.0",
     "dependencies": {
         "redux": "^4.0.0"
     }

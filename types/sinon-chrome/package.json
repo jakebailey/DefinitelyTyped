@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/sinon-chrome",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/chrome": "*",
+        "@types/sinon": "*"
+    }
+}

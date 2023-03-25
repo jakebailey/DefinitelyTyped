@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/db-migrate-pg",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/db-migrate-base": "*",
+        "@types/pg": "*"
+    }
+}

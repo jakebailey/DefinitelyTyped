@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/html-to-pdfmake",
+    "version": "2.4.0",
+    "dependencies": {
+        "@types/jsdom": "*",
+        "@types/pdfmake": "*"
+    }
+}

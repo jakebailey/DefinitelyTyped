@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-calendar-timeline",
+    "version": "0.28.0",
     "dependencies": {
+        "@types/react": "*",
         "moment": "^2.0.0"
     }
 }

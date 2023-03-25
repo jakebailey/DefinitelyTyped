@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/af-utils__react-table",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/af-utils__react-virtual-headless": "*",
+        "@types/react": "*"
+    }
+}

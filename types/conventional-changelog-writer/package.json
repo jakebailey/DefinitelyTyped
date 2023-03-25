@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/conventional-changelog-writer",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/conventional-commits-parser": "*",
+        "@types/node": "*"
+    }
+}

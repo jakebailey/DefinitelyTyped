@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/angular-meteor",
+    "version": "0.8.0",
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/meteor": "*"
+    }
+}

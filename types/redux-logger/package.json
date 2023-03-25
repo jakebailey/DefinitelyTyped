@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/redux-logger",
+    "version": "3.0.0",
     "dependencies": {
         "redux": "^4.0.0"
     }

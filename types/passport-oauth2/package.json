@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/passport-oauth2",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/oauth": "*",
+        "@types/passport": "*"
+    }
+}

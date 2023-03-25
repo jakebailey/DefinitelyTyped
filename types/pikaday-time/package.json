@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/pikaday-time",
+    "version": "1.4.0",
     "dependencies": {
         "moment": ">=2.14.0"
     }

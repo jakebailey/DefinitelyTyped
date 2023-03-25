@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/expect-puppeteer",
+    "version": "5.0.0",
     "dependencies": {
+        "@types/jest": "*",
         "@types/puppeteer": "^5.4.0"
     }
 }

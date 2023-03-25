@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/source-map-support",
+    "version": "0.5.0",
     "dependencies": {
         "source-map": "^0.6.0"
     }

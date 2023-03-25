@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-google-maps-loader",
+    "version": "4.2.0",
+    "dependencies": {
+        "@types/google.maps": "*",
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/idyll-document",
+    "version": "2.9.0",
+    "dependencies": {
+        "@types/idyll-compiler": "*",
+        "@types/react": "*"
+    }
+}

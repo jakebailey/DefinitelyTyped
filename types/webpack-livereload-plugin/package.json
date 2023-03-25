@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/webpack-livereload-plugin",
+    "version": "2.3.0",
+    "dependencies": {
+        "@types/webpack": "^4"
+    }
+}

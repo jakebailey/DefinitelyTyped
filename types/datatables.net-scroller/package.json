@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/datatables.net-scroller",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/datatables.net": "*",
+        "@types/jquery": "*"
+    }
+}

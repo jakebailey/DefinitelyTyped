@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/webpack",
+    "version": "5.28.0",
     "dependencies": {
+        "@types/node": "*",
         "tapable": "^2.2.0",
         "webpack": "^5"
     }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/rx-lite",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/rx-core": "*",
+        "@types/rx-core-binding": "*"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/hyperdeck-js-lib",
+    "version": "1.7.0",
     "dependencies": {
+        "@types/node": "*",
         "js-logger": "^1.6.1"
     }
 }

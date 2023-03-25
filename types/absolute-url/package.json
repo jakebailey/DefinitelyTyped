@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/absolute-url",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

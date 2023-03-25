@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/jsoneditor",
+    "version": "9.9.0",
     "dependencies": {
+        "@types/ace": "*",
         "ajv": "^6.12.0"
     }
 }

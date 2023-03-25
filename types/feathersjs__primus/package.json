@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/feathersjs__primus",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/feathersjs__socket-commons": "*"
+    }
+}

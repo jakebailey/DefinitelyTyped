@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ng-stomp",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/angular": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ember-data",
+    "version": "2.14.0",
+    "dependencies": {
+        "@types/ember": "^2",
+        "@types/rsvp": "*"
+    }
+}

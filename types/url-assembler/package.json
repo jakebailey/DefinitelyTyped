@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/url-assembler",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/qs": "*"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/webp-in-css",
+    "version": "0.7.0",
     "dependencies": {
+        "@types/node": "*",
         "postcss": "^8.4.4"
     }
 }

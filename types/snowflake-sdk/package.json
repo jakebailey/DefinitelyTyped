@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/snowflake-sdk",
+    "version": "1.6.0",
     "dependencies": {
+        "@types/node": "*",
         "generic-pool": "^3.9.0"
     }
 }

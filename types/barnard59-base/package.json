@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/barnard59-base",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/barnard59-core": "*",
+        "@types/glob": "*",
+        "@types/node": "*",
+        "@types/readable-stream": "*"
+    }
+}

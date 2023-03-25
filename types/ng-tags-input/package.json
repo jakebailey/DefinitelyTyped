@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ng-tags-input",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/angular": "*"
+    }
+}

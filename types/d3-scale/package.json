@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/d3-scale",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/d3-time": "*"
+    }
+}

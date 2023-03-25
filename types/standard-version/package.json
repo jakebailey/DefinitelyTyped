@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/standard-version",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/conventional-changelog-config-spec": "*",
+        "@types/node": "*"
+    }
+}

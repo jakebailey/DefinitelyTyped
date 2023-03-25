@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-router-bootstrap",
+    "version": "0.26.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

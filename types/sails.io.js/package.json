@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/sails.io.js",
+    "version": "1.0.0",
     "dependencies": {
         "@types/socket.io-client": "1.4.36"
     }

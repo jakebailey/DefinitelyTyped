@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/crimsonq",
+    "version": "0.5.0",
     "dependencies": {
         "@types/ioredis": "^4.28.10"
     }

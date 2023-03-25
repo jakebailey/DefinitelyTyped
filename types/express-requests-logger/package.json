@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/express-requests-logger",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/express-serve-static-core": "*"
+    }
+}

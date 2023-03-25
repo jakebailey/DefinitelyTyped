@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/promise-sftp",
+    "version": "1.3.0",
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/node": "*",
+        "@types/promise-ftp-common": "*",
+        "@types/ssh2": "*",
+        "@types/ssh2-streams": "*"
+    }
+}

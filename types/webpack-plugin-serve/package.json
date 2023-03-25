@@ -1,6 +1,13 @@
 {
     "private": true,
+    "name": "@types/webpack-plugin-serve",
+    "version": "1.4.0",
     "dependencies": {
+        "@types/connect-history-api-fallback": "*",
+        "@types/koa": "*",
+        "@types/koa-compress": "*",
+        "@types/koa-static": "*",
+        "@types/node": "*",
         "globby": "^11.0.1",
         "http-proxy-middleware": "^1.0.0"
     }

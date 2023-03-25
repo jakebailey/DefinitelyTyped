@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/aws-lambda-fastify",
+    "version": "1.4.0",
     "dependencies": {
+        "@types/aws-lambda": "*",
+        "@types/node": "*",
         "fastify": "^3.14.2"
     }
 }

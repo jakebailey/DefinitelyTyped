@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/loopback",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/express-serve-static-core": "*"
+    }
+}

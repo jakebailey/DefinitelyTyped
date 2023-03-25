@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/pino-http",
+    "version": "5.8.0",
     "dependencies": {
         "@types/pino": "6.3"
     }

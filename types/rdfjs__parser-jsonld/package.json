@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rdfjs__parser-jsonld",
+    "version": "1.2.0",
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "@types/jsonld": "*",
+        "rdf-js": "^4.0.2"
     }
-  }
+}

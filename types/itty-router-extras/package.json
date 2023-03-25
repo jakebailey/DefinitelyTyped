@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/itty-router-extras",
+    "version": "0.4.0",
     "dependencies": {
         "itty-router": "^2.3.10"
     }

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/minizlib",
+    "version": "2.1.0",
     "dependencies": {
+        "@types/node": "*",
         "minipass": "^3.3.5"
     }
 }

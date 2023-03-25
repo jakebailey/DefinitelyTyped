@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/koa-safe-jsonp",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/jsonp-body": "*",
+        "@types/koa": "*"
+    }
+}

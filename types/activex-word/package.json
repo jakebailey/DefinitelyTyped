@@ -1,6 +1,12 @@
 {
     "private": true,
+    "name": "@types/activex-word",
+    "version": "14.0.0",
     "dependencies": {
+        "@types/activex-interop": "*",
+        "@types/activex-office": "*",
+        "@types/activex-stdole": "*",
+        "@types/activex-vbide": "*",
         "activex-helpers": "*"
     }
 }

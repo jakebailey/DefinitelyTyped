@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/halogenium",
+    "version": "2.3.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/wordpress__rich-text",
+    "version": "6.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/wordpress__data": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/lodash.meanby",
+    "version": "4.10.0",
+    "dependencies": {
+        "@types/lodash": "*"
+    }
+}

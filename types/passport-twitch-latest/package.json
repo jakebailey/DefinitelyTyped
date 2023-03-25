@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/passport-twitch-latest",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport": "*",
+        "@types/passport-oauth2": "*"
+    }
+}

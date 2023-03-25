@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-protractor",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/gulp": "*",
+        "@types/node": "*"
+    }
+}

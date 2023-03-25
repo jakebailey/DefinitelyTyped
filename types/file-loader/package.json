@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/file-loader",
+    "version": "5.0.0",
+    "dependencies": {
+        "@types/webpack": "^4"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/chrome-remote-interface",
+    "version": "0.31.0",
     "dependencies": {
         "devtools-protocol": "0.0.927104"
     }

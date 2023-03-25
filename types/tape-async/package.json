@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/tape-async",
+    "version": "2.3.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/tape": "*"
+    }
+}

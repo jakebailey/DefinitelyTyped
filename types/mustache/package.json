@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/mustache",
+    "version": "4.2.0",
     "exports": {
         "./package.json": "./package.json",
         ".": {

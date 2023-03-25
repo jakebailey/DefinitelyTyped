@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/multi-progress",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/progress": "*"
+    }
+}

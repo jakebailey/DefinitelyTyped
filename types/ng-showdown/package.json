@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ng-showdown",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/showdown": "*"
+    }
+}

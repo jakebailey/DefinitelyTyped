@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/koa-ejs",
+    "version": "4.3.0",
+    "dependencies": {
+        "@types/ejs": "*",
+        "@types/koa": "*"
+    }
+}

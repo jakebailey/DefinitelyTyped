@@ -1,6 +1,15 @@
 {
     "private": true,
+    "name": "@types/hydra-box",
+    "version": "0.6.0",
     "dependencies": {
-      "@rdfjs/types": "*"
+        "@rdfjs/types": "*",
+        "@types/absolute-url": "*",
+        "@types/clownface": "*",
+        "@types/express": "*",
+        "@types/rdf-ext": "*",
+        "@types/rdf-loaders-registry": "*",
+        "@types/rdfjs__express-handler": "*",
+        "@types/set-link": "*"
     }
-  }
+}

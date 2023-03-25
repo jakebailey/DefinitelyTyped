@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/first-mate",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/event-kit": "*"
+    }
+}

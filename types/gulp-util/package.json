@@ -1,6 +1,11 @@
 {
     "private": true,
+    "name": "@types/gulp-util",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/node": "*",
+        "@types/through2": "*",
+        "@types/vinyl": "*",
         "chalk": "^2.2.0"
     }
 }

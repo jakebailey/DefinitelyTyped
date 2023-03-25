@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-check-box",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

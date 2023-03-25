@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/siren-parser",
+    "version": "8.4.0",
+    "dependencies": {
+        "@types/superagent": "*"
+    }
+}

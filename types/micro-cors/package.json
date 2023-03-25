@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/micro-cors",
+    "version": "0.1.0",
     "dependencies": {
         "@types/micro": "^7.3.7"
     }

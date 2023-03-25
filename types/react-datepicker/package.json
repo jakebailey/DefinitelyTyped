@@ -1,7 +1,10 @@
 {
     "private": true,
+    "name": "@types/react-datepicker",
+    "version": "4.10.0",
     "dependencies": {
         "@popperjs/core": "^2.9.2",
+        "@types/react": "*",
         "date-fns": "^2.0.1",
         "react-popper": "^2.2.5"
     }

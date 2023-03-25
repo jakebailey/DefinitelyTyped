@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jqueryui",
+    "version": "1.12.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

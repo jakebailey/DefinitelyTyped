@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/leaflet-geocoder-mapzen",
+    "version": "1.6.0",
+    "dependencies": {
+        "@types/leaflet": "^0"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/devexpress-web",
+    "version": "172.6.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/knockout": "*"
+    }
+}

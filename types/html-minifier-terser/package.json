@@ -1,4 +1,6 @@
 {
     "private": true,
+    "name": "@types/html-minifier-terser",
+    "version": "7.0.0",
     "type": "module"
 }

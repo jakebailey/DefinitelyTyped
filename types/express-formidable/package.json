@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/express-formidable",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/formidable": "*"
+    }
+}

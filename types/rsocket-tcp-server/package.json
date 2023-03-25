@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/rsocket-tcp-server",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/rsocket-core": "*",
+        "@types/rsocket-flowable": "*",
+        "@types/rsocket-types": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gapi.people",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/gapi": "*"
+    }
+}

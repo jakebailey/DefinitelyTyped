@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/poi",
+    "version": "12.5.0",
     "dependencies": {
+        "@types/html-webpack-plugin": "*",
+        "@types/webpack": "^4",
         "@types/webpack-dev-server": "3",
         "cac": "~6.4.2",
         "webpack-chain": "^5.2.4"

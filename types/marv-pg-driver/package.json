@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/marv-pg-driver",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/marv": "*",
+        "@types/pg": "*"
+    }
+}

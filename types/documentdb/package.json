@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/documentdb",
+    "version": "1.10.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

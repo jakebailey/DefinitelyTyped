@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/rrc",
+    "version": "0.10.0",
     "dependencies": {
-        "@types/history": "^4.7.11"
+        "@types/history": "^4.7.11",
+        "@types/react": "*",
+        "@types/react-router-dom": "*"
     }
 }

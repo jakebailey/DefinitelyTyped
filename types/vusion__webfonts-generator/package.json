@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/vusion__webfonts-generator",
+    "version": "0.8.0",
     "dependencies": {
+        "@types/node": "*",
         "handlebars": "^4.0.11"
     }
 }

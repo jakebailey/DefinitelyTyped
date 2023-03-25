@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/geobuf",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/pbf": "*"
+    }
+}

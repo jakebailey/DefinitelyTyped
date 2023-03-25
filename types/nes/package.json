@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/nes",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/hapi": "*"
+    }
+}

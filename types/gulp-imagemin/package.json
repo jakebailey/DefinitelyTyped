@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "name": "@types/gulp-imagemin",
+    "version": "8.0.0",
+    "dependencies": {
+        "@types/imagemin": "*",
+        "@types/imagemin-gifsicle": "*",
+        "@types/imagemin-mozjpeg": "*",
+        "@types/imagemin-optipng": "*",
+        "@types/imagemin-svgo": "*",
+        "@types/node": "*"
+    }
+}

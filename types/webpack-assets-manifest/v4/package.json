@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/webpack-assets-manifest",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/tapable": "^1",
+        "@types/webpack": "^4"
+    }
+}

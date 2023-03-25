@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/knockout.rx",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/knockout": "*",
+        "@types/rx": "*"
+    }
+}

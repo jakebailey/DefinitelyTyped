@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/gulp-cheerio",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/cheerio": "*",
+        "@types/node": "*",
+        "@types/vinyl": "*"
+    }
+}

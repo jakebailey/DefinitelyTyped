@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/uglify-js",
+    "version": "3.17.0",
     "dependencies": {
         "source-map": "^0.6.1"
     }

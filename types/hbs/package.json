@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/hbs",
+    "version": "4.0.0",
     "dependencies": {
         "handlebars": "^4.1.0"
     }

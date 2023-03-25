@@ -1,6 +1,8 @@
 {
     "private": true,
+    "name": "@types/rdf-validate-datatype",
+    "version": "0.1.0",
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "rdf-js": "^4.0.2"
     }
-  }
+}

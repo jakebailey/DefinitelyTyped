@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jcanvas",
+    "version": "15.2.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

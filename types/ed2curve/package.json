@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/ed2curve",
+    "version": "0.2.0",
     "dependencies": {
         "tweetnacl": "^1.0.0"
     }

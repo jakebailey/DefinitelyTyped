@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/places",
+    "version": "1.16.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

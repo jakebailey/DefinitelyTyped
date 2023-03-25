@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/xmpp__iq",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/koa-compose": "*",
+        "@types/xmpp__events": "*",
+        "@types/xmpp__middleware": "*",
+        "@types/xmpp__xml": "*"
+    }
+}

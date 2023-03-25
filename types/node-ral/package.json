@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/node-ral",
+    "version": "0.18.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

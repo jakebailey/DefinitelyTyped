@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-pdf",
+    "version": "6.2.0",
     "dependencies": {
+        "@types/react": "*",
         "pdfjs-dist": "^2.16.105"
     }
 }

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/avocat",
+    "version": "2.0.0",
     "dependencies": {
         "@hapi/boom": "^9.1.1",
         "@hapi/hapi": "^21.1.0",

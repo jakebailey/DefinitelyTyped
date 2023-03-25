@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/xmpp__stream-features",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/koa": "*",
+        "@types/koa-compose": "*",
+        "@types/xmpp__middleware": "*",
+        "@types/xmpp__xml": "*"
+    }
+}

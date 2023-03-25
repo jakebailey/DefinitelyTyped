@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/passport-saml",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/angular-dialog-service",
+    "version": "5.2.0",
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/angular-ui-bootstrap": "*"
+    }
+}

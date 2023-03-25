@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/srp",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/bignum": "*",
+        "@types/node": "*"
+    }
+}

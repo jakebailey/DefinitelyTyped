@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/axios-token-interceptor",
+    "version": "0.2.0",
     "dependencies": {
         "axios": "*"
     }

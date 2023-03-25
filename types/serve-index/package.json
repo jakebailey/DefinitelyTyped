@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/serve-index",
+    "version": "1.9.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

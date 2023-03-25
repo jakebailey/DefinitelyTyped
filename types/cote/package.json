@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/cote",
+    "version": "0.19.0",
     "dependencies": {
         "@types/socket.io": "2.1.13",
         "eventemitter2": "^4.1.0"

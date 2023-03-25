@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/material-ui",
+    "version": "0.21.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-addons-linked-state-mixin": "*"
+    }
+}

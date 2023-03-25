@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/redux-shortcuts",
+    "version": "0.0.0",
     "dependencies": {
+        "@types/mousetrap": "*",
         "redux": "^3.6.0"
     }
 }

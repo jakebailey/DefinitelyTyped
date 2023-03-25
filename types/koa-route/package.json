@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/koa-route",
+    "version": "3.2.0",
     "dependencies": {
+        "@types/koa": "*",
         "path-to-regexp": "^1.7.0"
     }
 }

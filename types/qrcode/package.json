@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/qrcode",
+    "version": "1.5.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

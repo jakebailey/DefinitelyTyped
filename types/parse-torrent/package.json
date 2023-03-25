@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/parse-torrent",
+    "version": "5.8.0",
+    "dependencies": {
+        "@types/magnet-uri": "*",
+        "@types/node": "*",
+        "@types/parse-torrent-file": "*"
+    }
+}

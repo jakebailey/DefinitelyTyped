@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/wordpress__data",
+    "version": "6.0.0",
     "dependencies": {
+        "@types/react": "*",
         "redux": "^4.1.0"
     }
 }

@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/mssql",
+    "version": "8.1.0",
     "dependencies": {
+        "@types/node": "*",
+        "@types/tedious": "*",
         "tarn": "^3.0.1"
     }
 }

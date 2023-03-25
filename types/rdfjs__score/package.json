@@ -1,6 +1,8 @@
 {
     "private": true,
+    "name": "@types/rdfjs__score",
+    "version": "0.1.0",
     "dependencies": {
         "@rdfjs/types": "*"
     }
-  }
+}

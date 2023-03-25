@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/swig-email-templates",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/swig": "*"
+    }
+}

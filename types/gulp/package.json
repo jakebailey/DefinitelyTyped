@@ -1,7 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/undertaker": ">=1.2.6",
-    "chokidar": "^3.3.1"
-  }
+    "private": true,
+    "name": "@types/gulp",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/undertaker": ">=1.2.6",
+        "@types/vinyl-fs": "*",
+        "chokidar": "^3.3.1"
+    }
 }

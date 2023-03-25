@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/handlebars-webpack-plugin",
+    "version": "2.2.0",
     "dependencies": {
+        "@types/html-webpack-plugin": "*",
+        "@types/webpack": "^4",
         "handlebars": ">=4.0.3"
     }
 }

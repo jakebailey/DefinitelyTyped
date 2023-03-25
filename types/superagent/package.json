@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/superagent",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/cookiejar": "*",
+        "@types/node": "*"
+    }
+}

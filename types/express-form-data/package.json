@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/express-form-data",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/connect": "*",
+        "@types/multiparty": "*"
+    }
+}

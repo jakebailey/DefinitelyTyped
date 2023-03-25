@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/pouchdb-adapter-cordova-sqlite",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/pouchdb-core": "*"
+    }
+}

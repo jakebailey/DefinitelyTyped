@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/auth0-lock",
+    "version": "11.27.0",
+    "dependencies": {
+        "@types/auth0-js": "*"
+    }
+}

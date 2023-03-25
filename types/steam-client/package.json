@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/steam-client",
+    "version": "2.5.0",
+    "dependencies": {
+        "@types/bytebuffer": "*",
+        "@types/node": "*"
+    }
+}

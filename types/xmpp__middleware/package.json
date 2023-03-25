@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/xmpp__middleware",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/koa-compose": "*",
+        "@types/xmpp__connection": "*",
+        "@types/xmpp__error": "*",
+        "@types/xmpp__jid": "*",
+        "@types/xmpp__xml": "*"
+    }
+}

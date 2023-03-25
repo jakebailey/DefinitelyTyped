@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/polyfill-library",
+    "version": "3.108.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

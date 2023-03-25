@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/sshpk",
+    "version": "1.17.0",
+    "dependencies": {
+        "@types/asn1": "*",
+        "@types/node": "*"
+    }
+}

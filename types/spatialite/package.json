@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/spatialite",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/sqlite3": "*"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/beyonk__gdpr-cookie-consent-banner",
+    "version": "9.0.0",
     "exports": {
         ".": {
             "import": "./esm/index.d.ts",

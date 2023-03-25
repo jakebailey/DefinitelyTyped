@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/prefresh__webpack",
+    "version": "3.3.0",
     "dependencies": {
+        "@types/node": "*",
         "tapable": "^2.2.0",
         "webpack": "^5"
     }

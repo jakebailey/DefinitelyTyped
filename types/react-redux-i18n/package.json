@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-redux-i18n",
+    "version": "0.0.0",
     "dependencies": {
+        "@types/react": "*",
         "redux": "^3.7.2"
     }
 }

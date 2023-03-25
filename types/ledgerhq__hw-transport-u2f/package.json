@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ledgerhq__hw-transport-u2f",
+    "version": "4.21.0",
+    "dependencies": {
+        "@types/ledgerhq__hw-transport": "*",
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/steamcommunity",
+    "version": "3.43.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/request": "*",
+        "@types/steamid": "*"
+    }
+}

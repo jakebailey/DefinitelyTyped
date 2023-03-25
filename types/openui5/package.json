@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/openui5",
+    "version": "1.112.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/qunit": "*"
+    }
+}

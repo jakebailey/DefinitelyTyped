@@ -1,7 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "@hapi/hapi": "^21.1.0",
-    "joi": "^17.7.0"
-  }
+    "private": true,
+    "name": "@types/hapi__yar",
+    "version": "10.1.0",
+    "dependencies": {
+        "@hapi/hapi": "^21.1.0",
+        "@types/hapi__catbox": "*",
+        "joi": "^17.7.0"
+    }
 }

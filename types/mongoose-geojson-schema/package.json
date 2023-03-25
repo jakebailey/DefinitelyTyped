@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/mongoose-geojson-schema",
+    "version": "2.1.0",
     "dependencies": {
         "mongoose": "^6.3.0"
     }

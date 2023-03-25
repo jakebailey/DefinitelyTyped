@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/lambda-tester",
+    "version": "3.6.0",
+    "dependencies": {
+        "@types/aws-lambda": "*"
+    }
+}

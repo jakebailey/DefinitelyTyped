@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/hubot",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/scoped-http-client": "*"
+    }
+}

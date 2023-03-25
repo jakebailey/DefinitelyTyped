@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/promise-pg",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/pg": "*",
+        "@types/q": "^0"
+    }
+}

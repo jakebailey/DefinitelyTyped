@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/bandagedbd__bdapi",
+    "version": "1.8.0",
+    "dependencies": {
+        "@types/lodash": "*",
+        "@types/react": "*",
+        "@types/react-dom": "*"
+    }
+}

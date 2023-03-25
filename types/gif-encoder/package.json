@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gif-encoder",
+    "version": "0.7.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

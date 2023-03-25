@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/relay-test-utils",
+    "version": "14.1.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-relay": "*",
+        "@types/relay-runtime": "*"
+    }
+}

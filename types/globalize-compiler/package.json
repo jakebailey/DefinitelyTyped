@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/globalize-compiler",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/estree": "*",
+        "@types/globalize": "*"
+    }
+}

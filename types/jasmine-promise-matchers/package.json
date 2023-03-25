@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jasmine-promise-matchers",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/jasmine": "*"
+    }
+}

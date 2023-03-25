@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/node-red__editor-client",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/ace": "*",
+        "@types/jquery": "*",
+        "@types/node-red__runtime": "*",
+        "@types/node-red__util": "*"
+    }
+}

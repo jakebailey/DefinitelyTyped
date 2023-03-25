@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/axe-webdriverjs",
+    "version": "2.3.0",
     "dependencies": {
+        "@types/selenium-webdriver": "*",
         "axe-core": "^3.0.3"
     }
 }

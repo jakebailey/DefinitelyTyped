@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/loadable__component",
+    "version": "5.13.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

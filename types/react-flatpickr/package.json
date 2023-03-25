@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-flatpickr",
+    "version": "3.8.0",
     "dependencies": {
+        "@types/react": "*",
         "flatpickr": "^4.0.6"
     }
 }

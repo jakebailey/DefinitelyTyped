@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-cytoscapejs",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/cytoscape": "*",
+        "@types/react": "*"
+    }
+}

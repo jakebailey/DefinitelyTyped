@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-datetime-picker",
+    "version": "3.4.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

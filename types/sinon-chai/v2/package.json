@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/sinon-chai",
+    "version": "2.7.0",
+    "dependencies": {
+        "@types/chai": "*",
+        "@types/sinon": "*"
+    }
+}

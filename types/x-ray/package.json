@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/x-ray",
+    "version": "2.3.0",
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/node": "*",
+        "@types/x-ray-crawler": "*"
+    }
+}

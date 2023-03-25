@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/npm-profile",
+    "version": "5.0.0",
+    "dependencies": {
+        "@types/npm-registry-fetch": "*"
+    }
+}

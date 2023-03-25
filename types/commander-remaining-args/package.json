@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/commander-remaining-args",
+    "version": "1.2.0",
     "dependencies": {
         "commander": "^4.0.1"
     }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/empower",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/empower-core": "*",
+        "@types/power-assert-formatter": "*"
+    }
+}

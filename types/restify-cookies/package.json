@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/restify-cookies",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/restify": "*"
+    }
+}

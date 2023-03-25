@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/nightwatch",
+    "version": "2.3.0",
     "dependencies": {
+        "@types/chai": "*",
+        "@types/selenium-webdriver": "*",
         "devtools-protocol": "^0.0.1025565"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/riot-api-nodejs",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/riot-games-api": "*"
+    }
+}

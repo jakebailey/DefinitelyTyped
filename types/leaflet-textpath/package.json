@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/leaflet-textpath",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/leaflet": "*",
+        "@types/react": "*"
+    }
+}

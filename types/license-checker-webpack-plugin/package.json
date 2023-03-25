@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/license-checker-webpack-plugin",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/webpack": "^4"
+    }
+}

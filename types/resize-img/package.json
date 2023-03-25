@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/resize-img",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/bardjs",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/chai": "*",
+        "@types/mocha": "*"
+    }
+}

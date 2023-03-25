@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/passport-fido2-webauthn",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport-strategy": "*"
+    }
+}

@@ -1,6 +1,19 @@
 {
     "private": true,
+    "name": "@types/rdf-ext",
+    "version": "2.0.0",
     "dependencies": {
-        "@rdfjs/types": "*"
+        "@rdfjs/types": "*",
+        "@types/clownface": "*",
+        "@types/rdfjs__data-model": "*",
+        "@types/rdfjs__dataset": "*",
+        "@types/rdfjs__environment": "*",
+        "@types/rdfjs__fetch-lite": "*",
+        "@types/rdfjs__namespace": "*",
+        "@types/rdfjs__prefix-map": "*",
+        "@types/rdfjs__score": "*",
+        "@types/rdfjs__term-map": "*",
+        "@types/rdfjs__term-set": "*",
+        "@types/rdfjs__traverser": "*"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/pouchdb-http",
+    "version": "6.1.0",
+    "dependencies": {
+        "@types/pouchdb-adapter-http": "*",
+        "@types/pouchdb-core": "*"
+    }
+}

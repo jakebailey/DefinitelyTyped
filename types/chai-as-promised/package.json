@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/chai-as-promised",
+    "version": "7.1.0",
+    "dependencies": {
+        "@types/chai": "*"
+    }
+}

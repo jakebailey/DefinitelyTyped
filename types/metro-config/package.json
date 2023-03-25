@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/metro-config",
+    "version": "0.76.0",
+    "dependencies": {
+        "@types/metro": "*",
+        "@types/metro-cache": "*",
+        "@types/metro-resolver": "*",
+        "@types/metro-transform-worker": "*"
+    }
+}

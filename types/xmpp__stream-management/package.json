@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/xmpp__stream-management",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/xmpp__middleware": "*",
+        "@types/xmpp__stream-features": "*"
+    }
+}

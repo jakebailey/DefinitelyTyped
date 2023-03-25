@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/strong-cluster-control",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

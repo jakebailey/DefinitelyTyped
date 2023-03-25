@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/vscode-notebook-renderer",
+    "version": "1.72.0"
+}

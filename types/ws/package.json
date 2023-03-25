@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/ws",
+    "version": "8.5.0",
     "exports": {
         ".": {
             "types": {
@@ -7,5 +9,8 @@
                 "default": "./index.d.ts"
             }
         }
+    },
+    "dependencies": {
+        "@types/node": "*"
     }
 }

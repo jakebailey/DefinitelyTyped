@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/inherits",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

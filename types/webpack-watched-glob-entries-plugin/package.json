@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/webpack-watched-glob-entries-plugin",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/glob": "*",
+        "@types/webpack": "^4"
+    }
+}

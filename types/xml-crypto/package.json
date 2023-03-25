@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/xml-crypto",
+    "version": "1.4.0",
     "dependencies": {
+        "@types/node": "*",
         "xpath": "0.0.27"
     }
 }

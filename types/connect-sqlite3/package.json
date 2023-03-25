@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/connect-sqlite3",
+    "version": "0.9.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

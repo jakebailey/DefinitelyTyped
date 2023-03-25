@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-howler",
+    "version": "5.2.0",
+    "dependencies": {
+        "@types/howler": "*",
+        "@types/react": "*"
+    }
+}

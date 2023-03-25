@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/joi-phone-number",
+    "version": "5.0.0",
     "dependencies": {
+        "@types/node": "*",
         "joi": "^17.3.0"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/libsodium-wrappers-sumo",
+    "version": "0.7.0",
+    "dependencies": {
+        "@types/libsodium-wrappers": "*"
+    }
+}

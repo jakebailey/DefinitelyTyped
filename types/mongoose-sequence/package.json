@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/mongoose-sequence",
+    "version": "3.0.0",
     "dependencies": {
         "mongoose": "^6.3.0"
     }

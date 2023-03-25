@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/yeoman-test",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/mem-fs": "*",
+        "@types/mem-fs-editor": "*",
+        "@types/yeoman-environment": "*",
+        "@types/yeoman-generator": "*"
+    }
+}

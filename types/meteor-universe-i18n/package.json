@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/meteor-universe-i18n",
+    "version": "1.14.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/react": "*"
+    }
+}

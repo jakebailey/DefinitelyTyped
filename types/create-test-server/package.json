@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/create-test-server",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/body-parser": "*",
+        "@types/create-cert": "*",
+        "@types/express": "*",
+        "@types/node": "*"
+    }
+}

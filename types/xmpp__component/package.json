@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/xmpp__component",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/xmpp__component-core": "*",
+        "@types/xmpp__iq": "*",
+        "@types/xmpp__middleware": "*",
+        "@types/xmpp__reconnect": "*"
+    }
+}

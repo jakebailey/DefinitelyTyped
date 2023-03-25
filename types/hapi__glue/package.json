@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/hapi__glue",
+    "version": "6.1.0",
     "dependencies": {
         "@hapi/hapi": "^21.1.0",
         "joi": "^17.7.0"

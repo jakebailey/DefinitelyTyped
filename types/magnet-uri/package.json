@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/magnet-uri",
+    "version": "5.1.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

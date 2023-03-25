@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/pizzip",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

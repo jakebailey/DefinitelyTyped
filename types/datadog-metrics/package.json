@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/datadog-metrics",
+    "version": "0.6.0"
+}

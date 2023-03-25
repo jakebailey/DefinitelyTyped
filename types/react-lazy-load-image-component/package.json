@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-lazy-load-image-component",
+    "version": "1.5.0",
     "dependencies": {
+        "@types/react": "*",
         "csstype": "^3.0.2"
     }
 }

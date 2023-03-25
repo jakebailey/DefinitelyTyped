@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gapi.auth2",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/gapi": "*"
+    }
+}

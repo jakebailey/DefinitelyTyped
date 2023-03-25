@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/postcss-prefixer",
+    "version": "2.1.0",
     "dependencies": {
         "postcss": "^8.0.0"
     }

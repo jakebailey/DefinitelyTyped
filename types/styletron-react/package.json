@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/styletron-react",
+    "version": "5.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/styletron-standard": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/mz",
+    "version": "2.7.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

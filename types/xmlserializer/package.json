@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/xmlserializer",
+    "version": "0.6.0",
     "dependencies": {
         "@types/parse5": "^6.0.3"
     }

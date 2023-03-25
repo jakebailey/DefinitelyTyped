@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jsreport-scripts",
+    "version": "2.6.0",
+    "dependencies": {
+        "@types/jsreport-core": "*"
+    }
+}

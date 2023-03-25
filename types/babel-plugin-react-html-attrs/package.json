@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/babel-plugin-react-html-attrs",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/prop-types": "*",
         "csstype": "^3.0.2"
     }
 }

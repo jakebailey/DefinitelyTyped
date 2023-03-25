@@ -1,6 +1,13 @@
 {
     "private": true,
+    "name": "@types/koa-joi-router",
+    "version": "8.0.0",
     "dependencies": {
+        "@types/busboy": "*",
+        "@types/co-body": "*",
+        "@types/koa": "*",
+        "@types/koa-router": "*",
+        "@types/node": "*",
         "joi": "^17.3.0"
     }
 }

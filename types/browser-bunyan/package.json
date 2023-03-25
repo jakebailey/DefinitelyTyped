@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/browser-bunyan",
+    "version": "0.4.0",
+    "dependencies": {
+        "@types/bunyan": "*",
+        "@types/node": "*"
+    }
+}

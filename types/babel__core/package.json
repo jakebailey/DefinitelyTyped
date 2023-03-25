@@ -1,7 +1,12 @@
 {
     "private": true,
+    "name": "@types/babel__core",
+    "version": "7.20.0",
     "dependencies": {
         "@babel/parser": "^7.20.7",
-        "@babel/types": "^7.20.7"
+        "@babel/types": "^7.20.7",
+        "@types/babel__generator": "*",
+        "@types/babel__template": "*",
+        "@types/babel__traverse": "*"
     }
 }

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/final-form-set-field-data",
+    "version": "1.0.0",
     "dependencies": {
         "final-form": "4.x.x"
     }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-awesome-card-io",
+    "version": "0.8.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-router",
+    "version": "3.0.0",
     "dependencies": {
-        "@types/history": "^3.2.5"
+        "@types/history": "^3.2.5",
+        "@types/react": "*"
     }
 }

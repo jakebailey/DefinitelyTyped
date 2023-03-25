@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-helmet-with-visor",
+    "version": "5.4.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

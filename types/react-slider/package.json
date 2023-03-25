@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-slider",
+    "version": "1.3.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

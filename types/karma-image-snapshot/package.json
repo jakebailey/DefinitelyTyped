@@ -1,6 +1,12 @@
 {
     "private": true,
+    "name": "@types/karma-image-snapshot",
+    "version": "0.0.0",
     "dependencies": {
+        "@types/jasmine": "*",
+        "@types/karma": "*",
+        "@types/node": "*",
+        "@types/pixelmatch": "*",
         "ssim.js": "^3.1.1"
     }
 }

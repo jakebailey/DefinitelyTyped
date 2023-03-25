@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/mongoose-promise",
+    "version": "4.5.0",
     "dependencies": {
-        "@types/mongoose": "5.10.5"
+        "@types/mongoose": "5.10.5",
+        "@types/mpromise": "*"
     }
 }

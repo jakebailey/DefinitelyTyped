@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/parse-git-config",
+    "version": "3.0.0"
+}

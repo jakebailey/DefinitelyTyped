@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/simple-react-lightbox",
+    "version": "3.6.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

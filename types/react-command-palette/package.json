@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-command-palette",
+    "version": "0.18.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

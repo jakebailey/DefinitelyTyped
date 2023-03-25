@@ -1,8 +1,10 @@
 {
     "private": true,
+    "name": "@types/jest-environment-puppeteer",
+    "version": "5.0.0",
     "dependencies": {
         "@jest/types": ">=24 <=27",
-        "jest-environment-node": ">=24 <=27",
-        "@types/puppeteer": "^5.4.0"
+        "@types/puppeteer": "^5.4.0",
+        "jest-environment-node": ">=24 <=27"
     }
 }

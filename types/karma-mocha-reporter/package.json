@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/karma-mocha-reporter",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/karma": "*"
+    }
+}

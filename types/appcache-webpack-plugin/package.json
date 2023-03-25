@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/appcache-webpack-plugin",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/webpack": "^4"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/webpack-node-externals",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/node": "*",
         "webpack": "^5"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/rx.wamp",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/autobahn": "*",
+        "@types/rx": "*"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/easy-api-request",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/bunyan": "*",
+        "@types/express": "*",
+        "@types/node": "*",
+        "@types/q": "^0",
+        "@types/request": "*"
+    }
+}

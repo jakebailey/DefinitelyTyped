@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/autocannon",
+    "version": "7.9.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

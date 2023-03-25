@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/split2",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

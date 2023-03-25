@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/vis",
+    "version": "4.21.0",
     "dependencies": {
         "moment": ">=2.13.0"
     }

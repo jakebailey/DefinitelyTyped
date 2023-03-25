@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/cli-progress",
+    "version": "3.11.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

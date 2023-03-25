@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/knockout.viewmodel",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/knockout": "*"
+    }
+}

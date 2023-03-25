@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/mapbox__mapbox-gl-draw",
+    "version": "1.3.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/mapbox-gl": "*"
+    }
+}

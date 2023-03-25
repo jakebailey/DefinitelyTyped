@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-peer-deps-external",
+    "version": "2.2.0",
     "dependencies": {
+        "@types/node": "*",
         "rollup": "^0.63.4"
     }
 }

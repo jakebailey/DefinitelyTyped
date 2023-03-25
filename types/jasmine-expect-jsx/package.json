@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jasmine-expect-jsx",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/jasmine": "*",
+        "@types/react": "*"
+    }
+}

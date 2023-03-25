@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/svgr__rollup",
+    "version": "4.3.0",
     "dependencies": {
+        "@types/node": "*",
         "rollup": "^1.23.1"
     }
 }

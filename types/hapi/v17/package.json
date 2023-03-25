@@ -1,6 +1,15 @@
 {
     "private": true,
+    "name": "@types/hapi",
+    "version": "17.8.0",
     "dependencies": {
+        "@types/boom": "*",
+        "@types/catbox": "*",
+        "@types/iron": "*",
+        "@types/mimos": "*",
+        "@types/node": "*",
+        "@types/podium": "*",
+        "@types/shot": "*",
         "joi": "^17.3.0"
     }
 }

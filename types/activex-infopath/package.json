@@ -1,6 +1,12 @@
 {
     "private": true,
+    "name": "@types/activex-infopath",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/activex-adodb": "*",
+        "@types/activex-mshtml": "*",
+        "@types/activex-msxml2": "*",
+        "@types/activex-stdole": "*",
         "activex-helpers": "*"
     }
 }

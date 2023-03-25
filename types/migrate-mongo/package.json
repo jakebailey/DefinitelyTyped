@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/migrate-mongo",
+    "version": "8.2.0",
     "dependencies": {
         "mongodb": "^4.0.1"
     }

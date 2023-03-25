@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/remotedev-serialize",
+    "version": "1.0.0",
     "dependencies": {
         "immutable": "^3.8.1"
     }

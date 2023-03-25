@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "name": "@types/socketcluster-client",
+    "version": "13.0.0",
+    "dependencies": {
+        "@types/component-emitter": "*",
+        "@types/sc-auth": "*",
+        "@types/sc-channel": "^1",
+        "@types/sc-errors": "*",
+        "@types/socketcluster-server": "^14",
+        "@types/ws": "*"
+    }
+}

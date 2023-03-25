@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/assets-webpack-plugin",
+    "version": "7.1.0",
     "dependencies": {
+        "@types/node": "*",
         "tapable": "^2.2.0",
         "webpack": "^5"
     }

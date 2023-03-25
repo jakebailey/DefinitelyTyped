@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/winston-syslog",
+    "version": "1.0.0",
     "dependencies": {
         "@types/winston": "2.3.9"
     }

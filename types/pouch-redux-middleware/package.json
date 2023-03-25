@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/pouch-redux-middleware",
+    "version": "1.2.0",
     "dependencies": {
+        "@types/pouchdb": "*",
         "redux": "^3.6.0"
     }
 }

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/feathersjs__socketio",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/feathersjs__socket-commons": "*",
         "@types/socket.io": "2.1.13"
     }
 }

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/eslint",
+    "version": "8.21.0",
     "exports": {
         ".": {
             "types": "./index.d.ts"
@@ -10,5 +12,9 @@
         "./rules": {
             "types": "./rules/index.d.ts"
         }
+    },
+    "dependencies": {
+        "@types/estree": "*",
+        "@types/json-schema": "*"
     }
 }

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/js2coffee",
+    "version": "2.2.0",
     "dependencies": {
+        "@types/estree": "*",
         "source-map": "^0.7.3"
     }
 }

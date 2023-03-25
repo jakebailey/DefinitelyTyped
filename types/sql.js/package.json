@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/sql.js",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/emscripten": "*",
+        "@types/node": "*"
+    }
+}

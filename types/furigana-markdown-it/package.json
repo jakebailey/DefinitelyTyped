@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/furigana-markdown-it",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/markdown-it": "*"
+    }
+}

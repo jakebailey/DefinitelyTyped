@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery.transit",
+    "version": "0.9.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

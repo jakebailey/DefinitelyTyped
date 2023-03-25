@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/send",
+    "version": "0.17.0",
+    "dependencies": {
+        "@types/mime": "^1",
+        "@types/node": "*"
+    }
+}

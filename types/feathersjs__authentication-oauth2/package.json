@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/feathersjs__authentication-oauth2",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/feathersjs__feathers": "*",
+        "@types/passport": "*"
+    }
+}

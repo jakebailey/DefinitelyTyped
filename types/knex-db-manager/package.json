@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/knex-db-manager",
+    "version": "0.7.0",
     "dependencies": {
         "@types/node": "16.0.0",
         "knex": "2.1.0"

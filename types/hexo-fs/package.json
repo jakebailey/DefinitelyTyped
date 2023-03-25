@@ -1,6 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "chokidar": "^2.1.2"
-  }
+    "private": true,
+    "name": "@types/hexo-fs",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/graceful-fs": "*",
+        "chokidar": "^2.1.2"
+    }
 }

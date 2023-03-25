@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/chartjs-plugin-annotation",
+    "version": "0.5.0",
     "dependencies": {
+        "@types/chart.js": "*",
         "moment": "^2.10.2"
     }
 }

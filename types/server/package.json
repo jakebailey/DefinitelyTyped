@@ -1,6 +1,13 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/helmet": "0.0.48"
-  }
+    "private": true,
+    "name": "@types/server",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/body-parser": "*",
+        "@types/csurf": "*",
+        "@types/express": "*",
+        "@types/express-session": "*",
+        "@types/formidable": "*",
+        "@types/helmet": "0.0.48"
+    }
 }

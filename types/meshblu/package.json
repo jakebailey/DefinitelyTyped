@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/meshblu",
+    "version": "1.30.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

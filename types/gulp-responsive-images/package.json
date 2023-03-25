@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/gulp-responsive-images",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/gm": "*",
+        "@types/gulp-rename": "*",
+        "@types/node": "*"
+    }
+}

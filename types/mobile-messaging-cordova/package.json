@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/mobile-messaging-cordova",
+    "version": "1.7.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

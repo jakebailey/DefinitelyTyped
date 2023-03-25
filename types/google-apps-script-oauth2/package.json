@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/google-apps-script-oauth2",
+    "version": "38.0.0",
+    "dependencies": {
+        "@types/google-apps-script": "*"
+    }
+}

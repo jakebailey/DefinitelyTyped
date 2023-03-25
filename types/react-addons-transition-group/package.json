@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-addons-transition-group",
+    "version": "15.0.0",
+    "dependencies": {
+        "@types/react": "^15"
+    }
+}

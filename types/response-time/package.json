@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/response-time",
+    "version": "2.3.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/node": "*"
+    }
+}

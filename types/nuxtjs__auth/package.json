@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/nuxtjs__auth",
+    "version": "4.8.0",
     "dependencies": {
         "vue": "^2.6.10"
     }

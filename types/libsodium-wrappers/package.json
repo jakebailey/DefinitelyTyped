@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/libsodium-wrappers",
+    "version": "0.7.0"
+}

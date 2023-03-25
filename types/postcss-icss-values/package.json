@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/postcss-icss-values",
+    "version": "2.0.0",
     "dependencies": {
         "postcss": "7.x.x"
     }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/node-webcam",
+    "version": "0.8.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

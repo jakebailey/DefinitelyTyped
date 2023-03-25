@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/grasp",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/cli-color": "*",
+        "@types/estree": "*",
+        "@types/node": "*"
+    }
+}

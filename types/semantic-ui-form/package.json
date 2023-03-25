@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/semantic-ui-form",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

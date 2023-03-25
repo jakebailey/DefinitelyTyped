@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/vue3-carousel-3d",
+    "version": "1.0.0",
     "dependencies": {
         "@babel/types": "^7.21.2",
         "vue": "^3.2.38"

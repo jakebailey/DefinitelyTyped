@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/angular-q-spread",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/angular": "*"
+    }
+}

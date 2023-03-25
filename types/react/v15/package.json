@@ -1,20 +1,22 @@
 {
-  "private": true,
-  "exports": {
-    ".": {
-      "types": {
-        "default": "./index.d.ts"
-      }
-    },
-    "./jsx-runtime": {
-      "types": {
-        "default": "./jsx-runtime.d.ts"
-      }
-    },
-    "./jsx-dev-runtime": {
-      "types": {
-        "default": "./jsx-dev-runtime.d.ts"
-      }
+    "private": true,
+    "name": "@types/react",
+    "version": "15.7.0",
+    "exports": {
+        ".": {
+            "types": {
+                "default": "./index.d.ts"
+            }
+        },
+        "./jsx-runtime": {
+            "types": {
+                "default": "./jsx-runtime.d.ts"
+            }
+        },
+        "./jsx-dev-runtime": {
+            "types": {
+                "default": "./jsx-dev-runtime.d.ts"
+            }
+        }
     }
-  }
 }

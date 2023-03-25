@@ -1,6 +1,11 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/express-serve-static-core": "^4.17.33"
-  }
+    "private": true,
+    "name": "@types/express",
+    "version": "4.17.0",
+    "dependencies": {
+        "@types/body-parser": "*",
+        "@types/express-serve-static-core": "^4.17.33",
+        "@types/qs": "*",
+        "@types/serve-static": "*"
+    }
 }

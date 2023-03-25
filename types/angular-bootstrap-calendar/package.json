@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/angular-bootstrap-calendar",
+    "version": "0.0.0",
     "dependencies": {
+        "@types/angular": "*",
         "moment": ">=2.14.0"
     }
 }

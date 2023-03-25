@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/styled-system__core",
+    "version": "5.1.0",
     "dependencies": {
         "csstype": "^3.0.2"
     }

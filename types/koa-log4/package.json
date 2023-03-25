@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/koa-log4",
+    "version": "2.3.0",
     "dependencies": {
+        "@types/koa": "*",
         "log4js": "^3.0.0"
     }
 }

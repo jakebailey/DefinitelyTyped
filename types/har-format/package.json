@@ -1,7 +1,13 @@
 {
-  "private": true,
-  "types": "index",
-  "typesVersions": {
-    "<=4.3": { "*": ["ts4.3/*"] }
-  }
+    "private": true,
+    "name": "@types/har-format",
+    "version": "1.2.0",
+    "types": "index",
+    "typesVersions": {
+        "<=4.3": {
+            "*": [
+                "ts4.3/*"
+            ]
+        }
+    }
 }

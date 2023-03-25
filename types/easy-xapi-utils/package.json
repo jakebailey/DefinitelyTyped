@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/easy-xapi-utils",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/rx-dom",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/rx": "*"
+    }
+}

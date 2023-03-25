@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gestalt",
+    "version": "101.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

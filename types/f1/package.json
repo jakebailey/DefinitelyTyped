@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/f1",
+    "version": "8.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,7 +1,10 @@
 {
     "private": true,
+    "name": "@types/storybook__addon-info",
+    "version": "5.2.0",
     "dependencies": {
         "@storybook/addons": "^6.5.9",
-        "@storybook/react": "^6.5.9"
+        "@storybook/react": "^6.5.9",
+        "@types/react": "*"
     }
 }

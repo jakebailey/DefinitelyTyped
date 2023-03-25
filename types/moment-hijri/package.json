@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/moment-hijri",
+    "version": "2.1.0",
     "dependencies": {
         "moment": ">=2.14.0"
     }

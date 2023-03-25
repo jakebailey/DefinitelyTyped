@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/react-map-gl",
+    "version": "6.1.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/mapbox-gl": "*",
+        "@types/react": "*",
+        "@types/viewport-mercator-project": "*"
+    }
+}

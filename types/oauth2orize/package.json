@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/oauth2orize",
+    "version": "1.8.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/node": "*"
+    }
+}

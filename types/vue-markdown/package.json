@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.5.16"
-  }
+    "private": true,
+    "name": "@types/vue-markdown",
+    "version": "2.2.0",
+    "dependencies": {
+        "vue": "^2.5.16"
+    }
 }

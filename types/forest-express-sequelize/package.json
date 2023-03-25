@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/forest-express-sequelize",
+    "version": "7.5.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/sequelize": "*"
+    }
+}

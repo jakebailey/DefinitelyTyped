@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/d3-contour",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/d3-array": "*",
+        "@types/geojson": "*"
+    }
+}

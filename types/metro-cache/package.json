@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/metro-cache",
+    "version": "0.76.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

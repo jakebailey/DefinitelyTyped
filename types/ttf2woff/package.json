@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ttf2woff",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

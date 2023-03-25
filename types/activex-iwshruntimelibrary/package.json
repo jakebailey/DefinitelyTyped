@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/activex-iwshruntimelibrary",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/activex-interop": "*"
+    }
+}

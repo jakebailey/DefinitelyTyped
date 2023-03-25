@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/adeira__graphql-global-id",
+    "version": "2.1.0",
     "dependencies": {
         "graphql": "^15.0.0 || ^16.0.0"
     }

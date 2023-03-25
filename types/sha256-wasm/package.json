@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/sha256-wasm",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/save-pixels",
+    "version": "2.3.0",
+    "dependencies": {
+        "@types/ndarray": "*",
+        "@types/node": "*"
+    }
+}

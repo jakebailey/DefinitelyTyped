@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-settings-list",
+    "version": "1.8.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

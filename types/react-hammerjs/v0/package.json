@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-hammerjs",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/hammerjs": "*",
+        "@types/react": "*"
+    }
+}

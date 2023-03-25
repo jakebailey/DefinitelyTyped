@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/bs58",
+    "version": "3.0.0",
     "dependencies": {
         "@types/base-x": "^1.0.30"
     }

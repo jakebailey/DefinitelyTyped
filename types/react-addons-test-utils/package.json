@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-addons-test-utils",
+    "version": "15.6.0",
+    "dependencies": {
+        "@types/react": "^15"
+    }
+}

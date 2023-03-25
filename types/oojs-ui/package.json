@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/oojs-ui",
+    "version": "0.46.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/oojs": "*"
+    }
+}

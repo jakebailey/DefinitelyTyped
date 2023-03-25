@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/activex-wia",
+    "version": "2.0.0",
     "dependencies": {
+        "@types/activex-interop": "*",
         "activex-helpers": "*"
     }
 }

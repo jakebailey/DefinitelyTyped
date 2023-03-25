@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/lodash.range",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/lodash": "*"
+    }
+}

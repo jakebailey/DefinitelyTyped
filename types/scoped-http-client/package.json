@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/scoped-http-client",
+    "version": "0.11.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

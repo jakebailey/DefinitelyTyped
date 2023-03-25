@@ -1,6 +1,11 @@
 {
     "private": true,
+    "name": "@types/wordpress__edit-post",
+    "version": "7.0.0",
     "dependencies": {
+        "@types/react": "*",
+        "@types/wordpress__components": "*",
+        "@types/wordpress__data": "*",
         "@wordpress/element": "^5.0.0"
     }
 }

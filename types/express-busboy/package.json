@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/express-busboy",
+    "version": "8.0.0",
+    "dependencies": {
+        "@types/connect-busboy": "*",
+        "@types/express": "*"
+    }
+}

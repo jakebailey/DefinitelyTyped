@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/hoxy",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/cheerio": "*"
+    }
+}

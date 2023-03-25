@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-webrtc",
+    "version": "1.75.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

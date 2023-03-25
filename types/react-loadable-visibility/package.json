@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-loadable-visibility",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/loadable__component": "*",
+        "@types/react-loadable": "*"
+    }
+}

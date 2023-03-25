@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/koa-json",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/koa": "*"
+    }
+}

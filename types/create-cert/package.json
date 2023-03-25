@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/create-cert",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/pem": "*"
+    }
+}

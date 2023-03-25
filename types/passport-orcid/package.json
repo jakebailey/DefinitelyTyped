@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/passport-orcid",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/passport-oauth2": "*"
+    }
+}

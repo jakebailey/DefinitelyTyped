@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/postcss-css-variables",
+    "version": "0.18.0",
     "dependencies": {
         "postcss": "^8.2.6"
     }

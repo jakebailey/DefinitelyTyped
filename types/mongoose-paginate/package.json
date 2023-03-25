@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/mongoose-paginate",
+    "version": "5.0.0",
     "dependencies": {
         "mongoose": "^6.3.0"
     }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-test-renderer",
+    "version": "17.0.0",
+    "dependencies": {
+        "@types/react": "^17"
+    }
+}

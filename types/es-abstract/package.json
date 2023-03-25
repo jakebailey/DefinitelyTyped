@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/es-abstract",
+    "version": "1.17.0",
+    "dependencies": {
+        "@types/es-to-primitive": "*"
+    }
+}

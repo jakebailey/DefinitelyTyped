@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/gulp-filter",
+    "version": "3.0.0",
     "dependencies": {
-        "@types/minimatch": "*"
+        "@types/minimatch": "*",
+        "@types/node": "*",
+        "@types/vinyl": "*"
     }
 }

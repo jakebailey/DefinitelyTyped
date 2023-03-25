@@ -1,4 +1,9 @@
 {
     "private": true,
-    "type": "module"
+    "name": "@types/oidc-provider",
+    "version": "8.1.0",
+    "type": "module",
+    "dependencies": {
+        "@types/koa": "*"
+    }
 }

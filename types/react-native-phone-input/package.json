@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-phone-input",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/backbone.marionette",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/backbone": "*",
+        "@types/backbone.radio": "*",
+        "@types/jquery": "*",
+        "@types/underscore": "*"
+    }
+}

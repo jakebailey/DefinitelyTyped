@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/simpl-schema",
+    "version": "1.12.0",
+    "dependencies": {
+        "@types/meteor": "*"
+    }
+}

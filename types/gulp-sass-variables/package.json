@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gulp-sass-variables",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

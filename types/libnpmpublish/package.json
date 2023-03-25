@@ -1,6 +1,10 @@
 {
-  "dependencies": {
-    "@npm/types": "*"
-  },
-  "private": true
+    "private": true,
+    "name": "@types/libnpmpublish",
+    "version": "4.0.0",
+    "dependencies": {
+        "@npm/types": "*",
+        "@types/node-fetch": "*",
+        "@types/npm-registry-fetch": "*"
+    }
 }

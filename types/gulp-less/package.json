@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gulp-less",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

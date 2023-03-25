@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/activex-office",
+    "version": "16.0.0",
     "dependencies": {
+        "@types/activex-outlook": "*",
+        "@types/activex-stdole": "*",
         "activex-helpers": "*"
     }
 }

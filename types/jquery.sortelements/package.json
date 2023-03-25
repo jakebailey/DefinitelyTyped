@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery.sortelements",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

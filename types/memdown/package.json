@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/memdown",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/abstract-leveldown": "*"
+    }
+}

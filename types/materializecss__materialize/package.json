@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/materializecss__materialize",
+    "version": "1.2.0",
     "dependencies": {
+        "@types/jquery": "*",
         "cash-dom": "^8.1.1"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/pbf2json",
+    "version": "6.6.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

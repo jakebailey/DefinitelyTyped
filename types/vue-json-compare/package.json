@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.0.0"
-  }
+    "private": true,
+    "name": "@types/vue-json-compare",
+    "version": "3.0.0",
+    "dependencies": {
+        "vue": "^2.0.0"
+    }
 }

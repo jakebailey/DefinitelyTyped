@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/redux-storage-engine-jsurl",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/redux-storage": "*"
+    }
+}

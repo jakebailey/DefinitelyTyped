@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/protoo-client",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/retry": "*",
+        "@types/websocket": "*"
+    }
+}

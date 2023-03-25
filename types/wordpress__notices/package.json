@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/wordpress__notices",
+    "version": "3.27.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@wordpress/data": "^8.5.0"
+    }
+}

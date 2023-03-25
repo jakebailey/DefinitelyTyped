@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/passport-remember-me",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport": "*"
+    }
+}

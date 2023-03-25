@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/ember__routing",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/ember": "*",
+        "@types/ember__controller": "*",
+        "@types/ember__object": "*",
+        "@types/ember__service": "*"
+    }
+}

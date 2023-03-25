@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/node-zookeeper-client",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

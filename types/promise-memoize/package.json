@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/promise-memoize",
+    "version": "1.2.0"
+}

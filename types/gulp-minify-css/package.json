@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-minify-css",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/clean-css": "^3",
+        "@types/node": "*"
+    }
+}

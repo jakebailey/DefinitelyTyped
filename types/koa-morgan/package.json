@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/koa-morgan",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/koa": "*",
+        "@types/morgan": "*"
+    }
+}

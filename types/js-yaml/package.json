@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/js-yaml",
+    "version": "4.0.0",
     "exports": {
         ".": {
             "types": {

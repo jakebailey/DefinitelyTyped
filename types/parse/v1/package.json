@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/parse",
+    "version": "1.11.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/node": "*",
+        "@types/underscore": "*"
+    }
+}

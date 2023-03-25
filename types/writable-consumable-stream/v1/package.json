@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/writable-consumable-stream",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/consumable-stream": "^1"
+    }
+}

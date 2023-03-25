@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/fluxible-addons-react",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/fluxible": "*",
+        "@types/node": "*",
+        "@types/react": "*"
+    }
+}

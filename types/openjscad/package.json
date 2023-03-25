@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/openjscad",
+    "version": "0.0.0",
     "dependencies": {
         "three": "*"
     }

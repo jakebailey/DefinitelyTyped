@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/playerframework",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/winrt": "*"
+    }
+}

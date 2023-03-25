@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-size-snapshot",
+    "version": "0.10.0",
     "dependencies": {
+        "@types/node": "*",
         "rollup": "^0.63.4"
     }
 }

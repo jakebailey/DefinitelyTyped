@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "openapi-types": "^12.1.0"
-  }
+    "private": true,
+    "name": "@types/swagger2openapi",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "openapi-types": "^12.1.0"
+    }
 }

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/node-redis-pubsub",
+    "version": "3.0.0",
     "dependencies": {
         "@types/redis": "^2.8.0"
     }

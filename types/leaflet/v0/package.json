@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/leaflet",
+    "version": "0.7.0",
+    "dependencies": {
+        "@types/geojson": "*"
+    }
+}

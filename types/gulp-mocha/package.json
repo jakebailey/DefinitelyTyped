@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-mocha",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/mocha": "*",
+        "@types/node": "*"
+    }
+}

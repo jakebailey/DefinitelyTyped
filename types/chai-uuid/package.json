@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/chai-uuid",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/chai": "*",
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/multicast-dns",
+    "version": "7.2.0",
+    "dependencies": {
+        "@types/dns-packet": "*",
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/pacote",
+    "version": "9.5.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/npm-registry-fetch": "^4"
+    }
+}

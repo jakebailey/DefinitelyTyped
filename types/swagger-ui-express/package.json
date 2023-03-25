@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/swagger-ui-express",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/serve-static": "*"
+    }
+}

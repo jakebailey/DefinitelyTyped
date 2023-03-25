@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/paypal-rest-sdk",
+    "version": "1.7.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

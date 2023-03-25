@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jasmine-reporters",
+    "version": "2.5.0",
+    "dependencies": {
+        "@types/jasmine": "*"
+    }
+}

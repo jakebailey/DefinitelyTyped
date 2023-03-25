@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/json-server",
+    "version": "0.14.0",
+    "dependencies": {
+        "@types/connect": "*",
+        "@types/express": "*",
+        "@types/lowdb": "*"
+    }
+}

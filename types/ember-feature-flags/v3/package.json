@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ember-feature-flags",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/ember": "^2"
+    }
+}

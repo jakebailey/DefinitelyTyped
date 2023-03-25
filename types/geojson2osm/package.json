@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/geojson2osm",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/geojson": "*"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/yog2-kernel",
+    "version": "1.9.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/lodash": "*",
+        "@types/node-ral": "*",
+        "@types/yog-bigpipe": "*",
+        "@types/yog-log": "*"
+    }
+}

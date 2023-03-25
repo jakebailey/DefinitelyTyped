@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/webtorrent",
+    "version": "0.109.0",
+    "dependencies": {
+        "@types/bittorrent-protocol": "*",
+        "@types/node": "*",
+        "@types/parse-torrent": "*",
+        "@types/simple-peer": "*"
+    }
+}

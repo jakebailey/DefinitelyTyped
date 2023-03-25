@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-image-resize",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/gm": "*",
+        "@types/node": "*"
+    }
+}

@@ -1,4 +1,6 @@
 {
     "private": true,
+    "name": "@types/hafas-client",
+    "version": "6.0.0",
     "type": "module"
 }

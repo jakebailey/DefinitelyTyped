@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/stream-csv-as-json",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/stream-chain": "*"
+    }
+}

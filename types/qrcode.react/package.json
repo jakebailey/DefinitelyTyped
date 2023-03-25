@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/qrcode.react",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

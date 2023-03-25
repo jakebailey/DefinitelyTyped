@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/node-isbn",
+    "version": "1.6.0",
     "dependencies": {
+        "@types/node": "*",
         "axios": "^0.21.1"
     }
 }

@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/ag-channel",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/consumable-stream": "^1",
+        "@types/stream-demux": "^7",
+        "@types/writable-consumable-stream": "^1"
+    }
+}

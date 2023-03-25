@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/postcss-resolve-nested-selector",
+    "version": "0.1.0",
     "dependencies": {
         "postcss": "^8.0.0"
     }

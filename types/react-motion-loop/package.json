@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-motion-loop",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-motion": "*"
+    }
+}

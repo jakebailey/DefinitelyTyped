@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/nodemailer-smtp-pool",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/nodemailer": "^3"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/jaeger-client",
+    "version": "3.18.0",
     "dependencies": {
+        "@types/node": "*",
         "opentracing": "~0.14.3",
         "prom-client": "~11.3.0 || ^12.0.0 || ^13.0.0 || ^14.0.0"
     }

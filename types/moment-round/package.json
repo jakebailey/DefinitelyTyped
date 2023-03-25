@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/moment-round",
+    "version": "1.0.0",
     "dependencies": {
         "moment": ">=2.14.0"
     }

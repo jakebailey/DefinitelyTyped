@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/bunyan",
+    "version": "1.8.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

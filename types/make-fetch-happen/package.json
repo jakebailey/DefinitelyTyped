@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/make-fetch-happen",
+    "version": "10.0.0",
+    "dependencies": {
+        "@types/node-fetch": "*",
+        "@types/retry": "*",
+        "@types/ssri": "*"
+    }
+}

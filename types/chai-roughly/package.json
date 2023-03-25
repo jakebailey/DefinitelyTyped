@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/chai-roughly",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/chai": "*"
+    }
+}

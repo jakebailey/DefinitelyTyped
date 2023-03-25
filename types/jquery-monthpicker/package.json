@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jquery-monthpicker",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/jqueryui": "*"
+    }
+}

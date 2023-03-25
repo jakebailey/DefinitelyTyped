@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/golang-wasm-exec",
+    "version": "1.15.0"
+}

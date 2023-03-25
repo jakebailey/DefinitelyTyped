@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/worker-threads-pool",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

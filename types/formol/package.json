@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/formol",
+    "version": "2.7.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

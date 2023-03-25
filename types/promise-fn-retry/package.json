@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/promise-fn-retry",
+    "version": "1.0.0"
+}

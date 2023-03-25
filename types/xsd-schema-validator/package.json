@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/xsd-schema-validator",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

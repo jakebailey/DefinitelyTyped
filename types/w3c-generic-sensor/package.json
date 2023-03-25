@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/w3c-generic-sensor",
+    "version": "1.0.0",
     "dependencies": {
         "typescript": "^2.2.2"
     }

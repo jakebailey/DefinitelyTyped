@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/http-aws-es",
+    "version": "6.0.0",
+    "dependencies": {
+        "@types/aws-sdk2-types": "*",
+        "@types/elasticsearch": "*",
+        "@types/node": "*"
+    }
+}

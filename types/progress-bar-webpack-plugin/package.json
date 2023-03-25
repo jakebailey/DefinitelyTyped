@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/progress-bar-webpack-plugin",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/progress": "*",
+        "@types/webpack": "^4"
+    }
+}

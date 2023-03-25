@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/livereload",
+    "version": "0.9.0",
+    "dependencies": {
+        "@types/ws": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/mapbox__mapbox-gl-traffic",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/mapbox-gl": "*",
+        "@types/node": "*"
+    }
+}

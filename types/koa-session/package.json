@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/koa-session",
+    "version": "6.4.0",
+    "dependencies": {
+        "@types/cookies": "*",
+        "@types/koa": "*"
+    }
+}

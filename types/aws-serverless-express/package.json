@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/aws-serverless-express",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/aws-lambda": "*",
+        "@types/express": "*",
+        "@types/node": "*"
+    }
+}

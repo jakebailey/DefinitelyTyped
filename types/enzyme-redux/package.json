@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/enzyme-redux",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/enzyme": "*",
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/restify-errors",
+    "version": "4.3.0",
+    "dependencies": {
+        "@types/verror": "*"
+    }
+}

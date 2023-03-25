@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jasmine-enzyme",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/jasmine": "*",
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-dragtastic",
+    "version": "2.4.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

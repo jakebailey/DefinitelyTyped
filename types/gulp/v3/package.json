@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/gulp",
+    "version": "3.8.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/orchestrator": "*",
+        "@types/vinyl": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-photo-view",
+    "version": "1.5.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

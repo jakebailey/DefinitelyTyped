@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/imagemin-mozjpeg",
+    "version": "8.0.0",
+    "dependencies": {
+        "@types/imagemin": "*"
+    }
+}

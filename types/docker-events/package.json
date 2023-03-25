@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/docker-events",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/dockerode": "*",
+        "@types/node": "*"
+    }
+}

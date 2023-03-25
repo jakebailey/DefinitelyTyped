@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/nova-editor",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/nova-editor-node": "*"
+    }
+}

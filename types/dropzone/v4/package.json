@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/dropzone",
+    "version": "4.3.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

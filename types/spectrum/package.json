@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/spectrum",
+    "version": "1.8.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/tinycolor2": "*"
+    }
+}

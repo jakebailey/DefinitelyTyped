@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/react-simple-maps",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/d3-geo": "^2",
+        "@types/d3-zoom": "^2",
+        "@types/geojson": "*",
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/express-fileupload",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/busboy": "*",
+        "@types/express": "*"
+    }
+}

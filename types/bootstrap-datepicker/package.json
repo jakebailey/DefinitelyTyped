@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/bootstrap-datepicker",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

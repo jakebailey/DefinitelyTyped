@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/parent-package-json",
+    "version": "2.0.0"
+}

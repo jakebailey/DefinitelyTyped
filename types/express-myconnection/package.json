@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/express-myconnection",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/mysql": "*"
+    }
+}

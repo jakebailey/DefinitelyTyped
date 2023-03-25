@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/angular-ui-sortable",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/jqueryui": "*"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/adeira__graphql-resolve-wrapper",
+    "version": "0.2.0",
     "dependencies": {
         "graphql": "^15.1.0"
     }

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/vue-barcode-reader",
+    "version": "0.0.0",
     "dependencies": {
         "vue": "^2.0.0"
     }

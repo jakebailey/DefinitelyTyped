@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/tar",
+    "version": "6.1.0",
     "dependencies": {
+        "@types/node": "*",
         "minipass": "^4.0.0"
     }
 }

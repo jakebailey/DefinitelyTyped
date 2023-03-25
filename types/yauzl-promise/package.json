@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/yauzl-promise",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/yauzl": "*"
+    }
+}

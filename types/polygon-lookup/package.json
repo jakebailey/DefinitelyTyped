@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/polygon-lookup",
+    "version": "2.6.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/rbush": "*"
+    }
+}

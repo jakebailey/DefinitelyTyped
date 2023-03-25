@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "arweave": "^1.10.0"
-  }
+    "private": true,
+    "name": "@types/weaveid",
+    "version": "1.0.0",
+    "dependencies": {
+        "arweave": "^1.10.0"
+    }
 }

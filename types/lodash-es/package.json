@@ -1,4 +1,9 @@
 {
     "private": true,
-    "type": "module"
+    "name": "@types/lodash-es",
+    "version": "4.17.0",
+    "type": "module",
+    "dependencies": {
+        "@types/lodash": "*"
+    }
 }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-material-ui-form-validator",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/material-ui": "*",
+        "@types/react": "*"
+    }
+}

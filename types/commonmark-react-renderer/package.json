@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/commonmark-react-renderer",
+    "version": "4.3.0",
+    "dependencies": {
+        "@types/commonmark": "*",
+        "@types/react": "*"
+    }
+}

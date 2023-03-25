@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/leaflet.locatecontrol",
+    "version": "0.74.0",
+    "dependencies": {
+        "@types/leaflet": "*"
+    }
+}

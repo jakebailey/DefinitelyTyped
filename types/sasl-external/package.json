@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/sasl-external",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/saslmechanisms": "*"
+    }
+}

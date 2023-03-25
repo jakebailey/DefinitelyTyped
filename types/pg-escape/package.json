@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/pg-escape",
+    "version": "0.2.0"
+}

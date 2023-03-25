@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/write-file-atomically",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/write-file-atomic": "*"
+    }
+}

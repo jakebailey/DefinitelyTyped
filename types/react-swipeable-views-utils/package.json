@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/react-swipeable-views-utils",
+    "version": "0.13.0",
     "dependencies": {
-        "@material-ui/types": "^4.0.0"
+        "@material-ui/types": "^4.0.0",
+        "@types/react": "*",
+        "@types/react-swipeable-views": "*"
     }
 }

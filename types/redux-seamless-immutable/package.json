@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/redux-seamless-immutable",
+    "version": "0.4.0",
     "dependencies": {
+        "@types/seamless-immutable": "*",
         "redux": "^4.0.1"
     }
 }

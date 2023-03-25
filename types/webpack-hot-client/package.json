@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/webpack-hot-client",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/webpack": "^4",
+        "@types/ws": "*"
+    }
+}

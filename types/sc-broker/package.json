@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/sc-broker",
+    "version": "8.0.0",
+    "dependencies": {
+        "@types/expirymanager": "*",
+        "@types/fleximap": "*",
+        "@types/ncom": "*"
+    }
+}

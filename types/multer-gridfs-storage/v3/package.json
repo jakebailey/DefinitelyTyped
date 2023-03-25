@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/multer-gridfs-storage",
+    "version": "3.1.0",
     "dependencies": {
+        "@types/express": "*",
+        "@types/multer": "*",
         "mongoose": "^6.3.0"
     }
 }

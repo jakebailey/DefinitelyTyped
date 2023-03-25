@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-autocomplete-input",
+    "version": "3.5.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "^0.70"
+    }
+}

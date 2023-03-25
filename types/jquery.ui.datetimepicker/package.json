@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jquery.ui.datetimepicker",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/jqueryui": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/mysql",
+    "version": "2.15.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/surma__rollup-plugin-off-main-thread",
+    "version": "2.2.0",
     "dependencies": {
         "rollup": ">=2.0.0"
     }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/echarts",
+    "version": "4.9.0",
+    "dependencies": {
+        "@types/zrender": "*"
+    }
+}

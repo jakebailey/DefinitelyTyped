@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/natural-drag-animation-rbdnd",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-beautiful-dnd": "*"
+    }
+}

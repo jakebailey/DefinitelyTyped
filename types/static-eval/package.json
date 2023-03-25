@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/static-eval",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/esprima": "*",
+        "@types/estree": "*"
+    }
+}

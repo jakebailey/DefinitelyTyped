@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/enzyme-react-intl",
+    "version": "2.0.0",
     "dependencies": {
+        "@types/enzyme": "*",
+        "@types/react": "*",
         "react-intl": "^3"
     }
 }

@@ -1,7 +1,10 @@
 {
     "private": true,
+    "name": "@types/koa-mongo",
+    "version": "1.9.0",
     "dependencies": {
         "@types/generic-pool": "3.1.11",
+        "@types/koa": "*",
         "mongodb": "^4.5.0"
     }
 }

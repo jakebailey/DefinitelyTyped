@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/nodemailer-smtp-transport",
+    "version": "2.7.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/nodemailer": "^3"
+    }
+}

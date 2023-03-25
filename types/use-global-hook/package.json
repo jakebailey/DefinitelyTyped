@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/use-global-hook",
+    "version": "0.1.0",
     "dependencies": {
         "immer": "^9.0.6"
     }

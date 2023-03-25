@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/request-as-curl",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/request": "*"
+    }
+}

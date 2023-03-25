@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/eslint-scope",
+    "version": "3.7.0",
+    "dependencies": {
+        "@types/eslint": "*",
+        "@types/estree": "*"
+    }
+}

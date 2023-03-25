@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/nowigence-react-simple-maps",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/d3-geo": "^1",
+        "@types/d3-zoom": "^1",
+        "@types/geojson": "*",
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/webpack-blocks__postcss",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/webpack-blocks": "*"
+    }
+}

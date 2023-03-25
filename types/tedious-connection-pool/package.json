@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/tedious-connection-pool",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/tedious": "*"
+    }
+}

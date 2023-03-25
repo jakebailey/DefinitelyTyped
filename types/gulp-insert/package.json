@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-insert",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/vinyl": "*"
+    }
+}

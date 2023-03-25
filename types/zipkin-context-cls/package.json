@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "zipkin": ">=0.11.0"
-  }
+    "private": true,
+    "name": "@types/zipkin-context-cls",
+    "version": "0.11.0",
+    "dependencies": {
+        "zipkin": ">=0.11.0"
+    }
 }

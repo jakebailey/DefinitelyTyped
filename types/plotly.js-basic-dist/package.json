@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/plotly.js-basic-dist",
+    "version": "1.54.0",
+    "dependencies": {
+        "@types/plotly.js": "*"
+    }
+}

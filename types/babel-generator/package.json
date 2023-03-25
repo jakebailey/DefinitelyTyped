@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/babel-generator",
+    "version": "6.25.0",
+    "dependencies": {
+        "@types/babel-types": "*"
+    }
+}

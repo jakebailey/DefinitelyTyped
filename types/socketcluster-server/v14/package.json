@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/socketcluster-server",
+    "version": "14.2.0",
+    "dependencies": {
+        "@types/component-emitter": "*",
+        "@types/jsonwebtoken": "*",
+        "@types/sc-auth": "*",
+        "@types/sc-broker-cluster": "^6",
+        "@types/ws": "*"
+    }
+}

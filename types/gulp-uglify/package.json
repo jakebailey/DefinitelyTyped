@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-uglify",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/uglify-js": "*"
+    }
+}

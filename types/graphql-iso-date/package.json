@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "graphql": "^15.1.0"
-  }
+    "private": true,
+    "name": "@types/graphql-iso-date",
+    "version": "3.4.0",
+    "dependencies": {
+        "graphql": "^15.1.0"
+    }
 }

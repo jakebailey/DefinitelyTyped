@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/nginstack__web-framework",
+    "version": "70.0.0",
+    "dependencies": {
+        "@types/nginstack__datasource": "*",
+        "@types/nginstack__engine": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/fs-extra-promise-es6",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

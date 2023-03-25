@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/json-schema-merge-allof",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/json-schema": "*"
+    }
+}

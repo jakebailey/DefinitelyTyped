@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/winston-loggly-bulk",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/node": "*",
         "winston": "^3.0.0"
     }
 }

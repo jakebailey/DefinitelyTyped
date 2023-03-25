@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/koa-xml-body",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/koa": "*",
+        "@types/xml2js": "*"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/rebass",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/styled-components": "*",
+        "@types/styled-system": "*",
+        "@types/styled-system__css": "*"
+    }
+}

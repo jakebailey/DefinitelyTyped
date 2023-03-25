@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/d3-brush",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/d3-selection": "^2"
+    }
+}

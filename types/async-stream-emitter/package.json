@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/async-stream-emitter",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/consumable-stream": "*",
+        "@types/writable-consumable-stream": "*"
+    }
+}

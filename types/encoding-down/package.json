@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/encoding-down",
+    "version": "5.0.0",
+    "dependencies": {
+        "@types/abstract-leveldown": "*",
+        "@types/level-codec": "*"
+    }
+}

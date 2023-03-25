@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/react-router-transition",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-motion": "*",
+        "@types/react-router-dom": "*"
+    }
+}

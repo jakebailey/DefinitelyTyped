@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/soundjs",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/createjs-lib": "*",
+        "@types/preloadjs": "*"
+    }
+}

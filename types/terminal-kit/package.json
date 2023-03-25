@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/terminal-kit",
+    "version": "2.5.0",
+    "dependencies": {
+        "@types/nextgen-events": "*"
+    }
+}

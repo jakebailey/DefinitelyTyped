@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-albus",
+    "version": "2.0.0",
     "dependencies": {
-        "@types/history": "^4.7.11"
+        "@types/history": "^4.7.11",
+        "@types/react": "*"
     }
 }

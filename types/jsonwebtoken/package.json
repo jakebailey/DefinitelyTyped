@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jsonwebtoken",
+    "version": "9.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/tablesorter",
+    "version": "2.31.0",
+    "dependencies": {
+        "@types/globalize": "*",
+        "@types/jquery": "*",
+        "@types/jqueryui": "*",
+        "@types/select2": "*"
+    }
+}

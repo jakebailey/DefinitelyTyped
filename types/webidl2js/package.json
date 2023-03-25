@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/webidl2js",
+    "version": "16.0.0",
+    "dependencies": {
+        "@types/webidl2": "*"
+    }
+}

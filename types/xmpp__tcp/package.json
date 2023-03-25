@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/xmpp__tcp",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/xmpp__connection": "*",
+        "@types/xmpp__connection-tcp": "*"
+    }
+}

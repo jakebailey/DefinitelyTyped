@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-touch",
+    "version": "1.8.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

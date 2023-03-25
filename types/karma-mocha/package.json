@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/karma-mocha",
+    "version": "1.3.0",
+    "dependencies": {
+        "@types/karma": "*"
+    }
+}

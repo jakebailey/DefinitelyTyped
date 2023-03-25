@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/drag-controls",
+    "version": "1.0.0",
     "dependencies": {
         "three": "*"
     }

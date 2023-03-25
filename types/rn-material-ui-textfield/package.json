@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/rn-material-ui-textfield",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*"
+    }
+}

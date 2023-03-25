@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/use-double-click",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/mail-notifier",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/imap": "*",
+        "@types/node": "*"
+    }
+}

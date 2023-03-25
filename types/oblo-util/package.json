@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/oblo-util",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

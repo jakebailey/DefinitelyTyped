@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/lodash.lte",
+    "version": "3.9.0",
+    "dependencies": {
+        "@types/lodash": "*"
+    }
+}

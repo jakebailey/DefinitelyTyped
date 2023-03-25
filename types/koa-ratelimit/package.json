@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/koa-ratelimit",
+    "version": "5.0.0",
     "dependencies": {
+        "@types/koa": "*",
         "ioredis": "^5.2.3"
     }
 }

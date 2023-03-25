@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/metro-babel-transformer",
+    "version": "0.76.0",
+    "dependencies": {
+        "@types/metro-source-map": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/xmpp__error",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/xmpp__xml": "*"
+    }
+}

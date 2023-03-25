@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/co-body",
+    "version": "6.1.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/qs": "*"
+    }
+}

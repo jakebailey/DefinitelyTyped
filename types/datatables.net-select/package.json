@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/datatables.net-select",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/datatables.net": "*",
+        "@types/jquery": "*"
+    }
+}

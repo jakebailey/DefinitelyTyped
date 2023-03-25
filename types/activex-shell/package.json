@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/activex-shell",
+    "version": "1.0.0",
     "dependencies": {
+        "@types/activex-shdocvw": "*",
         "activex-helpers": "*"
     }
 }

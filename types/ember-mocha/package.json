@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/ember-mocha",
+    "version": "0.16.0",
+    "dependencies": {
+        "@types/ember": "^3",
+        "@types/ember-test-helpers": "*",
+        "@types/mocha": "*"
+    }
+}

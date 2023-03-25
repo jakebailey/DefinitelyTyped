@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/redis-rate-limiter",
+    "version": "1.2.0",
     "dependencies": {
+        "@types/express": "*",
         "@types/redis": "^2.8.0"
     }
 }

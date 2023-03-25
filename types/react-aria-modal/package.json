@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-aria-modal",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

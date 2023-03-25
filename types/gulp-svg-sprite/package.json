@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-svg-sprite",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/svg-sprite": "*"
+    }
+}

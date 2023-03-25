@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jsreport-html-to-xlsx",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/jsreport-core": "*",
+        "@types/jsreport-xlsx": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/koa-compose",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/koa": "*"
+    }
+}

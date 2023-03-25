@@ -1,6 +1,13 @@
 {
     "private": true,
+    "name": "@types/ember__application",
+    "version": "4.0.0",
     "dependencies": {
-        "@glimmer/component": "^1.1.0"
+        "@glimmer/component": "^1.1.0",
+        "@types/ember": "*",
+        "@types/ember__engine": "*",
+        "@types/ember__object": "*",
+        "@types/ember__owner": "*",
+        "@types/ember__routing": "*"
     }
 }

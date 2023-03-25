@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/backbone.layoutmanager",
+    "version": "0.9.0",
+    "dependencies": {
+        "@types/backbone": "*",
+        "@types/jquery": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/hapi",
+    "version": "12.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

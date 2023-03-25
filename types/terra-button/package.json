@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/terra-button",
+    "version": "3.52.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/terra-theme-context": "*"
+    }
+}

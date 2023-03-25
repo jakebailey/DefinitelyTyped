@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/sawtooth-sdk",
+    "version": "1.1.0",
     "dependencies": {
+        "@types/long": "*",
+        "@types/node": "*",
         "protobufjs": "^6.8.8"
     }
 }

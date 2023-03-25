@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/should-sinon",
+    "version": "0.0.0",
     "dependencies": {
+        "@types/sinon": "*",
         "should": "^13.2.1"
     }
 }

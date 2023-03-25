@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "name": "@types/koa",
+    "version": "2.13.0",
+    "dependencies": {
+        "@types/accepts": "*",
+        "@types/content-disposition": "*",
+        "@types/cookies": "*",
+        "@types/http-assert": "*",
+        "@types/http-errors": "*",
+        "@types/keygrip": "*",
+        "@types/koa-compose": "*",
+        "@types/node": "*"
+    }
+}

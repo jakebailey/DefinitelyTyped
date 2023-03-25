@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gestalt-datepicker",
+    "version": "55.2.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

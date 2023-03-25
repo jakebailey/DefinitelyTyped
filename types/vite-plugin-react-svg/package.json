@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/vite-plugin-react-svg",
+    "version": "0.2.0",
     "dependencies": {
+        "@types/react": "*",
         "@types/svgo": "2",
         "vite": "^2.3.8"
     }

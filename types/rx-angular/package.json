@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/rx-angular",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/rx": "*"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/edx__new-relic-source-map-webpack-plugin",
+    "version": "1.0.0",
     "dependencies": {
         "tapable": "^2.2.1",
         "webpack": "^5.50.0"

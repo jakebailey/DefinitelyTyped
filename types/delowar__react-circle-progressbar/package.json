@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/delowar__react-circle-progressbar",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

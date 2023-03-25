@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/istanbul-lib-instrument",
+    "version": "1.7.0",
     "dependencies": {
+        "@types/babel-types": "*",
+        "@types/istanbul-lib-coverage": "*",
         "source-map": "^0.6.1"
     }
 }

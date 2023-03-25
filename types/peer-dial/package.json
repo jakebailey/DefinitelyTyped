@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/peer-dial",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/node": "*",
+        "@types/node-uuid": "*"
+    }
+}

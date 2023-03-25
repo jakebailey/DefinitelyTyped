@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-codemirror",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/codemirror": "*",
+        "@types/react": "*"
+    }
+}

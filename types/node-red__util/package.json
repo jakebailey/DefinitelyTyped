@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/node-red__util",
+    "version": "1.2.0",
     "dependencies": {
+        "@types/node-red__registry": "*",
+        "@types/node-red__runtime": "*",
         "jsonata": "1.8.3"
     }
 }

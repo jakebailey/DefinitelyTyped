@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-lazylog",
+    "version": "4.5.0",
     "dependencies": {
+        "@types/react": "*",
         "immutable": ">=3.8.2"
     }
 }

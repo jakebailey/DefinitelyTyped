@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/wordpress__nux",
+    "version": "3.4.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/wordpress__data": "*"
+    }
+}

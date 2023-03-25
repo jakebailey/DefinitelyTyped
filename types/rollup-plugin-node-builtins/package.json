@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-node-builtins",
+    "version": "2.1.0",
     "dependencies": {
+        "@types/node": "*",
         "rollup": "^0.63.4"
     }
 }

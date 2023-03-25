@@ -1,8 +1,13 @@
 {
     "private": true,
+    "name": "@types/craco__craco",
+    "version": "6.4.0",
     "dependencies": {
         "@jest/types": "^27.4.2",
         "@types/autoprefixer": "^9.7.2",
+        "@types/babel-core": "*",
+        "@types/eslint": "*",
+        "@types/webpack": "^4",
         "@types/webpack-dev-server": "^3.11.6"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/nuclear-js-react-addons-chefsplate",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

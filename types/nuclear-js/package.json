@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/nuclear-js",
+    "version": "1.4.0",
     "dependencies": {
         "immutable": "^3.7.3"
     }

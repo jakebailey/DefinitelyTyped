@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/which-polygon",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/rbush": "*"
+    }
+}

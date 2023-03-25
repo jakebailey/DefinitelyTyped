@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/hapi-decorators",
+    "version": "0.4.0",
     "dependencies": {
+        "@types/hapi": "^16",
         "joi": "^17.3.0"
     }
 }

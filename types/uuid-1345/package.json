@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/uuid-1345",
+    "version": "0.99.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

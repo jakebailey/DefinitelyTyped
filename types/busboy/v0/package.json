@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/busboy",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

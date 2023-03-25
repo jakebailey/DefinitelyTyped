@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/babel__register",
+    "version": "7.17.0",
+    "dependencies": {
+        "@types/babel__core": "*"
+    }
+}

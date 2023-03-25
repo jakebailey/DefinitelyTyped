@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/ember-data",
+    "version": "3.16.0",
+    "dependencies": {
+        "@types/ember": "^3",
+        "@types/ember__object": "^3",
+        "@types/rsvp": "*"
+    }
+}

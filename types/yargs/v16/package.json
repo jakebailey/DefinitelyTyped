@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/yargs",
+    "version": "16.0.0",
+    "dependencies": {
+        "@types/yargs-parser": "*"
+    }
+}

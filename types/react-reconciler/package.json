@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-reconciler",
+    "version": "0.28.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

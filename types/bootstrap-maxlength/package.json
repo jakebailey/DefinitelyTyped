@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/bootstrap-maxlength",
+    "version": "1.7.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

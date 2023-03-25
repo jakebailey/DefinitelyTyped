@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/readable-stream",
+    "version": "2.3.0",
     "dependencies": {
+        "@types/node": "*",
         "safe-buffer": "~5.1.1"
     }
 }

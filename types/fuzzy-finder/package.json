@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/fuzzy-finder",
+    "version": "1.0.0",
     "exports": {
         ".": {
             "types": {

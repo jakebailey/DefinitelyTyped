@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/rebass__forms",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/rebass": "*",
+        "@types/styled-system": "*"
+    }
+}

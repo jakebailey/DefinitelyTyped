@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/vision",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/hapi": "^16"
+    }
+}

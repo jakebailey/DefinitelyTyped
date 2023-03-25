@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/express-list-endpoints",
+    "version": "6.0.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

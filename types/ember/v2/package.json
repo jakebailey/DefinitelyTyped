@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/ember",
+    "version": "2.8.0",
     "dependencies": {
+        "@types/jquery": "*",
+        "@types/rsvp": "*",
         "handlebars": "^4.1.0"
     }
 }

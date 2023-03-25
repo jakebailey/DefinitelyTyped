@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/semantic-ui-modal",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/semantic-ui-dimmer": "*"
+    }
+}

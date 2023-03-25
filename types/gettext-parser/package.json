@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gettext-parser",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/readable-stream": "*"
+    }
+}

@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-      "domhandler": "^2.4.0"
-  }
+    "private": true,
+    "name": "@types/domutils",
+    "version": "1.7.0",
+    "dependencies": {
+        "domhandler": "^2.4.0"
+    }
 }

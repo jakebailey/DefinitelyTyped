@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/data-urls",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/whatwg-mimetype": "*",
+        "@types/whatwg-url": "*"
+    }
+}

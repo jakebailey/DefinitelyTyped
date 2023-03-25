@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-buble",
+    "version": "0.19.0",
     "dependencies": {
+        "@types/buble": "*",
+        "@types/node": "*",
         "rollup": "^0.63.4"
     }
 }

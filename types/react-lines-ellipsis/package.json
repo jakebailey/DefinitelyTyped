@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-lines-ellipsis",
+    "version": "0.15.0",
+    "dependencies": {
+        "@types/lodash": "*",
+        "@types/react": "*"
+    }
+}

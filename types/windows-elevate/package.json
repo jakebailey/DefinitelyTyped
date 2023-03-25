@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/windows-elevate",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

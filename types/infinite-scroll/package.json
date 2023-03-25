@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/infinite-scroll",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/isotope-layout": "*",
+        "@types/jquery": "*",
+        "@types/masonry-layout": "*",
+        "@types/packery": "*"
+    }
+}

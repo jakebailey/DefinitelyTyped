@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/typeahead.js",
+    "version": "0.11.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/proper-lockfile",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/retry": "*"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/koa2-session-redis",
+    "version": "0.0.0",
     "dependencies": {
+        "@types/koa-session": "*",
         "@types/redis": "^2.8.0"
     }
 }

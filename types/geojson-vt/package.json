@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/geojson-vt",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/geojson": "*"
+    }
+}

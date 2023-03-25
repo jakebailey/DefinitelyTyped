@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery-mouse-exit",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/humblebee__styled-components-breakpoint",
+    "version": "2.1.0",
     "dependencies": {
+        "@types/styled-components": "*",
         "csstype": "^3.0.2"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/riderize__passport-strava-oauth2",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

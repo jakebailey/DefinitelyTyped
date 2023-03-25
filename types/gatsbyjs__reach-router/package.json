@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gatsbyjs__reach-router",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/reach__router": "*",
+        "@types/react": "*"
+    }
+}

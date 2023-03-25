@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ldap-authentication",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/ldapjs": "*"
+    }
+}

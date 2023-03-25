@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ember-changeset-validations",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/ember__array": "*"
+    }
+}

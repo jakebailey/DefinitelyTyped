@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ember-data__store",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/ember-data": "*"
+    }
+}

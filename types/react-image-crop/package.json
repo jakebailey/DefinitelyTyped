@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-image-crop",
+    "version": "8.1.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-sort",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/gulp-util": "*",
+        "@types/node": "*"
+    }
+}

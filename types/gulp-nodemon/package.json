@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-nodemon",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/gulp": "*",
+        "@types/node": "*"
+    }
+}

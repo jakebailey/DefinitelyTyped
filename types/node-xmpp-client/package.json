@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/node-xmpp-client",
+    "version": "3.1.0"
+}

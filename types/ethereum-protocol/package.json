@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/ethereum-protocol",
+    "version": "1.0.0",
     "dependencies": {
         "bignumber.js": "7.2.1"
     }

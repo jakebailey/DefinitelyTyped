@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/datatables.net-autofill",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/datatables.net": "*",
+        "@types/jquery": "*"
+    }
+}

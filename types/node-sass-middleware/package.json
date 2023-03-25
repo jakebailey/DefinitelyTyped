@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/node-sass-middleware",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/node-sass": "*"
+    }
+}

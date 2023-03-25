@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/mapbox__mapbox-sdk",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/mapbox-gl": "*",
+        "@types/node": "*"
+    }
+}

@@ -1,6 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "aws-sdk": "^2.820.0"
-  }
+    "private": true,
+    "name": "@types/architect__functions",
+    "version": "3.13.0",
+    "dependencies": {
+        "@types/aws-lambda": "*",
+        "@types/express": "*",
+        "aws-sdk": "^2.820.0"
+    }
 }

@@ -1,8 +1,15 @@
 {
     "private": true,
+    "name": "@types/lesgo",
+    "version": "0.7.0",
     "dependencies": {
         "@elastic/elasticsearch": "~7.4.0",
         "@middy/core": "^1.4.0",
+        "@types/aws-lambda": "*",
+        "@types/aws-sdk2-types": "*",
+        "@types/data-api-client": "*",
+        "@types/jsonwebtoken": "*",
+        "@types/memcached": "*",
         "firebase-admin": "^11.5.0",
         "mysql2": "^2.2.5"
     }

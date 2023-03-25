@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-jasmine",
+    "version": "2.4.0",
+    "dependencies": {
+        "@types/jasmine": "*",
+        "@types/node": "*"
+    }
+}

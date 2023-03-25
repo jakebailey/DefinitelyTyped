@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/autobahn",
+    "version": "20.9.0",
+    "dependencies": {
+        "@types/when": "*"
+    }
+}

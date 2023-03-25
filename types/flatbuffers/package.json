@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/flatbuffers",
+    "version": "1.10.0"
+}

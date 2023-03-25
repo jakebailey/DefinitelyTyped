@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/superagent-retry-delay",
+    "version": "2.6.0",
+    "dependencies": {
+        "@types/cookiejar": "*",
+        "@types/superagent": "*"
+    }
+}

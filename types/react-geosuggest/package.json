@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-geosuggest",
+    "version": "2.7.0",
+    "dependencies": {
+        "@types/google.maps": "*",
+        "@types/react": "*"
+    }
+}

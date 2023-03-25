@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/protractor-console-plugin",
+    "version": "0.1.0",
     "dependencies": {
         "protractor": "7.0.0"
     }

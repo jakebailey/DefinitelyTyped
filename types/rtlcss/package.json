@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/rtlcss",
+    "version": "3.5.0",
     "dependencies": {
         "postcss": "^8.2.x"
     }

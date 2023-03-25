@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/metro-file-map",
+    "version": "0.76.0",
+    "dependencies": {
+        "@types/metro-config": "*"
+    }
+}

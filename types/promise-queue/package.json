@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/promise-queue",
+    "version": "2.2.0"
+}

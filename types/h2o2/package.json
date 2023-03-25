@@ -1,6 +1,11 @@
 {
     "private": true,
+    "name": "@types/h2o2",
+    "version": "8.1.0",
     "dependencies": {
+        "@types/boom": "*",
+        "@types/hapi": "*",
+        "@types/node": "*",
         "joi": "^17.3.0"
     }
 }

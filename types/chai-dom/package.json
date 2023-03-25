@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/chai-dom",
+    "version": "1.11.0",
+    "dependencies": {
+        "@types/chai": "*"
+    }
+}

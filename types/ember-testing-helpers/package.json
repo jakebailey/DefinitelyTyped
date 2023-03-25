@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ember-testing-helpers",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/rsvp": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/json_ml",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/cheerio": "*"
+    }
+}

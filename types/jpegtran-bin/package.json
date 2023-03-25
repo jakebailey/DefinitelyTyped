@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jpegtran-bin",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/activex-powerpoint",
+    "version": "14.0.0",
     "dependencies": {
+        "@types/activex-office": "*",
+        "@types/activex-vbide": "*",
         "activex-helpers": "*"
     }
 }

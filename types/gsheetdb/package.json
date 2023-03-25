@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/gsheetdb",
+    "version": "1.0.0",
     "dependencies": {
         "@types/node": "^17.0.25",
         "google-auth-library": "^7.14.1"

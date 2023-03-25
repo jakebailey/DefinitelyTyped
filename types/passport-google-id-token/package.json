@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/passport-google-id-token",
+    "version": "0.4.0",
+    "dependencies": {
+        "@types/passport": "*"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/final-form-focus",
+    "version": "1.1.0",
     "dependencies": {
         "final-form": "4.x.x"
     }

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/ember",
+    "version": "1.11.0",
     "dependencies": {
+        "@types/jquery": "*",
         "handlebars": "^4.1.0"
     }
 }

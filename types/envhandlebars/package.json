@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "handlebars": "^4.7.6"
-  }
+    "private": true,
+    "name": "@types/envhandlebars",
+    "version": "1.4.0",
+    "dependencies": {
+        "handlebars": "^4.7.6"
+    }
 }

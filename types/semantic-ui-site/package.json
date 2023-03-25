@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/semantic-ui-site",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

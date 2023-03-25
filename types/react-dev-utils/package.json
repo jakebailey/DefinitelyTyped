@@ -1,6 +1,12 @@
 {
     "private": true,
+    "name": "@types/react-dev-utils",
+    "version": "9.0.0",
     "dependencies": {
+        "@types/eslint": "*",
+        "@types/express": "*",
+        "@types/html-webpack-plugin": "*",
+        "@types/webpack": "^4",
         "@types/webpack-dev-server": "3"
     }
 }

@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/ember-test-helpers",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/ember": "^3",
+        "@types/htmlbars-inline-precompile": "*",
+        "@types/jquery": "*",
+        "@types/rsvp": "*"
+    }
+}

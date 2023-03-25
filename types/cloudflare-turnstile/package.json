@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/cloudflare-turnstile",
+    "version": "0.1.0"
+}

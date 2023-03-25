@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/xstyled__styled-components",
+    "version": "1.19.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/styled-components": "*",
+        "@types/xstyled__system": "*"
+    }
+}

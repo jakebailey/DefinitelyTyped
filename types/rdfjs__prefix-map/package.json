@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-      "@rdfjs/types": "*"
-  }
+    "private": true,
+    "name": "@types/rdfjs__prefix-map",
+    "version": "0.1.0",
+    "dependencies": {
+        "@rdfjs/types": "*"
+    }
 }

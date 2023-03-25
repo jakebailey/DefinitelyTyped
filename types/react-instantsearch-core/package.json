@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-instantsearch-core",
+    "version": "6.26.0",
     "dependencies": {
+        "@types/react": "*",
         "algoliasearch": ">=4",
         "algoliasearch-helper": ">=3"
     }

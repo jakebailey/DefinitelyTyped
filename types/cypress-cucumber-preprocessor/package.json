@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/cypress-cucumber-preprocessor",
+    "version": "4.0.0"
+}

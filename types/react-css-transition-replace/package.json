@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-css-transition-replace",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-addons-css-transition-group": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-keyboard-event-handler",
+    "version": "1.5.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

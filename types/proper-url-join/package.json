@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/proper-url-join",
+    "version": "2.1.0",
     "dependencies": {
         "query-string": "^6.3.0"
     }

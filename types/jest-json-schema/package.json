@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/jest-json-schema",
+    "version": "6.1.0",
     "dependencies": {
+        "@types/jest": "*",
         "ajv": "^6.10.2"
     }
 }

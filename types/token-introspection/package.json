@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/token-introspection",
+    "version": "3.0.0",
     "dependencies": {
-        "@types/node-fetch": "^2.5.12"
+        "@types/jsonwebtoken": "*",
+        "@types/node-fetch": "^2.5.12",
+        "@types/pem-jwk": "*"
     }
 }

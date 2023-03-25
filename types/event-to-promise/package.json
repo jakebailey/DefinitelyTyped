@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/event-to-promise",
+    "version": "0.7.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

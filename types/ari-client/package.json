@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ari-client",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

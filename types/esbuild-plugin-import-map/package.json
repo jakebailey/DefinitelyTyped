@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/esbuild-plugin-import-map",
+    "version": "0.0.0"
+}

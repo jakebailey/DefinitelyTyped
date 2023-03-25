@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/dagre-d3",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/d3": "^5",
+        "@types/dagre": "*",
+        "@types/graphlib": "*"
+    }
+}

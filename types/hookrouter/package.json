@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/hookrouter",
+    "version": "2.2.0",
     "dependencies": {
+        "@types/react": "*",
         "csstype": "^3.0.2"
     }
 }

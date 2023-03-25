@@ -1,6 +1,12 @@
 {
     "private": true,
+    "name": "@types/wordpress__block-editor",
+    "version": "11.5.0",
     "dependencies": {
+        "@types/react": "*",
+        "@types/wordpress__blocks": "*",
+        "@types/wordpress__components": "*",
+        "@types/wordpress__keycodes": "*",
         "@wordpress/data": "^8.5.0",
         "@wordpress/element": "^5.0.0",
         "react-autosize-textarea": "^7.1.0"

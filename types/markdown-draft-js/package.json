@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/markdown-draft-js",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/draft-js": "*"
+    }
+}

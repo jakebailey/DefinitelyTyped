@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/moment-jalaali",
+    "version": "0.7.0",
     "dependencies": {
         "moment": ">=2.14.0"
     }

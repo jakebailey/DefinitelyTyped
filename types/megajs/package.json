@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/megajs",
+    "version": "0.14.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

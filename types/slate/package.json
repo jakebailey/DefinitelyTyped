@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/slate",
+    "version": "0.47.0",
     "dependencies": {
+        "@types/react": "*",
         "immutable": "^3.8.2"
     }
 }

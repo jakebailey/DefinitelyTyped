@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/enzyme",
+    "version": "3.10.0",
+    "dependencies": {
+        "@types/cheerio": "*",
+        "@types/react": "*"
+    }
+}

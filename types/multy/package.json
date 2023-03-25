@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/multy",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/busboy": "^0",
+        "@types/koa": "*"
+    }
+}

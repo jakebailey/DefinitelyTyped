@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/koa-hbs",
+    "version": "1.0.0",
     "dependencies": {
+        "@types/koa": "*",
         "handlebars": "^4.1.0"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/client-sessions",
+    "version": "0.8.0",
+    "dependencies": {
+        "@types/cookies": "*",
+        "@types/node": "*"
+    }
+}

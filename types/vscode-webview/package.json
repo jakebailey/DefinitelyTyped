@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/vscode-webview",
+    "version": "1.57.0"
+}

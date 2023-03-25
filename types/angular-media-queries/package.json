@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/angular-media-queries",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/angular": "*"
+    }
+}

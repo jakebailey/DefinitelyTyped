@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/level-sublevel",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/levelup": "^1"
+    }
+}

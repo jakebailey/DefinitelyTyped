@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/terra-action-footer",
+    "version": "2.57.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

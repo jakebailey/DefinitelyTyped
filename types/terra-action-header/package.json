@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/terra-action-header",
+    "version": "2.62.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

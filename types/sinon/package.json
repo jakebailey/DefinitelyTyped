@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/sinon",
+    "version": "10.0.0",
+    "dependencies": {
+        "@types/sinonjs__fake-timers": "*"
+    }
+}

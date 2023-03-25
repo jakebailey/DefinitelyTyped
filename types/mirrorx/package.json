@@ -1,6 +1,11 @@
 {
     "private": true,
+    "name": "@types/mirrorx",
+    "version": "0.2.0",
     "dependencies": {
-        "@types/history": "^4.7.11"
+        "@types/history": "^4.7.11",
+        "@types/react": "*",
+        "@types/react-redux": "*",
+        "@types/react-router": "*"
     }
 }

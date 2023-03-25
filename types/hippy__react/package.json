@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/hippy__react",
+    "version": "2.13.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-reconciler": "*"
+    }
+}

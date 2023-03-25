@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jest-dev-server",
+    "version": "5.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/wait-on": "*"
+    }
+}

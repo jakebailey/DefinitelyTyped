@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-tag-input",
+    "version": "6.6.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

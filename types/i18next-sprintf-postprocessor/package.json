@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/i18next-sprintf-postprocessor",
+    "version": "0.2.0",
     "dependencies": {
         "i18next": ">=17.0.11"
     }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/v8-profiler",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

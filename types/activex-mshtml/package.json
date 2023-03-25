@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/activex-mshtml",
+    "version": "4.0.0",
     "dependencies": {
         "activex-helpers": "*"
     }

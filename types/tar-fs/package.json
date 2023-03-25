@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/tar-fs",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/tar-stream": "*"
+    }
+}

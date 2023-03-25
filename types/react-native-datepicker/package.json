@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/react-native-datepicker",
+    "version": "1.7.0",
     "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*",
         "moment": ">=2.14.0"
     }
 }

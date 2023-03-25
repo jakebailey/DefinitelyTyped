@@ -1,6 +1,13 @@
 {
     "private": true,
+    "name": "@types/activex-access",
+    "version": "14.0.0",
     "dependencies": {
+        "@types/activex-adodb": "*",
+        "@types/activex-dao": "*",
+        "@types/activex-interop": "*",
+        "@types/activex-office": "*",
+        "@types/activex-vbide": "*",
         "activex-helpers": "*"
     }
 }

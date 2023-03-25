@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-signature-canvas",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/signature_pad": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/pouchdb-upsert",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/pouchdb-core": "*"
+    }
+}

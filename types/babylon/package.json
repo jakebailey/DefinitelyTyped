@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/babylon",
+    "version": "6.16.0",
+    "dependencies": {
+        "@types/babel-types": "*"
+    }
+}

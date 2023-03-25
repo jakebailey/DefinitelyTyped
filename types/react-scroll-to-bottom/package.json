@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-scroll-to-bottom",
+    "version": "4.2.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

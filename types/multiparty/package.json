@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/multiparty",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

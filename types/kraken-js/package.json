@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/kraken-js",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

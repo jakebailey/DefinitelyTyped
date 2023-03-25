@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/amap-js-api-overview",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/amap-js-api": "*"
+    }
+}

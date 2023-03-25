@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/dockerode",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/docker-modem": "*",
+        "@types/node": "*"
+    }
+}

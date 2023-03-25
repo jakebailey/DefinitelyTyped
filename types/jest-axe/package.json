@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/jest-axe",
+    "version": "3.5.0",
     "dependencies": {
+        "@types/jest": "*",
         "axe-core": "^3.5.5"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/lambda-wrapper",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/aws-lambda": "*"
+    }
+}

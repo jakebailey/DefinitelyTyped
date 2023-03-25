@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-svelte-svg",
+    "version": "1.0.0",
     "dependencies": {
         "@types/svgo": "2",
         "rollup": "^2",

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/bull-arena",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/express": "*",
         "@types/ioredis": "^4.28.10",
         "@types/redis": "^2.8.0",
         "bull": "^4.10.0"

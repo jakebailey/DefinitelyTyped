@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-copy-write",
+    "version": "0.7.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

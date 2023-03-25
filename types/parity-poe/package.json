@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/parity-poe",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

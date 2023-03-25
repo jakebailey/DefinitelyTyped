@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/babel__generator",
+    "version": "7.6.0",
     "dependencies": {
         "@babel/types": "^7.0.0"
     }

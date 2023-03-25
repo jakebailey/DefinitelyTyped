@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/remark-abbr",
+    "version": "1.4.0",
     "dependencies": {
         "remark": "^12.0.0",
         "unified": "^9.2.0"

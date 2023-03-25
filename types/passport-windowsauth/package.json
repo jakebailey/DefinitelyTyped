@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/passport-windowsauth",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/ldapjs": "*",
+        "@types/passport": "*"
+    }
+}

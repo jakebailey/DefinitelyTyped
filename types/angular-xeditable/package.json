@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/angular-xeditable",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/angular": "*"
+    }
+}

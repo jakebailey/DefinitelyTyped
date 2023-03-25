@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/rx-lite-async",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/rx-lite": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ui-select",
+    "version": "0.19.0",
+    "dependencies": {
+        "@types/angular": "*"
+    }
+}

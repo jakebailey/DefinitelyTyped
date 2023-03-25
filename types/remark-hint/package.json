@@ -1,7 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "remark": "^14.0.2",
-    "unified": "^10.1.2"
-  }
+    "private": true,
+    "name": "@types/remark-hint",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/mdast": "*",
+        "remark": "^14.0.2",
+        "unified": "^10.1.2"
+    }
 }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/airbnb-prop-types",
+    "version": "2.13.0",
+    "dependencies": {
+        "@types/prop-types": "*"
+    }
+}

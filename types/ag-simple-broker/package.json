@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/ag-simple-broker",
+    "version": "5.0.0",
+    "dependencies": {
+        "@types/ag-channel": "*",
+        "@types/async-stream-emitter": "*",
+        "@types/consumable-stream": "*",
+        "@types/socketcluster-server": "*",
+        "@types/writable-consumable-stream": "*"
+    }
+}

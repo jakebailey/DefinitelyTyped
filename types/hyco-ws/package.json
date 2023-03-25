@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/hyco-ws",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/ws": "*"
+    }
+}

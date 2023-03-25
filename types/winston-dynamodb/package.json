@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/winston-dynamodb",
+    "version": "0.0.0",
     "dependencies": {
         "@types/winston": "2.3.9"
     }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/feathersjs__authentication-jwt",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/feathersjs__feathers": "*"
+    }
+}

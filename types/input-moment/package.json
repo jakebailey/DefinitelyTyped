@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/input-moment",
+    "version": "0.4.0",
     "dependencies": {
+        "@types/react": "*",
         "moment": "latest"
     }
 }

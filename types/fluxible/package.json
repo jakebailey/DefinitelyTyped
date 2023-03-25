@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/fluxible",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/dispatchr": "*",
+        "@types/node": "*"
+    }
+}

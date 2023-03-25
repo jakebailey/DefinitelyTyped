@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/rsocket-core",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/rsocket-flowable": "*",
+        "@types/rsocket-types": "*"
+    }
+}

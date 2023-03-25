@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery.pnotify",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

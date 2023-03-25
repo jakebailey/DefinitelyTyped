@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/materialize-css",
+    "version": "0.100.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/pickadate": "*"
+    }
+}

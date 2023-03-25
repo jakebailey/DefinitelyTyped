@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/idyll",
+    "version": "2.10.0",
+    "dependencies": {
+        "@types/idyll-compiler": "*"
+    }
+}

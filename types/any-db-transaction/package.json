@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/any-db-transaction",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/any-db": "*",
+        "@types/node": "*"
+    }
+}

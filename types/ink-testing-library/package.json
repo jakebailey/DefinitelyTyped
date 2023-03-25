@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/ink-testing-library",
+    "version": "1.0.0",
     "dependencies": {
         "@types/ink": "^0.5.2"
     }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/flowjs__flow.js",
+    "version": "2.13.0",
+    "dependencies": {
+        "@types/flowjs": "*"
+    }
+}

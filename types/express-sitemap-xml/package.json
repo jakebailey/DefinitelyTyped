@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/express-sitemap-xml",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ledgerhq__hw-app-btc",
+    "version": "5.19.0",
+    "dependencies": {
+        "@types/ledgerhq__hw-transport": "*",
+        "@types/node": "*"
+    }
+}

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/logrocket-react",
+    "version": "3.0.0",
     "dependencies": {
         "logrocket": "1.0.1"
     }

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/falcor-express",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/falcor": "*"
+    }
+}

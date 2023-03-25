@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/shapefile",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/node": "*"
+    }
+}

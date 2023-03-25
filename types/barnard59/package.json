@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/barnard59",
+    "version": "1.0.0",
     "dependencies": {
+        "@types/barnard59-core": "*",
+        "@types/clownface": "*",
         "rdf-js": "^4.0.2",
         "winston": "^3.3.3"
     }

@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/sequelize",
+    "version": "4.28.0",
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/continuation-local-storage": "*",
+        "@types/lodash": "*",
+        "@types/validator": "*"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/nedb-logger",
+    "version": "1.8.0"
+}

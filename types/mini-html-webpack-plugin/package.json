@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/mini-html-webpack-plugin",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/webpack": "^4"
+    }
+}

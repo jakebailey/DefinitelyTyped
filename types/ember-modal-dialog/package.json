@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ember-modal-dialog",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/ember__component": "*"
+    }
+}

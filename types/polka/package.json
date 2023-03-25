@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/polka",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/express-serve-static-core": "*",
+        "@types/node": "*",
+        "@types/trouter": "*"
+    }
+}

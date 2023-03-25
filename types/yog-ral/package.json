@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/yog-ral",
+    "version": "0.20.0",
+    "dependencies": {
+        "@types/node-ral": "*"
+    }
+}

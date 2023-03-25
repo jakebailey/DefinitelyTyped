@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery.filtertable",
+    "version": "1.5.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

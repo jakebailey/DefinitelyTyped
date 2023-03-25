@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/restify",
+    "version": "8.5.0",
+    "dependencies": {
+        "@types/bunyan": "*",
+        "@types/formidable": "^1",
+        "@types/node": "*",
+        "@types/spdy": "*"
+    }
+}

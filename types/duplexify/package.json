@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/duplexify",
+    "version": "3.6.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

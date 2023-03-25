@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rdf-utils-dataset",
+    "version": "2.0.0",
     "dependencies": {
-        "@rdfjs/types": "*"
+        "@rdfjs/types": "*",
+        "@types/rdf-ext": "*"
     }
 }

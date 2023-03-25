@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/slate-irc",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

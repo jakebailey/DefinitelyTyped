@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/oauth2-implicit",
+    "version": "0.7.0"
+}

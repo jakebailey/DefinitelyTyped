@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/sequelize",
+    "version": "3.30.0",
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/lodash": "*",
+        "@types/validator": "*"
+    }
+}

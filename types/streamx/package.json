@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/streamx",
+    "version": "2.9.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

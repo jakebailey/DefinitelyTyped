@@ -1,7 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "broadcast-channel": "^2.1.8",
-    "redux": "^4.0.1"
-  }
+    "private": true,
+    "name": "@types/redux-state-sync",
+    "version": "3.1.0",
+    "dependencies": {
+        "broadcast-channel": "^2.1.8",
+        "redux": "^4.0.1"
+    }
 }

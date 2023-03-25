@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jsuite",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/suitescript": "*"
+    }
+}

@@ -1,12 +1,14 @@
 {
     "private": true,
-    "dependencies": {
-        "expect": "^29.0.0",
-        "pretty-format": "^29.0.0"
-    },
+    "name": "@types/jest",
+    "version": "29.5.0",
     "exports": {
         ".": {
             "types": "./index.d.ts"
         }
+    },
+    "dependencies": {
+        "expect": "^29.0.0",
+        "pretty-format": "^29.0.0"
     }
 }

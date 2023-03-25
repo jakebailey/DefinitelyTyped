@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/pouchdb-replication",
+    "version": "6.4.0",
+    "dependencies": {
+        "@types/pouchdb-core": "*",
+        "@types/pouchdb-find": "*"
+    }
+}

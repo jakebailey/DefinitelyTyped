@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/i18n-abide",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

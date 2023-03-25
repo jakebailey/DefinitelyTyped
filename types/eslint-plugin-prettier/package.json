@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/eslint-plugin-prettier",
+    "version": "3.1.0",
+    "dependencies": {
+        "@types/eslint": "*"
+    }
+}

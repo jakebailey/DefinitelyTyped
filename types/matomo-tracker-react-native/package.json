@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/matomo-tracker-react-native",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

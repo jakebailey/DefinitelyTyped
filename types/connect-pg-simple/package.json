@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/connect-pg-simple",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/express-session": "*",
+        "@types/pg": "*"
+    }
+}

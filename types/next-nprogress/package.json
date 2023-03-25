@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/next-nprogress",
+    "version": "1.4.0",
+    "dependencies": {
+        "@types/nprogress": "*",
+        "@types/react": "*"
+    }
+}

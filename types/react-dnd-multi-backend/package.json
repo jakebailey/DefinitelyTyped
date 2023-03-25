@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-dnd-multi-backend",
+    "version": "6.0.0",
     "dependencies": {
+        "@types/react": "*",
         "react-dnd": "^10.0.2",
         "react-dnd-touch-backend": "^10.0.2"
     }

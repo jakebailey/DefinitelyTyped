@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/v8-callsites",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/callsite": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/get-ssl-certificate",
+    "version": "2.3.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

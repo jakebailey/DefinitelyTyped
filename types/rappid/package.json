@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/rappid",
+    "version": "1.5.0",
     "dependencies": {
+        "@types/backbone": "*",
         "jointjs": "^3.5.5"
     }
 }

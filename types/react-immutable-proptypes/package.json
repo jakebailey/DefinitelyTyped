@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-immutable-proptypes",
+    "version": "2.1.0",
     "dependencies": {
+        "@types/prop-types": "*",
         "immutable": "^3.8.2"
     }
 }

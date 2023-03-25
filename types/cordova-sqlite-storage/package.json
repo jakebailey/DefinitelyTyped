@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/cordova-sqlite-storage",
+    "version": "1.5.0"
+}

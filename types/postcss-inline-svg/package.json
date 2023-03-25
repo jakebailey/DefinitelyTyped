@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/postcss-inline-svg",
+    "version": "5.0.0",
     "dependencies": {
         "postcss": "^8.1.4"
     }

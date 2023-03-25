@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/lodash.unzip",
+    "version": "3.4.0",
+    "dependencies": {
+        "@types/lodash": "*"
+    }
+}

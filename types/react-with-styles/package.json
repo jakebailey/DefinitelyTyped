@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/react-with-styles",
+    "version": "4.0.0",
     "dependencies": {
+        "@types/prop-types": "*",
+        "@types/react": "*",
         "aphrodite": "^2.0.0"
     }
 }

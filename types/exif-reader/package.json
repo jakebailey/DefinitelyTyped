@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/exif-reader",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

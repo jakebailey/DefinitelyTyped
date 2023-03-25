@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/node-red",
+    "version": "0.20.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

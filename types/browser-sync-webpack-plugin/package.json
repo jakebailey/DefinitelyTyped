@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/browser-sync-webpack-plugin",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/browser-sync": "*",
+        "@types/webpack": "^4"
+    }
+}

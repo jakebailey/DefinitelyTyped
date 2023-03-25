@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/pikaday",
+    "version": "1.7.0",
     "dependencies": {
         "moment": ">=2.29.2"
     }

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-form",
+    "version": "2.16.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

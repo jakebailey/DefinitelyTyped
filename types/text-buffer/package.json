@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/text-buffer",
+    "version": "13.0.0",
+    "dependencies": {
+        "@types/event-kit": "*",
+        "@types/pathwatcher": "*"
+    }
+}

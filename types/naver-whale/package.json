@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/naver-whale",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/chrome": "*"
+    }
+}

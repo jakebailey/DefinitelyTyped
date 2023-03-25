@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-bootstrap-table2-toolkit",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-bootstrap-table-next": "*"
+    }
+}

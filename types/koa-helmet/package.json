@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "helmet": "^4.0.0"
-  }
+    "private": true,
+    "name": "@types/koa-helmet",
+    "version": "6.0.0",
+    "dependencies": {
+        "@types/koa": "*",
+        "helmet": "^4.0.0"
+    }
 }

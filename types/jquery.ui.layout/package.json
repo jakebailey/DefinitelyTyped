@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/jquery.ui.layout",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/jqueryui": "*"
+    }
+}

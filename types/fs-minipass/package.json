@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-      "minipass": "^3.3.5"
-  }
+    "private": true,
+    "name": "@types/fs-minipass",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/node": "*",
+        "minipass": "^3.3.5"
+    }
 }

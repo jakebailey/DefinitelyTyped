@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ckeditor__ckeditor5-revision-history",
+    "version": "32.0.0",
+    "dependencies": {
+        "@types/ckeditor__ckeditor5-collaboration-core": "*",
+        "@types/ckeditor__ckeditor5-utils": "*"
+    }
+}

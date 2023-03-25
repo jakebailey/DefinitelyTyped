@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/passport-discord",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport": "*",
+        "@types/passport-oauth2": "*"
+    }
+}

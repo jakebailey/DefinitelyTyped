@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/get-image-colors",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/chroma-js": "*",
+        "@types/node": "*"
+    }
+}

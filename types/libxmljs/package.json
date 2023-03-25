@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/libxmljs",
+    "version": "0.18.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

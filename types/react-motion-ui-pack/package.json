@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-motion-ui-pack",
+    "version": "0.10.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-motion": "*"
+    }
+}

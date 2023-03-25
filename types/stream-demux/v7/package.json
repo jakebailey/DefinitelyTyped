@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/stream-demux",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/consumable-stream": "^1",
+        "@types/writable-consumable-stream": "^1"
+    }
+}

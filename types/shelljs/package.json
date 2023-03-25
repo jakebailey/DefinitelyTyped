@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/shelljs",
+    "version": "0.8.0",
+    "dependencies": {
+        "@types/glob": "*",
+        "@types/node": "*"
+    }
+}

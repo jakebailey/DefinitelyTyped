@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/body-parser",
+    "version": "1.19.0",
+    "dependencies": {
+        "@types/connect": "*",
+        "@types/node": "*"
+    }
+}

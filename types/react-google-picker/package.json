@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/react-google-picker",
+    "version": "0.1.0",
+    "dependencies": {
+        "@types/gapi": "*",
+        "@types/google.picker": "*",
+        "@types/react": "*"
+    }
+}

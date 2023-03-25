@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-rte",
+    "version": "0.16.0",
+    "dependencies": {
+        "@types/draft-js": "*",
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gulp-strip-comments",
+    "version": "2.5.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

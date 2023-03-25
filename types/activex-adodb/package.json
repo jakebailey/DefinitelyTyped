@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/activex-adodb",
+    "version": "6.1.0",
     "dependencies": {
+        "@types/activex-interop": "*",
         "activex-helpers": "*"
     }
 }

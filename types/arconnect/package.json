@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "arweave": "^1.10.13"
-  }
+    "private": true,
+    "name": "@types/arconnect",
+    "version": "1.0.0",
+    "dependencies": {
+        "arweave": "^1.10.13"
+    }
 }

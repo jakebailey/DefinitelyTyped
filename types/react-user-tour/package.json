@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-user-tour",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

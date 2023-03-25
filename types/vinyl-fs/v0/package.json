@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/vinyl-fs",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/glob-stream": "*",
+        "@types/node": "*",
+        "@types/vinyl": "*"
+    }
+}

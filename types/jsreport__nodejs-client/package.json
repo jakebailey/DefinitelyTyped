@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jsreport__nodejs-client",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/jsreport": "*"
+    }
+}

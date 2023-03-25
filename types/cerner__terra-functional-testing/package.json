@@ -1,6 +1,9 @@
 {
-  "private": true,
-  "dependencies": {
-    "axe-core": "4.0.2"
-  }
+    "private": true,
+    "name": "@types/cerner__terra-functional-testing",
+    "version": "2.5.0",
+    "dependencies": {
+        "@types/mocha": "*",
+        "axe-core": "4.0.2"
+    }
 }

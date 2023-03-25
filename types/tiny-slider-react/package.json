@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/tiny-slider-react",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

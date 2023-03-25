@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/karma-nyan-reporter",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/karma": "*"
+    }
+}

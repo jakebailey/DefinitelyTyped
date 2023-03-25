@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/moment-duration-format",
+    "version": "2.2.0",
     "dependencies": {
         "moment": ">=2.14.0"
     }

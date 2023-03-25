@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/chrome",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/filesystem": "*",
+        "@types/har-format": "*"
+    }
+}

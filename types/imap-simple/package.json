@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/imap-simple",
+    "version": "4.2.0",
+    "dependencies": {
+        "@types/imap": "*",
+        "@types/node": "*"
+    }
+}

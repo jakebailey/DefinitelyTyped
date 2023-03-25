@@ -1,7 +1,10 @@
 {
     "private": true,
+    "name": "@types/microrouter",
+    "version": "3.1.0",
     "dependencies": {
-        "url-pattern": "^1.0.3",
-        "@types/micro": "^7.3.7"
+        "@types/micro": "^7.3.7",
+        "@types/node": "*",
+        "url-pattern": "^1.0.3"
     }
 }

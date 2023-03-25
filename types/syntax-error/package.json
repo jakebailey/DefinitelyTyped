@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/syntax-error",
+    "version": "1.4.0",
     "dependencies": {
         "acorn": "^7.0.0"
     }

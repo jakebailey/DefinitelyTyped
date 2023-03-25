@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/better-sqlite3",
+    "version": "7.6.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

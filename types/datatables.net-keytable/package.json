@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/datatables.net-keytable",
+    "version": "2.5.0",
+    "dependencies": {
+        "@types/datatables.net": "*",
+        "@types/jquery": "*"
+    }
+}

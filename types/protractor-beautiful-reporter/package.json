@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/protractor-beautiful-reporter",
+    "version": "1.3.0",
+    "dependencies": {
+        "@types/jasmine": "*",
+        "@types/selenium-webdriver": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/videojs-mobile-ui",
+    "version": "0.5.0",
+    "dependencies": {
+        "@types/video.js": "*"
+    }
+}

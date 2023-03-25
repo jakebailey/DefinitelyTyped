@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-native-sortable-grid",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "^0.69"
+    }
+}

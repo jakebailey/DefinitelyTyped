@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/request-promise",
+    "version": "4.1.0",
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/request": "*"
+    }
+}

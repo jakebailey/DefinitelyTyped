@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/mapbox__mapbox-gl-geocoder",
+    "version": "4.7.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/mapbox-gl": "*"
+    }
+}

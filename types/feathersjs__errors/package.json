@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/feathersjs__errors",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/xmpp__uri",
+    "version": "0.13.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/xmpp__jid": "*"
+    }
+}

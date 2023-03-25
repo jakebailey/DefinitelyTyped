@@ -1,6 +1,13 @@
 {
     "private": true,
+    "name": "@types/meteor",
+    "version": "2.9.0",
     "dependencies": {
+        "@types/connect": "*",
+        "@types/jquery": "*",
+        "@types/nodemailer": "*",
+        "@types/react": "*",
+        "@types/underscore": "*",
         "mongodb": "^4.3.1"
     }
 }

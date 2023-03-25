@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-date-range",
+    "version": "0.95.0",
     "dependencies": {
+        "@types/react": "*",
         "moment": ">=2.14.0"
     }
 }

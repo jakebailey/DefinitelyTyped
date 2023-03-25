@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/semantic-release",
+    "version": "17.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/globaloffensive",
+    "version": "2.3.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/steam-user": "*",
+        "@types/steamid": "*"
+    }
+}

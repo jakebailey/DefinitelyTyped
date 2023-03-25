@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "name": "@types/socketcluster-server",
+    "version": "15.0.0",
+    "dependencies": {
+        "@types/ag-auth": "*",
+        "@types/ag-simple-broker": "^4",
+        "@types/async-stream-emitter": "^3",
+        "@types/consumable-stream": "^1",
+        "@types/jsonwebtoken": "*",
+        "@types/sc-errors": "*",
+        "@types/stream-demux": "^7",
+        "@types/writable-consumable-stream": "^1",
+        "@types/ws": "*"
+    }
+}

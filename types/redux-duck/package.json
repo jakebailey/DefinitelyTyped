@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/redux-duck",
+    "version": "1.0.0",
     "dependencies": {
         "redux": "^4.0.1"
     }

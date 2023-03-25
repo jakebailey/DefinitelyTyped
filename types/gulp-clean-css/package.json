@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/gulp-clean-css",
+    "version": "4.3.0",
+    "dependencies": {
+        "@types/clean-css": "*",
+        "@types/node": "*"
+    }
+}

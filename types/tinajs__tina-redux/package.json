@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/tinajs__tina-redux",
+    "version": "1.4.0",
     "dependencies": {
         "redux": "^4.0.0"
     }

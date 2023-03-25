@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/glob",
+    "version": "8.1.0",
     "dependencies": {
-        "@types/minimatch": "^5.1.2"
+        "@types/minimatch": "^5.1.2",
+        "@types/node": "*"
     }
 }

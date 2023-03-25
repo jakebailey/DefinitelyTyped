@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/npmcli__map-workspaces",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/glob": "*",
+        "@types/npmcli__arborist": "*",
+        "@types/npmcli__package-json": "*"
+    }
+}

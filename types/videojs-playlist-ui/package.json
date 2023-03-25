@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/videojs-playlist-ui",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/video.js": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/braintree-web",
+    "version": "3.75.0",
+    "dependencies": {
+        "@types/googlepay": "*",
+        "@types/paypal-checkout-components": "*"
+    }
+}

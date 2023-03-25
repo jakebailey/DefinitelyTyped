@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "vue": "^2.5.17"
-  }
+    "private": true,
+    "name": "@types/hcaptcha__vue-hcaptcha",
+    "version": "0.2.0",
+    "dependencies": {
+        "vue": "^2.5.17"
+    }
 }

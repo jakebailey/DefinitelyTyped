@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/karma",
+    "version": "6.3.0",
     "dependencies": {
+        "@types/node": "*",
         "log4js": "^6.4.1"
     }
 }

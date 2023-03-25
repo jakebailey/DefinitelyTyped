@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/wordpress__customize-browser",
+    "version": "5.5.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

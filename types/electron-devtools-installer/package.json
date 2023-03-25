@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/electron-devtools-installer",
+    "version": "2.2.0"
+}

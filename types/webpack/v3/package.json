@@ -1,6 +1,11 @@
 {
     "private": true,
+    "name": "@types/webpack",
+    "version": "3.8.0",
     "dependencies": {
+        "@types/node": "*",
+        "@types/tapable": "^0",
+        "@types/uglify-js": "*",
         "source-map": "^0.6.0"
     }
 }

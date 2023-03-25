@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/passport-local",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport": "*",
+        "@types/passport-strategy": "*"
+    }
+}

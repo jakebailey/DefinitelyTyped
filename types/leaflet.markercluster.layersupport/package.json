@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/leaflet.markercluster.layersupport",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/leaflet": "*",
+        "@types/leaflet.markercluster": "*"
+    }
+}

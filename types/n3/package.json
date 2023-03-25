@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/n3",
+    "version": "1.10.0",
     "dependencies": {
-      "rdf-js": "^4.0.2"
+        "@types/node": "*",
+        "rdf-js": "^4.0.2"
     }
-  }
+}

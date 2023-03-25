@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/terraformer__arcgis",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/arcgis-rest-api": "*",
+        "@types/geojson": "*"
+    }
+}

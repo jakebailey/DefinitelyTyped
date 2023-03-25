@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/jquery-validation-unobtrusive",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/jquery.validation": "*"
+    }
+}

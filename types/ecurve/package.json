@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ecurve",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/bigi": "*",
+        "@types/node": "*"
+    }
+}

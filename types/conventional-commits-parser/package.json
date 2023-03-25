@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/conventional-commits-parser",
+    "version": "3.0.0",
     "types": "index",
     "typesVersions": {
         "<=4.9": {
@@ -7,5 +9,8 @@
                 "ts4.9/*"
             ]
         }
+    },
+    "dependencies": {
+        "@types/node": "*"
     }
 }

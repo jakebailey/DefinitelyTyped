@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/postcss-flexbugs-fixes",
+    "version": "4.2.0",
     "dependencies": {
         "postcss": "^7.0.27"
     }

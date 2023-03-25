@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/github-url-from-git",
+    "version": "1.5.0"
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gulp-csso",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

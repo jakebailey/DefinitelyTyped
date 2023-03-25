@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/gulp-strip-debug",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

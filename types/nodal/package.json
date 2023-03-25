@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/nodal",
+    "version": "0.12.0",
+    "dependencies": {
+        "@types/fxn": "*",
+        "@types/node": "*"
+    }
+}

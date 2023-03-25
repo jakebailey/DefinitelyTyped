@@ -1,4 +1,6 @@
 {
-  "type": "module",
-  "private": true
+    "private": true,
+    "name": "@types/stringify-object",
+    "version": "4.0.0",
+    "type": "module"
 }

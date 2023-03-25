@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/glue",
+    "version": "5.0.0",
     "dependencies": {
+        "@types/hapi": "*",
         "joi": "^17.3.0"
     }
 }

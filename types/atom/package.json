@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/atom",
+    "version": "1.40.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

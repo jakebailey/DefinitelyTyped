@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-syntax-highlighter",
+    "version": "15.5.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

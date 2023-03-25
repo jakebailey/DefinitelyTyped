@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/activedirectory2",
+    "version": "1.2.0",
+    "dependencies": {
+        "@types/ldapjs": "*"
+    }
+}

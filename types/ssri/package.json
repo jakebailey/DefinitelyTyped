@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ssri",
+    "version": "7.1.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

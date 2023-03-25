@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ember__string",
+    "version": "2.0.0",
+    "dependencies": {
+        "@types/ember__template": "^3"
+    }
+}

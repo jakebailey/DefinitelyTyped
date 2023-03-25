@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/redis-parser",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/redis-errors": "*"
+    }
+}

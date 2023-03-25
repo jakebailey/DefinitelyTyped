@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/onflow__flow-js-testing",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

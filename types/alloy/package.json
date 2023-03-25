@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/alloy",
+    "version": "1.14.0",
+    "dependencies": {
+        "@types/backbone": "*",
+        "@types/titanium": "*"
+    }
+}

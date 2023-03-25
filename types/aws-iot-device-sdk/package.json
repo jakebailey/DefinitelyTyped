@@ -1,6 +1,10 @@
 {
-  "private": true,
-  "dependencies": {
-    "mqtt": "^4.2.8"
-  }
+    "private": true,
+    "name": "@types/aws-iot-device-sdk",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/ws": "*",
+        "mqtt": "^4.2.8"
+    }
 }

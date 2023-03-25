@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/koa-bodyparser",
+    "version": "4.3.0",
+    "dependencies": {
+        "@types/koa": "*"
+    }
+}

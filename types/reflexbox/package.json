@@ -1,7 +1,11 @@
 {
     "private": true,
+    "name": "@types/reflexbox",
+    "version": "4.0.0",
     "dependencies": {
+        "@emotion/react": "*",
         "@emotion/styled": "*",
-        "@emotion/react": "*"
+        "@types/react": "*",
+        "@types/styled-system": "*"
     }
 }

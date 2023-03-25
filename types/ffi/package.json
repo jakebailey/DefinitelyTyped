@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/ffi",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/ref": "*",
+        "@types/ref-struct": "*"
+    }
+}

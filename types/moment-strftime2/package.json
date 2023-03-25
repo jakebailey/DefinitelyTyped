@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/moment-strftime2",
+    "version": "1.0.0",
     "dependencies": {
         "moment": "^2.18.1",
         "moment-timezone": ">=0.5.30"

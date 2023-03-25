@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/topojson",
+    "version": "3.2.0",
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/topojson-client": "*",
+        "@types/topojson-server": "*",
+        "@types/topojson-simplify": "*",
+        "@types/topojson-specification": "*"
+    }
+}

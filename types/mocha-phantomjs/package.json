@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/mocha-phantomjs",
+    "version": "3.5.0"
+}

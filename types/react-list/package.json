@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-list",
+    "version": "0.8.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

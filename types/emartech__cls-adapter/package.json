@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/emartech__cls-adapter",
+    "version": "1.3.0",
+    "dependencies": {
+        "@types/cls-hooked": "*",
+        "@types/express": "*",
+        "@types/koa": "*"
+    }
+}

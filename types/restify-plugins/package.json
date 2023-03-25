@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/restify-plugins",
+    "version": "1.5.0",
+    "dependencies": {
+        "@types/bunyan": "*",
+        "@types/restify": "*"
+    }
+}

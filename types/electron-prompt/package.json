@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "electron": "latest"
-  }
+    "private": true,
+    "name": "@types/electron-prompt",
+    "version": "1.6.0",
+    "dependencies": {
+        "electron": "latest"
+    }
 }

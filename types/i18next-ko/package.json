@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/i18next-ko",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/knockout": "*",
         "i18next": ">=17.0.11"
     }
 }

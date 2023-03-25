@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ng-dialog",
+    "version": "0.6.0",
+    "dependencies": {
+        "@types/angular": "*"
+    }
+}

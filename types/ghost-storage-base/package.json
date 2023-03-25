@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/ghost-storage-base",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

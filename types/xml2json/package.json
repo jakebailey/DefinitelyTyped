@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/xml2json",
+    "version": "0.11.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

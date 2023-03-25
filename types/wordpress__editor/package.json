@@ -1,6 +1,15 @@
 {
     "private": true,
+    "name": "@types/wordpress__editor",
+    "version": "13.0.0",
     "dependencies": {
+        "@types/react": "*",
+        "@types/wordpress__block-editor": "*",
+        "@types/wordpress__blocks": "*",
+        "@types/wordpress__components": "*",
+        "@types/wordpress__core-data": "*",
+        "@types/wordpress__data": "*",
+        "@types/wordpress__media-utils": "*",
         "@wordpress/element": "^5.0.0"
     }
 }

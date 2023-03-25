@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/protoc-plugin",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/google-protobuf": "*",
+        "@types/node": "*"
+    }
+}

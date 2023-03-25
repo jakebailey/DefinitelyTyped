@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-toggle",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

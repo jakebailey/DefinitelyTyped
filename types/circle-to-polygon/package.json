@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/circle-to-polygon",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/geojson": "*"
+    }
+}

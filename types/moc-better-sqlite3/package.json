@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/moc-better-sqlite3",
+    "version": "6.2.0",
+    "dependencies": {
+        "@types/integer": "*"
+    }
+}

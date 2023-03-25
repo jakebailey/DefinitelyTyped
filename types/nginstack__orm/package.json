@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/nginstack__orm",
+    "version": "70.0.0",
+    "dependencies": {
+        "@types/nginstack__engine": "*"
+    }
+}

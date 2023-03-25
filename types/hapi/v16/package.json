@@ -1,6 +1,14 @@
 {
     "private": true,
+    "name": "@types/hapi",
+    "version": "16.1.0",
     "dependencies": {
+        "@types/boom": "^4",
+        "@types/catbox": "^7",
+        "@types/mimos": "*",
+        "@types/node": "*",
+        "@types/podium": "*",
+        "@types/shot": "*",
         "joi": "^17.3.0"
     }
 }

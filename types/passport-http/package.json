@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/passport-http",
+    "version": "0.3.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport": "*"
+    }
+}

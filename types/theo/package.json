@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/theo",
+    "version": "8.1.0",
     "dependencies": {
         "immutable": "3.8.2"
     }

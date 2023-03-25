@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/http-rx",
+    "version": "2.0.0",
     "dependencies": {
+        "@types/request": "*",
         "rxjs": "^6.2.0"
     }
 }

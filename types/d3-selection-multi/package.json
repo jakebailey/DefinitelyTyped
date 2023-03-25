@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/d3-selection-multi",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/d3-selection": "^1",
+        "@types/d3-transition": "^1"
+    }
+}

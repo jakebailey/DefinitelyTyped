@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/nodemailer-html-to-text",
+    "version": "3.1.0",
+    "dependencies": {
+        "@types/html-to-text": "*",
+        "@types/nodemailer": "*"
+    }
+}

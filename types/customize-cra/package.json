@@ -1,6 +1,11 @@
 {
-  "private": true,
-  "dependencies": {
-    "@types/workbox-webpack-plugin": "^5.1.8"
-  }
+    "private": true,
+    "name": "@types/customize-cra",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/babel__core": "*",
+        "@types/webpack": "^4",
+        "@types/webpack-bundle-analyzer": "^3",
+        "@types/workbox-webpack-plugin": "^5.1.8"
+    }
 }

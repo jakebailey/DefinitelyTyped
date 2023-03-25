@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/wordpress__date",
+    "version": "3.3.0",
     "dependencies": {
         "moment": "^2.24.0"
     }

@@ -1,9 +1,13 @@
 {
-  "private": true,
-  "types": "index",
-  "typesVersions": {
-    "<=4.2": {
-      "*": ["ts4.2/*"]
+    "private": true,
+    "name": "@types/lodash",
+    "version": "4.14.0",
+    "types": "index",
+    "typesVersions": {
+        "<=4.2": {
+            "*": [
+                "ts4.2/*"
+            ]
+        }
     }
-  }
 }

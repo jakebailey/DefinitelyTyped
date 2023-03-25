@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/csurf",
+    "version": "1.11.0",
+    "dependencies": {
+        "@types/express-serve-static-core": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/react-hooks-helper",
+    "version": "1.6.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/meteor-percolate-migrations",
+    "version": "1.0.0"
+}

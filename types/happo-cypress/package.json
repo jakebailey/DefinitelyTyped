@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/happo-cypress",
+    "version": "4.1.0",
     "dependencies": {
         "cypress": ">=6.4.0"
     }

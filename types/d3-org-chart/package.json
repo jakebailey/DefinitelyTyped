@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@types/d3-org-chart",
+    "version": "2.6.0",
+    "dependencies": {
+        "@types/d3-hierarchy": "*",
+        "@types/d3-selection": "*",
+        "@types/d3-shape": "*",
+        "@types/d3-zoom": "*"
+    }
+}

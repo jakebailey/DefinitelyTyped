@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/postcss-modules-scope",
+    "version": "3.0.0",
     "dependencies": {
         "postcss": "^8.0.0"
     }

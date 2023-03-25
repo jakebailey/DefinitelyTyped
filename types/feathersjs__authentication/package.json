@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/feathersjs__authentication",
+    "version": "2.1.0",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/feathersjs__feathers": "*"
+    }
+}

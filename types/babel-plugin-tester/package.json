@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/babel-plugin-tester",
+    "version": "9.0.0",
+    "dependencies": {
+        "@types/babel__core": "*",
+        "@types/prettier": "*"
+    }
+}

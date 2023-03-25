@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/datatables.net-fixedheader",
+    "version": "3.1.0",
+    "dependencies": {
+        "@types/datatables.net": "*",
+        "@types/jquery": "*"
+    }
+}

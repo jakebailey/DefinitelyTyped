@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/server-timing-header",
+    "version": "1.9.0",
+    "dependencies": {
+        "@types/express": "*"
+    }
+}

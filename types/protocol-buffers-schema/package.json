@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/protocol-buffers-schema",
+    "version": "3.4.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/react-places-autocomplete",
+    "version": "6.1.0",
+    "dependencies": {
+        "@types/google.maps": "*",
+        "@types/react": "*"
+    }
+}

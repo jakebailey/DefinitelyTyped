@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/module-deps",
+    "version": "6.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

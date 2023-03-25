@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/open-graph-scraper",
+    "version": "4.8.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

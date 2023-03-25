@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/mandrill-api",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/ember__component",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/ember": "*",
+        "@types/ember__object": "*"
+    }
+}

@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/bunyan-winston-adapter",
+    "version": "0.2.0",
     "dependencies": {
+        "@types/bunyan": "*",
         "winston": "^3.0.0"
     }
 }

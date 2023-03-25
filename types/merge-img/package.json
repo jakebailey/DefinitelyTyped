@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/merge-img",
+    "version": "2.1.0",
     "dependencies": {
+        "@types/node": "*",
         "jimp": "^0.9.5"
     }
 }

@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/x-axios-progress-bar",
+    "version": "1.2.0",
     "dependencies": {
         "axios": "^0.21.1"
     }

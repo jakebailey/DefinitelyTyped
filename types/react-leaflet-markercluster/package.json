@@ -1,6 +1,11 @@
 {
     "private": true,
+    "name": "@types/react-leaflet-markercluster",
+    "version": "3.0.0",
     "dependencies": {
+        "@types/leaflet": "*",
+        "@types/leaflet.markercluster": "*",
+        "@types/react": "*",
         "@types/react-leaflet": "^2.8.3"
     }
 }

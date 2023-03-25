@@ -1,6 +1,14 @@
 {
     "private": true,
+    "name": "@types/hexo",
+    "version": "3.8.0",
     "dependencies": {
+        "@types/bluebird": "*",
+        "@types/bunyan": "*",
+        "@types/connect": "*",
+        "@types/hexo-util": "*",
+        "@types/minimist": "*",
+        "@types/underscore": "*",
         "moment": "^2.19.4"
     }
 }

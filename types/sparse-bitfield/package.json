@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/sparse-bitfield",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/memory-pager": "*",
+        "@types/node": "*"
+    }
+}

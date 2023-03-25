@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/serialport",
+    "version": "4.0.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/streamjs": "*"
+    }
+}

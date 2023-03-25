@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/wojtekmaj__react-daterange-picker",
+    "version": "3.4.0",
+    "dependencies": {
+        "@types/react": "*"
+    }
+}

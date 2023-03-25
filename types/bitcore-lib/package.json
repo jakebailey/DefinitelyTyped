@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/bitcore-lib",
+    "version": "0.15.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

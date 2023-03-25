@@ -1,6 +1,9 @@
 {
     "private": true,
+    "name": "@types/react-scroll-into-view-if-needed",
+    "version": "2.1.0",
     "dependencies": {
+        "@types/react": "*",
         "scroll-into-view-if-needed": "*"
     }
 }

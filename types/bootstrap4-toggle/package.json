@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/bootstrap4-toggle",
+    "version": "3.6.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

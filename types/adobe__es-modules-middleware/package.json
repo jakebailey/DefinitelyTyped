@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/adobe__es-modules-middleware",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/connect": "*",
+        "@types/karma": "*"
+    }
+}

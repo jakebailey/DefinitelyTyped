@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/csp-html-webpack-plugin",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/html-webpack-plugin": "*",
+        "@types/tapable": "^1",
+        "@types/webpack": "^4"
+    }
+}

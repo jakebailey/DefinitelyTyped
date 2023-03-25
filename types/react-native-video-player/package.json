@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/react-native-video-player",
+    "version": "0.10.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*",
+        "@types/react-native-video": "*"
+    }
+}

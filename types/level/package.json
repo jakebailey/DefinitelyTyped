@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/level",
+    "version": "6.0.0",
+    "dependencies": {
+        "@types/abstract-leveldown": "*",
+        "@types/encoding-down": "*",
+        "@types/levelup": "*"
+    }
+}

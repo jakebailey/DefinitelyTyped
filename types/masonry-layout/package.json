@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/masonry-layout",
+    "version": "4.2.0",
+    "dependencies": {
+        "@types/jquery": "*"
+    }
+}

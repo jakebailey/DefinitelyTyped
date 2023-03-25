@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/datadog-statsd-metrics-collector",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/node-dogstatsd": "*"
+    }
+}

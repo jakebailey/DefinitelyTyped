@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/smtp-server",
+    "version": "3.5.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/nodemailer": "*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/workerpool",
+    "version": "6.4.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

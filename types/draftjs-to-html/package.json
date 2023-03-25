@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/draftjs-to-html",
+    "version": "0.8.0",
+    "dependencies": {
+        "@types/draft-js": "*"
+    }
+}

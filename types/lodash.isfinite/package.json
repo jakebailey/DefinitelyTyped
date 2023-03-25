@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/lodash.isfinite",
+    "version": "3.3.0",
+    "dependencies": {
+        "@types/lodash": "*"
+    }
+}

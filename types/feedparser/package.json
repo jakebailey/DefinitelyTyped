@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/feedparser",
+    "version": "2.2.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/sax": "*"
+    }
+}

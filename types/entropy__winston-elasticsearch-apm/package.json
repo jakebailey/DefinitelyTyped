@@ -1,5 +1,7 @@
 {
     "private": true,
+    "name": "@types/entropy__winston-elasticsearch-apm",
+    "version": "1.0.0",
     "dependencies": {
         "elastic-apm-node": "^3.8.0",
         "logform": "^2.2.0",

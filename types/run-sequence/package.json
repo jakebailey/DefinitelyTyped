@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/run-sequence",
+    "version": "0.0.0",
+    "dependencies": {
+        "@types/gulp": "*",
+        "@types/node": "*"
+    }
+}

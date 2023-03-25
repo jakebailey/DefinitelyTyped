@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/npm-which",
+    "version": "3.0.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

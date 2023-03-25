@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "@types/react-native-calendars",
+    "version": "1.1264.0",
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "*",
+        "@types/xdate": "*"
+    }
+}

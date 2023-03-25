@@ -1,6 +1,10 @@
 {
     "private": true,
+    "name": "@types/kue",
+    "version": "0.11.0",
     "dependencies": {
+        "@types/express": "*",
+        "@types/node": "*",
         "@types/redis": "^2.8.0"
     }
 }

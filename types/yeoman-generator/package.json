@@ -1,6 +1,13 @@
 {
     "private": true,
+    "name": "@types/yeoman-generator",
+    "version": "5.2.0",
     "dependencies": {
+        "@types/debug": "*",
+        "@types/ejs": "*",
+        "@types/inquirer": "^8",
+        "@types/mem-fs-editor": "*",
+        "@types/yeoman-environment": "*",
         "rxjs": "^6.4.0"
     }
 }

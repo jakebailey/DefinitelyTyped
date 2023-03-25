@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "@types/glob-to-regexp",
+    "version": "0.4.0"
+}

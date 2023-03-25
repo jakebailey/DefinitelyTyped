@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/buffer-crc32",
+    "version": "0.2.0",
+    "dependencies": {
+        "@types/node": "*"
+    }
+}

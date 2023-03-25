@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@types/loader-utils",
+    "version": "1.1.0",
+    "dependencies": {
+        "@types/node": "*",
+        "@types/webpack": "^4"
+    }
+}

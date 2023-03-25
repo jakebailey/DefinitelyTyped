@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "@types/imagemin-zopfli",
+    "version": "7.0.0",
+    "dependencies": {
+        "@types/imagemin": "*"
+    }
+}
