@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import url from "url";
 import fetch from "node-fetch";
+import assert from "assert";
 
 const __filename = url.fileURLToPath(new URL(import.meta.url));
 const __dirname = path.dirname(__filename);
@@ -18,7 +19,6 @@ function prettyPath(p) {
 
 
 const packages = fs.readdirSync(types);
-const versionDirRegex = /^v\d+(?:\.\d+)?$/;
 
 /**
  * @param {string} name
@@ -50,11 +50,11 @@ async function handlePackage(pkgName, p, version) {
     console.log(pkgName);
     const packageJsonPath = path.join(p, "package.json");
     /** @type {Record<string, any>} */
-    const packageJsonContents = { CONVERTED: true, name: pkgName, private: true };
+    const packageJsonContents = { name: pkgName, private: true };
     // const packageJsonContents = { };
     try {
         const existing = JSON.parse(await fs.promises.readFile(packageJsonPath, { encoding: "utf8" }));
-        if (existing.CONVERTED) {
+        if (existing.version) {
             return;
         }
         Object.assign(packageJsonContents, existing);
@@ -95,8 +95,8 @@ async function handlePackage(pkgName, p, version) {
                 continue;
             }
 
-            const relativePathToDep = value === "*" ? depRelative : path.join(depRelative, `v${value.slice(1)}`)
-            packageJsonContents.dependencies[key] = `workspace:${relativePathToDep}`;
+            const depVersion = value === "*" ? "*" : `^${value.slice(1)}`;
+            packageJsonContents.dependencies[key] = `workspace:${depVersion}`;
         }
     }
 
@@ -106,6 +106,10 @@ async function handlePackage(pkgName, p, version) {
     else {
         packageJsonContents.dependencies = Object.fromEntries(Object.entries(packageJsonContents.dependencies).sort((a, b) => compareComparableValues(a[0], b[0])))
     }
+
+    const splitVersion = publishedPackageJson.version.split(".")
+    splitVersion[splitVersion.length-1] = "99999";
+    packageJsonContents.version = splitVersion.join(".");
 
     await fs.promises.writeFile(packageJsonPath, JSON.stringify(packageJsonContents, undefined, 4) + "\n");
 }
@@ -118,7 +122,7 @@ async function main() {
     
         const subdirs = fs.readdirSync(p);
         for (const subdir of subdirs) {
-            if (versionDirRegex.test(subdir)) {
+            if (/^v\d+(?:\.\d+)?$/.test(subdir)) {
                 const subP = path.join(p, subdir);
                 await handlePackage(pkgName, subP, subdir);
             }
