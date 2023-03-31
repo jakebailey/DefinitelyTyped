@@ -22,9 +22,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
-        #with:
-        #  cache: npm
-      - run: npm install
+      - uses: pnpm/action-setup@v2
+        name: Install pnpm
+        with:
+          version: latest
+          run_install: |
+            - args: [--filter, .]
       - name: Fetch TypeScript versions and release dates from npm
         run: |
           npm view --json typescript time |
