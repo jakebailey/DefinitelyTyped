@@ -7,6 +7,7 @@
   },
   "author": "Simon Schick <demwizzy@gmail.com>",
   "devDependencies": {
+    "@types/node": "*",
     "@types/prettier": "^2.3.2",
     "node-html-markdown": "^0.1.7",
     "ts-node": "^10.0.0",
