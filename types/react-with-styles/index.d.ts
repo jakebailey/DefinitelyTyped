@@ -1,11 +1,3 @@
-// Type definitions for react-with-styles 4.0
-// Project: https://github.com/airbnb/react-with-styles#readme
-// Definitions by: Mohsen Azimi <https://github.com/mohsen1>
-//                 Brie Bunge <https://github.com/brieb>
-//                 Joe Lencioni <https://github.com/lencioni>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 3.2
-
 import * as React from 'react';
 import * as PropTypes from 'prop-types';
 import { CSSProperties } from 'aphrodite';

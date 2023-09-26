@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/euclidean-rhythms",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/mkontogiannis/euclidean-rhythms"
+    ],
+    "devDependencies": {
+        "@types/euclidean-rhythms": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Thomas Stringer",
+            "githubUsername": "tom-stringer"
+        }
+    ]
+}

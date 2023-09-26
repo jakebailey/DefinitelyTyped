@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/shasum",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/dominictarr/shasum"
+    ],
+    "devDependencies": {
+        "@types/shasum": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "TeamworkGuy2",
+            "githubUsername": "TeamworkGuy2"
+        }
+    ]
+}

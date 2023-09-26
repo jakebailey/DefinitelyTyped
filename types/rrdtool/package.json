@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rrdtool",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/LinusU/node-rrdtool"
+    ],
+    "devDependencies": {
+        "@types/rrdtool": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Filip Stenbacka",
+            "githubUsername": "filiptypjeu"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/unpaginated",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/manuscriptmastr/unpaginated#readme"
+    ],
+    "devDependencies": {
+        "@types/unpaginated": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wes Reed",
+            "githubUsername": "reediculous456"
+        }
+    ]
+}

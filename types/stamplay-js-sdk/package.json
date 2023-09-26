@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/stamplay-js-sdk",
+    "version": "1.2.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "stamplay-js-sdk",
+    "projects": [
+        "https://github.com/Stamplay/stamplay-js-sdk"
+    ],
+    "devDependencies": {
+        "@types/stamplay-js-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Riderman de Sousa Barbosa",
+            "githubUsername": "ridermansb"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/novnc__novnc",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/novnc/noVNC"
+    ],
+    "devDependencies": {
+        "@types/novnc__novnc": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jake Jarvis",
+            "githubUsername": "jakejarvis"
+        },
+        {
+            "name": "Maksim Ovcharik",
+            "githubUsername": "ovcharik"
+        }
+    ]
+}

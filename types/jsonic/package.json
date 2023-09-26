@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsonic",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/rjrodger/jsonic"
+    ],
+    "devDependencies": {
+        "@types/jsonic": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rong SHen",
+            "githubUsername": "jacobbubu"
+        }
+    ]
+}

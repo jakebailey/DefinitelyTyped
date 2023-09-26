@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/merge-deep",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/merge-deep"
+    ],
+    "devDependencies": {
+        "@types/merge-deep": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Emily Marigold Klassen",
+            "githubUsername": "forivall"
+        }
+    ]
+}

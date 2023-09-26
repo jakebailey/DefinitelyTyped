@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/angular-environment",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/juanpablob/angular-environment"
+    ],
+    "devDependencies": {
+        "@types/angular-environment": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matt Wheatley",
+            "githubUsername": "terrawheat"
+        }
+    ]
+}

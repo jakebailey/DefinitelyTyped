@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/jenkins",
+    "version": "0.23.99999",
+    "projects": [
+        "https://github.com/silas/node-jenkins"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/jenkins": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "rhysd",
+            "url": "https://rhysd.github.io"
+        }
+    ]
+}

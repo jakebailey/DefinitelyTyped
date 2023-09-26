@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/localizejs-library",
+    "version": "1.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "LocalizeJS Library",
+    "projects": [
+        "https://help.localizejs.com/docs/library-api"
+    ],
+    "devDependencies": {
+        "@types/localizejs-library": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Samer Albahra",
+            "githubUsername": "salbahra"
+        }
+    ]
+}

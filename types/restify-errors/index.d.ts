@@ -1,9 +1,3 @@
-// Type definitions for restify-errors 4.3
-// Project: http://www.restify.com
-// Definitions by: DefinitelyTyped <https://github.com/DefinitelyTyped>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 2.1
-
 import { VError, Options as vErrorOptions } from "verror";
 
 export interface RestifyHttpErrorOptions extends vErrorOptions {

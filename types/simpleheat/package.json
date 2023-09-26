@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/simpleheat",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/mourner/simpleheat"
+    ],
+    "devDependencies": {
+        "@types/simpleheat": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tristan de Guillebon",
+            "githubUsername": "tristangbn"
+        }
+    ]
+}

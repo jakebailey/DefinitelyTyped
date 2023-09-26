@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/consumer-data-standards",
+    "version": "6.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "consumer-data-standards-browser",
+    "projects": [
+        "https://github.com/ConsumerDataStandardsAustralia"
+    ],
+    "devDependencies": {
+        "@types/consumer-data-standards": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tomas Schier",
+            "githubUsername": "tom-schier"
+        }
+    ]
+}

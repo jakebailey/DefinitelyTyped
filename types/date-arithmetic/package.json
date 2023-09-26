@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/date-arithmetic",
+    "version": "4.1.99999",
+    "projects": [
+        "https://github.com/jquense/date-math"
+    ],
+    "devDependencies": {
+        "@types/date-arithmetic": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sergii Paryzhskyi",
+            "githubUsername": "HeeL"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

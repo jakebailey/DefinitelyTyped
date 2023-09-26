@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/gapi.drive",
+    "version": "0.0.99999",
+    "projects": [
+        "https://developers.google.com/drive/"
+    ],
+    "dependencies": {
+        "@types/gapi": "*"
+    },
+    "devDependencies": {
+        "@types/gapi.drive": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sam Baxter",
+            "githubUsername": "baxtersa"
+        }
+    ]
+}

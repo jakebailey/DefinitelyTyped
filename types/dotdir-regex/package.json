@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dotdir-regex",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/regexhq/dotdir-regex"
+    ],
+    "devDependencies": {
+        "@types/dotdir-regex": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "mrmlnc",
+            "githubUsername": "mrmlnc"
+        }
+    ]
+}

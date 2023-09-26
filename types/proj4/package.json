@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/proj4",
+    "version": "2.5.99999",
+    "projects": [
+        "https://github.com/proj4js/proj4js"
+    ],
+    "devDependencies": {
+        "@types/proj4": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Denis Carriere",
+            "githubUsername": "DenisCarriere"
+        },
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

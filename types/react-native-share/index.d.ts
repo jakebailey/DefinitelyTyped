@@ -1,13 +1,3 @@
-// Type definitions for react-native-share 3.3
-// Project: https://github.com/react-native-community/react-native-share#readme
-// Definitions by: Mark Nelissen <https://github.com/marknelissen>
-//                 pera <https://github.com/santiagofm>
-//                 MateusAndrade <https://github.com/MateusAndrade>
-//                 Jesse Katsumata <https://github.com/Naturalclar>
-//                 Fabian Lee <https://github.com/fabianlee1211>
-//                 Evan Cloutier <https://github.com/evancloutier>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 2.1
 import { ReactNode, Component } from 'react';
 import { ViewProps, StyleProp } from 'react-native';
 import Overlay from './Overlay.d';

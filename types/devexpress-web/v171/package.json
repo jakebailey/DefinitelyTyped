@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/devexpress-web",
+    "version": "171.4.99999",
+    "projects": [
+        "http://devexpress.com/"
+    ],
+    "devDependencies": {
+        "@types/devexpress-web": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "DevExpress Inc.",
+            "url": "http://devexpress.com/"
+        }
+    ]
+}

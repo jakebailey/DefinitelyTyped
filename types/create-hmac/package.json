@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/create-hmac",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/crypto-browserify/createHmac"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/create-hmac": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

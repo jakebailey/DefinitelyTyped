@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/facebook-locales",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/wix/facebook-locales"
+    ],
+    "devDependencies": {
+        "@types/facebook-locales": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jarek Radosz",
+            "githubUsername": "CvX"
+        }
+    ]
+}

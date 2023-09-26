@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/multi-progress",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/pitaj/multi-progress"
+    ],
+    "dependencies": {
+        "@types/node": "*",
+        "@types/progress": "*"
+    },
+    "devDependencies": {
+        "@types/multi-progress": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Brett",
+            "githubUsername": "DHBrett"
+        }
+    ]
+}

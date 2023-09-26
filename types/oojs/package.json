@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/oojs",
+    "version": "7.0.99999",
+    "projects": [
+        "https://www.mediawiki.org/wiki/OOjs"
+    ],
+    "devDependencies": {
+        "@types/oojs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "diskdance",
+            "githubUsername": "diskdance"
+        },
+        {
+            "name": "Chlod Aidan Alejandro",
+            "githubUsername": "ChlodAlejandro"
+        }
+    ]
+}

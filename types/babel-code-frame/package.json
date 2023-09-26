@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/babel-code-frame",
+    "version": "6.20.99999",
+    "projects": [
+        "https://github.com/babel/babel/tree/master/packages",
+        "https://babeljs.io"
+    ],
+    "devDependencies": {
+        "@types/babel-code-frame": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mohsen Azimi",
+            "githubUsername": "mohsen1"
+        }
+    ]
+}

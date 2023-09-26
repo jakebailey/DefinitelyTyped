@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/treeify",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/notatestuser/treeify"
+    ],
+    "devDependencies": {
+        "@types/treeify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mike North",
+            "githubUsername": "mike-north"
+        }
+    ]
+}

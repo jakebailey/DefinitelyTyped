@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/buffer-xor",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/crypto-browserify/buffer-xor"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/buffer-xor": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Byrne",
+            "githubUsername": "danwbyrne"
+        }
+    ]
+}

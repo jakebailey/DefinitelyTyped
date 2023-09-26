@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/umtrack-wx",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/umeng/mp-demos"
+    ],
+    "devDependencies": {
+        "@types/umtrack-wx": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wen Yishan",
+            "githubUsername": "azzgo"
+        }
+    ]
+}

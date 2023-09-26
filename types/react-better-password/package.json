@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/react-better-password",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/karaggeorge/react-better-password",
+        "https://karaggeorge.github.io/react-better-password"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-better-password": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mary Huynh",
+            "githubUsername": "mhuynh1"
+        }
+    ]
+}

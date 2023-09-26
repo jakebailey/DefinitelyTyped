@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-base64",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/miguelmota/is-base64"
+    ],
+    "devDependencies": {
+        "@types/is-base64": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Chris Wilkinson",
+            "githubUsername": "thewilkybarkid"
+        }
+    ]
+}

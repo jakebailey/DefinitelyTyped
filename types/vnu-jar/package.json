@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/vnu-jar",
+    "version": "17.11.99999",
+    "projects": [
+        "https://github.com/validator/validator#readme"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/vnu-jar": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Umoxfo",
+            "githubUsername": "Umoxfo"
+        }
+    ]
+}

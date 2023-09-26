@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/greek-utils",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/vbarzokas/greek-utils"
+    ],
+    "devDependencies": {
+        "@types/greek-utils": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dimitris Kirtsios",
+            "githubUsername": "dimkirt"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/roman-numerals",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/joshleaves/roman-numerals"
+    ],
+    "devDependencies": {
+        "@types/roman-numerals": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alan Plum",
+            "githubUsername": "pluma"
+        }
+    ]
+}

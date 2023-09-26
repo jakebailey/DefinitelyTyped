@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/maptalks",
+    "version": "0.49.99999",
+    "projects": [
+        "https://github.com/maptalks/maptalks.js"
+    ],
+    "devDependencies": {
+        "@types/maptalks": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Yu Yan",
+            "githubUsername": "yanyu510"
+        },
+        {
+            "name": "aheadweb",
+            "githubUsername": "aheadweb"
+        }
+    ]
+}

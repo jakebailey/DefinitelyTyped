@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/react-typing-effect",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/lamyfarai/react-typing-effect#readme"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-typing-effect": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Debananda",
+            "githubUsername": "Debananda"
+        }
+    ]
+}

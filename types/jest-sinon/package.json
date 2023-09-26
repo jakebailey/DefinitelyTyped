@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/jest-sinon",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/djkf/jest-sinon/#readme"
+    ],
+    "dependencies": {
+        "@types/jest": "*",
+        "@types/sinon": "*"
+    },
+    "devDependencies": {
+        "@types/jest-sinon": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Seidel",
+            "githubUsername": "seidelmartin"
+        }
+    ]
+}

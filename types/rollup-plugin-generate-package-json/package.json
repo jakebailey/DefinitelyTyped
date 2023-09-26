@@ -1,6 +1,21 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-generate-package-json",
+    "version": "3.2.99999",
+    "projects": [
+        "https://github.com/vladshcherbin/rollup-plugin-generate-package-json"
+    ],
+    "typeScriptVersion": "4.7",
     "dependencies": {
         "rollup": ">=1.0.0"
-    }
+    },
+    "devDependencies": {
+        "@types/rollup-plugin-generate-package-json": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Neko",
+            "githubUsername": "NotEvenANeko"
+        }
+    ]
 }

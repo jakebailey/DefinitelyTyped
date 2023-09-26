@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/express-actuator",
+    "version": "1.8.99999",
+    "projects": [
+        "https://www.npmjs.org/package/express-actuator"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/express-actuator": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": " Eduardo Silva",
+            "githubUsername": "etruta"
+        },
+        {
+            "name": "Raúl Cruz",
+            "githubUsername": "rcruzper"
+        }
+    ]
+}

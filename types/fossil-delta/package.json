@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/fossil-delta",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/dchest/fossil-delta-js"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/fossil-delta": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Endel Dreyer",
+            "githubUsername": "endel"
+        }
+    ]
+}

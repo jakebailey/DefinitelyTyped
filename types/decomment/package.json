@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/decomment",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/vitaly-t/decomment"
+    ],
+    "devDependencies": {
+        "@types/decomment": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz (Peter Blazejewicz)",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

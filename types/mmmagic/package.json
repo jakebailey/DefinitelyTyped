@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/mmmagic",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/mscdex/mmmagic"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/mmmagic": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Andrei Sebastian Cîmpean",
+            "url": "http://andreime.com/"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/raphael",
+    "version": "2.3.99999",
+    "projects": [
+        "http://raphaeljs.com"
+    ],
+    "devDependencies": {
+        "@types/raphael": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "CheCoxshall",
+            "githubUsername": "CheCoxshall"
+        },
+        {
+            "name": "blutorange",
+            "githubUsername": "blutorange"
+        }
+    ]
+}

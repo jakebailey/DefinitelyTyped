@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/annyang",
+    "version": "2.6.99999",
+    "projects": [
+        "https://www.talater.com/annyang/"
+    ],
+    "devDependencies": {
+        "@types/annyang": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Hisham Al-Shurafa",
+            "githubUsername": "hisham"
+        },
+        {
+            "name": "Lukas Klinzing",
+            "githubUsername": "theluk"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/jweixin",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/heyong-2015/jweixin"
+    ],
+    "devDependencies": {
+        "@types/jweixin": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "taoqf",
+            "githubUsername": "taoqf"
+        },
+        {
+            "name": "gomydodo",
+            "githubUsername": "gomydodo"
+        }
+    ]
+}

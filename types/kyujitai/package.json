@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/kyujitai",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/hakatashi/kyujitai.js"
+    ],
+    "devDependencies": {
+        "@types/kyujitai": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

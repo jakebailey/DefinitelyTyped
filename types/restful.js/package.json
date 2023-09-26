@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/restful.js",
+    "version": "0.6.99999",
+    "projects": [
+        "https://github.com/marmelab/restful.js"
+    ],
+    "devDependencies": {
+        "@types/restful.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Qubo",
+            "githubUsername": "tkqubo"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/chai-subset-in-order",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/oprogramador/chai-subset-in-order"
+    ],
+    "dependencies": {
+        "@types/chai": "*"
+    },
+    "devDependencies": {
+        "@types/chai-subset-in-order": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mario Ramundo",
+            "githubUsername": "ramundomario"
+        }
+    ]
+}

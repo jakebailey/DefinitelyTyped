@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cross-zip",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/feross/cross-zip"
+    ],
+    "devDependencies": {
+        "@types/cross-zip": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Imdahl",
+            "githubUsername": "ffflorian"
+        }
+    ]
+}

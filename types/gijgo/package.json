@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/gijgo",
+    "version": "1.9.99999",
+    "projects": [
+        "http://gijgo.com"
+    ],
+    "devDependencies": {
+        "@types/gijgo": "workspace:.",
+        "@types/jquery": "*"
+    },
+    "contributors": [
+        {
+            "name": "Atanas Atanasov",
+            "githubUsername": "atatanasov"
+        }
+    ]
+}

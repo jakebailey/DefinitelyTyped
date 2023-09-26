@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/node-localstorage",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/lmaccherone/node-localstorage"
+    ],
+    "devDependencies": {
+        "@types/node-localstorage": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Allen Gammel",
+            "githubUsername": "intolerance"
+        }
+    ]
+}

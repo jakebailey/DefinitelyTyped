@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/find-parent-dir",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/thlorenz/find-parent-dir"
+    ],
+    "devDependencies": {
+        "@types/find-parent-dir": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "Ika",
+            "githubUsername": "ikatyang"
+        }
+    ]
+}

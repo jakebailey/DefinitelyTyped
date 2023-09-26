@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cordova-plugin-bluetoothclassic-serial",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/soltius/BluetoothClassicSerial"
+    ],
+    "devDependencies": {
+        "@types/cordova-plugin-bluetoothclassic-serial": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wouter Roosendaal",
+            "githubUsername": "tuvokki"
+        }
+    ]
+}

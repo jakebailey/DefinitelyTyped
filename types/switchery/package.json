@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/switchery",
+    "version": "0.8.99999",
+    "projects": [
+        "https://github.com/abpetkov/switchery"
+    ],
+    "devDependencies": {
+        "@types/switchery": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Bruno Grieder",
+            "githubUsername": "bgrieder"
+        },
+        {
+            "name": "Clayton Lautier",
+            "githubUsername": "claylaut"
+        }
+    ]
+}

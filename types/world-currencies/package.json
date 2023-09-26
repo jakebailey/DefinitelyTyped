@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/world-currencies",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/wiredmax/world-currencies"
+    ],
+    "devDependencies": {
+        "@types/world-currencies": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

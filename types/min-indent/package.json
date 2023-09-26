@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/min-indent",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/thejameskyle/min-indent#readme"
+    ],
+    "devDependencies": {
+        "@types/min-indent": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

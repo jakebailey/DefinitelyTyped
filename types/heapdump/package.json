@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/heapdump",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/bnoordhuis/node-heapdump"
+    ],
+    "devDependencies": {
+        "@types/heapdump": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "weekens",
+            "githubUsername": "weekens"
+        }
+    ]
+}

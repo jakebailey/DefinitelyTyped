@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/iost-contract",
+    "version": "3.4.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "IOST contract API",
+    "projects": [
+        "https://github.com/iost-official/"
+    ],
+    "devDependencies": {
+        "@types/iost-contract": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Masaki Muranaka",
+            "githubUsername": "monaka"
+        }
+    ]
+}

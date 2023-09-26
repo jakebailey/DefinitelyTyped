@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mergerino",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/fuzetsu/mergerino#readme"
+    ],
+    "devDependencies": {
+        "@types/mergerino": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Slawomir \"Fivitti\" Figiel",
+            "githubUsername": "fivitti"
+        }
+    ]
+}

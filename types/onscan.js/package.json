@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/onscan.js",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/axenox/onscan.js/"
+    ],
+    "devDependencies": {
+        "@types/onscan.js": "workspace:."
+    },
+    "contributors": []
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/express-flash-2",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jack2gs/express-flash-2"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/express-flash-2": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matheus Salmi",
+            "githubUsername": "mathsalmi"
+        }
+    ]
+}

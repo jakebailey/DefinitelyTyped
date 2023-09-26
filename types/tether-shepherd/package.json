@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tether-shepherd",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.hubspot.com/shepherd/"
+    ],
+    "devDependencies": {
+        "@types/tether-shepherd": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matt Gibbs",
+            "githubUsername": "mtgibbs"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/range_check",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/keverw/range_check#readme"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/range_check": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ItsMajestiX",
+            "githubUsername": "ItsMajestiX"
+        }
+    ]
+}

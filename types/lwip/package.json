@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/lwip",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/EyalAr/lwip"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/lwip": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aya Morisawa",
+            "githubUsername": "AyaMorisawa"
+        }
+    ]
+}

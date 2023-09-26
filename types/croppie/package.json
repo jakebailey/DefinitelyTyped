@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "name": "@types/croppie",
+    "version": "2.6.99999",
+    "projects": [
+        "https://github.com/Foliotek/Croppie"
+    ],
+    "devDependencies": {
+        "@types/croppie": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Connor Peet",
+            "githubUsername": "connor4312"
+        },
+        {
+            "name": "dklmuc",
+            "githubUsername": "dklmuc"
+        },
+        {
+            "name": "Sarun Intaralawan",
+            "githubUsername": "sarunint"
+        },
+        {
+            "name": "Knut Erik Helgesen",
+            "githubUsername": "knuthelgesen"
+        }
+    ]
+}

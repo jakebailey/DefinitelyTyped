@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/braces",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/micromatch/braces"
+    ],
+    "devDependencies": {
+        "@types/braces": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "vemoo",
+            "githubUsername": "vemoo"
+        },
+        {
+            "name": "mrmlnc",
+            "githubUsername": "mrmlnc"
+        },
+        {
+            "name": "rejunp",
+            "githubUsername": "rejunp"
+        }
+    ]
+}

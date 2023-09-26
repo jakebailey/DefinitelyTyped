@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/sort-object-keys",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/keithamus/sort-object-keys#readme"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/sort-object-keys": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Emily Marigold Klassen",
+            "githubUsername": "forivall"
+        }
+    ]
+}

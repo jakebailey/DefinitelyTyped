@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/flightplan",
+    "version": "0.6.99999",
+    "projects": [
+        "https://github.com/pstadler/flightplan"
+    ],
+    "devDependencies": {
+        "@types/flightplan": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Borislav Zhivkov",
+            "githubUsername": "borislavjivkov"
+        }
+    ]
+}

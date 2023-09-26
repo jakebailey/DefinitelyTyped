@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/snap-shot-core",
+    "version": "10.2.99999",
+    "projects": [
+        "https://github.com/bahmutov/snap-shot-core"
+    ],
+    "devDependencies": {
+        "@types/snap-shot-core": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "SPGoding",
+            "githubUsername": "SPGoding"
+        }
+    ]
+}

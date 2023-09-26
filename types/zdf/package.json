@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/zdf",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/MauriceConrad/zdf-mediathek#readme"
+    ],
+    "devDependencies": {
+        "@types/zdf": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Koop",
+            "githubUsername": "SpraxDev"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/chrome-location",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/hughsk/chrome-location"
+    ],
+    "devDependencies": {
+        "@types/chrome-location": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ingyu Tae",
+            "githubUsername": "IngyuTae"
+        }
+    ]
+}

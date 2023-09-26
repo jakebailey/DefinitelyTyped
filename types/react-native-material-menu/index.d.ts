@@ -1,8 +1,3 @@
-// Type definitions for react-native-material-menu 1.0
-// Project: https://github.com/mxck/react-native-material-menu
-// Definitions by: hyun <https://github.com/KoreanThinker>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 import { ComponentClass, ReactElement, Component, ReactNode } from 'react';
 import { StyleProp, TextStyle, TextProps, ViewStyle } from 'react-native';
 

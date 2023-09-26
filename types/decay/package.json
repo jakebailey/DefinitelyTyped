@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/decay",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/clux/decay"
+    ],
+    "devDependencies": {
+        "@types/decay": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eric Naeseth",
+            "githubUsername": "enaeseth"
+        }
+    ]
+}

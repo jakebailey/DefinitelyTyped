@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/leakage",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/andywer/leakage#readme"
+    ],
+    "devDependencies": {
+        "@types/leakage": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Arne Schubert",
+            "githubUsername": "atd-schubert"
+        }
+    ]
+}

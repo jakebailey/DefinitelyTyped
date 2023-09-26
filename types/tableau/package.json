@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/tableau",
+    "version": "2.2.99999",
+    "projects": [
+        "https://onlinehelp.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm",
+        "https://github.com/jwerle/tableau"
+    ],
+    "devDependencies": {
+        "@types/tableau": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Greg Zapp",
+            "githubUsername": "protip"
+        }
+    ]
+}

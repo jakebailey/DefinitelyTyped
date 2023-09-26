@@ -1,6 +1,21 @@
 {
     "private": true,
+    "name": "@types/google-cloud__tasks",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/googleapis/nodejs-tasks"
+    ],
     "dependencies": {
+        "@types/node": "*",
         "google-gax": "^0.22.1"
-    }
+    },
+    "devDependencies": {
+        "@types/google-cloud__tasks": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ifiok Jr.",
+            "githubUsername": "ifiokjr"
+        }
+    ]
 }

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dragselect",
+    "version": "1.13.99999",
+    "projects": [
+        "https://ThibaultJanBeyer.com/"
+    ],
+    "devDependencies": {
+        "@types/dragselect": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "IceCreamYou",
+            "githubUsername": "IceCreamYou"
+        }
+    ]
+}

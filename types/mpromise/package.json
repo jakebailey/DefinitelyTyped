@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mpromise",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/aheckmann/mpromise"
+    ],
+    "devDependencies": {
+        "@types/mpromise": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Seulgi Kim",
+            "githubUsername": "sgkim126"
+        }
+    ]
+}

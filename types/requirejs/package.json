@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/requirejs",
+    "version": "2.1.99999",
+    "projects": [
+        "http://requirejs.org/"
+    ],
+    "devDependencies": {
+        "@types/requirejs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Josh Baldwin",
+            "githubUsername": "jbaldwin"
+        }
+    ]
+}

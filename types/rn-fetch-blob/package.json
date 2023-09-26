@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rn-fetch-blob",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/joltup/rn-fetch-blob#readme"
+    ],
+    "devDependencies": {
+        "@types/rn-fetch-blob": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Cao Peng",
+            "githubUsername": "pengcao1"
+        }
+    ]
+}

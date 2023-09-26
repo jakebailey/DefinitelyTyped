@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/wnumb",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/leongersen/wnumb"
+    ],
+    "devDependencies": {
+        "@types/wnumb": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Corey Jepperson",
+            "githubUsername": "acoreyj"
+        },
+        {
+            "name": "Jamie Neubert Pedersen",
+            "githubUsername": "eikooc"
+        }
+    ]
+}

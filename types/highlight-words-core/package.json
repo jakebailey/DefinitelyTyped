@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/highlight-words-core",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/bvaughn/highlight-words-core"
+    ],
+    "devDependencies": {
+        "@types/highlight-words-core": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "James Lismore",
+            "githubUsername": "jlismore"
+        }
+    ]
+}

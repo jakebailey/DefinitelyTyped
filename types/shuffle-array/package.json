@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/shuffle-array",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/pazguille/shuffle-array"
+    ],
+    "devDependencies": {
+        "@types/shuffle-array": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "rhysd",
+            "githubUsername": "rhysd"
+        }
+    ]
+}

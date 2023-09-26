@@ -1,11 +1,3 @@
-// Type definitions for matrix-js-sdk 11.0
-// Project: https://github.com/matrix-org/matrix-js-sdk
-// Definitions by: Huan LI (李卓桓) <https://github.com/huan>
-//                 André Vitor L. Matos <https://github.com/andrevmatos>
-//                 Thibaut Sardan <https://github.com/Tbaut>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 2.8
-
 import { EventEmitter } from 'events';
 
 // avoid requiring 'request' type

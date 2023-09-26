@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/field",
+    "version": "1.0.99999",
+    "projects": [
+        "https://www.npmjs.com/package/field"
+    ],
+    "devDependencies": {
+        "@types/field": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Leo Liang",
+            "githubUsername": "aleung"
+        }
+    ]
+}

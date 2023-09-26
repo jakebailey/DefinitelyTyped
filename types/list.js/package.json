@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/list.js",
+    "version": "2.3.99999",
+    "projects": [
+        "http://listjs.com"
+    ],
+    "devDependencies": {
+        "@types/list.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jeffrey Meng",
+            "githubUsername": "jeffreymeng"
+        }
+    ]
+}

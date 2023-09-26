@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/hippy__react",
+    "version": "2.13.99999",
+    "projects": [
+        "http://hippyjs.org"
+    ],
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-reconciler": "*"
+    },
+    "devDependencies": {
+        "@types/hippy__react": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "zeroyu",
+            "githubUsername": "zerosrat"
+        }
+    ]
+}

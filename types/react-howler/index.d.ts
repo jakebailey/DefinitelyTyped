@@ -1,9 +1,3 @@
-// Type definitions for react-howler 5.2
-// Project: https://github.com/thangngoc89/react-howler
-// Definitions by: Danijel Maksimovic <https://github.com/maksimovicdanijel>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 3.2
-
 import * as React from 'react';
 import { Howl, HowlOptions, HowlCallback, HowlErrorCallback } from 'howler';
 

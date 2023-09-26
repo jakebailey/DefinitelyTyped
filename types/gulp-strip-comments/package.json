@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/gulp-strip-comments",
+    "version": "2.5.99999",
+    "projects": [
+        "https://github.com/RnbWd/gulp-strip-comments"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gulp": "*",
+        "@types/gulp-strip-comments": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aqours",
+            "githubUsername": "Aqours"
+        }
+    ]
+}

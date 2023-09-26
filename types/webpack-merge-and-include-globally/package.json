@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/webpack-merge-and-include-globally",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/markshapiro/webpack-merge-and-include-globally#readme"
+    ],
+    "dependencies": {
+        "@types/webpack": "^4"
+    },
+    "devDependencies": {
+        "@types/clean-css": "*",
+        "@types/webpack-merge-and-include-globally": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

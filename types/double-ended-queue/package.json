@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/double-ended-queue",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/petkaantonov/deque"
+    ],
+    "devDependencies": {
+        "@types/double-ended-queue": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dmitry",
+            "githubUsername": "dsagal"
+        },
+        {
+            "name": "Dmitry Parzhitsky",
+            "githubUsername": "parzh"
+        }
+    ]
+}

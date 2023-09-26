@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/tz-offset",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/node-cron/tz-offset",
+        "https://github.com/merencia/tz-offset"
+    ],
+    "devDependencies": {
+        "@types/tz-offset": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Richard Honor",
+            "githubUsername": "RMHonor"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/psd",
+    "version": "3.4.99999",
+    "projects": [
+        "https://github.com/meltingice/psd.js#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*",
+        "@types/pngjs": "*",
+        "@types/rsvp": "*"
+    },
+    "devDependencies": {
+        "@types/psd": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Yehyoung Kang",
+            "githubUsername": "pastelmind"
+        }
+    ]
+}

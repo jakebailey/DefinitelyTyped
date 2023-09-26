@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/topo",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/hapijs/topo#readme"
+    ],
+    "devDependencies": {
+        "@types/topo": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

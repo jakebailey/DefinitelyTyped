@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/makeup-screenreader-trap",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/makeup-js/makeup-screenreader-trap#readme"
+    ],
+    "devDependencies": {
+        "@types/makeup-screenreader-trap": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Timur Manyanov",
+            "githubUsername": "darkwebdev"
+        }
+    ]
+}

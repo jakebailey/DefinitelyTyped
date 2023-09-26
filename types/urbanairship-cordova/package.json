@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/urbanairship-cordova",
+    "version": "3.4.99999",
+    "projects": [
+        "https://github.com/urbanairship/phonegap-ua-push"
+    ],
+    "devDependencies": {
+        "@types/urbanairship-cordova": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Justin Unterreiner",
+            "githubUsername": "Justin-Credible"
+        }
+    ]
+}

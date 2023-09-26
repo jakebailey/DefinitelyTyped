@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/whatwg-encoding",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/jsdom/whatwg-encoding"
+    ],
+    "devDependencies": {
+        "@types/whatwg-encoding": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "fengkx",
+            "githubUsername": "fengkx"
+        },
+        {
+            "name": "BendingBender",
+            "githubUsername": "bendingbender"
+        }
+    ]
+}

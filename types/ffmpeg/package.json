@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ffmpeg",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/damianociarla/node-ffmpeg"
+    ],
+    "devDependencies": {
+        "@types/ffmpeg": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Prasad Nayak",
+            "githubUsername": "Buzzertech"
+        }
+    ]
+}

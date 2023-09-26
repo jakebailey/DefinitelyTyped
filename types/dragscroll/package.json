@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dragscroll",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/asvd/dragscroll#readme"
+    ],
+    "devDependencies": {
+        "@types/dragscroll": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sean Kelly",
+            "githubUsername": "spkellydev"
+        }
+    ]
+}

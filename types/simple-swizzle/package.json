@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/simple-swizzle",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/qix-/node-simple-swizzle"
+    ],
+    "devDependencies": {
+        "@types/simple-swizzle": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

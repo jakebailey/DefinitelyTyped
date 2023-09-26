@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/abstract-things",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/thingbound/abstract-things"
+    ],
+    "devDependencies": {
+        "@types/abstract-things": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tadeusz Wyrzykowski",
+            "githubUsername": "Shaquu"
+        }
+    ]
+}

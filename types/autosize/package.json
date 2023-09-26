@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "name": "@types/autosize",
+    "version": "4.0.99999",
+    "projects": [
+        "http://www.jacklmoore.com/autosize/"
+    ],
+    "devDependencies": {
+        "@types/autosize": "workspace:.",
+        "@types/jquery": "*"
+    },
+    "contributors": [
+        {
+            "name": "Aaron T. King",
+            "githubUsername": "kingdango"
+        },
+        {
+            "name": "NeekSandhu",
+            "githubUsername": "NeekSandhu"
+        },
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

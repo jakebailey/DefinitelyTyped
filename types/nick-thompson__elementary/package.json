@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/nick-thompson__elementary",
+    "version": "0.9.99999",
+    "projects": [
+        "https://www.elementary.audio/"
+    ],
+    "devDependencies": {
+        "@types/nick-thompson__elementary": "workspace:."
+    },
+    "contributors": []
+}

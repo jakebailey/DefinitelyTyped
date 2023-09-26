@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/node-horseman",
+    "version": "3.3.99999",
+    "projects": [
+        "https://github.com/johntitus/node-horseman#readme"
+    ],
+    "devDependencies": {
+        "@types/node-horseman": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Pratheek Adidela",
+            "githubUsername": "apratheek"
+        }
+    ]
+}

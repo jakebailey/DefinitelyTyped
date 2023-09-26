@@ -1,6 +1,29 @@
 {
-  "private": true,
-  "dependencies": {
-    "helmet": "^4.0.0"
-  }
+    "private": true,
+    "name": "@types/koa-helmet",
+    "version": "6.0.99999",
+    "projects": [
+        "https://github.com/venables/koa-helmet#readme"
+    ],
+    "dependencies": {
+        "@types/koa": "*",
+        "helmet": "^4.0.0"
+    },
+    "devDependencies": {
+        "@types/koa-helmet": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nick Simmons",
+            "githubUsername": "nsimmons"
+        },
+        {
+            "name": "Jan Dolezel",
+            "githubUsername": "dolezel"
+        },
+        {
+            "name": "John Reilly",
+            "githubUsername": "johnnyreilly"
+        }
+    ]
 }

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/halogen",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/yuanyan/halogen"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/halogen": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vincent Rouffiat",
+            "githubUsername": "steller"
+        }
+    ]
+}

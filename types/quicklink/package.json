@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/quicklink",
+    "version": "2.3.99999",
+    "projects": [
+        "https://getquick.link/"
+    ],
+    "devDependencies": {
+        "@types/quicklink": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Pimm Hogeling",
+            "githubUsername": "Pimm"
+        }
+    ]
+}

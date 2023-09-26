@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/comma-number",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/elidoran/comma-number"
+    ],
+    "devDependencies": {
+        "@types/comma-number": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Corey Rice",
+            "githubUsername": "coreyar"
+        }
+    ]
+}

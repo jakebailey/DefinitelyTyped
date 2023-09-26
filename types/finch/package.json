@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/finch",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/stoodder/finchjs"
+    ],
+    "devDependencies": {
+        "@types/finch": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Sichau",
+            "githubUsername": "DavidSichau"
+        }
+    ]
+}

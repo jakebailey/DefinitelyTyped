@@ -1,7 +1,26 @@
 {
-  "private": true,
-  "dependencies": {
-    "@hapi/hapi": "^21.1.0",
-    "joi": "^17.7.0"
-  }
+    "private": true,
+    "name": "@types/hapipal__schmervice",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/hapipal/schmervice#readme"
+    ],
+    "typeScriptVersion": "4.9",
+    "dependencies": {
+        "@hapi/hapi": "^21.1.0",
+        "joi": "^17.7.0"
+    },
+    "devDependencies": {
+        "@types/hapipal__schmervice": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tim Costa",
+            "githubUsername": "timcosta"
+        },
+        {
+            "name": "Danilo Alonso",
+            "githubUsername": "damusix"
+        }
+    ]
 }

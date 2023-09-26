@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/word-extractor",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/morungos/node-word-extractor"
+    ],
+    "devDependencies": {
+        "@types/word-extractor": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rodrigo Saboya",
+            "githubUsername": "saboya"
+        }
+    ]
+}

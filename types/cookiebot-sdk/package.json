@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "@types/cookiebot-sdk",
+    "version": "2.43.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "Cookiebot SDK",
+    "projects": [
+        "https://www.cookiebot.com/en/developer/"
+    ],
+    "devDependencies": {
+        "@types/cookiebot-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Liam Martens",
+            "githubUsername": "LiamMartens"
+        },
+        {
+            "name": "Patric Eberle",
+            "githubUsername": "patric-eberle"
+        }
+    ]
+}

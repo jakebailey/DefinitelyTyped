@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/fontmin",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/ecomfe/fontmin#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/fontmin": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "AsPulse",
+            "githubUsername": "AsPulse"
+        }
+    ]
+}

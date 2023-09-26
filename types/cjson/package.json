@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cjson",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/kof/node-cjson#readme"
+    ],
+    "devDependencies": {
+        "@types/cjson": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

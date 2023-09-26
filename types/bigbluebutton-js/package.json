@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bigbluebutton-js",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/aakatev/bigbluebutton-js"
+    ],
+    "devDependencies": {
+        "@types/bigbluebutton-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marcos Kintschner",
+            "githubUsername": "mktn87"
+        }
+    ]
+}

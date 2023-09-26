@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/webscreens-window-placement",
+    "version": "0.1.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "webscreens multi screen window placement",
+    "projects": [
+        "https://webscreens.github.io/window-placement/"
+    ],
+    "devDependencies": {
+        "@types/webscreens-window-placement": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Colin Richardson",
+            "githubUsername": "WORMSS"
+        }
+    ]
+}

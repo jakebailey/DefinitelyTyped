@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/keep-network__tbtc.js",
+    "version": "0.18.99999",
+    "projects": [
+        "https://github.com/keep-network/tbtc.js"
+    ],
+    "dependencies": {
+        "@types/bn.js": "*",
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/keep-network__tbtc.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "corollari",
+            "githubUsername": "corollari"
+        }
+    ]
+}

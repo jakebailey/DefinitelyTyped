@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/git-config",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/eugeneware/git-config"
+    ],
+    "devDependencies": {
+        "@types/git-config": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sam Saint-Pettersen",
+            "githubUsername": "stpettersens"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

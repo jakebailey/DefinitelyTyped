@@ -1,6 +1,21 @@
 {
     "private": true,
+    "name": "@types/wordpress__rich-text",
+    "version": "6.4.99999",
+    "projects": [
+        "https://github.com/WordPress/gutenberg/tree/master/packages/rich-text/README.md"
+    ],
     "dependencies": {
+        "@types/react": "*",
         "@wordpress/data": "^8.5.0"
-    }
+    },
+    "devDependencies": {
+        "@types/wordpress__rich-text": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Derek Sifford",
+            "githubUsername": "dsifford"
+        }
+    ]
 }

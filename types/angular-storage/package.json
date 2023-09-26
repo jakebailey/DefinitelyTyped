@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/angular-storage",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/auth0/angular-storage"
+    ],
+    "dependencies": {
+        "@types/angular": "*"
+    },
+    "devDependencies": {
+        "@types/angular-storage": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matthew DeKrey",
+            "githubUsername": "mdekrey"
+        }
+    ]
+}

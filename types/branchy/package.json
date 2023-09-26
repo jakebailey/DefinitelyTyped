@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/branchy",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/loilo/branchy#readme"
+    ],
+    "dependencies": {
+        "@types/better-queue": "*"
+    },
+    "devDependencies": {
+        "@types/branchy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/combine-reducers",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/wesleytodd/combine-reducers#readme"
+    ],
+    "devDependencies": {
+        "@types/combine-reducers": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Paul Marbach",
+            "githubUsername": "fastfrwrd"
+        }
+    ]
+}

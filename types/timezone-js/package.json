@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/timezone-js",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/mde/timezone-js"
+    ],
+    "devDependencies": {
+        "@types/timezone-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "bonnici",
+            "githubUsername": "bonnici"
+        }
+    ]
+}

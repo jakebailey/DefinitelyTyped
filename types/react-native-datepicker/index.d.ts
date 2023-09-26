@@ -1,10 +1,3 @@
-// Type definitions for react-native-datepicker 1.7
-// Project: https://github.com/xgfe/react-native-datepicker
-// Definitions by: Jacob Baskin <https://github.com/jacobbaskin>
-//                 Cheng Gibson <https://github.com/nossbigg>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 2.8
-
 import * as React from 'react';
 import { StyleProp, TextStyle, ImageStyle, ViewStyle, ImageURISource } from 'react-native';
 import * as moment from 'moment';

@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/architect__sandbox",
+    "version": "3.3.99999",
+    "projects": [
+        "https://github.com/architect/sandbox#readme"
+    ],
+    "devDependencies": {
+        "@types/architect__sandbox": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Francis Gulotta",
+            "githubUsername": "reconbot"
+        },
+        {
+            "name": "Scott Willeke",
+            "githubUsername": "activescott"
+        },
+        {
+            "name": "Ryan Block",
+            "githubUsername": "ryanblock"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/test-exclude",
+    "version": "6.0.99999",
+    "projects": [
+        "https://istanbul.js.org/"
+    ],
+    "devDependencies": {
+        "@types/test-exclude": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "atlowChemi",
+            "githubUsername": "atlowChemi"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/escape-latex",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/dangmai/escape-latex"
+    ],
+    "devDependencies": {
+        "@types/escape-latex": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Oliver Schneider",
+            "githubUsername": "olsio"
+        }
+    ]
+}

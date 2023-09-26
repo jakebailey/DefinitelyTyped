@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/expired",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/lukechilds/expired"
+    ],
+    "devDependencies": {
+        "@types/expired": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

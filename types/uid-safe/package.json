@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/uid-safe",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/crypto-utils/uid-safe"
+    ],
+    "devDependencies": {
+        "@types/uid-safe": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Joshua DeVinney",
+            "githubUsername": "geoffreak"
+        }
+    ]
+}

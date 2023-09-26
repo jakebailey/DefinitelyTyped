@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/shade-blend-color",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/darieldejesus/shade-blend-color#readme"
+    ],
+    "devDependencies": {
+        "@types/shade-blend-color": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

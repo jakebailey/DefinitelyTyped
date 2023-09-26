@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/vndb",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/Permagate/vndb-reborn"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/vndb": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Pragun Saini",
+            "githubUsername": "PragunSaini"
+        }
+    ]
+}

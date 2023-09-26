@@ -1,6 +1,26 @@
 {
     "private": true,
+    "name": "@types/webpack-sources",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/webpack/webpack-sources"
+    ],
     "dependencies": {
+        "@types/node": "*",
+        "@types/source-list-map": "*",
         "source-map": "^0.6.1"
-    }
+    },
+    "devDependencies": {
+        "@types/webpack-sources": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "e-cloud",
+            "githubUsername": "e-cloud"
+        },
+        {
+            "name": "Chris Eppstein",
+            "githubUsername": "chriseppstein"
+        }
+    ]
 }

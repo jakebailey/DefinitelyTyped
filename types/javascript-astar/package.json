@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/javascript-astar",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/bgrins/javascript-astar"
+    ],
+    "devDependencies": {
+        "@types/javascript-astar": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "brian ridley",
+            "githubUsername": "ptlis"
+        },
+        {
+            "name": "Mike Lazer-Walker",
+            "githubUsername": "lazerwalker"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/identity-obj-proxy",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/keyanzhang/identity-obj-proxy#readme"
+    ],
+    "devDependencies": {
+        "@types/identity-obj-proxy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Remco Haszing",
+            "githubUsername": "remcohaszing"
+        }
+    ]
+}

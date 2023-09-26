@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/limestonefi__api",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/limestone-finance/limestone-api"
+    ],
+    "devDependencies": {
+        "@types/limestonefi__api": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marton Lederer",
+            "githubUsername": "martonlederer"
+        }
+    ]
+}

@@ -1,4 +1,18 @@
 {
     "private": true,
-    "type": "module"
+    "name": "@types/curtainsjs",
+    "version": "8.1.99999",
+    "projects": [
+        "https://github.com/martinlaxenaire/curtainsjs"
+    ],
+    "type": "module",
+    "devDependencies": {
+        "@types/curtainsjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Blakeinstein",
+            "githubUsername": "Blakeinstein"
+        }
+    ]
 }

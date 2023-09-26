@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/btoa-lite",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/hughsk/btoa-lite"
+    ],
+    "devDependencies": {
+        "@types/btoa-lite": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gregor Martynus",
+            "githubUsername": "gr2m"
+        }
+    ]
+}

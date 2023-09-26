@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-generator",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/blakeembrey/is-generator"
+    ],
+    "devDependencies": {
+        "@types/is-generator": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Richie Bendall",
+            "githubUsername": "Richienb"
+        }
+    ]
+}

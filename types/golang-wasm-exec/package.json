@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/golang-wasm-exec",
+    "version": "1.15.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "golang-wasm-exec",
+    "projects": [
+        "https://github.com/golang/go"
+    ],
+    "devDependencies": {
+        "@types/golang-wasm-exec": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Adam Pyle",
+            "githubUsername": "pyle"
+        }
+    ]
+}

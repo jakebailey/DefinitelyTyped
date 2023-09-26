@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/salesforce__canvas-js-sdk",
+    "version": "1.41.99999",
+    "projects": [
+        "https://github.com/forcedotcom/SalesforceCanvasJavascriptSDK#readme"
+    ],
+    "devDependencies": {
+        "@types/salesforce__canvas-js-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zach Szafran",
+            "githubUsername": "zms-dev"
+        }
+    ]
+}

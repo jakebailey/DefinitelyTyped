@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/valvelet",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/lpinca/valvelet"
+    ],
+    "devDependencies": {
+        "@types/valvelet": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "bendingbender"
+        }
+    ]
+}

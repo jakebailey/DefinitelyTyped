@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/kms-json",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/AlexanderMS/kms-json"
+    ],
+    "devDependencies": {
+        "@types/kms-json": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Yoichi Imai",
+            "githubUsername": "sunnyone"
+        }
+    ]
+}

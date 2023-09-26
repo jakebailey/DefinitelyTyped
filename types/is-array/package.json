@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-array",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/retrofox/is-array"
+    ],
+    "devDependencies": {
+        "@types/is-array": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Pine Mizune",
+            "githubUsername": "pine"
+        }
+    ]
+}

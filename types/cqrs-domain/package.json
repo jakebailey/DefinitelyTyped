@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cqrs-domain",
+    "version": "2.10.99999",
+    "projects": [
+        "https://github.com/adrai/node-cqrs-domain"
+    ],
+    "devDependencies": {
+        "@types/cqrs-domain": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Steven Weiß",
+            "githubUsername": "blissi"
+        }
+    ]
+}

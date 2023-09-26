@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/axel",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/F1LT3R/axel"
+    ],
+    "devDependencies": {
+        "@types/axel": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ruslan Molodyko",
+            "githubUsername": "ruslan-molodyko"
+        }
+    ]
+}

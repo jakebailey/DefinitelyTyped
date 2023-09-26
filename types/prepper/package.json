@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/prepper",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/guidesmiths/prepper"
+    ],
+    "devDependencies": {
+        "@types/prepper": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Teun Mooij",
+            "githubUsername": "teunmooij"
+        }
+    ]
+}

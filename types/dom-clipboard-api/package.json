@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/dom-clipboard-api",
+    "version": "1.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "w3c Clipboard API",
+    "projects": [
+        "https://w3c.github.io/clipboard-apis/"
+    ],
+    "devDependencies": {
+        "@types/dom-clipboard-api": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "James Garbutt",
+            "githubUsername": "43081j"
+        }
+    ]
+}

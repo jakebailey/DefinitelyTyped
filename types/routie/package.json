@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/routie",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/jgallen23/routie"
+    ],
+    "devDependencies": {
+        "@types/routie": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Adilson",
+            "githubUsername": "Adilson"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/simple-react-lightbox",
+    "version": "3.6.99999",
+    "projects": [
+        "https://github.com/michelecocuccio/simple-react-lightbox#readme"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-dom": "*",
+        "@types/simple-react-lightbox": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Guilherme Samuel",
+            "githubUsername": "guilhermefront"
+        }
+    ]
+}

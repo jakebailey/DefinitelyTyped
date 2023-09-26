@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsonld",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/digitalbazaar/jsonld.js"
+    ],
+    "devDependencies": {
+        "@types/jsonld": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nathan Shively-Sanders",
+            "githubUsername": "sandersn"
+        }
+    ]
+}

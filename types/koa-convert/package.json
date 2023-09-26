@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/koa-convert",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/koajs/convert",
+        "https://github.com/gyson/koa-convert"
+    ],
+    "dependencies": {
+        "@types/koa": "*"
+    },
+    "devDependencies": {
+        "@types/koa-convert": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Byrne",
+            "githubUsername": "danwbyrne"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/freedom",
+    "version": "0.6.99999",
+    "projects": [
+        "https://github.com/freedomjs/freedom"
+    ],
+    "devDependencies": {
+        "@types/freedom": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jonathan Pevarnek",
+            "githubUsername": "jpevarnek"
+        }
+    ]
+}

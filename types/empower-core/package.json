@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/empower-core",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/twada/power-assert-runtime"
+    ],
+    "devDependencies": {
+        "@types/empower-core": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "Jakub Jirutka",
+            "githubUsername": "jirutka"
+        }
+    ]
+}

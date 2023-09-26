@@ -1,6 +1,21 @@
 {
     "private": true,
+    "name": "@types/koa-redis-cache",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/coderhaoxin/koa-redis-cache"
+    ],
     "dependencies": {
+        "@types/koa": "*",
         "@types/redis": "^2.8.0"
-    }
+    },
+    "devDependencies": {
+        "@types/koa-redis-cache": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dima Mukhin",
+            "githubUsername": "dimamukhin"
+        }
+    ]
 }

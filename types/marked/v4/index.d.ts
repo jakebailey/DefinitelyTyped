@@ -1,19 +1,3 @@
-// Type definitions for Marked 4.3
-// Project: https://github.com/markedjs/marked, https://marked.js.org
-// Definitions by: William Orr <https://github.com/worr>
-//                 BendingBender <https://github.com/BendingBender>
-//                 CrossR <https://github.com/CrossR>
-//                 Mike Wickett <https://github.com/mwickett>
-//                 Hitomi Hatsukaze <https://github.com/htkzhtm>
-//                 Ezra Celli <https://github.com/ezracelli>
-//                 Romain LE BARO <https://github.com/scandinave>
-//                 Sarun Intaralawan <https://github.com/sarunint>
-//                 Tony Brix <https://github.com/UziTech>
-//                 Anatolii Titov <https://github.com/Toliak>
-//                 Jean-Francois Cere <https://github.com/jfcere>
-//                 Mykhaylo Stolyarchuk <https://github.com/MykSto>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 /**
  * Compiles markdown to HTML asynchronously.
  *

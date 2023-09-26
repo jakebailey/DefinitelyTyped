@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/stats-lite",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/brycebaril/node-stats-lite"
+    ],
+    "devDependencies": {
+        "@types/stats-lite": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nathan Shively-Sanders",
+            "githubUsername": "sandersn"
+        }
+    ]
+}

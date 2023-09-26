@@ -1,6 +1,24 @@
 {
-  "private": true,
-  "dependencies": {
-    "ci-info": "^3.1.0"
-  }
+    "private": true,
+    "name": "@types/is-ci",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/watson/is-ci"
+    ],
+    "dependencies": {
+        "ci-info": "^3.1.0"
+    },
+    "devDependencies": {
+        "@types/is-ci": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Arne Schubert",
+            "githubUsername": "atd-schubert"
+        },
+        {
+            "name": "Florian Imdahl",
+            "githubUsername": "ffflorian"
+        }
+    ]
 }

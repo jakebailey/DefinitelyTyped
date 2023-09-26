@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/summernote",
+    "version": "0.8.99999",
+    "projects": [
+        "https://github.com/summernote/summernote#readme"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/summernote": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wouter Staelens",
+            "githubUsername": "wstaelens"
+        },
+        {
+            "name": "Corbin Crutchley",
+            "githubUsername": "crutchcorn"
+        }
+    ]
+}

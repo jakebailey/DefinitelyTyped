@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/html-encoding-sniffer",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/jsdom/html-encoding-sniffer#readme"
+    ],
+    "devDependencies": {
+        "@types/html-encoding-sniffer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        },
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

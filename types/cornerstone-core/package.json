@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cornerstone-core",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/cornerstonejs/cornerstone"
+    ],
+    "devDependencies": {
+        "@types/cornerstone-core": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "SangYeob Yu",
+            "githubUsername": "deminoth"
+        }
+    ]
+}

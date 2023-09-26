@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/react-scrollbar",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/souhe/reactScrollbar"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-scrollbar": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stephen Jelfs",
+            "githubUsername": "stephenjelfs"
+        },
+        {
+            "name": "Hugo Capocci",
+            "githubUsername": "HugoCapocci"
+        }
+    ]
+}

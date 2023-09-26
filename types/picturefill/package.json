@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/picturefill",
+    "version": "3.0.99999",
+    "projects": [
+        "https://scottjehl.github.io/picturefill/"
+    ],
+    "devDependencies": {
+        "@types/picturefill": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alexander Azarov",
+            "githubUsername": "alaz"
+        }
+    ]
+}

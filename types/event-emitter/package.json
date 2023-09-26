@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/event-emitter",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/medikoo/event-emitter#readme"
+    ],
+    "devDependencies": {
+        "@types/event-emitter": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Karol Janyst",
+            "githubUsername": "LKay"
+        }
+    ]
+}

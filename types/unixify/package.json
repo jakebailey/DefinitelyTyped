@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/unixify",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/unixify"
+    ],
+    "devDependencies": {
+        "@types/unixify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Karl Horky",
+            "githubUsername": "karlhorky"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/multicast-dns",
+    "version": "7.2.99999",
+    "projects": [
+        "https://github.com/mafintosh/multicast-dns"
+    ],
+    "dependencies": {
+        "@types/dns-packet": "*",
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/multicast-dns": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

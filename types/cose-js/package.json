@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/cose-js",
+    "version": "0.8.99999",
+    "projects": [
+        "https://github.com/erdtman/COSE-JS"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/cose-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kyle Hensel",
+            "githubUsername": "k-yle"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/sqlstring",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/mysqljs/sqlstring"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/sqlstring": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marvin Hagemeister",
+            "githubUsername": "marvinhagemeister"
+        },
+        {
+            "name": "koooge",
+            "githubUsername": "koooge"
+        }
+    ]
+}

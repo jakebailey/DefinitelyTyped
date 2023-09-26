@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/ngreact",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/ngReact/ngReact"
+    ],
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/ngreact": "workspace:.",
+        "@types/prop-types": "*"
+    },
+    "contributors": [
+        {
+            "name": "Vicky Lai",
+            "githubUsername": "velveret"
+        }
+    ]
+}

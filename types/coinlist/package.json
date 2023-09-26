@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/coinlist",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/lukechilds/coinlist"
+    ],
+    "devDependencies": {
+        "@types/coinlist": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

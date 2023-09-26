@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/viewport-list",
+    "version": "5.1.99999",
+    "projects": [
+        "https://github.com/kevva/viewport-list#readme"
+    ],
+    "devDependencies": {
+        "@types/viewport-list": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Satya Rohith",
+            "githubUsername": "satyarohith"
+        }
+    ]
+}

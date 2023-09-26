@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/unzip-stream",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/mhr3/unzip-stream#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/unzip-stream": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kyle Hensel",
+            "githubUsername": "k-yle"
+        }
+    ]
+}

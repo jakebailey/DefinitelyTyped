@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/better-scroll",
+    "version": "1.12.99999",
+    "projects": [
+        "https://github.com/ustbhuangyi/better-scroll"
+    ],
+    "devDependencies": {
+        "@types/better-scroll": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "cloudstone",
+            "githubUsername": "stoneChen"
+        },
+        {
+            "name": "jack",
+            "githubUsername": "cnjack"
+        }
+    ]
+}

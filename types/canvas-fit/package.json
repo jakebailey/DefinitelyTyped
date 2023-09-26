@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/canvas-fit",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/hughsk/canvas-fit"
+    ],
+    "devDependencies": {
+        "@types/canvas-fit": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/phone",
+    "version": "2.4.99999",
+    "projects": [
+        "https://github.com/aftership/phone"
+    ],
+    "devDependencies": {
+        "@types/phone": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Hagai Cohen",
+            "githubUsername": "DxCx"
+        },
+        {
+            "name": "Tim Brown",
+            "githubUsername": "brimtown"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/he",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/mathiasbynens/he"
+    ],
+    "devDependencies": {
+        "@types/he": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Simon Edwards",
+            "githubUsername": "sedwards2009"
+        },
+        {
+            "name": "Robin Tregaskis",
+            "githubUsername": "lokidokicoki"
+        }
+    ]
+}

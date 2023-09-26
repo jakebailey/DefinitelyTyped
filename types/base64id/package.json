@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/base64id",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/faeldt/base64id"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/base64id": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Shadman Kolahzary",
+            "githubUsername": "Kolahzary"
+        }
+    ]
+}

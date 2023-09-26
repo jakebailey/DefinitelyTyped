@@ -1,0 +1,30 @@
+{
+    "private": true,
+    "name": "@types/eventsource",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/EventSource/eventsource"
+    ],
+    "typeScriptVersion": "5.0",
+    "devDependencies": {
+        "@types/eventsource": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Scott Lee Davis",
+            "githubUsername": "scottleedavis"
+        },
+        {
+            "name": "Ali Afroozeh",
+            "githubUsername": "afroozeh"
+        },
+        {
+            "name": "Pedro Gámez",
+            "githubUsername": "snakedrak"
+        },
+        {
+            "name": "Akuukis",
+            "githubUsername": "Akuukis"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/stream-buffers",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/samcday/node-stream-buffer#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/stream-buffers": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jason Dent",
+            "githubUsername": "Jason3S"
+        }
+    ]
+}

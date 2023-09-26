@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-trademarked",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/egoist/is-trademarked#readme"
+    ],
+    "devDependencies": {
+        "@types/is-trademarked": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

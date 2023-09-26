@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/json-mask",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/nemtsov/json-mask#readme"
+    ],
+    "devDependencies": {
+        "@types/json-mask": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Simon Dean",
+            "githubUsername": "simondean"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/react-mentions",
+    "version": "4.1.99999",
+    "projects": [
+        "https://github.com/signavio/react-mentions"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-mentions": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Scott Willeke",
+            "githubUsername": "activescott"
+        },
+        {
+            "name": "Eugene Fedorenko",
+            "githubUsername": "efedorenko"
+        }
+    ]
+}

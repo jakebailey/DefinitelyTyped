@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/compass-vertical-rhythm",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/KyleAMathews/compass-vertical-rhythm"
+    ],
+    "devDependencies": {
+        "@types/compass-vertical-rhythm": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Luis Rodrigues",
+            "githubUsername": "goblindegook"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/async-eventemitter",
+    "version": "0.2.99999",
+    "projects": [
+        "https://www.npmjs.com/package/async-eventemitter"
+    ],
+    "devDependencies": {
+        "@types/async-eventemitter": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "patarapolw",
+            "githubUsername": "patarapolw"
+        }
+    ]
+}

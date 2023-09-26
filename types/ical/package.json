@@ -1,6 +1,24 @@
 {
     "private": true,
+    "name": "@types/ical",
+    "version": "0.8.99999",
+    "projects": [
+        "https://github.com/peterbraden/ical.js"
+    ],
     "dependencies": {
         "rrule": "2.6.4"
-    }
+    },
+    "devDependencies": {
+        "@types/ical": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nick Clifford",
+            "githubUsername": "nickbclifford"
+        },
+        {
+            "name": "Matej Vilk",
+            "githubUsername": "iammatis"
+        }
+    ]
 }

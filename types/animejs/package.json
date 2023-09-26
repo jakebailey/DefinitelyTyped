@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/animejs",
+    "version": "3.1.99999",
+    "projects": [
+        "http://animejs.com"
+    ],
+    "devDependencies": {
+        "@types/animejs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Andrew Babin    ",
+            "githubUsername": "A-Babin"
+        },
+        {
+            "name": "southrock        ",
+            "githubUsername": "southrock"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-data-descriptor",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/is-data-descriptor"
+    ],
+    "devDependencies": {
+        "@types/is-data-descriptor": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Richie Bendall",
+            "githubUsername": "Richienb"
+        }
+    ]
+}

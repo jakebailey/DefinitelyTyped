@@ -1,6 +1,25 @@
 {
     "private": true,
+    "name": "@types/wordpress__notices",
+    "version": "3.27.99999",
+    "projects": [
+        "https://github.com/WordPress/gutenberg/tree/master/packages/notices/README.md"
+    ],
     "dependencies": {
+        "@types/react": "*",
         "@wordpress/data": "^8.5.0"
-    }
+    },
+    "devDependencies": {
+        "@types/wordpress__notices": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Derek Sifford",
+            "githubUsername": "dsifford"
+        },
+        {
+            "name": "Chi-Hsuan Huang",
+            "githubUsername": "chihsuan"
+        }
+    ]
 }

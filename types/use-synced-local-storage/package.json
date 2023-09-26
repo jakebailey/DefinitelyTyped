@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/use-synced-local-storage",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/berkeatac/use-synced-local-storage"
+    ],
+    "devDependencies": {
+        "@types/use-synced-local-storage": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stanislav Termosa",
+            "githubUsername": "termosa"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/styletron-engine-monolithic",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/styletron/styletron"
+    ],
+    "dependencies": {
+        "@types/styletron-standard": "*"
+    },
+    "devDependencies": {
+        "@types/styletron-engine-monolithic": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tom Golden",
+            "githubUsername": "tbjgolden"
+        }
+    ]
+}

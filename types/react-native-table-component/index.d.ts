@@ -1,8 +1,3 @@
-// Type definitions for react-native-table-component 1.2
-// Project: https://github.com/Gil2015/react-native-table-component#readme
-// Definitions by: David Cole <https://github.com/davidcole1340>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 import { Component, ReactNode } from 'react';
 import { TextStyle, ViewStyle, StyleProp } from 'react-native';
 

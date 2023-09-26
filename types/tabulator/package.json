@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tabulator",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/codenautas/tabulator"
+    ],
+    "devDependencies": {
+        "@types/tabulator": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eugenio Arosteguy",
+            "githubUsername": "euginio"
+        }
+    ]
+}
