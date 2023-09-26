@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/getpass",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/arekinath/node-getpass#readme"
+    ],
+    "devDependencies": {
+        "@types/getpass": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Claas Ahlrichs",
+            "githubUsername": "claasahl"
+        }
+    ]
+}

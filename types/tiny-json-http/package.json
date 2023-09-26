@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tiny-json-http",
+    "version": "7.3.99999",
+    "projects": [
+        "https://github.com/brianleroux/tiny-json-http"
+    ],
+    "devDependencies": {
+        "@types/tiny-json-http": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Levi Bostian",
+            "githubUsername": "levibostian"
+        }
+    ]
+}

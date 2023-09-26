@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/keycloak-connect-roles",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/osvaldo2627/keycloak-connect-roles#readme"
+    ],
+    "typeScriptVersion": "4.7",
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/keycloak-connect-roles": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Arian Meidow",
+            "githubUsername": "sPaCeMoNk3yIam"
+        }
+    ]
+}

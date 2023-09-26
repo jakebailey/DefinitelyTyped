@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/nunjucks",
+    "version": "3.2.99999",
+    "projects": [
+        "http://mozilla.github.io/nunjucks/",
+        "https://github.com/mozilla/nunjucks"
+    ],
+    "devDependencies": {
+        "@types/nunjucks": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matthew Burstein",
+            "githubUsername": "MatthewBurstein"
+        }
+    ]
+}

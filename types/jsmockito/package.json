@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsmockito",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/chrisleishman/jsmockito"
+    ],
+    "devDependencies": {
+        "@types/jsmockito": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Karl Bennett",
+            "githubUsername": "shiver-me-timbers"
+        }
+    ]
+}

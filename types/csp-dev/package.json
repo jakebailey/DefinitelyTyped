@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/csp-dev",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/muratgozel/csp-dev"
+    ],
+    "devDependencies": {
+        "@types/csp-dev": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

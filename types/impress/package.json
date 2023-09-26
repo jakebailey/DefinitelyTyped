@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/impress",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/bartaz/impress.js"
+    ],
+    "devDependencies": {
+        "@types/impress": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Boris Yankov",
+            "githubUsername": "borisyankov"
+        }
+    ]
+}

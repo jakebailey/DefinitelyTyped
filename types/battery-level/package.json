@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/battery-level",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/gillstrom/battery-level#readme"
+    ],
+    "devDependencies": {
+        "@types/battery-level": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

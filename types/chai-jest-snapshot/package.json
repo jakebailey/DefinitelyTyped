@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/chai-jest-snapshot",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/suchipi/chai-jest-snapshot#readme"
+    ],
+    "dependencies": {
+        "@types/chai": "*",
+        "@types/mocha": "*"
+    },
+    "devDependencies": {
+        "@types/chai-jest-snapshot": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matt Perry",
+            "githubUsername": "mattvperry"
+        }
+    ]
+}

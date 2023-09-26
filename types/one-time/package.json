@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/one-time",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/3rd-eden/one-time"
+    ],
+    "devDependencies": {
+        "@types/one-time": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

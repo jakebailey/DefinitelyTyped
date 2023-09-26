@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/findandreplacedomtext",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/padolsey/findAndReplaceDOMText"
+    ],
+    "devDependencies": {
+        "@types/findandreplacedomtext": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BART!",
+            "githubUsername": "bartholomej"
+        }
+    ]
+}

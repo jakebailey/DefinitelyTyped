@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsum",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/fraunhoferfokus/JSum#readme"
+    ],
+    "devDependencies": {
+        "@types/jsum": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Uzumeri",
+            "githubUsername": "daviduzumeri"
+        }
+    ]
+}

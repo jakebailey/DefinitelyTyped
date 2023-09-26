@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bunnymq",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/dial-once/node-bunnymq"
+    ],
+    "devDependencies": {
+        "@types/bunnymq": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Cyril Schumacher",
+            "githubUsername": "cyrilschumacher"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/caller",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/totherik/caller"
+    ],
+    "devDependencies": {
+        "@types/caller": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ignocide",
+            "githubUsername": "ignocide"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/thumbsupply",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/RyanAfrish7/thumbsupply#readme"
+    ],
+    "devDependencies": {
+        "@types/thumbsupply": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "MagiCzOOz",
+            "githubUsername": "MagiCzOOz"
+        }
+    ]
+}

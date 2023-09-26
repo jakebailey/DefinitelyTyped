@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/timer-machine",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/brentburg/timer-machine",
+        "https://github.com/brentburgoyne/timer-machine"
+    ],
+    "devDependencies": {
+        "@types/timer-machine": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dolan Miu",
+            "githubUsername": "dolanmiu"
+        }
+    ]
+}

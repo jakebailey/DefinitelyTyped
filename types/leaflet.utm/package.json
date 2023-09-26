@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/leaflet.utm",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/jjimenezshaw/Leaflet.UTM"
+    ],
+    "dependencies": {
+        "@types/leaflet": "*"
+    },
+    "devDependencies": {
+        "@types/leaflet.utm": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Andrew Lineyschikov",
+            "githubUsername": "Elcaten"
+        }
+    ]
+}

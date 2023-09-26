@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bricks.js",
+    "version": "1.8.99999",
+    "projects": [
+        "https://github.com/callmecavs/bricks.js"
+    ],
+    "devDependencies": {
+        "@types/bricks.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Pusztai Tibor",
+            "githubUsername": "kondi"
+        }
+    ]
+}

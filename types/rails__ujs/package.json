@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/rails__ujs",
+    "version": "6.0.99999",
+    "projects": [
+        "http://rubyonrails.org/"
+    ],
+    "devDependencies": {
+        "@types/rails__ujs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "fsubal",
+            "githubUsername": "fsubal"
+        },
+        {
+            "name": "abcang",
+            "githubUsername": "abcang"
+        }
+    ]
+}

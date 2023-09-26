@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/multiparty",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/andrewrk/node-multiparty"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/multiparty": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ken Fukuyama",
+            "githubUsername": "kenfdev"
+        }
+    ]
+}

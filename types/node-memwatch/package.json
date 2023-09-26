@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/node-memwatch",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/eduardbcom/node-memwatch#readme"
+    ],
+    "devDependencies": {
+        "@types/node-memwatch": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eunchong Yu",
+            "githubUsername": "Kroisse"
+        }
+    ]
+}

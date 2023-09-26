@@ -1,6 +1,36 @@
 {
     "private": true,
+    "name": "@types/indy-sdk",
+    "version": "1.16.99999",
+    "projects": [
+        "https://github.com/hyperledger/indy-sdk/tree/master/wrappers/nodejs"
+    ],
     "dependencies": {
         "buffer": "^6.0.0"
-    }
+    },
+    "devDependencies": {
+        "@types/indy-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Timo Glastra",
+            "githubUsername": "TimoGlastra"
+        },
+        {
+            "name": "Jakub Kočí",
+            "githubUsername": "jakubkoci"
+        },
+        {
+            "name": "Karim Stekelenburg",
+            "githubUsername": "karimStekelenburg"
+        },
+        {
+            "name": "James Ebert",
+            "githubUsername": "JamesKebert"
+        },
+        {
+            "name": "Berend Sliedrecht",
+            "githubUsername": "berendsliedrecht"
+        }
+    ]
 }

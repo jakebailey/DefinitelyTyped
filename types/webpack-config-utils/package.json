@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/webpack-config-utils",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/kentcdodds/webpack-config-utils#readme"
+    ],
+    "devDependencies": {
+        "@types/webpack-config-utils": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Hochel",
+            "githubUsername": "hotell"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/urlencode",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/node-modules/urlencode"
+    ],
+    "devDependencies": {
+        "@types/urlencode": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "kimcoder",
+            "githubUsername": "kimcoder"
+        }
+    ]
+}

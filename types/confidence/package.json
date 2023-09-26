@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/confidence",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/hapijs/confidence.git"
+    ],
+    "devDependencies": {
+        "@types/confidence": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jean-Philippe Pellerin",
+            "githubUsername": "jppellerin"
+        }
+    ]
+}

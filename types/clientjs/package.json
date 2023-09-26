@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/clientjs",
+    "version": "0.2.99999",
+    "projects": [
+        "https://clientjs.org"
+    ],
+    "devDependencies": {
+        "@types/clientjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "icopp",
+            "githubUsername": "icopp"
+        }
+    ]
+}

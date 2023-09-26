@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/unzalgo",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/kdex/unzalgo#readme"
+    ],
+    "devDependencies": {
+        "@types/unzalgo": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dacri Burdan",
+            "githubUsername": "dburdan"
+        },
+        {
+            "name": "Rodry",
+            "githubUsername": "ImRodry"
+        }
+    ]
+}

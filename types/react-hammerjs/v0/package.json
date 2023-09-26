@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/react-hammerjs",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/JedWatson/react-hammerjs#readme"
+    ],
+    "dependencies": {
+        "@types/hammerjs": "*",
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-hammerjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jason Unger",
+            "githubUsername": "jsonunger"
+        }
+    ]
+}

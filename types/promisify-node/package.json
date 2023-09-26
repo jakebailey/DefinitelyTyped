@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/promisify-node",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/nodegit/promisify-node"
+    ],
+    "devDependencies": {
+        "@types/promisify-node": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Borek Bernard",
+            "githubUsername": "borekb"
+        }
+    ]
+}

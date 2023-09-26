@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/fscreen",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/rafrex/fscreen#readme"
+    ],
+    "devDependencies": {
+        "@types/fscreen": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Joscha Feth",
+            "githubUsername": "joscha"
+        },
+        {
+            "name": "Terry Mun",
+            "githubUsername": "terrymun"
+        }
+    ]
+}

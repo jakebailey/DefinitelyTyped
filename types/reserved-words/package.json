@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/reserved-words",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/zxqfox/reserved-words#readme"
+    ],
+    "devDependencies": {
+        "@types/reserved-words": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Spencer Miskoviak",
+            "githubUsername": "skovy"
+        }
+    ]
+}

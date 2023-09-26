@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/has-ansi",
+    "version": "5.0.99999",
+    "projects": [
+        "https://github.com/chalk/has-ansi#readme"
+    ],
+    "devDependencies": {
+        "@types/has-ansi": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

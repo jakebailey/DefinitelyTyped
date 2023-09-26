@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/nodemark",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/JoshuaWise/nodemark"
+    ],
+    "devDependencies": {
+        "@types/nodemark": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Beeno Tung",
+            "githubUsername": "beenotung"
+        }
+    ]
+}

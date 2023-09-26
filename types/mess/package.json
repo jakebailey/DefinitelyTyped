@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mess",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/bobrik/node-mess"
+    ],
+    "devDependencies": {
+        "@types/mess": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wim Looman",
+            "githubUsername": "Nemo157"
+        }
+    ]
+}

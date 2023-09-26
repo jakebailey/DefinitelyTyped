@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/cross-spawn",
+    "version": "6.0.99999",
+    "projects": [
+        "https://github.com/moxystudio/node-cross-spawn"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/cross-spawn": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alorel",
+            "githubUsername": "Alorel"
+        },
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        }
+    ]
+}

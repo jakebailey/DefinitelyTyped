@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/node-fibers",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/laverdet/node-fibers"
+    ],
+    "devDependencies": {
+        "@types/node-fibers": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Cary Haynie",
+            "githubUsername": "caryhaynie"
+        }
+    ]
+}

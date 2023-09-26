@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dustjs-linkedin",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/linkedin/dustjs"
+    ],
+    "devDependencies": {
+        "@types/dustjs-linkedin": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marcelo Dezem",
+            "githubUsername": "mdezem"
+        }
+    ]
+}

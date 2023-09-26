@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/yieldable-json",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/ibmruntimes/yieldable-json"
+    ],
+    "devDependencies": {
+        "@types/yieldable-json": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Badin",
+            "githubUsername": "martin-badin"
+        }
+    ]
+}

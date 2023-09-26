@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/charcodes",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/xtuc/charcodes"
+    ],
+    "devDependencies": {
+        "@types/charcodes": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dylan Armstrong",
+            "githubUsername": "dylanarmstrong"
+        }
+    ]
+}

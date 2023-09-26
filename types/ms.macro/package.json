@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ms.macro",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/knpwrs/ms.macro#readme"
+    ],
+    "devDependencies": {
+        "@types/ms.macro": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Cameron Knight",
+            "githubUsername": "ckknight"
+        }
+    ]
+}

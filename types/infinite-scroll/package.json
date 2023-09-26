@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "@types/infinite-scroll",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/metafizzy/infinite-scroll"
+    ],
+    "dependencies": {
+        "@types/isotope-layout": "*",
+        "@types/jquery": "*",
+        "@types/masonry-layout": "*",
+        "@types/packery": "*"
+    },
+    "devDependencies": {
+        "@types/infinite-scroll": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Adam Thompson-Sharpe",
+            "githubUsername": "MysteryBlokHed"
+        }
+    ]
+}

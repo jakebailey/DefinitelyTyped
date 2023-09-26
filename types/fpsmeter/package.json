@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fpsmeter",
+    "version": "0.3.99999",
+    "projects": [
+        "http://darsa.in/fpsmeter/"
+    ],
+    "devDependencies": {
+        "@types/fpsmeter": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aaron Lampros",
+            "githubUsername": "alampros"
+        }
+    ]
+}

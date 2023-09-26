@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/deezer-sdk",
+    "version": "0.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "deezer-sdk",
+    "projects": [
+        "https://developers.deezer.com/sdk/javascript"
+    ],
+    "devDependencies": {
+        "@types/deezer-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marco Eckstein",
+            "githubUsername": "marco-eckstein"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/system-logger",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/leocwlam/system-logger"
+    ],
+    "devDependencies": {
+        "@types/system-logger": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Leo Lam",
+            "githubUsername": "leocwlam"
+        }
+    ]
+}

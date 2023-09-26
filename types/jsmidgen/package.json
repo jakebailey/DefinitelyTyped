@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsmidgen",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/dingram/jsmidgen#readme"
+    ],
+    "devDependencies": {
+        "@types/jsmidgen": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jimmy Cuadra",
+            "githubUsername": "jimmycuadra"
+        }
+    ]
+}

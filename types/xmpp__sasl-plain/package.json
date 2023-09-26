@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/xmpp__sasl-plain",
+    "version": "0.13.99999",
+    "projects": [
+        "https://github.com/xmppjs/xmpp.js/tree/main/packages/sasl-plain"
+    ],
+    "dependencies": {
+        "@types/xmpp__sasl": "*"
+    },
+    "devDependencies": {
+        "@types/xmpp__sasl-plain": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cookie_js",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/florian/cookie.js"
+    ],
+    "devDependencies": {
+        "@types/cookie_js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "slawiko",
+            "githubUsername": "slawiko"
+        }
+    ]
+}

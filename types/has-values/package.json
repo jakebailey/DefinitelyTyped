@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/has-values",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/has-values"
+    ],
+    "devDependencies": {
+        "@types/has-values": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ankan Bhattacharya",
+            "githubUsername": "Ankan002"
+        }
+    ]
+}

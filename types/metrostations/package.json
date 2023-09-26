@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/metrostations",
+    "version": "6.0.99999",
+    "projects": [
+        "https://github.com/ungarson/MetroStations#readme"
+    ],
+    "devDependencies": {
+        "@types/metrostations": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

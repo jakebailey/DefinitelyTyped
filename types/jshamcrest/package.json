@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jshamcrest",
+    "version": "0.7.99999",
+    "projects": [
+        "https://github.com/danielfm/jshamcrest/"
+    ],
+    "devDependencies": {
+        "@types/jshamcrest": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Harkness",
+            "githubUsername": "dharkness"
+        }
+    ]
+}

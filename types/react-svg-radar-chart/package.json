@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/react-svg-radar-chart",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/Spyna/react-svg-radar-chart"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-svg-radar-chart": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Lukas Tutkus",
+            "githubUsername": "luksys5"
+        },
+        {
+            "name": "Alberto Francesco Motta",
+            "githubUsername": "afmotta"
+        }
+    ]
+}

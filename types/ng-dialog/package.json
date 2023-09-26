@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/ng-dialog",
+    "version": "0.6.99999",
+    "projects": [
+        "https://github.com/likeastore/ngDialog"
+    ],
+    "dependencies": {
+        "@types/angular": "*"
+    },
+    "devDependencies": {
+        "@types/ng-dialog": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stephen Lautier",
+            "githubUsername": "stephenlautier"
+        },
+        {
+            "name": "Philipp Katz",
+            "githubUsername": "qqilihq"
+        }
+    ]
+}

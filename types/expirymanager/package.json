@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/expirymanager",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/SocketCluster/expirymanager"
+    ],
+    "devDependencies": {
+        "@types/expirymanager": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Rose",
+            "githubUsername": "DanielRose"
+        }
+    ]
+}

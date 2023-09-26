@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/collections",
+    "version": "5.1.99999",
+    "projects": [
+        "http://www.collectionsjs.com/"
+    ],
+    "devDependencies": {
+        "@types/collections": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Scarabe Dore",
+            "githubUsername": "scarabedore"
+        }
+    ]
+}

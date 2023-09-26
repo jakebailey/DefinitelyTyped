@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/no-scroll",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/davidtheclark/no-scroll"
+    ],
+    "devDependencies": {
+        "@types/no-scroll": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zhang Yi Jiang",
+            "githubUsername": "ZhangYiJiang"
+        }
+    ]
+}

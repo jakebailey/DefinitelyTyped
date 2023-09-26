@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bucks",
+    "version": "0.8.99999",
+    "projects": [
+        "https://github.com/CyberAgent/bucks.js"
+    ],
+    "devDependencies": {
+        "@types/bucks": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Shunsuke Ohtani",
+            "githubUsername": "zaneli"
+        }
+    ]
+}

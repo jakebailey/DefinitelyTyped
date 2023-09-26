@@ -1,6 +1,21 @@
 {
     "private": true,
+    "name": "@types/mongorito",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/vadimdemedes/mongorito",
+        "https://github.com/vdemedes/mongorito"
+    ],
     "dependencies": {
         "mongodb": "^4.5.0"
-    }
+    },
+    "devDependencies": {
+        "@types/mongorito": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Pinguet62",
+            "githubUsername": "pinguet62"
+        }
+    ]
 }

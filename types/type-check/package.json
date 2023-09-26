@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/type-check",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/gkz/type-check"
+    ],
+    "devDependencies": {
+        "@types/type-check": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Hans Windhoff",
+            "githubUsername": "hansrwindhoff"
+        }
+    ]
+}

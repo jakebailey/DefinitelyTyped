@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/source-list-map",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/webpack/source-list-map.git"
+    ],
+    "devDependencies": {
+        "@types/source-list-map": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "e-cloud",
+            "githubUsername": "e-cloud"
+        }
+    ]
+}

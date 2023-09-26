@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/sound-play",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/leharry/sound-play"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/sound-play": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Brenek Harrison",
+            "githubUsername": "BrenekH"
+        }
+    ]
+}

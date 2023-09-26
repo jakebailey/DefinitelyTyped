@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rfc2047",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/One-com/rfc2047"
+    ],
+    "devDependencies": {
+        "@types/rfc2047": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Masanori Ohgita",
+            "githubUsername": "mugifly"
+        }
+    ]
+}

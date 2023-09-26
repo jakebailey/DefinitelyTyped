@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fetch-headers",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/jimmywarting/fetch-headers#readme"
+    ],
+    "devDependencies": {
+        "@types/fetch-headers": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Grynhaus",
+            "githubUsername": "bengry"
+        }
+    ]
+}

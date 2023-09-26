@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/blocks",
+    "version": "0.3.99999",
+    "projects": [
+        "http://jsblocks.com/"
+    ],
+    "devDependencies": {
+        "@types/blocks": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Krzysztof Śmigiel",
+            "githubUsername": "ksmigiel"
+        }
+    ]
+}

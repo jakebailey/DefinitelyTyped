@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/carbon__type",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/IBM/carbon-elements/tree/master/packages/type"
+    ],
+    "devDependencies": {
+        "@types/carbon__type": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vince Picone",
+            "githubUsername": "vpicone"
+        }
+    ]
+}

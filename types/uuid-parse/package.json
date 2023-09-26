@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/uuid-parse",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/zefferus/uuid-parse"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/uuid-parse": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Rackerseder",
+            "githubUsername": "screendriver"
+        }
+    ]
+}

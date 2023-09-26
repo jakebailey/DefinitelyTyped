@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/page-flip",
+    "version": "2.0.99999",
+    "projects": [
+        "https://nodlik.github.io/StPageFlip/"
+    ],
+    "devDependencies": {
+        "@types/page-flip": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Thibault-Pierre Gouin",
+            "githubUsername": "lethyb"
+        }
+    ]
+}

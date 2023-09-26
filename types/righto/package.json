@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/righto",
+    "version": "6.1.99999",
+    "projects": [
+        "https://github.com/KoryNunn/righto"
+    ],
+    "devDependencies": {
+        "@types/righto": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zac Murray",
+            "githubUsername": "protango"
+        }
+    ]
+}

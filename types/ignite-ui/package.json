@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ignite-ui",
+    "version": "20.1.99999",
+    "projects": [
+        "https://github.com/IgniteUI/ignite-ui"
+    ],
+    "devDependencies": {
+        "@types/ignite-ui": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ignite UI",
+            "githubUsername": "IgniteUI"
+        }
+    ]
+}

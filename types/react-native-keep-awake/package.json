@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/react-native-keep-awake",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/corbt/react-native-keep-awake"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-native": "*",
+        "@types/react-native-keep-awake": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "huhuanming",
+            "githubUsername": "huhuanming"
+        }
+    ]
+}

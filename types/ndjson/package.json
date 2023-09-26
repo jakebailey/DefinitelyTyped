@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/ndjson",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/maxogden/ndjson"
+    ],
+    "dependencies": {
+        "@types/node": "*",
+        "@types/through": "*"
+    },
+    "devDependencies": {
+        "@types/ndjson": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Junxiao Shi",
+            "githubUsername": "yoursunny"
+        }
+    ]
+}

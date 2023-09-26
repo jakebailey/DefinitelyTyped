@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hepburn",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/lovell/hepburn#readme"
+    ],
+    "devDependencies": {
+        "@types/hepburn": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

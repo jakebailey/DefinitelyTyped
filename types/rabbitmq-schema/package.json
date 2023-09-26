@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rabbitmq-schema",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/tjmehta/rabbitmq-schema"
+    ],
+    "devDependencies": {
+        "@types/rabbitmq-schema": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alex Duka",
+            "githubUsername": "rulezzz1987"
+        }
+    ]
+}

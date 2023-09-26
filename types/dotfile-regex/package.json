@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dotfile-regex",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/regexhq/dotfile-regex"
+    ],
+    "devDependencies": {
+        "@types/dotfile-regex": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "mrmlnc",
+            "githubUsername": "mrmlnc"
+        }
+    ]
+}

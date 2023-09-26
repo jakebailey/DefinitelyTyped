@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/on-wake-up",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/mafintosh/on-wake-up"
+    ],
+    "devDependencies": {
+        "@types/on-wake-up": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Klaus Meinhardt",
+            "githubUsername": "ajafff"
+        }
+    ]
+}

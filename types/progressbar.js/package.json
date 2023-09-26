@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/progressbar.js",
+    "version": "1.1.99999",
+    "projects": [
+        "https://kimmobrunfeldt.github.io/progressbar.js/"
+    ],
+    "devDependencies": {
+        "@types/progressbar.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/node-resque",
+    "version": "5.5.99999",
+    "projects": [
+        "https://github.com/taskrabbit/node-resque"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/node-resque": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gordey Doronin",
+            "githubUsername": "gordey4doronin"
+        },
+        {
+            "name": "Pete Nykänen",
+            "githubUsername": "petetnt"
+        }
+    ]
+}

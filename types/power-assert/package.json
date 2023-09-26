@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/power-assert",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/twada/power-assert"
+    ],
+    "dependencies": {
+        "@types/empower": "*",
+        "@types/power-assert-formatter": "*"
+    },
+    "devDependencies": {
+        "@types/power-assert": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "vvakame",
+            "githubUsername": "vvakame"
+        },
+        {
+            "name": "Christian Murphy",
+            "githubUsername": "ChristianMurphy"
+        }
+    ]
+}

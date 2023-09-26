@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ace-diff",
+    "version": "2.1.99999",
+    "projects": [
+        "https://ace-diff.github.io/ace-diff/"
+    ],
+    "devDependencies": {
+        "@types/ace-diff": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mike Dodge",
+            "githubUsername": "innovation-team"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/urlparser",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/kaerus-component/urlparser"
+    ],
+    "devDependencies": {
+        "@types/urlparser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "OpenByteDev",
+            "githubUsername": "OpenByteDev"
+        }
+    ]
+}

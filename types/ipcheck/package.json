@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ipcheck",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/gosquared/ipcheck"
+    ],
+    "devDependencies": {
+        "@types/ipcheck": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Grynhaus",
+            "githubUsername": "bengry"
+        }
+    ]
+}

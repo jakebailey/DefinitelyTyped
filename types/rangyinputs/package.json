@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/rangyinputs",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/timdown/rangyinputs"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/rangyinputs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eric Simonton",
+            "githubUsername": "ersimont"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/viz.js",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/mdaines/viz.js"
+    ],
+    "devDependencies": {
+        "@types/viz.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "McKay Salisbury",
+            "githubUsername": "mckaysalisbury"
+        }
+    ]
+}

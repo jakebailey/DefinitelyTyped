@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ascii-art",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/khrome/ascii-art"
+    ],
+    "devDependencies": {
+        "@types/ascii-art": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Lukas Elmer",
+            "githubUsername": "lukaselmer"
+        }
+    ]
+}

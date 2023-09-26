@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fast-list",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/isaacs/fast-list#readme"
+    ],
+    "devDependencies": {
+        "@types/fast-list": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

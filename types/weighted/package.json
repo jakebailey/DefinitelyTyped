@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/weighted",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/Schoonology/weighted"
+    ],
+    "devDependencies": {
+        "@types/weighted": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Craig Citro",
+            "githubUsername": "ccitro"
+        },
+        {
+            "name": "Dmitry Minkovsky",
+            "githubUsername": "dminkovsky"
+        }
+    ]
+}

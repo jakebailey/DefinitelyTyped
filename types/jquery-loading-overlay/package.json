@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/jquery-loading-overlay",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jgerigmeyer/jquery-loading-overlay",
+        "http://jgerigmeyer.github.io/jquery-loading-overlay"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/jquery-loading-overlay": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Anderson Friaça",
+            "githubUsername": "AndersonFriaca"
+        }
+    ]
+}

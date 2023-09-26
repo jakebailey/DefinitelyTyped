@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/unicode-dragon",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/ConradIrwin/unicode-dragon"
+    ],
+    "devDependencies": {
+        "@types/unicode-dragon": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "richdouglasevans",
+            "githubUsername": "richdouglasevans"
+        }
+    ]
+}

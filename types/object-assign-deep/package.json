@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/object-assign-deep",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/saikojosh/Object-Assign-Deep#readme"
+    ],
+    "devDependencies": {
+        "@types/object-assign-deep": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nick Clifford",
+            "githubUsername": "nickbclifford"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/d3kit",
+    "version": "3.2.99999",
+    "projects": [
+        "https://github.com/twitter/d3kit"
+    ],
+    "dependencies": {
+        "@types/d3": "^4"
+    },
+    "devDependencies": {
+        "@types/d3kit": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Morgan Benton",
+            "githubUsername": "morphatic"
+        }
+    ]
+}

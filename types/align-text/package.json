@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/align-text",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/align-text"
+    ],
+    "devDependencies": {
+        "@types/align-text": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Claas Ahlrichs",
+            "githubUsername": "claasahl"
+        }
+    ]
+}

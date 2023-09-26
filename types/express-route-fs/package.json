@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/express-route-fs",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/kripod/express-route-fs"
+    ],
+    "devDependencies": {
+        "@types/express": "*",
+        "@types/express-route-fs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kristóf Poduszló",
+            "githubUsername": "kripod"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/signature_pad",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/szimek/signature_pad"
+    ],
+    "devDependencies": {
+        "@types/signature_pad": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Abubaker Bashir",
+            "githubUsername": "AbubakerB"
+        },
+        {
+            "name": "Jason Mihalick",
+            "githubUsername": "jrmihalick"
+        },
+        {
+            "name": "Jaeyeon Lee",
+            "githubUsername": "leejaedus"
+        }
+    ]
+}

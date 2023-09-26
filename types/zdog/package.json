@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/zdog",
+    "version": "1.1.99999",
+    "projects": [
+        "https://zzz.dog"
+    ],
+    "devDependencies": {
+        "@types/zdog": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dmitry Demensky",
+            "githubUsername": "demensky"
+        }
+    ]
+}

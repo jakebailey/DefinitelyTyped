@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/oslicense",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/credwards27/oslicense#readme"
+    ],
+    "devDependencies": {
+        "@types/oslicense": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Imdahl",
+            "githubUsername": "ffflorian"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/openssi-websdk",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/IBM-Blockchain-Identity/openssi-websdk#readme"
+    ],
+    "devDependencies": {
+        "@types/openssi-websdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Arne Rutjes",
+            "githubUsername": "arner"
+        }
+    ]
+}

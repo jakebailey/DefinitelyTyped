@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/mri",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/lukeed/mri"
+    ],
+    "devDependencies": {
+        "@types/mri": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Brendan Forster",
+            "githubUsername": "shiftkey"
+        },
+        {
+            "name": "Jed Fox",
+            "githubUsername": "j-f1"
+        }
+    ]
+}

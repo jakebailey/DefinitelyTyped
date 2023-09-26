@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/karma-env-preprocessor",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/jsok/karma-env-preprocessor"
+    ],
+    "dependencies": {
+        "@types/karma": "*"
+    },
+    "devDependencies": {
+        "@types/karma-env-preprocessor": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz (Peter Blazejewicz)",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

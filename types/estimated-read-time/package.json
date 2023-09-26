@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/estimated-read-time",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/karthik512/estimated-read-time"
+    ],
+    "devDependencies": {
+        "@types/estimated-read-time": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stepan Zinchenko",
+            "githubUsername": "stepanzin"
+        }
+    ]
+}

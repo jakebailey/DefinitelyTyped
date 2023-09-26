@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/media-typer",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/jshttp/media-typer"
+    ],
+    "devDependencies": {
+        "@types/media-typer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

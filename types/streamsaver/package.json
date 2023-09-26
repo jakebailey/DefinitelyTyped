@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/streamsaver",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/jimmywarting/StreamSaver.js"
+    ],
+    "devDependencies": {
+        "@types/streamsaver": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Enn Michael",
+            "githubUsername": "ennmichael"
+        }
+    ]
+}

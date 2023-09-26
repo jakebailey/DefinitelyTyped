@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/marshal",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/clayzermk1/node-marshal"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/marshal": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jamie Magee",
+            "githubUsername": "JamieMagee"
+        }
+    ]
+}

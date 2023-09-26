@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "name": "@types/stoppable",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/hunterloftis/stoppable"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/stoppable": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eric Byers",
+            "githubUsername": "EricByers"
+        },
+        {
+            "name": "John Plusjé",
+            "githubUsername": "jplusje"
+        },
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

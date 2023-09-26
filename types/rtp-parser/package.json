@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/rtp-parser",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/fleg/rtp-parser#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/rtp-parser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matthew Smith",
+            "githubUsername": "matthew-smith"
+        }
+    ]
+}

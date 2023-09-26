@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/typo-js",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/cfinke/Typo.js#readme"
+    ],
+    "devDependencies": {
+        "@types/typo-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Will Hawker",
+            "githubUsername": "whawker"
+        }
+    ]
+}

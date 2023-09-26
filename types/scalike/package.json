@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/scalike",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/ryoppy/scalike-typescript"
+    ],
+    "devDependencies": {
+        "@types/scalike": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ryoppy",
+            "githubUsername": "ryoppy"
+        }
+    ]
+}

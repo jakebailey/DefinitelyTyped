@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fnando__sparkline",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/fnando/sparkline"
+    ],
+    "devDependencies": {
+        "@types/fnando__sparkline": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gábor Balogh",
+            "githubUsername": "grabofus"
+        }
+    ]
+}

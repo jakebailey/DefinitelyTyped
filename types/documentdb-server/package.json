@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/documentdb-server",
+    "version": "0.0.99999",
+    "projects": [
+        "http://azure.github.io/azure-documentdb-js-server/"
+    ],
+    "devDependencies": {
+        "@types/documentdb-server": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "John Downs",
+            "githubUsername": "johndowns"
+        }
+    ]
+}

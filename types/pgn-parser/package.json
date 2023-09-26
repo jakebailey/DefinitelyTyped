@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/pgn-parser",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/kevinludwig/pgn-parser#readme"
+    ],
+    "devDependencies": {
+        "@types/pgn-parser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tyler Neisinger",
+            "githubUsername": "tneisinger"
+        }
+    ]
+}

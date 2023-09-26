@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/jquery.browser",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/gabceb/jquery-browser-plugin"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/jquery.browser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Anderson Friaça",
+            "githubUsername": "AndersonFriaca"
+        }
+    ]
+}

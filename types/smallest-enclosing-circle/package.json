@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/smallest-enclosing-circle",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/rowanwins/smallest-enclosing-circle#readme"
+    ],
+    "devDependencies": {
+        "@types/smallest-enclosing-circle": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rajas Paranjpe",
+            "githubUsername": "ChocolateLoverRaj"
+        }
+    ]
+}

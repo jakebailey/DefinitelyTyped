@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "name": "@types/lusca",
+    "version": "1.7.99999",
+    "projects": [
+        "https://github.com/krakenjs/lusca#readme"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/lusca": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Corbin Crutchley",
+            "githubUsername": "crutchcorn"
+        },
+        {
+            "name": "Naoto Yokoyama",
+            "githubUsername": "builtinnya"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

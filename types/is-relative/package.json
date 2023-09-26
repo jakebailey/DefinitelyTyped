@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-relative",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/is-relative"
+    ],
+    "devDependencies": {
+        "@types/is-relative": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

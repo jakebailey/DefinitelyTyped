@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fuzzaldrin",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/atom/fuzzaldrin"
+    ],
+    "devDependencies": {
+        "@types/fuzzaldrin": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mohamed Hegazy",
+            "githubUsername": "mhegazy"
+        }
+    ]
+}

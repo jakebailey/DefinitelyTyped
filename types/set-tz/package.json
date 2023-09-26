@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/set-tz",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/capaj/set-tz#readme"
+    ],
+    "devDependencies": {
+        "@types/set-tz": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Hannes Falk",
+            "githubUsername": "ExeAy"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/jui-grid",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/juijs/jui-grid"
+    ],
+    "dependencies": {
+        "@types/jui-core": "*"
+    },
+    "devDependencies": {
+        "@types/jquery": "*",
+        "@types/jui-grid": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jin-Ho Park",
+            "githubUsername": "easylogic"
+        }
+    ]
+}

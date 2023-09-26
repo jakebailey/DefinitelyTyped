@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/datatables.net-scroller",
+    "version": "1.4.99999",
+    "projects": [
+        "https://datatables.net"
+    ],
+    "dependencies": {
+        "@types/datatables.net": "*",
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/datatables.net-scroller": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Konstantin Rohde",
+            "githubUsername": "RohdeK"
+        }
+    ]
+}

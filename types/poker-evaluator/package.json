@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/poker-evaluator",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/chenosaurus/poker-evaluator"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/poker-evaluator": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rory McGuinness",
+            "githubUsername": "rorymcgit"
+        }
+    ]
+}

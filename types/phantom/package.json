@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/phantom",
+    "version": "3.2.99999",
+    "projects": [
+        "https://github.com/sgentle/phantomjs-node"
+    ],
+    "devDependencies": {
+        "@types/phantom": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "horiuchi",
+            "githubUsername": "horiuchi"
+        },
+        {
+            "name": "Random",
+            "githubUsername": "llRandom"
+        }
+    ]
+}

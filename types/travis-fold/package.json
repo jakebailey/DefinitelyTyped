@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/travis-fold",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/macbre/travis-fold"
+    ],
+    "devDependencies": {
+        "@types/travis-fold": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Andy Hanson",
+            "githubUsername": "andy-ms"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/react-adal",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/salvoravida/react-adal"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-adal": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dimitry Korolev",
+            "githubUsername": "dkorolev1"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/evaluatex",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/arthanzel/evaluatex"
+    ],
+    "devDependencies": {
+        "@types/evaluatex": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Fawaz Orabi",
+            "githubUsername": "forabi-cosuno"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/esutils",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/estools/esutils"
+    ],
+    "devDependencies": {
+        "@types/esutils": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rhythm Bhiwani",
+            "githubUsername": "rhythmbhiwani"
+        }
+    ]
+}

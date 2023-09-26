@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/npm-user-packages",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/kevva/npm-user-packages#readme"
+    ],
+    "devDependencies": {
+        "@types/npm-user-packages": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

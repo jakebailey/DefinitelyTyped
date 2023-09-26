@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/microservice-utilities",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/Cimpress-MCP/microservice-utilities.js"
+    ],
+    "devDependencies": {
+        "@types/microservice-utilities": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daan Boerlage",
+            "githubUsername": "runebaas"
+        }
+    ]
+}

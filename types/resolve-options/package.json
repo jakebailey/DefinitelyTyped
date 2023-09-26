@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/resolve-options",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/gulpjs/resolve-options"
+    ],
+    "devDependencies": {
+        "@types/resolve-options": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Przemysław Struciński",
+            "githubUsername": "delprzemo"
+        }
+    ]
+}

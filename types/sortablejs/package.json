@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/sortablejs",
+    "version": "1.15.99999",
+    "projects": [
+        "https://github.com/RubaXa/Sortable"
+    ],
+    "devDependencies": {
+        "@types/sortablejs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Maw-Fox",
+            "githubUsername": "Maw-Fox"
+        },
+        {
+            "name": "Maarten Staa",
+            "githubUsername": "maartenstaa"
+        },
+        {
+            "name": "Wayne Van Son",
+            "githubUsername": "waynevanson"
+        }
+    ]
+}

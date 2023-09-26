@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mutexify",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/mafintosh/mutexify"
+    ],
+    "devDependencies": {
+        "@types/mutexify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gustav Bylund",
+            "githubUsername": "maistho"
+        }
+    ]
+}

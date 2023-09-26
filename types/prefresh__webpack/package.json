@@ -1,7 +1,22 @@
 {
     "private": true,
+    "name": "@types/prefresh__webpack",
+    "version": "3.3.99999",
+    "projects": [
+        "https://github.com/preactjs/prefresh#readme"
+    ],
     "dependencies": {
+        "@types/node": "*",
         "tapable": "^2.2.0",
         "webpack": "^5"
-    }
+    },
+    "devDependencies": {
+        "@types/prefresh__webpack": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Grynhaus",
+            "githubUsername": "bengry"
+        }
+    ]
 }

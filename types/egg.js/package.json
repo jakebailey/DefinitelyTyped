@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/egg.js",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/mikeflynn/egg.js/"
+    ],
+    "devDependencies": {
+        "@types/egg.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Markus Peloso",
+            "githubUsername": "ToastHawaii"
+        }
+    ]
+}

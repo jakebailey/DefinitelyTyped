@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ceddl__ceddl-polyfill",
+    "version": "0.9.99999",
+    "projects": [
+        "https://www.ceddlbyexample.com/"
+    ],
+    "devDependencies": {
+        "@types/ceddl__ceddl-polyfill": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Roland Broekema",
+            "githubUsername": "broekema41"
+        }
+    ]
+}

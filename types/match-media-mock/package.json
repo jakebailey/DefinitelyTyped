@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/match-media-mock",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/azazdeaz/match-media-mock"
+    ],
+    "devDependencies": {
+        "@types/match-media-mock": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alexey Svetliakov",
+            "githubUsername": "asvetliakov"
+        }
+    ]
+}

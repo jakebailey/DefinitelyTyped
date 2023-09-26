@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/fuzzaldrin-plus",
+    "version": "0.6.99999",
+    "projects": [
+        "https://github.com/jeancroy/fuzzaldrin-plus/"
+    ],
+    "devDependencies": {
+        "@types/fuzzaldrin-plus": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": " Jean Christophe Roy",
+            "githubUsername": "jeancroy"
+        },
+        {
+            "name": "Jason Killian",
+            "githubUsername": "jkillian"
+        },
+        {
+            "name": "Ronald Rey",
+            "githubUsername": "reyronald"
+        }
+    ]
+}

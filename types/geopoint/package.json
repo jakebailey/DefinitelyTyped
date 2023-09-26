@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/geopoint",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/davidwood/node-geopoint"
+    ],
+    "devDependencies": {
+        "@types/geopoint": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Varg Industries",
+            "githubUsername": "vargind"
+        }
+    ]
+}

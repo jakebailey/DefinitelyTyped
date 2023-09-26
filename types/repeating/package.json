@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/repeating",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/sindresorhus/repeating#readme"
+    ],
+    "devDependencies": {
+        "@types/repeating": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Claas Ahlrichs",
+            "githubUsername": "claasahl"
+        }
+    ]
+}

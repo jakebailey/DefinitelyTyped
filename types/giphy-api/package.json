@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/giphy-api",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/austinkelleher/giphy-api"
+    ],
+    "devDependencies": {
+        "@types/giphy-api": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Rackerseder",
+            "githubUsername": "screendriver"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mercadopago",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/mercadopago/dx-nodejs"
+    ],
+    "devDependencies": {
+        "@types/mercadopago": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Pereira",
+            "githubUsername": "danieldspx"
+        }
+    ]
+}

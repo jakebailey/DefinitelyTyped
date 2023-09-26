@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/prettier-linter-helpers",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/prettier/prettier-linter-helpers"
+    ],
+    "devDependencies": {
+        "@types/prettier-linter-helpers": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "JounQin",
+            "githubUsername": "JounQin"
+        }
+    ]
+}

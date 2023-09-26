@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/object-diff",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/srcagency/object-diff"
+    ],
+    "devDependencies": {
+        "@types/object-diff": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rogier Schouten",
+            "githubUsername": "rogierschouten"
+        }
+    ]
+}

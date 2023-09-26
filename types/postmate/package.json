@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/postmate",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/dollarshaveclub/postmate"
+    ],
+    "devDependencies": {
+        "@types/postmate": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wayne Carson",
+            "githubUsername": "wcarson"
+        }
+    ]
+}

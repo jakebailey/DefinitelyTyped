@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/observe-js",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/Polymer/observe-js"
+    ],
+    "devDependencies": {
+        "@types/observe-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Oliver Herrmann",
+            "githubUsername": "herrmanno"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/react-json-to-csv",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/coston/react-json-to-csv"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-json-to-csv": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nui Rattapon",
+            "githubUsername": "nui-tech"
+        },
+        {
+            "name": "Coston Perkins",
+            "githubUsername": "coston"
+        }
+    ]
+}

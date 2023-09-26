@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/err",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/IonicaBizau/err#readme"
+    ],
+    "devDependencies": {
+        "@types/err": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jimmy Cuadra",
+            "githubUsername": "jimmycuadra"
+        }
+    ]
+}

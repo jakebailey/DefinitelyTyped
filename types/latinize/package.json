@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/latinize",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/dundalek/latinize"
+    ],
+    "devDependencies": {
+        "@types/latinize": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Giedrius Grabauskas",
+            "githubUsername": "GiedriusGrabauskas"
+        }
+    ]
+}

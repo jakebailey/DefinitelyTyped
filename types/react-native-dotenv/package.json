@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/react-native-dotenv",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/zetachang/react-native-dotenv"
+    ],
+    "devDependencies": {
+        "@types/react-native-dotenv": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "hmajid2301",
+            "githubUsername": "hmajid2301"
+        }
+    ]
+}

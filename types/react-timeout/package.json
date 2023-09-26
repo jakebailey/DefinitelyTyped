@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/react-timeout",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/plougsgaard/react-timeout"
+    ],
+    "dependencies": {
+        "@types/node": "*",
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-timeout": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kerwyn Rojas",
+            "githubUsername": "kerwynrg"
+        }
+    ]
+}

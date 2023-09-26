@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/carbon__motion",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/IBM/carbon-elements/tree/master/packages/motion"
+    ],
+    "devDependencies": {
+        "@types/carbon__motion": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vince Picone",
+            "githubUsername": "vpicone"
+        }
+    ]
+}

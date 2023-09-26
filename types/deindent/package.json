@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/deindent",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/deanlandolt/deindent"
+    ],
+    "devDependencies": {
+        "@types/deindent": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Avi Vahl",
+            "githubUsername": "AviVahl"
+        }
+    ]
+}

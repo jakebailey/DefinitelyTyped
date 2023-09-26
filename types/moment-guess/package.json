@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/moment-guess",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/apoorv-mishra/moment-guess#readme"
+    ],
+    "devDependencies": {
+        "@types/moment-guess": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Robin Van den Broeck",
+            "githubUsername": "RobinVdBroeck"
+        }
+    ]
+}

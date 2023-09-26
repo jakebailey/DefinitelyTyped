@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/sha1",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/pvorb/node-sha1"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/sha1": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Bill Sourour",
+            "githubUsername": "arcdev1"
+        }
+    ]
+}

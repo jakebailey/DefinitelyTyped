@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jump.js",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/callmecavs/jump.js"
+    ],
+    "devDependencies": {
+        "@types/jump.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "rhysd",
+            "url": "https://rhysd.github.io"
+        }
+    ]
+}

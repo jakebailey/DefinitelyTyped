@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-core-module",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/inspect-js/is-core-module"
+    ],
+    "devDependencies": {
+        "@types/is-core-module": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

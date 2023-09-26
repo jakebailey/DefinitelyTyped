@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/xmpp__base64",
+    "version": "0.13.99999",
+    "projects": [
+        "https://github.com/xmppjs/xmpp.js/tree/main/packages/base64"
+    ],
+    "devDependencies": {
+        "@types/xmpp__base64": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

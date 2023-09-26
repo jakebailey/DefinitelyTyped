@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/react-input-autosize",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/JedWatson/react-input-autosize#readme"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-input-autosize": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jason Unger",
+            "githubUsername": "jsonunger"
+        },
+        {
+            "name": "Frank Li",
+            "githubUsername": "franklixuefei"
+        }
+    ]
+}

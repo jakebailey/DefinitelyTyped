@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/commonmark",
+    "version": "0.27.99999",
+    "projects": [
+        "https://github.com/jgm/commonmark.js",
+        "http://commonmark.org"
+    ],
+    "devDependencies": {
+        "@types/commonmark": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nico Jansen",
+            "githubUsername": "nicojs"
+        },
+        {
+            "name": "Leonard Thieu",
+            "githubUsername": "leonard-thieu"
+        }
+    ]
+}

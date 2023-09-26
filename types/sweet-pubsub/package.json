@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/sweet-pubsub",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/oldboyxx/sweet-pubsub"
+    ],
+    "devDependencies": {
+        "@types/sweet-pubsub": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Emilio Escobar",
+            "githubUsername": "emilioivan12"
+        }
+    ]
+}

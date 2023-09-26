@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/appgeist__ensure-dir",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/appgeist/ensure-dir#readme"
+    ],
+    "devDependencies": {
+        "@types/appgeist__ensure-dir": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rajas Paranjpe",
+            "githubUsername": "ChocolateLoverRaj"
+        }
+    ]
+}

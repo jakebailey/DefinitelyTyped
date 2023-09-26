@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/intersects",
+    "version": "2.7.99999",
+    "projects": [
+        "https://github.com/davidfig/intersects#readme"
+    ],
+    "devDependencies": {
+        "@types/intersects": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Voxylu",
+            "githubUsername": "voxylu"
+        }
+    ]
+}

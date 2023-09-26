@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/foldify",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/cellvia/foldify"
+    ],
+    "devDependencies": {
+        "@types/foldify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/sqlanywhere",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/sqlanywhere/node-sqlanywhere"
+    ],
+    "devDependencies": {
+        "@types/sqlanywhere": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Peter Keuter",
+            "githubUsername": "pkeuter"
+        }
+    ]
+}

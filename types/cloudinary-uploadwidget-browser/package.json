@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/cloudinary-uploadwidget-browser",
+    "version": "2.3.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "cloudinary-uploadwidget-browser",
+    "projects": [
+        "https://cloudinary.com/documentation/upload_widget_reference"
+    ],
+    "devDependencies": {
+        "@types/cloudinary-uploadwidget-browser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jeremy Liberman",
+            "githubUsername": "mrleebo"
+        }
+    ]
+}

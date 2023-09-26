@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/vector2js",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/RonenNess/Vector2js"
+    ],
+    "devDependencies": {
+        "@types/vector2js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Leo Nicolle",
+            "githubUsername": "Leo-Nicolle"
+        }
+    ]
+}

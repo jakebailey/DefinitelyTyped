@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/memory-pager",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/mafintosh/memory-pager"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/memory-pager": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

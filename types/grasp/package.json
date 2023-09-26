@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/grasp",
+    "version": "0.6.99999",
+    "projects": [
+        "http://graspjs.com"
+    ],
+    "dependencies": {
+        "@types/cli-color": "*",
+        "@types/estree": "*",
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/grasp": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Isaac Wolkerstorfer",
+            "githubUsername": "agnoster"
+        }
+    ]
+}

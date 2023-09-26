@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cordova-plugin-websql",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/MSOpenTech/cordova-plugin-websql"
+    ],
+    "devDependencies": {
+        "@types/cordova-plugin-websql": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Microsoft Open Technologies Inc",
+            "url": "http://msopentech.com"
+        }
+    ]
+}

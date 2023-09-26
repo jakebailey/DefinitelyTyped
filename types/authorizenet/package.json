@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/authorizenet",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/AuthorizeNet/sdk-node"
+    ],
+    "devDependencies": {
+        "@types/authorizenet": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Shahaed Hasan",
+            "githubUsername": "shahaed"
+        }
+    ]
+}

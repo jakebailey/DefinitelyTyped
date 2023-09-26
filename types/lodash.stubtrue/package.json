@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/lodash.stubtrue",
+    "version": "4.13.99999",
+    "projects": [
+        "http://lodash.com/"
+    ],
+    "dependencies": {
+        "@types/lodash": "*"
+    },
+    "devDependencies": {
+        "@types/lodash.stubtrue": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Brian Zengel",
+            "githubUsername": "bczengel"
+        },
+        {
+            "name": "Ilya Mochalov",
+            "githubUsername": "chrootsu"
+        }
+    ]
+}

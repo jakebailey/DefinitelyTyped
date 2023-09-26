@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/django-bananas",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/5monkeys/django-bananas.js"
+    ],
+    "typeScriptVersion": "5.1",
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/django-bananas": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Elias Sjögreen",
+            "githubUsername": "eliassjogreen"
+        }
+    ]
+}

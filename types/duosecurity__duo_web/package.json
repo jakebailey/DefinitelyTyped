@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/duosecurity__duo_web",
+    "version": "1.0.99999",
+    "projects": [
+        "https://www.duosecurity.com/docs/duoweb"
+    ],
+    "devDependencies": {
+        "@types/duosecurity__duo_web": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Low Heok Hong",
+            "githubUsername": "lhhong"
+        }
+    ]
+}

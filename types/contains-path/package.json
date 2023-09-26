@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/contains-path",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/contains-path"
+    ],
+    "devDependencies": {
+        "@types/contains-path": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

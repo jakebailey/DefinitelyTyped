@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/range-parser",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/jshttp/range-parser"
+    ],
+    "devDependencies": {
+        "@types/range-parser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tomek Łaziuk",
+            "githubUsername": "tlaziuk"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/toastify-js",
+    "version": "1.12.99999",
+    "projects": [
+        "https://github.com/apvarun/toastify-js#readme"
+    ],
+    "devDependencies": {
+        "@types/toastify-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "adblanc",
+            "githubUsername": "adblanc"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

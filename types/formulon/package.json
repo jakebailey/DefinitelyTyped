@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/formulon",
+    "version": "6.25.99999",
+    "projects": [
+        "https://github.com/leifg/formulon#readme"
+    ],
+    "devDependencies": {
+        "@types/formulon": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tom Sellek",
+            "githubUsername": "tomsellek"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/node-ssha256",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/henne-/node-ssha256"
+    ],
+    "devDependencies": {
+        "@types/node-ssha256": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Chris Midgley",
+            "githubUsername": "midgleyc"
+        }
+    ]
+}

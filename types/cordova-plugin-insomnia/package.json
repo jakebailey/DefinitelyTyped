@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cordova-plugin-insomnia",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin/"
+    ],
+    "devDependencies": {
+        "@types/cordova-plugin-insomnia": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Markus Wagner",
+            "githubUsername": "Ritzlgrmft"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/glob-watcher",
+    "version": "5.0.99999",
+    "projects": [
+        "https://github.com/gulpjs/glob-watcher"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/glob-watcher": "workspace:.",
+        "@types/undertaker": "*"
+    },
+    "contributors": [
+        {
+            "name": "TeamworkGuy2",
+            "githubUsername": "TeamworkGuy2"
+        }
+    ]
+}

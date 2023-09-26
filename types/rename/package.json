@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rename",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/popomore/rename"
+    ],
+    "devDependencies": {
+        "@types/rename": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aankhen",
+            "githubUsername": "Aankhen"
+        }
+    ]
+}

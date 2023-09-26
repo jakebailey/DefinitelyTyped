@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jexl",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/TomFrost/Jexl"
+    ],
+    "devDependencies": {
+        "@types/jexl": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marcin Tomczyk",
+            "githubUsername": "m-tomczyk"
+        }
+    ]
+}

@@ -1,6 +1,27 @@
 {
     "private": true,
+    "name": "@types/hexo",
+    "version": "3.8.99999",
+    "projects": [
+        "https://hexo.io/"
+    ],
     "dependencies": {
+        "@types/bluebird": "*",
+        "@types/bunyan": "*",
+        "@types/connect": "*",
+        "@types/hexo-util": "*",
+        "@types/minimist": "*",
+        "@types/underscore": "*",
         "moment": "^2.19.4"
-    }
+    },
+    "devDependencies": {
+        "@types/hexo": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "KentarouTakeda",
+            "githubUsername": "kentarouTakeda"
+        }
+    ]
 }

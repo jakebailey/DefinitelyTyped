@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/contextjs",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/jakiestfu/Context.js"
+    ],
+    "devDependencies": {
+        "@types/contextjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kern Handa",
+            "githubUsername": "kernhanda"
+        }
+    ]
+}

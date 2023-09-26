@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/nsqjs",
+    "version": "0.12.99999",
+    "projects": [
+        "https://github.com/dudleycarr/nsqjs"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/nsqjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Robert Kania",
+            "githubUsername": "cezaryrk"
+        }
+    ]
+}

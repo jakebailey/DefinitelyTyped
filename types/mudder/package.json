@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/mudder",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/fasiha/mudderjs#readme"
+    ],
+    "devDependencies": {
+        "@types/mudder": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Patrick Gingras",
+            "githubUsername": "p7g"
+        },
+        {
+            "name": "Ahmed Fasih",
+            "githubUsername": "fasiha"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/sarif",
+    "version": "2.1.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "Sarif",
+    "projects": [
+        "https://github.com/Microsoft/sarif-sdk"
+    ],
+    "devDependencies": {
+        "@types/sarif": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jeff King",
+            "githubUsername": "jeffersonking"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "name": "@types/pouchdb-mapreduce",
+    "version": "6.1.99999",
+    "projects": [
+        "https://pouchdb.com/",
+        "https://github.com/pouchdb/pouchdb"
+    ],
+    "dependencies": {
+        "@types/pouchdb-core": "*"
+    },
+    "devDependencies": {
+        "@types/pouchdb-mapreduce": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Simon Paulger",
+            "githubUsername": "spaulg"
+        },
+        {
+            "name": "Brian Geppert",
+            "githubUsername": "geppy"
+        },
+        {
+            "name": "Frederico Galvão",
+            "githubUsername": "fredgalvao"
+        }
+    ]
+}

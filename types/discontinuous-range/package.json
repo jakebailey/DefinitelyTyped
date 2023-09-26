@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/discontinuous-range",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/dtudury/discontinuous-range"
+    ],
+    "devDependencies": {
+        "@types/discontinuous-range": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Victor Zhou",
+            "githubUsername": "OiCMudkips"
+        }
+    ]
+}

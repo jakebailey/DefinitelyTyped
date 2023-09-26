@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/redux-define",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/smeijer/redux-define"
+    ],
+    "devDependencies": {
+        "@types/redux-define": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Joe Barnett",
+            "githubUsername": "ensconced"
+        }
+    ]
+}

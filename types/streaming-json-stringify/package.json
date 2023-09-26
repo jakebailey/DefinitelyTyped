@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/streaming-json-stringify",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/stream-utils/streaming-json-stringify#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/express": "*",
+        "@types/streaming-json-stringify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

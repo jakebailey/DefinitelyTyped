@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/require-hacker",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/catamphetamine/require-hacker#readme"
+    ],
+    "devDependencies": {
+        "@types/require-hacker": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ciarán Ingle",
+            "githubUsername": "inglec-arista"
+        }
+    ]
+}

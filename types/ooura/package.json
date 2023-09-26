@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ooura",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/audioplastic/ooura#readme"
+    ],
+    "devDependencies": {
+        "@types/ooura": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "sukumo28",
+            "githubUsername": "sukumo28"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/page",
+    "version": "1.11.99999",
+    "projects": [
+        "https://github.com/visionmedia/page.js"
+    ],
+    "devDependencies": {
+        "@types/page": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alan Norbauer",
+            "githubUsername": "altano"
+        },
+        {
+            "name": "James Garbutt",
+            "githubUsername": "43081j"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

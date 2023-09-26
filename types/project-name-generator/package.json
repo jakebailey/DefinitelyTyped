@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/project-name-generator",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/aceakash/project-name-generator#readme"
+    ],
+    "devDependencies": {
+        "@types/project-name-generator": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

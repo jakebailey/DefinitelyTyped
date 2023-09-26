@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/millisecond",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/unshiftio/millisecond"
+    ],
+    "devDependencies": {
+        "@types/millisecond": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aayush Kapoor",
+            "githubUsername": "xeoneux"
+        }
+    ]
+}

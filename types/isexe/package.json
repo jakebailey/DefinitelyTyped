@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/isexe",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/isaacs/isexe#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/isexe": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

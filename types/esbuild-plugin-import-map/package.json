@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/esbuild-plugin-import-map",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/trygve-lie/esbuild-plugin-import-map"
+    ],
+    "devDependencies": {
+        "@types/esbuild-plugin-import-map": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Euberdeveloper",
+            "githubUsername": "Euberdeveloper"
+        }
+    ]
+}

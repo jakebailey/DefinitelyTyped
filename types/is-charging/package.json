@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-charging",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/gillstrom/is-charging#readme"
+    ],
+    "devDependencies": {
+        "@types/is-charging": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

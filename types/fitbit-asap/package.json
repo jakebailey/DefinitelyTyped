@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fitbit-asap",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/dillpixel/fitbit-asap"
+    ],
+    "devDependencies": {
+        "@types/fitbit-asap": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jérémy Jeanson",
+            "githubUsername": "JeremyJeanson"
+        }
+    ]
+}

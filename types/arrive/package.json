@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/arrive",
+    "version": "2.4.99999",
+    "projects": [
+        "https://github.com/uzairfarooq/arrive"
+    ],
+    "devDependencies": {
+        "@types/arrive": "workspace:.",
+        "@types/jquery": "*"
+    },
+    "contributors": [
+        {
+            "name": "Vijay Pemmaraju",
+            "githubUsername": "vijaypemmaraju"
+        }
+    ]
+}

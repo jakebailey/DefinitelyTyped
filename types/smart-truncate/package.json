@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/smart-truncate",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/millerized/smart-truncate"
+    ],
+    "devDependencies": {
+        "@types/smart-truncate": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Omer Yalhi",
+            "githubUsername": "oyalhi"
+        }
+    ]
+}

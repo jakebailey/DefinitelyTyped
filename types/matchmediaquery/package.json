@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/matchmediaquery",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/ncochard/matchmediaquery#readme"
+    ],
+    "devDependencies": {
+        "@types/matchmediaquery": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nick Whitlock",
+            "githubUsername": "eezstreet"
+        }
+    ]
+}

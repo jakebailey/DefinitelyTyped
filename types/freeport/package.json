@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/freeport",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/daaku/nodejs-freeport"
+    ],
+    "devDependencies": {
+        "@types/freeport": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Arne Schubert",
+            "githubUsername": "atd-schubert"
+        }
+    ]
+}

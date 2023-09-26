@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/string-pixel-width",
+    "version": "1.10.99999",
+    "projects": [
+        "https://github.com/adambisek/string-pixel-width#readme"
+    ],
+    "devDependencies": {
+        "@types/string-pixel-width": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Graham Dyson",
+            "githubUsername": "grahamdyson"
+        }
+    ]
+}

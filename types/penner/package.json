@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/penner",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/bcherny/penner#readme"
+    ],
+    "devDependencies": {
+        "@types/penner": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

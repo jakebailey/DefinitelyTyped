@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/kramed",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/GitbookIO/kramed"
+    ],
+    "devDependencies": {
+        "@types/kramed": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matthew Wilkes",
+            "githubUsername": "tonicblue"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fast-shuffle",
+    "version": "4.5.99999",
+    "projects": [
+        "https://github.com/philihp/fast-shuffle"
+    ],
+    "devDependencies": {
+        "@types/fast-shuffle": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Roszatycki",
+            "githubUsername": "dex4er"
+        }
+    ]
+}

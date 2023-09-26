@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/find-package-json",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/3rd-Eden/find-package-json#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/find-package-json": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        },
+        {
+            "name": "fun4wut",
+            "githubUsername": "fun4wut"
+        }
+    ]
+}

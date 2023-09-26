@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/eslint-scope",
+    "version": "3.7.99999",
+    "projects": [
+        "https://github.com/eslint/eslint-scope"
+    ],
+    "dependencies": {
+        "@types/eslint": "*",
+        "@types/estree": "*"
+    },
+    "devDependencies": {
+        "@types/eslint-scope": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Toru Nagashima",
+            "githubUsername": "mysticatea"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/parse-json",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/sindresorhus/parse-json"
+    ],
+    "devDependencies": {
+        "@types/parse-json": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "mrmlnc",
+            "githubUsername": "mrmlnc"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/smpte-timecode",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/CrystalComputerCorp/smpte-timecode"
+    ],
+    "devDependencies": {
+        "@types/smpte-timecode": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "DoYoung Ha",
+            "githubUsername": "hados99"
+        }
+    ]
+}

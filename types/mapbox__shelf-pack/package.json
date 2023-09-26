@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mapbox__shelf-pack",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/mapbox/shelf-pack"
+    ],
+    "devDependencies": {
+        "@types/mapbox__shelf-pack": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gyusun Yeom",
+            "githubUsername": "Perlmint"
+        }
+    ]
+}

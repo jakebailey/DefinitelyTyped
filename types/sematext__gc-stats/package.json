@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/sematext__gc-stats",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/adnanrahic/node-gcstats#readme"
+    ],
+    "devDependencies": {
+        "@types/sematext__gc-stats": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jarco-dev",
+            "githubUsername": "Jarco-dev"
+        }
+    ]
+}

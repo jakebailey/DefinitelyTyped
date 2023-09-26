@@ -1,7 +1,21 @@
 {
     "private": true,
+    "name": "@types/socketio-wildcard",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/hden/socketio-wildcard"
+    ],
     "dependencies": {
         "@types/socket.io": "2.1.13",
         "@types/socket.io-client": "1.4.36"
-    }
+    },
+    "devDependencies": {
+        "@types/socketio-wildcard": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
 }

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/popup-window",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/webdeveric/popup-window#readme"
+    ],
+    "devDependencies": {
+        "@types/popup-window": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aram Khachatrian",
+            "githubUsername": "aramwram"
+        }
+    ]
+}

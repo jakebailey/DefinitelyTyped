@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/foreground-child",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/tapjs/foreground-child#readme"
+    ],
+    "devDependencies": {
+        "@types/foreground-child": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jake Bailey",
+            "githubUsername": "jakebailey"
+        }
+    ]
+}

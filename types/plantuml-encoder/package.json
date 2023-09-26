@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/plantuml-encoder",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/markushedvall/plantuml-encoder"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/plantuml-encoder": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Krisztián Balla",
+            "githubUsername": "krisztianb"
+        }
+    ]
+}

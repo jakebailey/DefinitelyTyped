@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/poisson-disk-sampling",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/kchapelier/poisson-disk-sampling"
+    ],
+    "devDependencies": {
+        "@types/poisson-disk-sampling": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aliyss",
+            "githubUsername": "Aliyss"
+        },
+        {
+            "name": "Dmitry Semigradsky",
+            "githubUsername": "Semigradsky"
+        }
+    ]
+}

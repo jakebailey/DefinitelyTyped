@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ansicolors",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/thlorenz/ansicolors"
+    ],
+    "devDependencies": {
+        "@types/ansicolors": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Benjamin Arthur Lupton",
+            "githubUsername": "balupton"
+        }
+    ]
+}

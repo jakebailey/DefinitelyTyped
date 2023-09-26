@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/textversionjs",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/EDMdesigner/textversionjs"
+    ],
+    "devDependencies": {
+        "@types/textversionjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aaron Osher",
+            "githubUsername": "aaronosher"
+        }
+    ]
+}

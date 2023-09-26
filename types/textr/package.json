@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/textr",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/shuvalov-anton/textr"
+    ],
+    "devDependencies": {
+        "@types/textr": "workspace:."
+    },
+    "contributors": []
+}

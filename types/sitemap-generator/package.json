@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/sitemap-generator",
+    "version": "8.5.99999",
+    "projects": [
+        "https://github.com/lgraubner/sitemap-generator"
+    ],
+    "dependencies": {
+        "@types/simplecrawler": "*"
+    },
+    "devDependencies": {
+        "@types/sitemap-generator": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "grgr-dkrk",
+            "githubUsername": "grgr-dkrk"
+        }
+    ]
+}

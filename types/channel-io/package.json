@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/channel-io",
+    "version": "0.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "ChannelIO SDK",
+    "projects": [
+        "https://developers.channel.io/docs/js-sdk-reference"
+    ],
+    "devDependencies": {
+        "@types/channel-io": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ryota Kameoka",
+            "githubUsername": "ryota-ka"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/global-modules-path",
+    "version": "2.3.99999",
+    "projects": [
+        "https://www.npmjs.com/package/global-modules-path"
+    ],
+    "devDependencies": {
+        "@types/global-modules-path": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gareth Jones",
+            "githubUsername": "g-rath"
+        }
+    ]
+}

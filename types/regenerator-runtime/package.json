@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/regenerator-runtime",
+    "version": "0.13.99999",
+    "projects": [
+        "https://github.com/facebook/regenerator"
+    ],
+    "devDependencies": {
+        "@types/regenerator-runtime": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        }
+    ]
+}

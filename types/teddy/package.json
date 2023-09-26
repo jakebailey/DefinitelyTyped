@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/teddy",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/rooseveltframework/teddy"
+    ],
+    "devDependencies": {
+        "@types/teddy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Benjamin Lannon",
+            "githubUsername": "lannonbr"
+        }
+    ]
+}

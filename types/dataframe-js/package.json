@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dataframe-js",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/Gmousse/dataframe-js#readme"
+    ],
+    "devDependencies": {
+        "@types/dataframe-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alzemiro Iago de Moraes Thomaz",
+            "githubUsername": "alzemiro-iago"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-firefox",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/gillstrom/is-firefox#readme"
+    ],
+    "devDependencies": {
+        "@types/is-firefox": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Reed",
+            "githubUsername": "e9x"
+        }
+    ]
+}

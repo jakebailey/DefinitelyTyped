@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/each",
+    "version": "0.4.99999",
+    "projects": [
+        "http://www.adaltas.com/projects/node-each/"
+    ],
+    "devDependencies": {
+        "@types/each": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Michael Zabka",
+            "githubUsername": "misak113"
+        }
+    ]
+}

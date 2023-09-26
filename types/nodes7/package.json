@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/nodes7",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/plcpeople/nodes7#readme"
+    ],
+    "devDependencies": {
+        "@types/nodes7": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Lukas Planz",
+            "githubUsername": "Sytm"
+        }
+    ]
+}

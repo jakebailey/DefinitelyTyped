@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/audiosprite",
+    "version": "0.7.99999",
+    "projects": [
+        "https://github.com/tonistiigi/audiosprite"
+    ],
+    "devDependencies": {
+        "@types/audiosprite": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gyusun Yeom",
+            "githubUsername": "Perlmint"
+        }
+    ]
+}

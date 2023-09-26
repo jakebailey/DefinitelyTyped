@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/blazy",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/dinbror/blazy"
+    ],
+    "devDependencies": {
+        "@types/blazy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Julien Paroche",
+            "githubUsername": "julienpa"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rndm",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/crypto-utils/rndm#readme"
+    ],
+    "devDependencies": {
+        "@types/rndm": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ankan Bhattacharya",
+            "githubUsername": "Ankan002"
+        }
+    ]
+}

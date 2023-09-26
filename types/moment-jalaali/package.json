@@ -1,6 +1,20 @@
 {
     "private": true,
+    "name": "@types/moment-jalaali",
+    "version": "0.7.99999",
+    "projects": [
+        "https://github.com/jalaali/moment-jalaali"
+    ],
     "dependencies": {
         "moment": ">=2.14.0"
-    }
+    },
+    "devDependencies": {
+        "@types/moment-jalaali": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ali Taheri Moghaddar",
+            "githubUsername": "alitaheri"
+        }
+    ]
 }

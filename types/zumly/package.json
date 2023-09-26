@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/zumly",
+    "version": "0.9.99999",
+    "projects": [
+        "https://zumly.org"
+    ],
+    "devDependencies": {
+        "@types/zumly": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "edwinork",
+            "githubUsername": "edwinork"
+        }
+    ]
+}

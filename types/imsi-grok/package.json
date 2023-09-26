@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/imsi-grok",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/atis--/imsi-grok#readme"
+    ],
+    "devDependencies": {
+        "@types/imsi-grok": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dean Pienaar",
+            "githubUsername": "deanpienaar"
+        }
+    ]
+}

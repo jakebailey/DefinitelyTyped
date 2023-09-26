@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/kafka-node-avro",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/narcisoguillen/kafka-node-avro#readme"
+    ],
+    "devDependencies": {
+        "@types/kafka-node-avro": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gediminas Katilevicius",
+            "githubUsername": "alfamegaxq"
+        }
+    ]
+}

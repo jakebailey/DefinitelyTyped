@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/smartystreets-javascript-sdk",
+    "version": "1.6.99999",
+    "projects": [
+        "https://github.com/smartystreets/smartystreets-javascript-sdk"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/smartystreets-javascript-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Keith Kikta",
+            "githubUsername": "newbish"
+        }
+    ]
+}

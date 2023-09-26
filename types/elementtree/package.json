@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/elementtree",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/racker/node-elementtree"
+    ],
+    "devDependencies": {
+        "@types/elementtree": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Imhoff",
+            "githubUsername": "dwieeb"
+        }
+    ]
+}

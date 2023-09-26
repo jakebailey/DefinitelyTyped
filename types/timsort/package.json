@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/timsort",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/mziccard/node-timsort"
+    ],
+    "devDependencies": {
+        "@types/timsort": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vunovati",
+            "githubUsername": "Vunovati"
+        }
+    ]
+}

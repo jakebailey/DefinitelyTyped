@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/array-unique",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/array-unique"
+    ],
+    "devDependencies": {
+        "@types/array-unique": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Michaël St-Georges",
+            "githubUsername": "CSLTech"
+        }
+    ]
+}

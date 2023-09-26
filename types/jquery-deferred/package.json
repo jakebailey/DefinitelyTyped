@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/jquery-deferred",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/zzdhidden/node-jquery-deferred"
+    ],
+    "devDependencies": {
+        "@types/jquery-deferred": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "TekuConcept",
+            "githubUsername": "TekuConcept"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/base45",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/irony/base45"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/base45": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kyle Hensel",
+            "githubUsername": "k-yle"
+        }
+    ]
+}

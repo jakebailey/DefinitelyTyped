@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/pizzip",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/open-xml-templating/pizzip#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/pizzip": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Edward Sammut Alessi",
+            "githubUsername": "Slessi"
+        }
+    ]
+}

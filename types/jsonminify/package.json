@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/jsonminify",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/fkei/JSON.minify"
+    ],
+    "devDependencies": {
+        "@types/jsonminify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dan Homola",
+            "githubUsername": "no23reason"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

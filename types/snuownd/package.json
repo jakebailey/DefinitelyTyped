@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/snuownd",
+    "version": "1.1.99999",
+    "projects": [
+        "http//github.com/gamefreak/snuownd"
+    ],
+    "devDependencies": {
+        "@types/snuownd": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "eritbh",
+            "githubUsername": "eritbh"
+        }
+    ]
+}

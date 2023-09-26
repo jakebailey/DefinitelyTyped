@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/minilog",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/mixu/minilog"
+    ],
+    "devDependencies": {
+        "@types/minilog": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Guido",
+            "url": "http://guido.io"
+        }
+    ]
+}

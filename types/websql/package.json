@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/websql",
+    "version": "0.0.99999",
+    "projects": [
+        "http://www.w3.org/TR/webdatabase/"
+    ],
+    "devDependencies": {
+        "@types/websql": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "TeamworkGuy2",
+            "githubUsername": "TeamworkGuy2"
+        }
+    ]
+}

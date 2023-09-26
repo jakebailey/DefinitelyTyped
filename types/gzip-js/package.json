@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/gzip-js",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/beatgammit/gzip-js"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gzip-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "rhysd",
+            "githubUsername": "rhysd"
+        }
+    ]
+}

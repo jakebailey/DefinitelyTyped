@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/wreck",
+    "version": "7.0.99999",
+    "projects": [
+        "https://github.com/hapijs/wreck"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/wreck": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marcin Porębski",
+            "githubUsername": "marcinporebski"
+        }
+    ]
+}

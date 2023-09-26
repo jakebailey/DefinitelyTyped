@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "@types/lazypipe",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/OverZealous/lazypipe"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gulp": "*",
+        "@types/gulp-minify-html": "*",
+        "@types/gulp-size": "*",
+        "@types/lazypipe": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Thomas Corbière",
+            "githubUsername": "tomc974"
+        }
+    ]
+}

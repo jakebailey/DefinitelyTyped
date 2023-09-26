@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/transducers-js",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/cognitect-labs/transducers-js"
+    ],
+    "devDependencies": {
+        "@types/transducers-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Colin Kahn",
+            "githubUsername": "colinkahn"
+        },
+        {
+            "name": "David Philipson",
+            "githubUsername": "dphilipson"
+        },
+        {
+            "name": "Adrian Leonhard",
+            "githubUsername": "NaridaL"
+        }
+    ]
+}

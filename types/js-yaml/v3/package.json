@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/js-yaml",
+    "version": "3.12.99999",
+    "projects": [
+        "https://github.com/nodeca/js-yaml"
+    ],
+    "devDependencies": {
+        "@types/js-yaml": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Bart van der Schoor",
+            "githubUsername": "Bartvds"
+        },
+        {
+            "name": "Sebastian Clausen",
+            "githubUsername": "sclausen"
+        },
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/swig",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/paularmstrong/swig"
+    ],
+    "devDependencies": {
+        "@types/swig": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Peter Harris",
+            "githubUsername": "CodeAnimal"
+        },
+        {
+            "name": "Carlos Ballesteros Velasco",
+            "githubUsername": "soywiz"
+        }
+    ]
+}

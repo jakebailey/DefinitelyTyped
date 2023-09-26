@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/css-selector-tokenizer",
+    "version": "0.7.99999",
+    "projects": [
+        "https://github.com/css-modules/css-selector-tokenizer"
+    ],
+    "devDependencies": {
+        "@types/css-selector-tokenizer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Avi Vahl",
+            "githubUsername": "AviVahl"
+        }
+    ]
+}

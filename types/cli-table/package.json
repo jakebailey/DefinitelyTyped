@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/cli-table",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/Automattic/cli-table"
+    ],
+    "typeScriptVersion": "4.9",
+    "devDependencies": {
+        "@types/cli-table": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "AryloYeung",
+            "githubUsername": "arylo"
+        },
+        {
+            "name": "Antoni Spaanderman",
+            "githubUsername": "antonilol"
+        }
+    ]
+}

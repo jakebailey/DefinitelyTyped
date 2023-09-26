@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/microtime",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/wadey/node-microtime"
+    ],
+    "devDependencies": {
+        "@types/microtime": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kovács Vince",
+            "githubUsername": "vincekovacs"
+        }
+    ]
+}

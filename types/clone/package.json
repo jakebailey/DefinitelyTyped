@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/clone",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/pvorb/node-clone"
+    ],
+    "devDependencies": {
+        "@types/clone": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kieran Simpson",
+            "githubUsername": "kierans"
+        },
+        {
+            "name": "DG-za",
+            "githubUsername": "DG-za"
+        }
+    ]
+}

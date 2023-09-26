@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/gapi.people",
+    "version": "1.0.99999",
+    "projects": [
+        "https://developers.google.com/people/"
+    ],
+    "dependencies": {
+        "@types/gapi": "*"
+    },
+    "devDependencies": {
+        "@types/gapi.people": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tanguy Krotoff",
+            "githubUsername": "tkrotoff"
+        },
+        {
+            "name": "Joshua O'Brien",
+            "githubUsername": "joshuaobrien"
+        }
+    ]
+}

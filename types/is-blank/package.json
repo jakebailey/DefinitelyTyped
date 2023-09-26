@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-blank",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/johnotander/is-blank#readme"
+    ],
+    "devDependencies": {
+        "@types/is-blank": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Gambardella",
+            "githubUsername": "heygambo"
+        }
+    ]
+}

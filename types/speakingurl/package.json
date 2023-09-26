@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/speakingurl",
+    "version": "13.0.99999",
+    "projects": [
+        "http://pid.github.io/speakingurl/"
+    ],
+    "devDependencies": {
+        "@types/speakingurl": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zlatko Andonovski",
+            "githubUsername": "Goldsmith42"
+        }
+    ]
+}

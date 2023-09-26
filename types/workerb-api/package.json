@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/workerb-api",
+    "version": "1.0.99999",
+    "projects": [
+        "https://workerb.io/"
+    ],
+    "devDependencies": {
+        "@types/workerb-api": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "workerB",
+            "githubUsername": "workerb-io"
+        },
+        {
+            "name": "Saurabh Garg",
+            "githubUsername": "s-garg"
+        }
+    ]
+}

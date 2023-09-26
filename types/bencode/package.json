@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/bencode",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/themasch/node-bencode#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/bencode": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tobenna",
+            "githubUsername": "tobenna"
+        }
+    ]
+}

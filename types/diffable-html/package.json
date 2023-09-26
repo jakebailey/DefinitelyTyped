@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/diffable-html",
+    "version": "5.0.99999",
+    "projects": [
+        "https://github.com/rayrutjes/diffable-html#readme"
+    ],
+    "devDependencies": {
+        "@types/diffable-html": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zhang Yi Jiang",
+            "githubUsername": "ZhangYiJiang"
+        }
+    ]
+}

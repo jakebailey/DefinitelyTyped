@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/log",
+    "version": "6.3.99999",
+    "projects": [
+        "https://github.com/medikoo/log#readme"
+    ],
+    "devDependencies": {
+        "@types/log": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Adam Jones",
+            "githubUsername": "domdomegg"
+        }
+    ]
+}

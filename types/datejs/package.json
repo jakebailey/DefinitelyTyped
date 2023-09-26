@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/datejs",
+    "version": "0.0.99999",
+    "projects": [
+        "http://www.datejs.com/"
+    ],
+    "devDependencies": {
+        "@types/datejs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Khristepher Santos",
+            "githubUsername": "rupertavery"
+        }
+    ]
+}

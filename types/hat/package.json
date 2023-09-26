@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hat",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/substack/node-hat"
+    ],
+    "devDependencies": {
+        "@types/hat": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Miro Yovchev",
+            "githubUsername": "myovchev"
+        }
+    ]
+}

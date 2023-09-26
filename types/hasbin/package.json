@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hasbin",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/springernature/hasbin"
+    ],
+    "devDependencies": {
+        "@types/hasbin": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Micha Streppel",
+            "githubUsername": "michastreppel"
+        }
+    ]
+}

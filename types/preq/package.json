@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/preq",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/wikimedia/preq"
+    ],
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/request": "*"
+    },
+    "devDependencies": {
+        "@types/preq": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "diskdance",
+            "githubUsername": "diskdance"
+        }
+    ]
+}

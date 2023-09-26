@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tsv",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/ricardobeat/TSV"
+    ],
+    "devDependencies": {
+        "@types/tsv": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zlatko Andonovski",
+            "githubUsername": "Goldsmith42"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsonapi-serializer",
+    "version": "3.6.99999",
+    "projects": [
+        "https://github.com/SeyZ/jsonapi-serializer#readme"
+    ],
+    "devDependencies": {
+        "@types/jsonapi-serializer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Frank Chiang",
+            "githubUsername": "chiangf"
+        }
+    ]
+}

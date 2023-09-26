@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/saml20",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/leandrob/saml20"
+    ],
+    "devDependencies": {
+        "@types/saml20": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jan Petzold",
+            "githubUsername": "HackerUndKoch"
+        }
+    ]
+}

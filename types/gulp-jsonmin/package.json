@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/gulp-jsonmin",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/englercj/gulp-jsonmin"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gulp": "*",
+        "@types/gulp-jsonmin": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Romain Faust",
+            "githubUsername": "romain-faust"
+        }
+    ]
+}

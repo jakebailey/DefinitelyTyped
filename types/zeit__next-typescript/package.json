@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/zeit__next-typescript",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/zeit/next-plugins/tree/master/packages/next-typescript",
+        "https://github.com/zeit/next-plugins"
+    ],
+    "devDependencies": {
+        "@types/zeit__next-typescript": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "icopp",
+            "githubUsername": "icopp"
+        }
+    ]
+}

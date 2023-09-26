@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/google-images",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/vadimdemedes/google-images"
+    ],
+    "devDependencies": {
+        "@types/google-images": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dolan Miu",
+            "githubUsername": "dolanmiu"
+        }
+    ]
+}

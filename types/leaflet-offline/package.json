@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/leaflet-offline",
+    "version": "1.1.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "leaflet-offline",
+    "projects": [
+        "https://github.com/robertomlsoares/leaflet-offline#readme"
+    ],
+    "dependencies": {
+        "@types/leaflet": "*"
+    },
+    "devDependencies": {
+        "@types/leaflet-offline": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BETOXL",
+            "githubUsername": "BETOXL"
+        }
+    ]
+}

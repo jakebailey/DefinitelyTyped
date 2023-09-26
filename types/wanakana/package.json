@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/wanakana",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/WaniKani/WanaKana"
+    ],
+    "devDependencies": {
+        "@types/wanakana": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ross Hendry",
+            "githubUsername": "chooban"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

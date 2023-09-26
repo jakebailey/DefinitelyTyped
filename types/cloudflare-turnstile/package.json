@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/cloudflare-turnstile",
+    "version": "0.1.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "Cloudflare Turnstile",
+    "projects": [
+        "https://www.cloudflare.com/products/turnstile"
+    ],
+    "devDependencies": {
+        "@types/cloudflare-turnstile": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jason Gerbes",
+            "githubUsername": "jasongerbes"
+        }
+    ]
+}

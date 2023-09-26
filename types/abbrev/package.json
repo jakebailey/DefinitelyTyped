@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/abbrev",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/isaacs/abbrev-js#readme"
+    ],
+    "devDependencies": {
+        "@types/abbrev": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

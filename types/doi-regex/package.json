@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/doi-regex",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/regexhq/doi-regex"
+    ],
+    "devDependencies": {
+        "@types/doi-regex": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Chris Wilkinson",
+            "githubUsername": "thewilkybarkid"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "name": "@types/terminal-kit",
+    "version": "2.5.99999",
+    "projects": [
+        "https://github.com/cronvel/terminal-kit#readme"
+    ],
+    "typeScriptVersion": "4.9",
+    "dependencies": {
+        "@types/nextgen-events": "*"
+    },
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/terminal-kit": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "katsanva",
+            "githubUsername": "katsanva"
+        },
+        {
+            "name": "Totto16",
+            "githubUsername": "Totto16"
+        }
+    ]
+}

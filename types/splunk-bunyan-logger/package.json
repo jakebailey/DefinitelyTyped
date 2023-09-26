@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/splunk-bunyan-logger",
+    "version": "0.9.99999",
+    "projects": [
+        "http://dev.splunk.com"
+    ],
+    "dependencies": {
+        "@types/bunyan": "*",
+        "@types/node": "*",
+        "@types/splunk-logging": "*"
+    },
+    "devDependencies": {
+        "@types/splunk-bunyan-logger": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alex Brick",
+            "githubUsername": "bricka"
+        }
+    ]
+}

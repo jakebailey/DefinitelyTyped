@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/xmljs",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/blackshadev/xmljs"
+    ],
+    "devDependencies": {
+        "@types/xmljs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vincent Hagen",
+            "githubUsername": "blackshadev"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "name": "@types/miniprogram",
+    "version": "1.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "miniprogram",
+    "projects": [
+        "https://miniprogram.alipay.com/docs/miniprogram/mpdev/quick-start_overview"
+    ],
+    "devDependencies": {
+        "@types/miniprogram": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "RockSandy",
+            "githubUsername": "rockSandy"
+        },
+        {
+            "name": "LynneXu",
+            "githubUsername": "LynneXu"
+        },
+        {
+            "name": "xdoer",
+            "githubUsername": "xdoer"
+        }
+    ]
+}

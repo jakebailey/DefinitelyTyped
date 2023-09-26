@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/blip-sdk",
+    "version": "7.3.99999",
+    "projects": [
+        "https://github.com/takenet/blip-sdk-js#readme"
+    ],
+    "devDependencies": {
+        "@types/blip-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Henrique Torquato",
+            "githubUsername": "henriquetorquato"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/qwest",
+    "version": "1.7.99999",
+    "projects": [
+        "https://github.com/pyrsmk/qwest"
+    ],
+    "devDependencies": {
+        "@types/qwest": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Lindsay Evans",
+            "githubUsername": "lindsayevans"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/elv",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/dsfields/elv#readme"
+    ],
+    "devDependencies": {
+        "@types/elv": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gary Parker",
+            "githubUsername": "garyaparker"
+        }
+    ]
+}

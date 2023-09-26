@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/reddit",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/feross/reddit"
+    ],
+    "devDependencies": {
+        "@types/reddit": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Noah Frederick",
+            "githubUsername": "nfrederick023"
+        }
+    ]
+}

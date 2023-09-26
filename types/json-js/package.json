@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/json-js",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/cangosta/JSON-js"
+    ],
+    "devDependencies": {
+        "@types/json-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "NN",
+            "githubUsername": "NN---"
+        }
+    ]
+}

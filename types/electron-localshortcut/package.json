@@ -1,6 +1,20 @@
 {
     "private": true,
+    "name": "@types/electron-localshortcut",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/parro-it/electron-localshortcut#readme"
+    ],
     "dependencies": {
         "electron": "*"
-    }
+    },
+    "devDependencies": {
+        "@types/electron-localshortcut": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Keller",
+            "githubUsername": "ffflorian"
+        }
+    ]
 }

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/xdate",
+    "version": "0.8.99999",
+    "projects": [
+        "http://arshaw.com/xdate/"
+    ],
+    "devDependencies": {
+        "@types/xdate": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "yamada28go",
+            "githubUsername": "yamada28go"
+        }
+    ]
+}

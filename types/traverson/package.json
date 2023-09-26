@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/traverson",
+    "version": "6.1.99999",
+    "projects": [
+        "https://github.com/traverson/traverson"
+    ],
+    "devDependencies": {
+        "@types/traverson": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marcin Porębski",
+            "githubUsername": "marcinporebski"
+        },
+        {
+            "name": "Vladimir Jelovac",
+            "githubUsername": "jelovac"
+        }
+    ]
+}

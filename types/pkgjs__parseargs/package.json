@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/pkgjs__parseargs",
+    "version": "0.10.99999",
+    "projects": [
+        "https://github.com/pkgjs/parseargs"
+    ],
+    "devDependencies": {
+        "@types/pkgjs__parseargs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Remco Haszing",
+            "githubUsername": "remcohaszing"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/documentdb-session",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/dwhieb/documentdb-session#readme"
+    ],
+    "dependencies": {
+        "@types/express-session": "*"
+    },
+    "devDependencies": {
+        "@types/documentdb-session": "workspace:.",
+        "@types/express": "*"
+    },
+    "contributors": [
+        {
+            "name": "Daniel Rosenwasser",
+            "githubUsername": "DanielRosenwasser"
+        }
+    ]
+}

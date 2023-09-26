@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/jsftp",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/sergi/jsftp"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/jsftp": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Konrad Księski",
+            "githubUsername": "xyleen"
+        }
+    ]
+}

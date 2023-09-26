@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/deku",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/anthonyshort/deku"
+    ],
+    "devDependencies": {
+        "@types/deku": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sho Fuji",
+            "githubUsername": "pocka"
+        }
+    ]
+}

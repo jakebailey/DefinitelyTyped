@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/define-properties",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/ljharb/define-properties#readme"
+    ],
+    "devDependencies": {
+        "@types/define-properties": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        },
+        {
+            "name": "Jordan Harband",
+            "githubUsername": "ljharb"
+        }
+    ]
+}

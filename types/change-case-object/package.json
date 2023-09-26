@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/change-case-object",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/BinaryThumb/change-case-object#readme"
+    ],
+    "devDependencies": {
+        "@types/change-case-object": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "James Chao",
+            "githubUsername": "jameschao"
+        }
+    ]
+}

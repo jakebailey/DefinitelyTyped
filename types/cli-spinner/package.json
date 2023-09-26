@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/cli-spinner",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/helloIAmPau/node-spinner"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/cli-spinner": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jay Anslow",
+            "githubUsername": "janslow"
+        }
+    ]
+}

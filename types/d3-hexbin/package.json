@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/d3-hexbin",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/d3/d3-hexbin/"
+    ],
+    "devDependencies": {
+        "@types/d3-hexbin": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "UNCOVER TRUTH Inc.",
+            "githubUsername": "uncovertruth"
+        },
+        {
+            "name": "Tom Wanzek",
+            "githubUsername": "tomwanzek"
+        },
+        {
+            "name": "denisname",
+            "githubUsername": "denisname"
+        }
+    ]
+}

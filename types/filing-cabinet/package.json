@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/filing-cabinet",
+    "version": "2.5.99999",
+    "projects": [
+        "https://github.com/mrjoelkemp/node-filing-cabinet"
+    ],
+    "devDependencies": {
+        "@types/filing-cabinet": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz (Peter Blazejewicz)",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

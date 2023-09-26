@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/datatables.net-rowreorder",
+    "version": "1.1.99999",
+    "projects": [
+        "http://datatables.net/extensions/rowreorder/",
+        "https://datatables.net"
+    ],
+    "dependencies": {
+        "@types/datatables.net": "*",
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/datatables.net-rowreorder": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vincent Biret",
+            "githubUsername": "baywet"
+        }
+    ]
+}

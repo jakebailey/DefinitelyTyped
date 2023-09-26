@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/grid-template-parser",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/anthonydugois/grid-template-parser"
+    ],
+    "devDependencies": {
+        "@types/grid-template-parser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Avi Vahl",
+            "githubUsername": "AviVahl"
+        }
+    ]
+}

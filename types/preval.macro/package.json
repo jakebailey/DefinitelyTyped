@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/preval.macro",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/kentcdodds/preval.macro"
+    ],
+    "devDependencies": {
+        "@types/preval.macro": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jeow Li Huan",
+            "githubUsername": "huan086"
+        }
+    ]
+}

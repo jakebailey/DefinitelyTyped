@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/angular-breadcrumb",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/ncuillery/angular-breadcrumb"
+    ],
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/angular-ui-router": "*"
+    },
+    "devDependencies": {
+        "@types/angular-breadcrumb": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marc Talary",
+            "githubUsername": "marctalary"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/localtunnel",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/localtunnel/localtunnel"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/localtunnel": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vladyslav Khrapov",
+            "githubUsername": "vladhrapov"
+        },
+        {
+            "name": "Noam Alffasy",
+            "githubUsername": "noamalffasy"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/selectables",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/p34eu/Selectables#readme"
+    ],
+    "devDependencies": {
+        "@types/selectables": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Soner Köksal",
+            "githubUsername": "renjfk"
+        }
+    ]
+}

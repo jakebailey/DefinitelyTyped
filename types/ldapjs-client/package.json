@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ldapjs-client",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/zont/ldapjs-client#readme"
+    ],
+    "devDependencies": {
+        "@types/ldapjs-client": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Valerio Coltrè",
+            "githubUsername": "colthreepv"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/territory-indonesia",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/eksant/territory-indonesia"
+    ],
+    "devDependencies": {
+        "@types/territory-indonesia": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tifan",
+            "githubUsername": "tifandotme"
+        }
+    ]
+}

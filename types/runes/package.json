@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/runes",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/dotcypress/runes"
+    ],
+    "devDependencies": {
+        "@types/runes": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jamie Davies",
+            "githubUsername": "viralpickaxe"
+        }
+    ]
+}

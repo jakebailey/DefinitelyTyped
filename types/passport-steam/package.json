@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/passport-steam",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/liamcurry/passport-steam"
+    ],
+    "devDependencies": {
+        "@types/express": "*",
+        "@types/passport": "*",
+        "@types/passport-steam": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gonthier Renaud",
+            "githubUsername": "kzay"
+        }
+    ]
+}

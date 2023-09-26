@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/defaults",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/tmpvar/defaults/"
+    ],
+    "devDependencies": {
+        "@types/defaults": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ibtihel CHNAB",
+            "githubUsername": "IbtihelCHNAB"
+        }
+    ]
+}

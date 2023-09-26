@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/intl",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/andyearnshaw/Intl.js"
+    ],
+    "devDependencies": {
+        "@types/intl": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Muhammad Ragib Hasin",
+            "githubUsername": "RagibHasin"
+        }
+    ]
+}

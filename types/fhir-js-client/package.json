@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fhir-js-client",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/smart-on-fhir/client-js"
+    ],
+    "devDependencies": {
+        "@types/fhir-js-client": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ramachandran Gokulachandran",
+            "githubUsername": "rmchndrng"
+        }
+    ]
+}

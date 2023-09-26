@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/vision",
+    "version": "4.1.99999",
+    "projects": [
+        "https://github.com/hapijs/vision"
+    ],
+    "dependencies": {
+        "@types/hapi": "^16"
+    },
+    "devDependencies": {
+        "@types/vision": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jason Swearingen",
+            "githubUsername": "jasonswearingen"
+        },
+        {
+            "name": "AJP",
+            "githubUsername": "AJamesPhillips"
+        }
+    ]
+}

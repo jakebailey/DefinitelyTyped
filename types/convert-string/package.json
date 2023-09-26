@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/convert-string",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/baz/foo"
+    ],
+    "devDependencies": {
+        "@types/convert-string": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Haseeb Majid",
+            "githubUsername": "hmajid2301"
+        }
+    ]
+}

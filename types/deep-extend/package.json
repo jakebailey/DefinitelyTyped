@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/deep-extend",
+    "version": "0.6.99999",
+    "projects": [
+        "https://github.com/unclechu/node-deep-extend"
+    ],
+    "devDependencies": {
+        "@types/deep-extend": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "rhysd",
+            "githubUsername": "rhysd"
+        }
+    ]
+}

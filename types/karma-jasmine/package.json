@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/karma-jasmine",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/karma-runner/karma-jasmine#readme"
+    ],
+    "dependencies": {
+        "@types/jasmine": "*",
+        "@types/karma": "*"
+    },
+    "devDependencies": {
+        "@types/karma-jasmine": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Michel Salib",
+            "githubUsername": "michelsalib"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

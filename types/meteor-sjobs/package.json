@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/meteor-sjobs",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/msavin/SteveJobs"
+    ],
+    "dependencies": {
+        "@types/meteor": "*"
+    },
+    "devDependencies": {
+        "@types/meteor-sjobs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Witold H",
+            "githubUsername": "LinearMilk"
+        }
+    ]
+}

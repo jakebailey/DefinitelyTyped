@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/director",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/flatiron/director"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/director": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "pastelmind",
+            "githubUsername": "pastelmind"
+        }
+    ]
+}

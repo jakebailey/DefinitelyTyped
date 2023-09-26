@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/es6-collections",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/WebReflection/es6-collections/"
+    ],
+    "devDependencies": {
+        "@types/es6-collections": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ron Buckton",
+            "githubUsername": "rbuckton"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/baidu-app",
+    "version": "2.2.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "swan-app",
+    "projects": [
+        "https://smartprogram.baidu.com/docs/develop/tutorial/codedir/"
+    ],
+    "devDependencies": {
+        "@types/baidu-app": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "taoqf",
+            "githubUsername": "taoqf"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/p5",
+    "version": "1.7.99999",
+    "projects": [
+        "https://github.com/processing/p5.js"
+    ],
+    "typeScriptVersion": "4.9",
+    "devDependencies": {
+        "@types/p5": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "p5-types",
+            "githubUsername": "p5-types"
+        }
+    ]
+}

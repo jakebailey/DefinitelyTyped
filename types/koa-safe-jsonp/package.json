@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/koa-safe-jsonp",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/koajs/koa-safe-jsonp"
+    ],
+    "dependencies": {
+        "@types/jsonp-body": "*",
+        "@types/koa": "*"
+    },
+    "devDependencies": {
+        "@types/koa-safe-jsonp": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Qingrong Ke",
+            "githubUsername": "keqingrong"
+        }
+    ]
+}

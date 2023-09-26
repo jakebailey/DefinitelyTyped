@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fluent-reveal-effect",
+    "version": "2.0.99999",
+    "projects": [
+        "https://www.npmjs.com/package/fluent-reveal-effect"
+    ],
+    "devDependencies": {
+        "@types/fluent-reveal-effect": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alen Mukaca",
+            "githubUsername": "ShinzenATT"
+        }
+    ]
+}

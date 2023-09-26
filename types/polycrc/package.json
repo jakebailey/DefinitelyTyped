@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/polycrc",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/latysheff/node-polycrc#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/polycrc": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Emmanuel",
+            "githubUsername": "emmanuelm41"
+        }
+    ]
+}

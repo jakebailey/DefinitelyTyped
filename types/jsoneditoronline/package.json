@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsoneditoronline",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/josdejong/jsoneditoronline"
+    ],
+    "devDependencies": {
+        "@types/jsoneditoronline": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vincent Bortone",
+            "githubUsername": "vbortone"
+        }
+    ]
+}

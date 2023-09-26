@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/ultron",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/unshiftio/ultron"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/ultron": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Renée Kooi",
+            "githubUsername": "goto-bus-stop"
+        }
+    ]
+}

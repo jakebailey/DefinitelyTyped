@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/touch-events",
+    "version": "0.0.99999",
+    "projects": [
+        "http://www.w3.org/TR/touch-events/"
+    ],
+    "devDependencies": {
+        "@types/touch-events": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kevin Barabash",
+            "githubUsername": "kevinb7"
+        }
+    ]
+}

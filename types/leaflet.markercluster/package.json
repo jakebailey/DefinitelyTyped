@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "name": "@types/leaflet.markercluster",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/Leaflet/Leaflet.markercluster"
+    ],
+    "dependencies": {
+        "@types/leaflet": "*"
+    },
+    "devDependencies": {
+        "@types/leaflet.markercluster": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Robert Imig",
+            "githubUsername": "rimig"
+        },
+        {
+            "name": "Nenad Filipovic",
+            "githubUsername": "nenadfilipovic"
+        },
+        {
+            "name": "Yaroslav Kormushyn",
+            "githubUsername": "YaroslavKormushyn"
+        }
+    ]
+}

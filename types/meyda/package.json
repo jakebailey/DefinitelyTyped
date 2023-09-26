@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/meyda",
+    "version": "4.3.99999",
+    "projects": [
+        "https://github.com/meyda/meyda"
+    ],
+    "devDependencies": {
+        "@types/meyda": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Damien Erambert",
+            "githubUsername": "eramdam"
+        },
+        {
+            "name": "Hugh Rawlinson",
+            "githubUsername": "hughrawlinson"
+        }
+    ]
+}

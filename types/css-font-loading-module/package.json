@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/css-font-loading-module",
+    "version": "0.0.99999",
+    "projects": [
+        "https://drafts.csswg.org/css-font-loading/"
+    ],
+    "typeScriptVersion": "5.0",
+    "devDependencies": {
+        "@types/css-font-loading-module": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "slikts",
+            "githubUsername": "slikts"
+        }
+    ]
+}

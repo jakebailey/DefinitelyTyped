@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "@types/stripejs",
+    "version": "3.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "stripe.js",
+    "projects": [
+        "https://stripe.com/"
+    ],
+    "devDependencies": {
+        "@types/stripejs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Robin van Tienhoven",
+            "githubUsername": "RobinvanTienhoven"
+        },
+        {
+            "name": "Matt Ferderer",
+            "githubUsername": "mattferderer"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "@types/nearest-periodic-value",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/jmeas/nearest-periodic-value.js"
+    ],
+    "devDependencies": {
+        "@types/nearest-periodic-value": "workspace:."
+    },
+    "contributors": []
+}

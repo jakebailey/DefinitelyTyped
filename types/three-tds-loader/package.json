@@ -1,6 +1,24 @@
 {
     "private": true,
+    "name": "@types/three-tds-loader",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/codetheorist/three-tds-loader"
+    ],
     "dependencies": {
         "three": "*"
-    }
+    },
+    "devDependencies": {
+        "@types/three-tds-loader": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Konstantin Lukaschenko",
+            "githubUsername": "KonstantinLukaschenko"
+        },
+        {
+            "name": "Stefan Schönsee",
+            "githubUsername": "sschoensee"
+        }
+    ]
 }

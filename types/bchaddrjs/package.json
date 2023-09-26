@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bchaddrjs",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/bitcoincashjs/bchaddrjs#readme"
+    ],
+    "devDependencies": {
+        "@types/bchaddrjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Emilio Almansi",
+            "githubUsername": "ealmansi"
+        }
+    ]
+}

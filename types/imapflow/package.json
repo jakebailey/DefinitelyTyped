@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "name": "@types/imapflow",
+    "version": "1.0.99999",
+    "projects": [
+        "https://imapflow.com/"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/imapflow": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jeffrey Ratton",
+            "githubUsername": "jeffreyratton98"
+        },
+        {
+            "name": "Martin Badin",
+            "githubUsername": "martin-badin"
+        },
+        {
+            "name": "Northern Star",
+            "githubUsername": "grayson-code"
+        }
+    ]
+}

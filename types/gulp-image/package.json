@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/gulp-image",
+    "version": "4.3.99999",
+    "projects": [
+        "https://github.com/1000ch/gulp-image#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gulp-image": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aankhen",
+            "githubUsername": "Aankhen"
+        }
+    ]
+}

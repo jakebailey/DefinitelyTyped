@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/undertaker-registry",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/gulpjs/undertaker-registry"
+    ],
+    "devDependencies": {
+        "@types/undertaker-registry": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Giedrius Grabauskas",
+            "githubUsername": "GiedriusGrabauskas"
+        }
+    ]
+}

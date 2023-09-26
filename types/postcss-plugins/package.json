@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/postcss-plugins",
+    "version": "1.13.99999",
+    "projects": [
+        "https://github.com/himynameisdave/postcss-plugins#readme"
+    ],
+    "devDependencies": {
+        "@types/postcss-plugins": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ouibounce",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/carlsednaoui/ouibounce"
+    ],
+    "devDependencies": {
+        "@types/ouibounce": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Krzysztof Gutkowski",
+            "githubUsername": "LiquidPL"
+        }
+    ]
+}

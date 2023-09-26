@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/trie-prefix-tree",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/lyndseybrowning/trie-prefix#readme"
+    ],
+    "devDependencies": {
+        "@types/trie-prefix-tree": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "James Lismore",
+            "githubUsername": "jlismore"
+        }
+    ]
+}

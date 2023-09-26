@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/react-js-table-with-csv-dl",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/jciccio/react-table-with-csv-download"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-js-table-with-csv-dl": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "manuzcheruz",
+            "githubUsername": "manuzcheruz"
+        }
+    ]
+}

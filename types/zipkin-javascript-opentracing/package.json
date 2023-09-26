@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/zipkin-javascript-opentracing",
+    "version": "1.6.99999",
+    "projects": [
+        "https://github.com/DanielMSchmidt/zipkin-javascript-opentracing"
+    ],
+    "devDependencies": {
+        "@types/zipkin-javascript-opentracing": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Laurent Gilly",
+            "githubUsername": "laurentgilly"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/contentful-resolve-response",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/contentful/contentful-resolve-response"
+    ],
+    "devDependencies": {
+        "@types/contentful-resolve-response": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Anton Karsten",
+            "githubUsername": "antonkarsten"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/markdown-escape",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/kemitchell/markdown-escape.js"
+    ],
+    "devDependencies": {
+        "@types/markdown-escape": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christoph Thiede",
+            "githubUsername": "LinqLover"
+        }
+    ]
+}

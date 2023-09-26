@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/args",
+    "version": "5.0.99999",
+    "projects": [
+        "https://github.com/leo/args#readme"
+    ],
+    "devDependencies": {
+        "@types/args": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Slessi",
+            "githubUsername": "Slessi"
+        }
+    ]
+}

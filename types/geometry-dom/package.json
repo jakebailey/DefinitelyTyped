@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/geometry-dom",
+    "version": "0.0.99999",
+    "projects": [
+        "http://www.w3.org/TR/geometry-1/"
+    ],
+    "devDependencies": {
+        "@types/geometry-dom": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Toshiya Nakakura",
+            "githubUsername": "nakakura"
+        }
+    ]
+}

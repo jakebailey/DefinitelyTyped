@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/angular-ui-sortable",
+    "version": "0.13.99999",
+    "projects": [
+        "https://github.com/angular-ui/ui-sortable"
+    ],
+    "dependencies": {
+        "@types/angular": "*",
+        "@types/jqueryui": "*"
+    },
+    "devDependencies": {
+        "@types/angular-ui-sortable": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Thodoris Greasidis",
+            "githubUsername": "thgreasi"
+        }
+    ]
+}

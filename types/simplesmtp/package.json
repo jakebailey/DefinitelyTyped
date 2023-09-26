@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/simplesmtp",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/andris9/simplesmtp"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/simplesmtp": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rogier Schouten",
+            "githubUsername": "rogierschouten"
+        }
+    ]
+}

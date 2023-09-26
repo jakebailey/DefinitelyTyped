@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/retinajs",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/strues/retinajs"
+    ],
+    "devDependencies": {
+        "@types/retinajs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "senjyouhara",
+            "githubUsername": "senjyouhara"
+        }
+    ]
+}

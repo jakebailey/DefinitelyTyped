@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/json-fixer",
+    "version": "1.6.99999",
+    "projects": [
+        "https://github.com/Berkmann18/json-fixer"
+    ],
+    "devDependencies": {
+        "@types/json-fixer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "zbone3",
+            "githubUsername": "zbone3"
+        }
+    ]
+}

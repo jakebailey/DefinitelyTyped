@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/memorystream",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/JSBizon/node-memorystream"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/memorystream": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "bangbang93",
+            "githubUsername": "bangbang93"
+        },
+        {
+            "name": "geniou",
+            "githubUsername": "geniou"
+        }
+    ]
+}

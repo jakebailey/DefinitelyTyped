@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/marker-animate-unobtrusive",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/terikon/marker-animate-unobtrusive"
+    ],
+    "dependencies": {
+        "@types/google.maps": "*"
+    },
+    "devDependencies": {
+        "@types/marker-animate-unobtrusive": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Roman Viskin",
+            "githubUsername": "viskin"
+        }
+    ]
+}

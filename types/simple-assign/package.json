@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/simple-assign",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/newoga/simple-assign"
+    ],
+    "devDependencies": {
+        "@types/simple-assign": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ivo Stratev",
+            "githubUsername": "NoHomey"
+        }
+    ]
+}

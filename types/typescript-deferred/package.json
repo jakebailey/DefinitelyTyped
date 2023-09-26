@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/typescript-deferred",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/DirtyHairy/typescript-deferred"
+    ],
+    "devDependencies": {
+        "@types/typescript-deferred": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Speckner",
+            "githubUsername": "DirtyHairy"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsbn",
+    "version": "1.2.99999",
+    "projects": [
+        "http://www-cs-students.stanford.edu/%7Etjw/jsbn/"
+    ],
+    "devDependencies": {
+        "@types/jsbn": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eugene Chernyshov",
+            "githubUsername": "Evgenus"
+        }
+    ]
+}

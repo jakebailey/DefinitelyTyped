@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/password-hash-and-salt",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/florianheinemann/password-hash-and-salt"
+    ],
+    "devDependencies": {
+        "@types/password-hash-and-salt": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ali Taheri",
+            "githubUsername": "alitaheri"
+        }
+    ]
+}

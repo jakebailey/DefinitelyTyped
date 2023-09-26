@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/athenajs",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/AthenaJS/athenajs"
+    ],
+    "devDependencies": {
+        "@types/athenajs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nicolas Ramz",
+            "githubUsername": "warpdesign"
+        }
+    ]
+}

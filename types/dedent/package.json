@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dedent",
+    "version": "0.7.99999",
+    "projects": [
+        "https://github.com/dmnd/dedent"
+    ],
+    "devDependencies": {
+        "@types/dedent": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Douglas Duteil",
+            "githubUsername": "douglasduteil"
+        }
+    ]
+}

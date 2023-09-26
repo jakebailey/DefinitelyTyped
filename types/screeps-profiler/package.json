@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/screeps-profiler",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/screepers/screeps-profiler"
+    ],
+    "devDependencies": {
+        "@types/screeps-profiler": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Casey Link",
+            "githubUsername": "ramblurr"
+        }
+    ]
+}

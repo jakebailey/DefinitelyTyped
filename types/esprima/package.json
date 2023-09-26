@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "name": "@types/esprima",
+    "version": "4.0.99999",
+    "projects": [
+        "http://esprima.org"
+    ],
+    "dependencies": {
+        "@types/estree": "*"
+    },
+    "devDependencies": {
+        "@types/esprima": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "teppeis",
+            "githubUsername": "teppeis"
+        },
+        {
+            "name": "RReverser",
+            "githubUsername": "RReverser"
+        },
+        {
+            "name": "peter-scott",
+            "githubUsername": "peter-scott"
+        }
+    ]
+}

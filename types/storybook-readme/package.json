@@ -1,7 +1,22 @@
 {
     "private": true,
+    "name": "@types/storybook-readme",
+    "version": "5.0.99999",
+    "projects": [
+        "https://github.com/tuchk4/storybook-readme"
+    ],
     "dependencies": {
         "@storybook/addons": "^6.5.9",
-        "@storybook/react": "^6.5.9"
-    }
+        "@storybook/react": "^6.5.9",
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/storybook-readme": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Taeheon Kim ",
+            "githubUsername": "lonyele"
+        }
+    ]
 }

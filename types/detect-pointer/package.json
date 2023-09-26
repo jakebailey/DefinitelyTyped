@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/detect-pointer",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/rafrex/detect-pointer#readme"
+    ],
+    "devDependencies": {
+        "@types/detect-pointer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Thomas Tilkema",
+            "githubUsername": "thomastilkema"
+        }
+    ]
+}

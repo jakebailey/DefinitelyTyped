@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/koa__cors",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/koajs/cors"
+    ],
+    "dependencies": {
+        "@types/koa": "*"
+    },
+    "devDependencies": {
+        "@types/koa__cors": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Xavier Stouder",
+            "githubUsername": "Xstoudi"
+        },
+        {
+            "name": "Steven McDowall",
+            "githubUsername": "sjmcdowall"
+        }
+    ]
+}

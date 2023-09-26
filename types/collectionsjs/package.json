@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/collectionsjs",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/logaretm/collectionsjs#readme"
+    ],
+    "devDependencies": {
+        "@types/collectionsjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jaymeh",
+            "githubUsername": "jaymeh"
+        }
+    ]
+}

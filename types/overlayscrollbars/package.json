@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/overlayscrollbars",
+    "version": "1.12.99999",
+    "projects": [
+        "https://kingsora.github.io/OverlayScrollbars"
+    ],
+    "devDependencies": {
+        "@types/overlayscrollbars": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "KingSora",
+            "githubUsername": "KingSora"
+        }
+    ]
+}

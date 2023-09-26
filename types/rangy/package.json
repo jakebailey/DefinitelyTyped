@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rangy",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/timdown/rangy"
+    ],
+    "devDependencies": {
+        "@types/rangy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rudolph Gottesheim",
+            "url": "http://www.midnight-design.at/"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/transit-js",
+    "version": "0.8.99999",
+    "projects": [
+        "https://github.com/cognitect/transit-js"
+    ],
+    "devDependencies": {
+        "@types/transit-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tim Griesser",
+            "githubUsername": "tgriesser"
+        }
+    ]
+}

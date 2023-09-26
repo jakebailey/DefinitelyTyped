@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/memory-usage",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/watson/memory-usage#readme"
+    ],
+    "dependencies": {
+        "@types/gc-profiler": "*",
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/memory-usage": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

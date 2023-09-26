@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/brotli",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/foliojs/brotli.js"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/brotli": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Artur Androsovych",
+            "githubUsername": "arturovt"
+        }
+    ]
+}

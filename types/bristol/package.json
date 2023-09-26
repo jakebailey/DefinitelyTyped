@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/bristol",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/TomFrost/Bristol"
+    ],
+    "devDependencies": {
+        "@types/bristol": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eric Heikes",
+            "githubUsername": "eheikes"
+        },
+        {
+            "name": "Elliott Campbell",
+            "githubUsername": "ElliottCampbellJHA"
+        }
+    ]
+}

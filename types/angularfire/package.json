@@ -1,6 +1,21 @@
 {
     "private": true,
+    "name": "@types/angularfire",
+    "version": "0.8.99999",
+    "projects": [
+        "http://angularfire.com"
+    ],
     "dependencies": {
+        "@types/angular": "*",
         "@types/firebase": "^2.4.1"
-    }
+    },
+    "devDependencies": {
+        "@types/angularfire": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dénes Harmath",
+            "githubUsername": "thSoft"
+        }
+    ]
 }

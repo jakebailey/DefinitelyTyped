@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/deflate-js",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/beatgammit/deflate-js"
+    ],
+    "devDependencies": {
+        "@types/deflate-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Seb Renauld",
+            "githubUsername": "srenauld"
+        }
+    ]
+}

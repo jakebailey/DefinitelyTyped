@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/extract-colors",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/Namide/extract-colors"
+    ],
+    "devDependencies": {
+        "@types/extract-colors": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matt",
+            "githubUsername": "punctuations"
+        }
+    ]
+}

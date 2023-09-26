@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/rx.wamp",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/paulpdaniels/rx.wamp/"
+    ],
+    "dependencies": {
+        "@types/autobahn": "*",
+        "@types/rx": "*"
+    },
+    "devDependencies": {
+        "@types/rx.wamp": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Elad Zelingher",
+            "githubUsername": "darkl"
+        }
+    ]
+}

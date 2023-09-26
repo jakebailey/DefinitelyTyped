@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "name": "@types/karma-coverage",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/karma-runner/karma-coverage"
+    ],
+    "dependencies": {
+        "@types/istanbul": "*",
+        "@types/karma": "*"
+    },
+    "devDependencies": {
+        "@types/karma-coverage": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tanguy Krotoff",
+            "githubUsername": "tkrotoff"
+        },
+        {
+            "name": "Yaroslav Admin",
+            "githubUsername": "devoto13"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

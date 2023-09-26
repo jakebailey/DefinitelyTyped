@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/superagent-no-cache",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/johntron/superagent-no-cache"
+    ],
+    "dependencies": {
+        "@types/superagent": "*"
+    },
+    "devDependencies": {
+        "@types/superagent-no-cache": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Michael Ledin",
+            "githubUsername": "mxl"
+        }
+    ]
+}

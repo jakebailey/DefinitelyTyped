@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/gulp-ng-annotate",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/Kagami/gulp-ng-annotate"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gulp": "*",
+        "@types/gulp-ng-annotate": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Qubo",
+            "githubUsername": "tkQubo"
+        }
+    ]
+}

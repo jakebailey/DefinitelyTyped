@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/to-ico",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/kevva/to-ico#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/to-ico": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Remco Haszing",
+            "githubUsername": "remcohaszing"
+        }
+    ]
+}

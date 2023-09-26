@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "@types/dom-mediacapture-transform",
+    "version": "0.1.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "MediaStreamTrack Insertable Media Processing using Streams",
+    "projects": [
+        "https://w3c.github.io/mediacapture-transform/"
+    ],
+    "typeScriptVersion": "5.2",
+    "dependencies": {
+        "@types/dom-webcodecs": "*"
+    },
+    "devDependencies": {
+        "@types/dom-mediacapture-transform": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Wagner",
+            "githubUsername": "dogben"
+        }
+    ]
+}

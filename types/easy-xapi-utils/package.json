@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/easy-xapi-utils",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/DeadAlready/easy-xapi-utils"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/easy-xapi": "*",
+        "@types/easy-xapi-utils": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Karl Düüna",
+            "githubUsername": "DeadAlready"
+        }
+    ]
+}

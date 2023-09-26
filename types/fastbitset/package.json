@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fastbitset",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/lemire/FastBitSet.js"
+    ],
+    "devDependencies": {
+        "@types/fastbitset": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Keller",
+            "githubUsername": "ffflorian"
+        }
+    ]
+}

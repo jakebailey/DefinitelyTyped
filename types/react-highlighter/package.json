@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "name": "@types/react-highlighter",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/helior/react-highlighter"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-highlighter": "workspace:."
+    },
+    "contributors": []
+}

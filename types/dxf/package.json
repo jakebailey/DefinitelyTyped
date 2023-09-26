@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dxf",
+    "version": "4.6.99999",
+    "projects": [
+        "https://github.com/bjnortier/dxf"
+    ],
+    "devDependencies": {
+        "@types/dxf": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Preston Smith",
+            "githubUsername": "prestonii"
+        }
+    ]
+}

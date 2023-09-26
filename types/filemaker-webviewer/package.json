@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/filemaker-webviewer",
+    "version": "1.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "filemaker-webviewer",
+    "projects": [
+        "https://claris.com"
+    ],
+    "devDependencies": {
+        "@types/filemaker-webviewer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eric Luce",
+            "githubUsername": "eluce2"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/metascraper",
+    "version": "5.14.99999",
+    "projects": [
+        "https://metascraper.js.org"
+    ],
+    "devDependencies": {
+        "@types/metascraper": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Imdahl",
+            "githubUsername": "ffflorian"
+        }
+    ]
+}

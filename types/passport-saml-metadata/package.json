@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/passport-saml-metadata",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/compwright/passport-saml-metadata#readme"
+    ],
+    "dependencies": {
+        "@types/passport-saml": "*"
+    },
+    "devDependencies": {
+        "@types/passport-saml-metadata": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gabriel Fournier",
+            "githubUsername": "carboneater"
+        }
+    ]
+}

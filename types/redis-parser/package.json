@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/redis-parser",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/NodeRedis/node-redis-parser"
+    ],
+    "dependencies": {
+        "@types/node": "*",
+        "@types/redis-errors": "*"
+    },
+    "devDependencies": {
+        "@types/redis-parser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "OpportunityLiu",
+            "githubUsername": "OpportunityLiu"
+        }
+    ]
+}

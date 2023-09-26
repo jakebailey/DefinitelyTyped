@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/canvas-size",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/jhildenbiddle/canvas-size"
+    ],
+    "devDependencies": {
+        "@types/canvas-size": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Kucal",
+            "githubUsername": "DanielKucal"
+        }
+    ]
+}

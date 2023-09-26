@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/primus",
+    "version": "7.3.99999",
+    "projects": [
+        "https://github.com/primus/primus#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/primus": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Vaagland Tellnes",
+            "githubUsername": "tellnes"
+        },
+        {
+            "name": "Alaa Zorkane",
+            "githubUsername": "alaazorkane"
+        }
+    ]
+}

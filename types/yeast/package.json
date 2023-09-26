@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/yeast",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/unshiftio/yeast"
+    ],
+    "devDependencies": {
+        "@types/yeast": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Scheja",
+            "githubUsername": "schmollmolch"
+        }
+    ]
+}

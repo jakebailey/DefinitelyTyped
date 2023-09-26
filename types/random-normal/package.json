@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/random-normal",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/mock-end/random-normal"
+    ],
+    "devDependencies": {
+        "@types/random-normal": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Darius I. Karel",
+            "githubUsername": "dikarel"
+        }
+    ]
+}

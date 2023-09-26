@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/chardet",
+    "version": "0.8.99999",
+    "projects": [
+        "https://github.com/runk/node-chardet"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/chardet": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Hauke Oldsen",
+            "githubUsername": "Gebatzens"
+        },
+        {
+            "name": "Sam Hinshaw",
+            "githubUsername": "samhinshaw"
+        }
+    ]
+}

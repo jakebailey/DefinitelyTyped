@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/vinyl-source-stream",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/hughsk/vinyl-source-stream"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gulp": "*",
+        "@types/vinyl-source-stream": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Asana",
+            "url": "https://asana.com"
+        }
+    ]
+}

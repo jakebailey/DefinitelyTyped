@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/fragmented-store",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/aralroca/fragmented-store"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/fragmented-store": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Lunuy",
+            "githubUsername": "lunuy"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/google-polyline",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jhermsmeier/node-google-polyline"
+    ],
+    "devDependencies": {
+        "@types/google-polyline": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Babette Stam",
+            "githubUsername": "Babettestam"
+        }
+    ]
+}

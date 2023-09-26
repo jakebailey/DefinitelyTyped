@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/ace",
+    "version": "0.0.99999",
+    "projects": [
+        "https://ace.c9.io/"
+    ],
+    "devDependencies": {
+        "@types/ace": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Diullei Gomes",
+            "githubUsername": "Diullei"
+        },
+        {
+            "name": "wafuwafu13",
+            "githubUsername": "wafuwafu13"
+        }
+    ]
+}

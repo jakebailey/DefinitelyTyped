@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/kii-cloud-sdk",
+    "version": "2.4.99999",
+    "projects": [
+        "http://en.kii.com/"
+    ],
+    "devDependencies": {
+        "@types/kii-cloud-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kii Consortium",
+            "url": "http://jp.kii.com/consortium/"
+        }
+    ]
+}

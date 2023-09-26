@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/json-templates",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/datavis-tech/json-templates"
+    ],
+    "devDependencies": {
+        "@types/json-templates": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nicolas Witczak",
+            "githubUsername": "nicolas800"
+        }
+    ]
+}

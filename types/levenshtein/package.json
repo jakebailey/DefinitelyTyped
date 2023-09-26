@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/levenshtein",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/gf3/Levenshtein"
+    ],
+    "devDependencies": {
+        "@types/levenshtein": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Joshua DeVinney",
+            "githubUsername": "geoffreak"
+        }
+    ]
+}

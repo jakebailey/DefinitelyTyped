@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/wif",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/bitcoinjs/wif"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/wif": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Byrne",
+            "githubUsername": "danwbyrne"
+        }
+    ]
+}

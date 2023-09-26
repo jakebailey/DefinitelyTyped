@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/multicoin-address-validator",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/christsim/multicoin-address-validator"
+    ],
+    "devDependencies": {
+        "@types/multicoin-address-validator": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kyle McLean",
+            "githubUsername": "kylemclean"
+        }
+    ]
+}

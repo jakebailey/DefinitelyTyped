@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/electron-squirrel-startup",
+    "version": "1.0.99999",
+    "projects": [
+        "http://github.com/mongodb-js/electron-squirrel-startup"
+    ],
+    "devDependencies": {
+        "@types/electron-squirrel-startup": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Julian Lachniet",
+            "githubUsername": "jlachniet"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/react-google-login-component",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/kennetpostigo/react-google-login-component"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-google-login-component": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Konstantin Lebedev",
+            "githubUsername": "koss-lebedev"
+        }
+    ]
+}

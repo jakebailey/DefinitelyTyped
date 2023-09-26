@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/json3",
+    "version": "3.3.99999",
+    "projects": [
+        "https://bestiejs.github.io/json3"
+    ],
+    "devDependencies": {
+        "@types/json3": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "NN",
+            "githubUsername": "NN---"
+        }
+    ]
+}

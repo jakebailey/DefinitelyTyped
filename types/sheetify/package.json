@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/sheetify",
+    "version": "6.0.99999",
+    "projects": [
+        "https://github.com/stackcss/sheetify"
+    ],
+    "devDependencies": {
+        "@types/sheetify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Todd Kennedy",
+            "githubUsername": "toddself"
+        }
+    ]
+}

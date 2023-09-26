@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/json-parse-helpfulerror",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/smikes/json-parse-helpfulerror"
+    ],
+    "devDependencies": {
+        "@types/json-parse-helpfulerror": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

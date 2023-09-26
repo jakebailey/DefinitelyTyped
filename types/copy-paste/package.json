@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/copy-paste",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/xavi-/node-copy-paste"
+    ],
+    "devDependencies": {
+        "@types/copy-paste": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tobias Kahlert",
+            "githubUsername": "SrTobi"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/connect-sqlite3",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/rawberg/connect-sqlite3"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/connect-sqlite3": "workspace:.",
+        "@types/express-session": "*"
+    },
+    "contributors": [
+        {
+            "name": "oof2win2",
+            "githubUsername": "oof2win2"
+        }
+    ]
+}

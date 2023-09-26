@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/until-promise",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/saadtazi/until-promise#readme"
+    ],
+    "devDependencies": {
+        "@types/until-promise": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Oliver Conzen",
+            "githubUsername": "Miladiir"
+        }
+    ]
+}

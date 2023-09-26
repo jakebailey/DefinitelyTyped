@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/safe-timers",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/Wizcorp/safe-timers#readme"
+    ],
+    "devDependencies": {
+        "@types/safe-timers": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kamil Socha",
+            "githubUsername": "ksocha"
+        }
+    ]
+}

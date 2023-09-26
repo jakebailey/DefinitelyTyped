@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "name": "@types/awesomplete",
+    "version": "1.1.99999",
+    "projects": [
+        "https://leaverou.github.io/awesomplete/"
+    ],
+    "devDependencies": {
+        "@types/awesomplete": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "webbiesdk",
+            "githubUsername": "webbiesdk"
+        },
+        {
+            "name": "Ben Dixon",
+            "githubUsername": "bmdixon"
+        },
+        {
+            "name": "Trevor Bekolay",
+            "githubUsername": "tbekolay"
+        },
+        {
+            "name": "Chris LoPresto",
+            "githubUsername": "chrislopresto"
+        }
+    ]
+}

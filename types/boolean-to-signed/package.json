@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/boolean-to-signed",
+    "version": "1.0.99999",
+    "projects": [
+        "https://www.npmjs.com/package/boolean-to-signed"
+    ],
+    "devDependencies": {
+        "@types/boolean-to-signed": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rajas Paranjpe",
+            "githubUsername": "ChocolateLoverRaj"
+        }
+    ]
+}

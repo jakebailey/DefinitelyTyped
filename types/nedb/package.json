@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "name": "@types/nedb",
+    "version": "1.8.99999",
+    "projects": [
+        "https://github.com/louischatriot/nedb"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/nedb": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stefan Steinhart",
+            "githubUsername": "reppners"
+        },
+        {
+            "name": "Anthony Nichols",
+            "githubUsername": "anthonynichols"
+        },
+        {
+            "name": "Alejandro Fernandez Haro",
+            "githubUsername": "afharo"
+        }
+    ]
+}

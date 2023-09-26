@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/angular-load",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/urish/angular-load"
+    ],
+    "dependencies": {
+        "@types/angular": "*"
+    },
+    "devDependencies": {
+        "@types/angular-load": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "david-gang",
+            "githubUsername": "david-gang"
+        }
+    ]
+}

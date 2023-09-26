@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/chunk",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/ryancole/chunk"
+    ],
+    "devDependencies": {
+        "@types/chunk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Keller",
+            "githubUsername": "ffflorian"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/karma-jasmine-spec-tags",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/mnasyrov/karma-jasmine-spec-tags#readme"
+    ],
+    "dependencies": {
+        "@types/karma": "*"
+    },
+    "devDependencies": {
+        "@types/karma-jasmine-spec-tags": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz (Peter Blazejewicz)",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

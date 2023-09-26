@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/glob-parent",
+    "version": "5.1.99999",
+    "projects": [
+        "https://github.com/gulpjs/glob-parent"
+    ],
+    "devDependencies": {
+        "@types/glob-parent": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "mrmlnc",
+            "githubUsername": "mrmlnc"
+        }
+    ]
+}

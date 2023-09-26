@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jsboxmuller",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/kcwiakala/jsboxmuller"
+    ],
+    "devDependencies": {
+        "@types/jsboxmuller": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ethan Brown",
+            "githubUsername": "EthanRBrown"
+        }
+    ]
+}

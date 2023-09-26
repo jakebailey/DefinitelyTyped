@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tiny-human-time",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/danasilver/tiny-human-time#readme"
+    ],
+    "devDependencies": {
+        "@types/tiny-human-time": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jimmy Cuadra",
+            "githubUsername": "jimmycuadra"
+        }
+    ]
+}

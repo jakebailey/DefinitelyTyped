@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/basicscroll",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/electerious/basicScroll"
+    ],
+    "devDependencies": {
+        "@types/basicscroll": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

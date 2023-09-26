@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/colormap",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/bpostlethwaite/colormap#readme"
+    ],
+    "devDependencies": {
+        "@types/colormap": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Teddy De Puy",
+            "githubUsername": "ruxpendp"
+        }
+    ]
+}

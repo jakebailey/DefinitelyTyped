@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/diff",
+    "version": "3.5.99999",
+    "projects": [
+        "https://github.com/kpdecker/jsdiff"
+    ],
+    "devDependencies": {
+        "@types/diff": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "vvakame",
+            "githubUsername": "vvakame"
+        },
+        {
+            "name": "szdc",
+            "githubUsername": "szdc"
+        }
+    ]
+}

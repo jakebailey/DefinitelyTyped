@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/nested-error-stacks",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/mdlavin/nested-error-stacks"
+    ],
+    "devDependencies": {
+        "@types/nested-error-stacks": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wouter van Heeswijk",
+            "githubUsername": "woutervh-"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/librato-node",
+    "version": "5.0.99999",
+    "projects": [
+        "https://github.com/goodeggs/librato-node"
+    ],
+    "devDependencies": {
+        "@types/librato-node": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jim Geurts",
+            "githubUsername": "jgeurts"
+        }
+    ]
+}

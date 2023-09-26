@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/hash-stream",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/stream-utils/hash-stream#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/hash-stream": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

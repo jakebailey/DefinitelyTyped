@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/xmltojson",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/metatribal/xmlToJSON"
+    ],
+    "devDependencies": {
+        "@types/xmltojson": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Travis Crowe",
+            "githubUsername": "traviscrowe"
+        }
+    ]
+}

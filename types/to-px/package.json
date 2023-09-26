@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/to-px",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/mikolalysenko/to-px"
+    ],
+    "devDependencies": {
+        "@types/to-px": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vindhya Raviraj",
+            "githubUsername": "vindhya"
+        }
+    ]
+}

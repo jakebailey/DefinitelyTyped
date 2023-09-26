@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "name": "@types/forge-apis",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/Autodesk-Forge/forge-api-nodejs-client"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/forge-apis": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Bryan Huang",
+            "githubUsername": "dukedhx"
+        },
+        {
+            "name": "Jan Liska",
+            "githubUsername": "liskaj"
+        },
+        {
+            "name": "Cyrille Fauvel",
+            "githubUsername": "cyrillef"
+        }
+    ]
+}

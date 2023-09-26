@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/riderize__passport-strava-oauth2",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/Riderize/passport-strava-oauth2"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/passport": "*",
+        "@types/riderize__passport-strava-oauth2": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "edilson",
+            "githubUsername": "edilson"
+        }
+    ]
+}

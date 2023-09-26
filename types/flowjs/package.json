@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/flowjs",
+    "version": "2.13.99999",
+    "projects": [
+        "https://github.com/flowjs/flow.js"
+    ],
+    "devDependencies": {
+        "@types/flowjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Nuc",
+            "githubUsername": "martinnuc"
+        }
+    ]
+}

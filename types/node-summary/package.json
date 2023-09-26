@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/node-summary",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/jbrooksuk/node-summary"
+    ],
+    "devDependencies": {
+        "@types/node-summary": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "manuzcheruz",
+            "githubUsername": "manuzcheruz"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/country-flag-icons",
+    "version": "1.2.99999",
+    "projects": [
+        "https://gitlab.com/catamphetamine/country-flag-icons#readme"
+    ],
+    "devDependencies": {
+        "@types/country-flag-icons": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

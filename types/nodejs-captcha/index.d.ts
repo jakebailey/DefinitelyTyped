@@ -1,9 +1,3 @@
-// Type definitions for nodejs-captcha 0.0
-// Project: https://github.com/ozgur-dogan/nodejs-captcha
-// Definitions by: JPBM135 <https://github.com/JPBM135>
-//                 BendingBender <https://github.com/BendingBender>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 export = captcha;
 
 /**

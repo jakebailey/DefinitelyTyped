@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/round",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/bendrucker/round.js#readme"
+    ],
+    "devDependencies": {
+        "@types/round": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rajas Paranjpe",
+            "githubUsername": "ChocolateLoverRaj"
+        }
+    ]
+}

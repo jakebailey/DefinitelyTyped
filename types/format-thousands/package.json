@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/format-thousands",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/VovanR/format-thousands"
+    ],
+    "devDependencies": {
+        "@types/format-thousands": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jerry Wang",
+            "githubUsername": "c1495616js"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/koa-ratelimit-lru",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/Dreamacro/koa-ratelimit-lru"
+    ],
+    "dependencies": {
+        "@types/koa": "*"
+    },
+    "devDependencies": {
+        "@types/koa-ratelimit-lru": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Byrne",
+            "githubUsername": "danwbyrne"
+        }
+    ]
+}

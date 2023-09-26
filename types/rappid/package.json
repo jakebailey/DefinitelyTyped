@@ -1,6 +1,23 @@
 {
     "private": true,
+    "name": "@types/rappid",
+    "version": "1.5.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "Rappid",
+    "projects": [
+        "http://jointjs.com/about-rappid"
+    ],
     "dependencies": {
+        "@types/backbone": "*",
         "jointjs": "^3.5.5"
-    }
+    },
+    "devDependencies": {
+        "@types/rappid": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ewout Van Gossum",
+            "githubUsername": "DenEwout"
+        }
+    ]
 }

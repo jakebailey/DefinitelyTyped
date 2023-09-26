@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/extend",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/justmoon/node-extend"
+    ],
+    "devDependencies": {
+        "@types/extend": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stefan Steinhart",
+            "githubUsername": "reppners"
+        }
+    ]
+}

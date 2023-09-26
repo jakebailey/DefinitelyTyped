@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/disposable-email",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/disposable/disposable#readme"
+    ],
+    "devDependencies": {
+        "@types/disposable-email": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zeeshan Ahmad",
+            "githubUsername": "ziishaned"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/cldr",
+    "version": "7.1.99999",
+    "projects": [
+        "https://github.com/papandreou/node-cldr"
+    ],
+    "devDependencies": {
+        "@types/cldr": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "Chris Wilkinson",
+            "githubUsername": "thewilkybarkid"
+        },
+        {
+            "name": "Jesse Plymale",
+            "githubUsername": "jesseplymale"
+        }
+    ]
+}

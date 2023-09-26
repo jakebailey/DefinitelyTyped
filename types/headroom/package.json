@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/headroom",
+    "version": "0.12.99999",
+    "projects": [
+        "http://wicky.nillia.ms/headroom.js/"
+    ],
+    "devDependencies": {
+        "@types/headroom": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jakub Olek",
+            "githubUsername": "hakubo"
+        },
+        {
+            "name": "Juninho Cruz",
+            "githubUsername": "juninhocruzg3"
+        }
+    ]
+}

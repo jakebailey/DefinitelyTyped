@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/getos",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/retrohacker/getos"
+    ],
+    "devDependencies": {
+        "@types/getos": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

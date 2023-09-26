@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/detect-inapp",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/f2etw/detect-inapp#readme"
+    ],
+    "devDependencies": {
+        "@types/detect-inapp": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Johan Möller",
+            "githubUsername": "moelleer"
+        }
+    ]
+}

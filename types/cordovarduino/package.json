@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cordovarduino",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/stereolux/cordovarduino"
+    ],
+    "devDependencies": {
+        "@types/cordovarduino": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Hendrik Maus",
+            "githubUsername": "hendrikmaus"
+        }
+    ]
+}

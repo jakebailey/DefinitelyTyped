@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/box-intersect",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/mikolalysenko/box-intersect"
+    ],
+    "devDependencies": {
+        "@types/box-intersect": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sankaku",
+            "githubUsername": "sankaku-deltalab"
+        }
+    ]
+}

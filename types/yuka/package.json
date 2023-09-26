@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/yuka",
+    "version": "0.7.99999",
+    "projects": [
+        "https://mugen87.github.io/yuka/"
+    ],
+    "devDependencies": {
+        "@types/yuka": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Schiffler",
+            "githubUsername": "discordier"
+        }
+    ]
+}

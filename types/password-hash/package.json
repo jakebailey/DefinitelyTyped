@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/password-hash",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/davidwood/node-password-hash"
+    ],
+    "devDependencies": {
+        "@types/password-hash": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "TANAKA Koichi",
+            "githubUsername": "mugeso"
+        }
+    ]
+}

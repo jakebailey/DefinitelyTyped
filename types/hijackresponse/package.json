@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/hijackresponse",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/gustavnikolaj/hijackresponse"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/hijackresponse": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matthias Kunnen",
+            "githubUsername": "MatthiasKunnen"
+        }
+    ]
+}

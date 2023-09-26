@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/plupload",
+    "version": "2.0.99999",
+    "projects": [
+        "http://www.plupload.com/"
+    ],
+    "devDependencies": {
+        "@types/plupload": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Patrick Bußmann",
+            "githubUsername": "patrickbussmann"
+        }
+    ]
+}

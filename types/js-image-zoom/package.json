@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/js-image-zoom",
+    "version": "0.7.99999",
+    "projects": [
+        "https://github.com/malaman/js-image-zoom/#readme"
+    ],
+    "devDependencies": {
+        "@types/js-image-zoom": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

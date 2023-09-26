@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/ink-big-text",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/sindresorhus/ink-big-text"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/ink-big-text": "workspace:.",
+        "@types/ink-gradient": "*"
+    },
+    "contributors": [
+        {
+            "name": "aaronleopold",
+            "githubUsername": "aaronleopold"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/get-node-dimensions",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/souporserious/get-node-dimensions"
+    ],
+    "devDependencies": {
+        "@types/get-node-dimensions": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kovács Vince",
+            "githubUsername": "vincekovacs"
+        }
+    ]
+}

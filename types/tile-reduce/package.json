@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/tile-reduce",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/mapbox/tile-reduce"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/tile-reduce": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Denis Carriere",
+            "githubUsername": "DenisCarriere"
+        }
+    ]
+}

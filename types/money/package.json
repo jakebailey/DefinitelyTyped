@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/money",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/openexchangerates/money.js"
+    ],
+    "devDependencies": {
+        "@types/money": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ivan Ergunov",
+            "githubUsername": "hozblok"
+        }
+    ]
+}

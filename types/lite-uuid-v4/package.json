@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/lite-uuid-v4",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/liesislukas/lite-uuid-v4"
+    ],
+    "devDependencies": {
+        "@types/lite-uuid-v4": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matt Stephens",
+            "githubUsername": "mstephen19"
+        }
+    ]
+}

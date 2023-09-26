@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/agadoo",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/Rich-Harris/agadoo#readme"
+    ],
+    "devDependencies": {
+        "@types/agadoo": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Artem Klyuev",
+            "githubUsername": "ArtemKlyuev"
+        }
+    ]
+}

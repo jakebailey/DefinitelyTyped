@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tmilar__furigana-helper",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/tmilar/furigana-helper#readme"
+    ],
+    "devDependencies": {
+        "@types/tmilar__furigana-helper": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/chunk-text",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/algolia/chunk-text"
+    ],
+    "devDependencies": {
+        "@types/chunk-text": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Malo Bourgon",
+            "githubUsername": "malob"
+        }
+    ]
+}

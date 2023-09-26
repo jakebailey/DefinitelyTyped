@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/elasticlunrjs",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/robertIsaac/elasticlunr.js"
+    ],
+    "devDependencies": {
+        "@types/elasticlunrjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Robert Isaac",
+            "githubUsername": "robertIsaac"
+        }
+    ]
+}

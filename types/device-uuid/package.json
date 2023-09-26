@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/device-uuid",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/biggora/device-uuid/"
+    ],
+    "devDependencies": {
+        "@types/device-uuid": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dariusz Czajkowski",
+            "githubUsername": "DCzajkowski"
+        }
+    ]
+}

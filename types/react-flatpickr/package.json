@@ -1,6 +1,29 @@
 {
     "private": true,
+    "name": "@types/react-flatpickr",
+    "version": "3.8.99999",
+    "projects": [
+        "https://github.com/coderhaoxin/react-flatpickr"
+    ],
     "dependencies": {
+        "@types/react": "*",
         "flatpickr": "^4.0.6"
-    }
+    },
+    "devDependencies": {
+        "@types/react-flatpickr": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "snaveevans",
+            "githubUsername": "snaveevans"
+        },
+        {
+            "name": "jleider",
+            "githubUsername": "jleider"
+        },
+        {
+            "name": "sysix",
+            "githubUsername": "sysix"
+        }
+    ]
 }

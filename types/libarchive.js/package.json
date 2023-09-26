@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/libarchive.js",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/nika-begiashvili/libarchivejs"
+    ],
+    "devDependencies": {
+        "@types/libarchive.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Denis Malykh",
+            "githubUsername": "finesunes"
+        }
+    ]
+}

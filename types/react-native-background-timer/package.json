@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/react-native-background-timer",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/ocetnik/react-native-background-timer#readme"
+    ],
+    "devDependencies": {
+        "@types/react-native-background-timer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tjark Smalla",
+            "githubUsername": "chillkroeteTTS"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ecef-projector",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/lakowske/ecef-projector"
+    ],
+    "devDependencies": {
+        "@types/ecef-projector": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

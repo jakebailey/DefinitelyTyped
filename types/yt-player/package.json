@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/yt-player",
+    "version": "3.5.99999",
+    "projects": [
+        "https://github.com/feross/yt-player"
+    ],
+    "devDependencies": {
+        "@types/yt-player": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Thomas Röggla",
+            "githubUsername": "troeggla"
+        }
+    ]
+}

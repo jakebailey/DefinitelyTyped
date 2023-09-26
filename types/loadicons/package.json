@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/loadicons",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/adobe/loadIcons"
+    ],
+    "devDependencies": {
+        "@types/loadicons": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

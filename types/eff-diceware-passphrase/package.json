@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/eff-diceware-passphrase",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/emilbayes/eff-diceware-passphrase"
+    ],
+    "devDependencies": {
+        "@types/eff-diceware-passphrase": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

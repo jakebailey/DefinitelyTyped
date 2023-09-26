@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/perfy",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/onury/perfy#readme"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/perfy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

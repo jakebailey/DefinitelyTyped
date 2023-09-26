@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/caniuse-lite",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/ben-eb/caniuse-lite#readme"
+    ],
+    "devDependencies": {
+        "@types/caniuse-lite": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Michael Utech",
+            "githubUsername": "mutech"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/intersect",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/juliangruber/intersect"
+    ],
+    "devDependencies": {
+        "@types/intersect": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Noah Overcash",
+            "githubUsername": "ncovercash"
+        }
+    ]
+}

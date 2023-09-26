@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/di",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/vojtajina/node-di"
+    ],
+    "devDependencies": {
+        "@types/di": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "John J Barton",
+            "githubUsername": "johnjbarton"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tz-format",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/SamVerschueren/tz-format"
+    ],
+    "devDependencies": {
+        "@types/tz-format": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sam Verschueren",
+            "githubUsername": "samverschueren"
+        }
+    ]
+}

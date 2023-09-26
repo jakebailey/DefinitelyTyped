@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/mapbox__polyline",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/mapbox/polyline"
+    ],
+    "dependencies": {
+        "@types/geojson": "*"
+    },
+    "devDependencies": {
+        "@types/mapbox__polyline": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Arseniy Maximov",
+            "githubUsername": "Kern0"
+        },
+        {
+            "name": "Marko Klopets",
+            "githubUsername": "mklopets"
+        }
+    ]
+}

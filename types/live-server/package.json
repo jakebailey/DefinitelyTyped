@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/live-server",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/tapio/live-server#readme"
+    ],
+    "devDependencies": {
+        "@types/live-server": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Josh Cummings",
+            "githubUsername": "joshcummingsdesign"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/whitelist-object",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/conorhastings/whitelist-object#readme"
+    ],
+    "devDependencies": {
+        "@types/whitelist-object": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

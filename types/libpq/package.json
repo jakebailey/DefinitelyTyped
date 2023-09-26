@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/libpq",
+    "version": "1.8.99999",
+    "projects": [
+        "https://github.com/brianc/node-libpq#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/async": "*",
+        "@types/libpq": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vlad Rindevich",
+            "githubUsername": "Lodin"
+        }
+    ]
+}

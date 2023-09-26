@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/farbtastic",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/mattfarina/farbtastic"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/farbtastic": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matt Brooks",
+            "githubUsername": "EnableSoftware"
+        }
+    ]
+}

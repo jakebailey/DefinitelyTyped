@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/reconnectingwebsocket",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/joewalnes/reconnecting-websocket"
+    ],
+    "devDependencies": {
+        "@types/reconnectingwebsocket": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nicholas Guarracino",
+            "githubUsername": "nguarracino"
+        },
+        {
+            "name": "AppLover69",
+            "githubUsername": "AppLover69"
+        }
+    ]
+}

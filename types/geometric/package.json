@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/geometric",
+    "version": "2.5.99999",
+    "projects": [
+        "https://github.com/HarryStevens/geometric#readme"
+    ],
+    "devDependencies": {
+        "@types/geometric": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Linda Paiste",
+            "githubUsername": "lindapaiste"
+        }
+    ]
+}

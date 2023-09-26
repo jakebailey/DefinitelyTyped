@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mocha-phantomjs",
+    "version": "3.5.99999",
+    "projects": [
+        "http://metaskills.net/mocha-phantomjs/"
+    ],
+    "devDependencies": {
+        "@types/mocha-phantomjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Erik Schierboom",
+            "githubUsername": "ErikSchierboom"
+        }
+    ]
+}

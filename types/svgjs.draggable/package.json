@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/svgjs.draggable",
+    "version": "0.0.99999",
+    "projects": [
+        "http://www.svgjs.com/"
+    ],
+    "devDependencies": {
+        "@types/svgjs.draggable": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Luigi Trabacchin",
+            "githubUsername": "LiFeleSs"
+        }
+    ]
+}

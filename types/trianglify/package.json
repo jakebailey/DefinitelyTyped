@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/trianglify",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/qrohlf/trianglify"
+    ],
+    "devDependencies": {
+        "@types/trianglify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Perez Alvarez",
+            "githubUsername": "unindented"
+        }
+    ]
+}

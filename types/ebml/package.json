@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/ebml",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/node-ebml/node-ebml#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/ebml": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "AppLover69",
+            "githubUsername": "AppLover69"
+        }
+    ]
+}

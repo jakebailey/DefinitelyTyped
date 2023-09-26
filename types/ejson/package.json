@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ejson",
+    "version": "2.2.99999",
+    "projects": [
+        "https://www.npmjs.com/package/ejson"
+    ],
+    "devDependencies": {
+        "@types/ejson": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Shantanu Bhadoria",
+            "githubUsername": "shantanubhadoria"
+        }
+    ]
+}

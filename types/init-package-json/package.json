@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/init-package-json",
+    "version": "1.10.99999",
+    "projects": [
+        "https://github.com/npm/init-package-json#readme"
+    ],
+    "devDependencies": {
+        "@types/init-package-json": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kyle Farnung",
+            "githubUsername": "kfarnung"
+        }
+    ]
+}

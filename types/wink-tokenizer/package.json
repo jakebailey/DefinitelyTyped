@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/wink-tokenizer",
+    "version": "4.0.99999",
+    "projects": [
+        "http://winkjs.org/"
+    ],
+    "devDependencies": {
+        "@types/wink-tokenizer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Luca Lindhorst",
+            "githubUsername": "lal12"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cuint",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/pierrec/js-cuint"
+    ],
+    "devDependencies": {
+        "@types/cuint": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": " Lukas Tetzlaff",
+            "githubUsername": "ltetzlaff"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mapbox__geo-viewport",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/mapbox/geo-viewport"
+    ],
+    "devDependencies": {
+        "@types/mapbox__geo-viewport": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Fabio Berta",
+            "githubUsername": "fnberta"
+        }
+    ]
+}

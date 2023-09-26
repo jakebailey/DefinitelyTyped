@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ontime",
+    "version": "0.0.99999",
+    "projects": [
+        "http://code.woong.org/ontime"
+    ],
+    "devDependencies": {
+        "@types/ontime": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jan Pilzer",
+            "githubUsername": "Hirse"
+        }
+    ]
+}

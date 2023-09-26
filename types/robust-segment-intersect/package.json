@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/robust-segment-intersect",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/mikolalysenko/robust-segment-intersect"
+    ],
+    "devDependencies": {
+        "@types/robust-segment-intersect": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "masx200",
+            "githubUsername": "masx200"
+        }
+    ]
+}

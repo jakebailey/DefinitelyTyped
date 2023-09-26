@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/es-value-fixtures",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/ljharb/es-value-fixtures#readme"
+    ],
+    "devDependencies": {
+        "@types/es-value-fixtures": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jordan Harband",
+            "githubUsername": "ljharb"
+        }
+    ]
+}

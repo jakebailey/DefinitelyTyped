@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/event-loop-lag",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/pebble/event-loop-lag"
+    ],
+    "devDependencies": {
+        "@types/event-loop-lag": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rogier Schouten",
+            "githubUsername": "rogierschouten"
+        }
+    ]
+}

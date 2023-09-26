@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/deep-freeze",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/substack/deep-freeze"
+    ],
+    "devDependencies": {
+        "@types/deep-freeze": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Bart van der Schoor",
+            "githubUsername": "Bartvds"
+        },
+        {
+            "name": "Aluan Haddad",
+            "githubUsername": "aluanhaddad"
+        }
+    ]
+}

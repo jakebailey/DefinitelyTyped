@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/spellchecker",
+    "version": "3.5.99999",
+    "projects": [
+        "http://atom.github.io/node-spellchecker"
+    ],
+    "devDependencies": {
+        "@types/spellchecker": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dale Fenton",
+            "githubUsername": "dalevfenton"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/fluxible",
+    "version": "1.4.99999",
+    "projects": [
+        "https://fluxible.io/"
+    ],
+    "dependencies": {
+        "@types/dispatchr": "*",
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/fluxible": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "xbim",
+            "githubUsername": "xbim"
+        }
+    ]
+}

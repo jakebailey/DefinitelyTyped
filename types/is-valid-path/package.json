@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-valid-path",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/is-valid-path"
+    ],
+    "devDependencies": {
+        "@types/is-valid-path": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zlatko Andonovski",
+            "githubUsername": "Goldsmith42"
+        }
+    ]
+}

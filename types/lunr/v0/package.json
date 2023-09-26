@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/lunr",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/olivernn/lunr.js"
+    ],
+    "devDependencies": {
+        "@types/lunr": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sebastian Lenz",
+            "githubUsername": "sebastian-lenz"
+        }
+    ]
+}

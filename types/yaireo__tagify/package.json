@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/yaireo__tagify",
+    "version": "4.17.99999",
+    "projects": [
+        "https://github.com/yairEO/tagify"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/yaireo__tagify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Brakebein",
+            "githubUsername": "Brakebein"
+        },
+        {
+            "name": "Andre Wachsmuth",
+            "githubUsername": "blutorange"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/skilja",
+    "version": "0.9.99999",
+    "projects": [
+        "https://github.com/stscoundrel/skilja"
+    ],
+    "devDependencies": {
+        "@types/skilja": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "StScoundrel",
+            "githubUsername": "stscoundrel"
+        }
+    ]
+}

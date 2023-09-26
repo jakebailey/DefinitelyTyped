@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/when",
+    "version": "2.4.99999",
+    "projects": [
+        "https://github.com/cujojs/when"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/when": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Derek Cicerone",
+            "githubUsername": "derekcicerone"
+        },
+        {
+            "name": "Wim Looman",
+            "githubUsername": "Nemo157"
+        }
+    ]
+}

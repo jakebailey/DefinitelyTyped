@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/swiftclick",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/munkychop/swiftclick"
+    ],
+    "devDependencies": {
+        "@types/swiftclick": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Laurence C",
+            "githubUsername": "Laurence-C"
+        }
+    ]
+}

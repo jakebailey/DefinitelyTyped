@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/angular-strap",
+    "version": "2.3.99999",
+    "projects": [
+        "http://mgcrea.github.io/angular-strap/"
+    ],
+    "dependencies": {
+        "@types/angular": "*"
+    },
+    "devDependencies": {
+        "@types/angular-strap": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sam Herrmann",
+            "githubUsername": "samherrmann"
+        },
+        {
+            "name": "Matthias Kannwischer",
+            "githubUsername": "mkannwischer"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/await-timeout",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/vitalets/await-timeout"
+    ],
+    "devDependencies": {
+        "@types/await-timeout": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sean Zhu",
+            "githubUsername": "szhu"
+        }
+    ]
+}

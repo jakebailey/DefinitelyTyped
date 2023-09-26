@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/countdown",
+    "version": "0.0.99999",
+    "projects": [
+        "http://countdownjs.org/"
+    ],
+    "devDependencies": {
+        "@types/countdown": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gabriel Juchault",
+            "githubUsername": "gjuchault"
+        },
+        {
+            "name": "Ionaru",
+            "githubUsername": "Ionaru"
+        }
+    ]
+}

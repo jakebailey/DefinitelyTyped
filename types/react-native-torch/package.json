@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/react-native-torch",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/ludo/react-native-torch#readme"
+    ],
+    "devDependencies": {
+        "@types/react-native-torch": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Lorantfy",
+            "githubUsername": "BenLorantfy"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tarantool-driver",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/tarantool/node-tarantool-driver"
+    ],
+    "devDependencies": {
+        "@types/tarantool-driver": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Evgeni Zharkov",
+            "githubUsername": "zharkov-eu"
+        }
+    ]
+}

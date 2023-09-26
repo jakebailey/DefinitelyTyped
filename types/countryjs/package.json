@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/countryjs",
+    "version": "1.8.99999",
+    "projects": [
+        "https://github.com/therebelrobot/countryjs"
+    ],
+    "devDependencies": {
+        "@types/countryjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rodry",
+            "githubUsername": "ImRodry"
+        },
+        {
+            "name": "marzeq",
+            "githubUsername": "marzeq"
+        }
+    ]
+}

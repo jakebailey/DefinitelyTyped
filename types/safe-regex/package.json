@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/safe-regex",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/davisjam/safe-regex"
+    ],
+    "devDependencies": {
+        "@types/safe-regex": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rodry",
+            "githubUsername": "ImRodry"
+        }
+    ]
+}

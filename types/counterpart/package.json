@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/counterpart",
+    "version": "0.18.99999",
+    "projects": [
+        "https://github.com/martinandert/counterpart"
+    ],
+    "devDependencies": {
+        "@types/counterpart": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "santiagodoldan",
+            "githubUsername": "santiagodoldan"
+        }
+    ]
+}

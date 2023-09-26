@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jstimezonedetect",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/pellepim/jstimezonedetect"
+    ],
+    "devDependencies": {
+        "@types/jstimezonedetect": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Olivier Lamothe",
+            "githubUsername": "olamothe"
+        }
+    ]
+}

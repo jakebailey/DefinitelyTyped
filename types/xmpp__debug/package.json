@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/xmpp__debug",
+    "version": "0.13.99999",
+    "projects": [
+        "https://github.com/xmppjs/xmpp.js/tree/main/packages/debug"
+    ],
+    "dependencies": {
+        "@types/xmpp__connection": "*",
+        "@types/xmpp__xml": "*"
+    },
+    "devDependencies": {
+        "@types/xmpp__debug": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

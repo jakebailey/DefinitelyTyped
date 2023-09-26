@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/json-server",
+    "version": "0.14.99999",
+    "projects": [
+        "https://github.com/typicode/json-server"
+    ],
+    "dependencies": {
+        "@types/connect": "*",
+        "@types/express": "*",
+        "@types/lowdb": "*"
+    },
+    "devDependencies": {
+        "@types/json-server": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jeremy Bensimon",
+            "githubUsername": "jeremyben"
+        }
+    ]
+}

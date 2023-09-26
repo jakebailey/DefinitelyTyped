@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/throng",
+    "version": "5.0.99999",
+    "projects": [
+        "https://github.com/hunterloftis/throng"
+    ],
+    "devDependencies": {
+        "@types/throng": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Cyril Schumacher",
+            "githubUsername": "cyrilschumacher"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fontfaceobserver",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/bramstein/fontfaceobserver"
+    ],
+    "devDependencies": {
+        "@types/fontfaceobserver": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rand Scullard",
+            "githubUsername": "RandScullard"
+        }
+    ]
+}

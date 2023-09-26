@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/leaflet.vectorgrid",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/Leaflet/Leaflet.VectorGrid"
+    ],
+    "dependencies": {
+        "@types/geojson": "*",
+        "@types/geojson-vt": "*",
+        "@types/leaflet": "*"
+    },
+    "devDependencies": {
+        "@types/leaflet.vectorgrid": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Cody Duong",
+            "githubUsername": "codyduong"
+        }
+    ]
+}

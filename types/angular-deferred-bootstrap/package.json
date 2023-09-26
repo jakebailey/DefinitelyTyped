@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/angular-deferred-bootstrap",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/philippd/angular-deferred-bootstrap"
+    ],
+    "dependencies": {
+        "@types/angular": "*"
+    },
+    "devDependencies": {
+        "@types/angular-deferred-bootstrap": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Markus Wagner",
+            "githubUsername": "Ritzlgrmft"
+        }
+    ]
+}
