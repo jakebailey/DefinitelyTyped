@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ellipsize",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/mvhenten/ellipsize"
+    ],
+    "devDependencies": {
+        "@types/ellipsize": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stefan Natter",
+            "githubUsername": "natterstefan"
+        }
+    ]
+}

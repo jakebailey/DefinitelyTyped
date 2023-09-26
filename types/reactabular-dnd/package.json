@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/reactabular-dnd",
+    "version": "8.16.99999",
+    "projects": [
+        "http://reactabular.js.org/"
+    ],
+    "dependencies": {
+        "@types/react": "*",
+        "@types/reactabular-table": "*"
+    },
+    "devDependencies": {
+        "@types/reactabular-dnd": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marcos Junior",
+            "githubUsername": "junalmeida"
+        }
+    ]
+}

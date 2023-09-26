@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/fill-pdf",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/dommmel/fill-pdf"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/fill-pdf": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Seth Westphal",
+            "githubUsername": "westy92"
+        }
+    ]
+}

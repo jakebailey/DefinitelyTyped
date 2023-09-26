@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/noisejs",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/xixixao/noisejs"
+    ],
+    "devDependencies": {
+        "@types/noisejs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Atsushi Izumihara",
+            "githubUsername": "izmhr"
+        }
+    ]
+}

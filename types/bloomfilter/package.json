@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bloomfilter",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/jasondavies/bloomfilter.js"
+    ],
+    "devDependencies": {
+        "@types/bloomfilter": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "slawiko",
+            "githubUsername": "slawiko"
+        }
+    ]
+}

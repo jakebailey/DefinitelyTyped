@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/detect-touch",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/rafgraph/detect-touch#readme"
+    ],
+    "devDependencies": {
+        "@types/detect-touch": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rajas Paranjpe",
+            "githubUsername": "ChocolateLoverRaj"
+        }
+    ]
+}

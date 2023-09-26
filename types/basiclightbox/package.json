@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/basiclightbox",
+    "version": "5.0.99999",
+    "projects": [
+        "https://basiclightbox.electerious.com"
+    ],
+    "devDependencies": {
+        "@types/basiclightbox": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Adrian Hope-Bailie",
+            "githubUsername": "adrianhopebailie"
+        }
+    ]
+}

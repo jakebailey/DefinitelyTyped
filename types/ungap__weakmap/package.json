@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ungap__weakmap",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/ungap/weakmap#readme"
+    ],
+    "devDependencies": {
+        "@types/ungap__weakmap": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        }
+    ]
+}

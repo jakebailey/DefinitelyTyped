@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ngsijs",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/conwetlab/ngsijs"
+    ],
+    "devDependencies": {
+        "@types/ngsijs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Guillermofr",
+            "githubUsername": "guillermofr"
+        }
+    ]
+}

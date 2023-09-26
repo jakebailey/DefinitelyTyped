@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bgiframe",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/sumegizoltan/BgiFrame"
+    ],
+    "devDependencies": {
+        "@types/bgiframe": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zoltan Sumegi",
+            "githubUsername": "sumegizoltan"
+        }
+    ]
+}

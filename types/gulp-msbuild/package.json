@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/gulp-msbuild",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/hoffi/gulp-msbuild#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gulp-msbuild": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Spicy Pixel",
+            "url": "http://spicypixel.com"
+        }
+    ]
+}

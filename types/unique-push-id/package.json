@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/unique-push-id",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/limit-zero/unique-push-id"
+    ],
+    "devDependencies": {
+        "@types/unique-push-id": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nathan Amick",
+            "githubUsername": "namick"
+        }
+    ]
+}

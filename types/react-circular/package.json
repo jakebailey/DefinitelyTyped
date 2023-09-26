@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/react-circular",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/adriantoine/react-circular#readme"
+    ],
+    "devDependencies": {
+        "@types/react": "*",
+        "@types/react-circular": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rhythm Bhiwani",
+            "githubUsername": "rhythmbhiwani"
+        }
+    ]
+}

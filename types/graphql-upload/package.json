@@ -1,25 +1,46 @@
 {
-  "private": true,
-  "dependencies": {
-    "graphql": "0.13.1 - 16",
-    "fs-capacitor": "^8.0.0"
-  },
-  "exports": {
-    "./package.json": "./package.json",
-    "./GraphQLUpload.mjs": {
-      "types": "./GraphQLUpload.d.mts"
+    "private": true,
+    "name": "@types/graphql-upload",
+    "version": "16.0.99999",
+    "projects": [
+        "https://github.com/jaydenseric/graphql-upload#readme"
+    ],
+    "exports": {
+        "./package.json": "./package.json",
+        "./GraphQLUpload.mjs": {
+            "types": "./GraphQLUpload.d.mts"
+        },
+        "./Upload.mjs": {
+            "types": "./Upload.d.mts"
+        },
+        "./graphqlUploadExpress.mjs": {
+            "types": "./graphqlUploadExpress.d.mts"
+        },
+        "./graphqlUploadKoa.mjs": {
+            "types": "./graphqlUploadKoa.d.mts"
+        },
+        "./processRequest.mjs": {
+            "types": "./processRequest.d.mts"
+        }
     },
-    "./Upload.mjs": {
-      "types": "./Upload.d.mts"
+    "typeScriptVersion": "4.8",
+    "dependencies": {
+        "@types/express": "*",
+        "@types/koa": "*",
+        "fs-capacitor": "^8.0.0",
+        "graphql": "0.13.1 - 16"
     },
-    "./graphqlUploadExpress.mjs": {
-      "types": "./graphqlUploadExpress.d.mts"
+    "devDependencies": {
+        "@types/graphql-upload": "workspace:."
     },
-    "./graphqlUploadKoa.mjs": {
-      "types": "./graphqlUploadKoa.d.mts"
-    },
-    "./processRequest.mjs": {
-      "types": "./processRequest.d.mts"
-    }
-  }
+    "contributors": [
+        {
+            "name": "Mike Marcacci",
+            "githubUsername": "mike-marcacci"
+        },
+        {
+            "name": "Simon Feiden",
+            "githubUsername": "rdsfj"
+        }
+    ]
 }

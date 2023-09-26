@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mitsobox",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/jimfilippou/mitsobox"
+    ],
+    "devDependencies": {
+        "@types/mitsobox": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "MrClemds",
+            "githubUsername": "MrClemds"
+        }
+    ]
+}

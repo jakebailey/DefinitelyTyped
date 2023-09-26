@@ -1,8 +1,3 @@
-// Type definitions for exif-reader 1.0
-// Project: https://github.com/devongovett/exif-reader
-// Definitions by: Andrzej Wódkiewicz <https://github.com/akwodkiewicz>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 /// <reference types="node" />
 
 /** Decode raw EXIF data from a `Buffer` */

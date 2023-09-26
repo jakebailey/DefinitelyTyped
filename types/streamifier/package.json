@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/streamifier",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/gagle/node-streamifier"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/streamifier": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Idan Attias",
+            "githubUsername": "idan-at"
+        }
+    ]
+}

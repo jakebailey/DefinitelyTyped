@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ya-disk",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/RomiC/ya-disk#readme"
+    ],
+    "devDependencies": {
+        "@types/ya-disk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Vladislav Veluga",
+            "githubUsername": "vladislav805"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/git-up",
+    "version": "7.0.99999",
+    "projects": [
+        "https://github.com/IonicaBizau/git-up"
+    ],
+    "devDependencies": {
+        "@types/git-up": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

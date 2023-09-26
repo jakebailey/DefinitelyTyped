@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/single-line-log",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/freeall/single-line-log"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/single-line-log": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Keller",
+            "githubUsername": "ffflorian"
+        }
+    ]
+}

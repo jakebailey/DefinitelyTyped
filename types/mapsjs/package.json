@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mapsjs",
+    "version": "9.6.99999",
+    "projects": [
+        "https://github.com/mapsjs"
+    ],
+    "devDependencies": {
+        "@types/mapsjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matthew James Davis",
+            "githubUsername": "davismj"
+        }
+    ]
+}

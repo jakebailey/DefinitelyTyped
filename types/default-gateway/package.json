@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/default-gateway",
+    "version": "7.2.99999",
+    "projects": [
+        "https://github.com/silverwind/default-gateway#readme"
+    ],
+    "devDependencies": {
+        "@types/default-gateway": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        },
+        {
+            "name": "Michele Della Mea",
+            "githubUsername": "ArcaneDiver"
+        },
+        {
+            "name": "Junxiao Shi",
+            "githubUsername": "yoursunny"
+        }
+    ]
+}

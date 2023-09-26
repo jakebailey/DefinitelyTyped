@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/proxymise",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/kozhevnikov/proxymise#readme"
+    ],
+    "devDependencies": {
+        "@types/proxymise": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "César Suárez",
+            "githubUsername": "csuarez"
+        }
+    ]
+}

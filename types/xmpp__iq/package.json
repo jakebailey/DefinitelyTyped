@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/xmpp__iq",
+    "version": "0.13.99999",
+    "projects": [
+        "https://github.com/xmppjs/xmpp.js/tree/main/packages/iq"
+    ],
+    "dependencies": {
+        "@types/koa-compose": "*",
+        "@types/xmpp__events": "*",
+        "@types/xmpp__middleware": "*",
+        "@types/xmpp__xml": "*"
+    },
+    "devDependencies": {
+        "@types/xmpp__connection": "*",
+        "@types/xmpp__iq": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

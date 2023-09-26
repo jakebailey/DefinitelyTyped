@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/classificator",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/Wozacosta/classificator"
+    ],
+    "devDependencies": {
+        "@types/classificator": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nixinova",
+            "githubUsername": "Nixinova"
+        }
+    ]
+}

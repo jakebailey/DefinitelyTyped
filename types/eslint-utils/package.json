@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/eslint-utils",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/mysticatea/eslint-utils#readme"
+    ],
+    "dependencies": {
+        "@types/eslint": "*",
+        "@types/estree": "*"
+    },
+    "devDependencies": {
+        "@types/eslint-utils": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Josh Goldberg",
+            "githubUsername": "JoshuaKGoldberg"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tiff-to-png",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/RickCraig/node-tiff-to-png"
+    ],
+    "devDependencies": {
+        "@types/tiff-to-png": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

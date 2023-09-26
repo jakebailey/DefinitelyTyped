@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/get-pixels",
+    "version": "3.3.99999",
+    "projects": [
+        "https://github.com/scijs/get-pixels#readme"
+    ],
+    "dependencies": {
+        "@types/ndarray": "*",
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/get-pixels": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Don McCurdy",
+            "githubUsername": "donmccurdy"
+        }
+    ]
+}

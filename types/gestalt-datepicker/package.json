@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/gestalt-datepicker",
+    "version": "55.2.99999",
+    "projects": [
+        "https://github.com/pinterest/gestalt/tree/master/packages/gestalt-datepicker",
+        "https://gestalt.netlify.app/DatePicker"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/gestalt-datepicker": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "cgu",
+            "githubUsername": "czgu"
+        }
+    ]
+}

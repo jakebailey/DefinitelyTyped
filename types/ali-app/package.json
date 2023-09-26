@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ali-app",
+    "version": "1.0.99999",
+    "projects": [
+        "https://docs.alipay.com/mini/api/overview"
+    ],
+    "devDependencies": {
+        "@types/ali-app": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "taoqf",
+            "githubUsername": "taoqf"
+        }
+    ]
+}

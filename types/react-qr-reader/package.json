@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/react-qr-reader",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/JodusNodus/react-qr-reader"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-qr-reader": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Kevork",
+            "githubUsername": "davidkevork"
+        }
+    ]
+}

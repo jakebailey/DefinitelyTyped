@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/rsvp",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/tildeio/rsvp.js"
+    ],
+    "devDependencies": {
+        "@types/rsvp": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Chris Krycho",
+            "githubUsername": "chriskrycho"
+        },
+        {
+            "name": "Mike North",
+            "githubUsername": "mike-north"
+        }
+    ]
+}

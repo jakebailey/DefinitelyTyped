@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/nice-try",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/electerious/nice-try"
+    ],
+    "devDependencies": {
+        "@types/nice-try": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Richie Bendall",
+            "githubUsername": "Richienb"
+        }
+    ]
+}

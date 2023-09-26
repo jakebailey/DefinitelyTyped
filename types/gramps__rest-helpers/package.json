@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/gramps__rest-helpers",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/gramps-graphql/rest-helpers"
+    ],
+    "devDependencies": {
+        "@types/gramps__rest-helpers": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Claude Ciocan",
+            "githubUsername": "claude"
+        }
+    ]
+}

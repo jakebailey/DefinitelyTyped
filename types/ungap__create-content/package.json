@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ungap__create-content",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/ungap/create-content"
+    ],
+    "devDependencies": {
+        "@types/ungap__create-content": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        }
+    ]
+}

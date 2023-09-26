@@ -1,0 +1,54 @@
+{
+    "private": true,
+    "name": "@types/marked",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/markedjs/marked",
+        "https://marked.js.org"
+    ],
+    "devDependencies": {
+        "@types/marked": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "William Orr",
+            "githubUsername": "worr"
+        },
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        },
+        {
+            "name": "CrossR",
+            "githubUsername": "CrossR"
+        },
+        {
+            "name": "Mike Wickett",
+            "githubUsername": "mwickett"
+        },
+        {
+            "name": "Hitomi Hatsukaze",
+            "githubUsername": "htkzhtm"
+        },
+        {
+            "name": "Ezra Celli",
+            "githubUsername": "ezracelli"
+        },
+        {
+            "name": "Romain LE BARO",
+            "githubUsername": "scandinave"
+        },
+        {
+            "name": "Sarun Intaralawan",
+            "githubUsername": "sarunint"
+        },
+        {
+            "name": "Tony Brix",
+            "githubUsername": "UziTech"
+        },
+        {
+            "name": "Anatolii Titov",
+            "githubUsername": "Toliak"
+        }
+    ]
+}

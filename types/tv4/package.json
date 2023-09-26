@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/tv4",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/geraintluff/tv4"
+    ],
+    "devDependencies": {
+        "@types/tv4": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Bart van der Schoor",
+            "githubUsername": "Bartvds"
+        },
+        {
+            "name": "Peter Snider",
+            "githubUsername": "psnider"
+        }
+    ]
+}

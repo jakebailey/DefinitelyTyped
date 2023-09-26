@@ -1,3 +1,22 @@
 {
-    "private": true
+    "private": true,
+    "name": "@types/alpinejs",
+    "version": "3.13.99999",
+    "projects": [
+        "https://github.com/alpinejs/alpine"
+    ],
+    "typeScriptVersion": "4.6",
+    "devDependencies": {
+        "@types/alpinejs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Thomas Wirth",
+            "githubUsername": "wtho"
+        },
+        {
+            "name": "Eric Kwoka",
+            "githubUsername": "ekwoka"
+        }
+    ]
 }

@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/angular-resource",
+    "version": "1.5.99999",
+    "projects": [
+        "http://angularjs.org"
+    ],
+    "dependencies": {
+        "@types/angular": "*"
+    },
+    "devDependencies": {
+        "@types/angular-resource": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Diego Vilar",
+            "githubUsername": "diegovilar"
+        },
+        {
+            "name": "Michael Jess",
+            "githubUsername": "miffels"
+        }
+    ]
+}

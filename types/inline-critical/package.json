@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/inline-critical",
+    "version": "5.3.99999",
+    "projects": [
+        "https://github.com/bezoerb/inline-critical#readme"
+    ],
+    "devDependencies": {
+        "@types/inline-critical": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "cherryblossom",
+            "githubUsername": "cherryblossom000"
+        }
+    ]
+}

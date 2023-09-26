@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/canvasjs",
+    "version": "1.9.99999",
+    "projects": [
+        "http://canvasjs.com/",
+        "https://github.com/tsur/canvasjs"
+    ],
+    "devDependencies": {
+        "@types/canvasjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ShuYin Zhang ",
+            "githubUsername": "brutalimp"
+        }
+    ]
+}

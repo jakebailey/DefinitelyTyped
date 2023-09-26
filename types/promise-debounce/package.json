@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/promise-debounce",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jaz303/promise-debounce"
+    ],
+    "devDependencies": {
+        "@types/promise-debounce": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        }
+    ]
+}

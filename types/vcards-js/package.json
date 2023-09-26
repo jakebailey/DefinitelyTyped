@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/vcards-js",
+    "version": "2.10.99999",
+    "projects": [
+        "https://github.com/enesser/vCards-JS"
+    ],
+    "devDependencies": {
+        "@types/vcards-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Allfree",
+            "githubUsername": "benallfree"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

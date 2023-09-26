@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/pdf-image",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/mooz/node-pdf-image#readme"
+    ],
+    "devDependencies": {
+        "@types/pdf-image": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "NickLatkovich",
+            "githubUsername": "nicklatkovich"
+        }
+    ]
+}

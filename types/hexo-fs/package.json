@@ -1,6 +1,24 @@
 {
-  "private": true,
-  "dependencies": {
-    "chokidar": "^2.1.2"
-  }
+    "private": true,
+    "name": "@types/hexo-fs",
+    "version": "0.2.99999",
+    "projects": [
+        "https://hexo.io"
+    ],
+    "dependencies": {
+        "@types/bluebird": "*",
+        "@types/graceful-fs": "*",
+        "chokidar": "^2.1.2"
+    },
+    "devDependencies": {
+        "@types/chai": "*",
+        "@types/hexo-fs": "workspace:.",
+        "@types/mocha": "*"
+    },
+    "contributors": [
+        {
+            "name": "segayuu",
+            "githubUsername": "segayuu"
+        }
+    ]
 }

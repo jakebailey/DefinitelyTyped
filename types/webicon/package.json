@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/webicon",
+    "version": "0.10.99999",
+    "projects": [
+        "https://icons8.github.io/webicon/"
+    ],
+    "devDependencies": {
+        "@types/jquery": "*",
+        "@types/webicon": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Manuel Thalmann",
+            "githubUsername": "manuth"
+        }
+    ]
+}

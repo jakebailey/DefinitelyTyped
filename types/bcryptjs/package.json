@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/bcryptjs",
+    "version": "2.4.99999",
+    "projects": [
+        "https://github.com/dcodeIO/bcrypt.js"
+    ],
+    "devDependencies": {
+        "@types/bcryptjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Joshua Filby",
+            "githubUsername": "Joshua-F"
+        },
+        {
+            "name": "Rafael Kraut",
+            "githubUsername": "RafaelKr"
+        },
+        {
+            "name": "Branislav Holý",
+            "githubUsername": "branoholy"
+        }
+    ]
+}

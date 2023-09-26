@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/integrate-adaptive-simpson",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/scijs/integrate-adaptive-simpson#readme"
+    ],
+    "devDependencies": {
+        "@types/integrate-adaptive-simpson": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Aimee Gamble-Milner",
+            "githubUsername": "aimee-gm"
+        }
+    ]
+}

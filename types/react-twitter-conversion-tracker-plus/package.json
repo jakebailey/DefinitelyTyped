@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/react-twitter-conversion-tracker-plus",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/theworkflow/react-twitter-conversion-tracker"
+    ],
+    "devDependencies": {
+        "@types/react-twitter-conversion-tracker-plus": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Coteh",
+            "githubUsername": "Coteh"
+        }
+    ]
+}

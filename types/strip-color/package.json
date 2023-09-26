@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/strip-color",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/strip-color"
+    ],
+    "devDependencies": {
+        "@types/strip-color": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

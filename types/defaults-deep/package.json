@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/defaults-deep",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/defaults-deep"
+    ],
+    "devDependencies": {
+        "@types/defaults-deep": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Hugo Alliaume",
+            "githubUsername": "Kocal"
+        }
+    ]
+}

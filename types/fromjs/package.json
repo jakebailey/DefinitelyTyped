@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fromjs",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/suckgamony/fromjs"
+    ],
+    "devDependencies": {
+        "@types/fromjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Glenn Dierckx",
+            "githubUsername": "glenndierckx"
+        }
+    ]
+}

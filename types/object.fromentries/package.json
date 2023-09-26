@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/object.fromentries",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/es-shims/Object.fromEntries#readme"
+    ],
+    "devDependencies": {
+        "@types/object.fromentries": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Andres Riofrio",
+            "githubUsername": "ariofrio"
+        }
+    ]
+}

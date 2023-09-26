@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/twitter",
+    "version": "1.7.99999",
+    "projects": [
+        "https://github.com/desmondmorris/node-twitter"
+    ],
+    "dependencies": {
+        "@types/node": "*",
+        "@types/request": "*"
+    },
+    "devDependencies": {
+        "@types/twitter": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

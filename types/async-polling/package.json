@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/async-polling",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/cGuille/async-polling"
+    ],
+    "devDependencies": {
+        "@types/async-polling": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zlatko Andonovski",
+            "githubUsername": "Goldsmith42"
+        }
+    ]
+}

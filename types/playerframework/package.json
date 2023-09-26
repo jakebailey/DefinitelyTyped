@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/playerframework",
+    "version": "0.0.99999",
+    "projects": [
+        "https://playerframework.codeplex.com/"
+    ],
+    "dependencies": {
+        "@types/winrt": "*"
+    },
+    "devDependencies": {
+        "@types/playerframework": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ricardo Sabino",
+            "githubUsername": "ricardosabino"
+        }
+    ]
+}

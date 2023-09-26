@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/strophe",
+    "version": "1.2.99999",
+    "projects": [
+        "http://strophe.im/strophejs/"
+    ],
+    "devDependencies": {
+        "@types/strophe": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Deutsch",
+            "githubUsername": "DavidKDeutsch"
+        }
+    ]
+}

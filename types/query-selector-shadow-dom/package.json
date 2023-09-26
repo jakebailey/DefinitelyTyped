@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/query-selector-shadow-dom",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/Georgegriff/query-selector-shadow-dom#readme"
+    ],
+    "devDependencies": {
+        "@types/query-selector-shadow-dom": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "David Alvarez Restrepo",
+            "githubUsername": "davidalvarezr"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/elasticlunr",
+    "version": "0.9.99999",
+    "projects": [
+        "http://weixsong.github.io"
+    ],
+    "devDependencies": {
+        "@types/elasticlunr": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Luis Rodrigues",
+            "githubUsername": "goblindegook"
+        }
+    ]
+}

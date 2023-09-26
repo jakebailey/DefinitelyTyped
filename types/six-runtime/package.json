@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/six-runtime",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/493636333/six"
+    ],
+    "devDependencies": {
+        "@types/six-runtime": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "liyong",
+            "githubUsername": "493636333"
+        }
+    ]
+}

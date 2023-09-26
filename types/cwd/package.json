@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cwd",
+    "version": "0.10.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/cwd"
+    ],
+    "devDependencies": {
+        "@types/cwd": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

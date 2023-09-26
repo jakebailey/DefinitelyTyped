@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/thepiratebay",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/t3chnoboy/thepiratebay"
+    ],
+    "devDependencies": {
+        "@types/thepiratebay": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jack Sorrell",
+            "githubUsername": "jsorrell"
+        }
+    ]
+}

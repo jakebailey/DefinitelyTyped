@@ -1,9 +1,3 @@
-// Type definitions for @xstyled/system 1.19
-// Project: https://github.com/smooth-code/xstyled
-// Definitions by: Steve Johns <https://github.com/stevejay>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 2.9
-
 import * as CSS from "csstype";
 import * as React from "react";
 

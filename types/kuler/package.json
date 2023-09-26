@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/kuler",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/3rd-Eden/kuler"
+    ],
+    "devDependencies": {
+        "@types/kuler": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tristan F.",
+            "githubUsername": "LeoDog896"
+        }
+    ]
+}

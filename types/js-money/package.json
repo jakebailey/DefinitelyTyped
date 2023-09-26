@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/js-money",
+    "version": "0.6.99999",
+    "projects": [
+        "https://github.com/davidkalosi/js-money"
+    ],
+    "devDependencies": {
+        "@types/js-money": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kanat Kubash",
+            "githubUsername": "kanatkubash"
+        }
+    ]
+}

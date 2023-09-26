@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/console-clear",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/lukeed/console-clear"
+    ],
+    "devDependencies": {
+        "@types/console-clear": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Leon Si",
+            "githubUsername": "leonzalion"
+        }
+    ]
+}

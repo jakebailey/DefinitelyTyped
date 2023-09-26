@@ -1,7 +1,27 @@
 {
-  "private": true,
-  "dependencies": {
-    "@hapi/hapi": "^21.1.0",
-    "joi": "^17.7.0"
-  }
+    "private": true,
+    "name": "@types/hapi__yar",
+    "version": "10.1.99999",
+    "projects": [
+        "https://github.com/hapijs/yar#readme"
+    ],
+    "typeScriptVersion": "4.9",
+    "dependencies": {
+        "@hapi/hapi": "^21.1.0",
+        "@types/hapi__catbox": "*",
+        "joi": "^17.7.0"
+    },
+    "devDependencies": {
+        "@types/hapi__yar": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Simon Schick",
+            "githubUsername": "SimonSchick"
+        },
+        {
+            "name": "Silas Rech",
+            "githubUsername": "lenovouser"
+        }
+    ]
 }

@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/nw.gui",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/rogerwang/node-webkit"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/nw.gui": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Pedro Casaubon",
+            "githubUsername": "xperiments"
+        }
+    ]
+}

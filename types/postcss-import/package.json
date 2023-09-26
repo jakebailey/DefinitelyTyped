@@ -1,6 +1,20 @@
 {
     "private": true,
+    "name": "@types/postcss-import",
+    "version": "14.0.99999",
+    "projects": [
+        "https://github.com/postcss/postcss-import#readme"
+    ],
     "dependencies": {
         "postcss": "^8.0.0"
-    }
+    },
+    "devDependencies": {
+        "@types/postcss-import": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Remco Haszing",
+            "githubUsername": "remcohaszing"
+        }
+    ]
 }

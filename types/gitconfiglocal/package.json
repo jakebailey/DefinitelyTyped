@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/gitconfiglocal",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/soldair/node-gitconfiglocal#readme"
+    ],
+    "devDependencies": {
+        "@types/gitconfiglocal": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Keller",
+            "githubUsername": "ffflorian"
+        }
+    ]
+}

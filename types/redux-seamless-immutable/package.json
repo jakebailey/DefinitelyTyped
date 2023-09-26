@@ -1,6 +1,22 @@
 {
     "private": true,
+    "name": "@types/redux-seamless-immutable",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/eadmundo/redux-seamless-immutable"
+    ],
     "dependencies": {
+        "@types/seamless-immutable": "*",
         "redux": "^4.0.1"
-    }
+    },
+    "devDependencies": {
+        "@types/redux-logger": "*",
+        "@types/redux-seamless-immutable": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Leandro Soares",
+            "githubUsername": "SoaresMG"
+        }
+    ]
 }

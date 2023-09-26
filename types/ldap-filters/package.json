@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/ldap-filters",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/tapmodo/node-ldap-filters"
+    ],
+    "devDependencies": {
+        "@types/ldap-filters": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "Alan Plum",
+            "githubUsername": "pluma"
+        }
+    ]
+}

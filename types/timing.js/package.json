@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/timing.js",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/addyosmani/timing.js"
+    ],
+    "devDependencies": {
+        "@types/timing.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "rhysd",
+            "githubUsername": "rhysd"
+        }
+    ]
+}

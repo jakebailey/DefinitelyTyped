@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/smtp-server",
+    "version": "1.15.99999",
+    "projects": [
+        "https://github.com/andris9/smtp-server"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/smtp-server": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "markisme",
+            "githubUsername": "markisme"
+        },
+        {
+            "name": "taisiias",
+            "githubUsername": "Taisiias"
+        }
+    ]
+}

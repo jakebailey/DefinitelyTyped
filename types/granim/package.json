@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/granim",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/sarcadass/granim.js"
+    ],
+    "devDependencies": {
+        "@types/granim": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Raiper34",
+            "githubUsername": "Raiper34"
+        }
+    ]
+}

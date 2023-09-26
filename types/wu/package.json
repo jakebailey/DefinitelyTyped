@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/wu",
+    "version": "2.1.99999",
+    "projects": [
+        "https://fitzgen.github.io/wu.js/",
+        "https://github.com/fitzgen/wu.js"
+    ],
+    "devDependencies": {
+        "@types/wu": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "phiresky",
+            "githubUsername": "phiresky"
+        }
+    ]
+}

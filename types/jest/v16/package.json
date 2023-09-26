@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/jest",
+    "version": "16.0.99999",
+    "projects": [
+        "http://facebook.github.io/jest/"
+    ],
+    "devDependencies": {
+        "@types/jest": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Asana (https://asana.com)\n//                 Ivo Stratev",
+            "githubUsername": "NoHomey"
+        },
+        {
+            "name": "jwbay",
+            "githubUsername": "jwbay"
+        },
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss"
+        }
+    ]
+}

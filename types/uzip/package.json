@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/uzip",
+    "version": "0.20201231.99999",
+    "projects": [
+        "https://github.com/photopea/UZIP.js"
+    ],
+    "devDependencies": {
+        "@types/uzip": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "lucaspontoexe",
+            "githubUsername": "lucaspontoexe"
+        }
+    ]
+}

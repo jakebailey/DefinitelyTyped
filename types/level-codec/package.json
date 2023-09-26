@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/level-codec",
+    "version": "9.0.99999",
+    "projects": [
+        "https://github.com/Level/codec"
+    ],
+    "devDependencies": {
+        "@types/level-codec": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Byrne",
+            "githubUsername": "danwbyrne"
+        }
+    ]
+}

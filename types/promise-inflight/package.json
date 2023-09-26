@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/promise-inflight",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/iarna/promise-inflight#readme"
+    ],
+    "devDependencies": {
+        "@types/promise-inflight": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Emily Marigold Klassen",
+            "githubUsername": "forivall"
+        }
+    ]
+}

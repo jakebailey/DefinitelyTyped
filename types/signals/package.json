@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/signals",
+    "version": "1.0.99999",
+    "projects": [
+        "http://millermedeiros.github.io/js-signals/"
+    ],
+    "devDependencies": {
+        "@types/signals": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Diullei Gomes",
+            "githubUsername": "diullei"
+        }
+    ]
+}

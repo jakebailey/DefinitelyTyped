@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/decorum",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/dflor003/decorum"
+    ],
+    "devDependencies": {
+        "@types/decorum": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Danil Flores",
+            "githubUsername": "dflor003"
+        }
+    ]
+}

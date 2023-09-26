@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cssbeautify",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/senchalabs/cssbeautify"
+    ],
+    "devDependencies": {
+        "@types/cssbeautify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "rictic",
+            "githubUsername": "rictic"
+        }
+    ]
+}

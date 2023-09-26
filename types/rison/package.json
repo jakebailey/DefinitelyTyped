@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rison",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/Nanonid/rison"
+    ],
+    "devDependencies": {
+        "@types/rison": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Andrei Kurosh",
+            "githubUsername": "impworks"
+        }
+    ]
+}

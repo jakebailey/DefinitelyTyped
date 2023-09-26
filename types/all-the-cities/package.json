@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/all-the-cities",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/zeke/all-the-cities#readme"
+    ],
+    "devDependencies": {
+        "@types/all-the-cities": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Emily Marigold Klassen",
+            "githubUsername": "forivall"
+        }
+    ]
+}

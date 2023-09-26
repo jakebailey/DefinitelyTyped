@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/irc",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/martynsmith/node-irc"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/irc": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "phillips1012",
+            "githubUsername": "phillips1012"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/stats.js",
+    "version": "0.17.99999",
+    "projects": [
+        "https://github.com/mrdoob/stats.js"
+    ],
+    "devDependencies": {
+        "@types/stats.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gregory Dalton",
+            "githubUsername": "gregolai"
+        },
+        {
+            "name": "Harm Berntsen",
+            "githubUsername": "hberntsen"
+        },
+        {
+            "name": "Dan Vanderkam",
+            "githubUsername": "danvk"
+        }
+    ]
+}

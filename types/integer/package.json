@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/integer",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/JoshuaWise/integer#readme"
+    ],
+    "devDependencies": {
+        "@types/integer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Davies",
+            "githubUsername": "Morfent"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

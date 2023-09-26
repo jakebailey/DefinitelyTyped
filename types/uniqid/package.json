@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/uniqid",
+    "version": "5.3.99999",
+    "projects": [
+        "https://github.com/adamhalasz/uniqid"
+    ],
+    "devDependencies": {
+        "@types/uniqid": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "idchlife",
+            "githubUsername": "idchlife"
+        },
+        {
+            "name": "onomatopoetry",
+            "githubUsername": "onomatopoetry"
+        }
+    ]
+}

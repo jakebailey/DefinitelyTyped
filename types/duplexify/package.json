@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/duplexify",
+    "version": "3.6.99999",
+    "projects": [
+        "https://github.com/mafintosh/duplexify"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/duplexify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sami Kukkonen",
+            "githubUsername": "strax"
+        }
+    ]
+}

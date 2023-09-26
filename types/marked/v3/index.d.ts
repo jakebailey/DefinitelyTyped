@@ -1,17 +1,3 @@
-// Type definitions for Marked 3.0
-// Project: https://github.com/markedjs/marked, https://marked.js.org
-// Definitions by: William Orr <https://github.com/worr>
-//                 BendingBender <https://github.com/BendingBender>
-//                 CrossR <https://github.com/CrossR>
-//                 Mike Wickett <https://github.com/mwickett>
-//                 Hitomi Hatsukaze <https://github.com/htkzhtm>
-//                 Ezra Celli <https://github.com/ezracelli>
-//                 Romain LE BARO <https://github.com/scandinave>
-//                 Sarun Intaralawan <https://github.com/sarunint>
-//                 Tony Brix <https://github.com/UziTech>
-//                 Anatolii Titov <https://github.com/Toliak>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 export as namespace marked;
 
 export = marked;

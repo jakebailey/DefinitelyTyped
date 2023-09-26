@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/netgear",
+    "version": "4.3.99999",
+    "projects": [
+        "https://github.com/gruijter/netgear.js#readme"
+    ],
+    "devDependencies": {
+        "@types/netgear": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kyle Hensel",
+            "githubUsername": "k-yle"
+        }
+    ]
+}

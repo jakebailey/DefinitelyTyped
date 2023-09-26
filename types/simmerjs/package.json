@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/simmerjs",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/gmmorris/simmerjs#readme"
+    ],
+    "devDependencies": {
+        "@types/simmerjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Felix Becker",
+            "githubUsername": "felixfbecker"
+        }
+    ]
+}

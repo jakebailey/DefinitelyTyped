@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/signal-exit",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/tapjs/signal-exit"
+    ],
+    "devDependencies": {
+        "@types/signal-exit": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/normalize-path",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/normalize-path"
+    ],
+    "devDependencies": {
+        "@types/normalize-path": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

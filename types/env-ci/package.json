@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/env-ci",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/pvdlg/env-ci#readme"
+    ],
+    "devDependencies": {
+        "@types/env-ci": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

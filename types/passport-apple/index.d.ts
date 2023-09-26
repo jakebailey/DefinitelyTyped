@@ -1,8 +1,3 @@
-// Type definitions for passport-apple 1.1
-// Project: https://github.com/ananay/passport-apple#readme
-// Definitions by: ytkalan <https://github.com/atomyyyy>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 import { Request } from "express";
 import { Strategy } from "passport";
 import passportOAuth2 = require("passport-oauth2");

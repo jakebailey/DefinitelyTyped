@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/tizen-accessory",
+    "version": "1.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "tizen-accessory-browser",
+    "projects": [
+        "https://developer.samsung.com/galaxy-accessory/overview.html"
+    ],
+    "devDependencies": {
+        "@types/tizen-accessory": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Egor Shulga",
+            "githubUsername": "egorshulga"
+        }
+    ]
+}

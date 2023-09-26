@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-git-clean",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/jamestalmage/is-git-clean"
+    ],
+    "devDependencies": {
+        "@types/is-git-clean": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Michaël De Boey",
+            "githubUsername": "MichaelDeBoey"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/flat-tree",
+    "version": "1.9.99999",
+    "projects": [
+        "https://github.com/mafintosh/flat-tree"
+    ],
+    "devDependencies": {
+        "@types/flat-tree": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Heidegger",
+            "githubUsername": "martinheidegger"
+        }
+    ]
+}

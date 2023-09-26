@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/projections",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/juliuste/projections#readme"
+    ],
+    "devDependencies": {
+        "@types/projections": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "LiamAttClarke",
+            "githubUsername": "LiamAttClarke"
+        }
+    ]
+}

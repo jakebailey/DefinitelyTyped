@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tinycopy",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/vvatanabe/tinycopy"
+    ],
+    "devDependencies": {
+        "@types/tinycopy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Yuichi Watanabe",
+            "githubUsername": "vvatanabe"
+        }
+    ]
+}

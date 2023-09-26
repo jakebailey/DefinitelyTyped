@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/adeira__js",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/adeira/universe/tree/master/src/js"
+    ],
+    "devDependencies": {
+        "@types/adeira__js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Zlámal",
+            "githubUsername": "mrtnzlml"
+        }
+    ]
+}

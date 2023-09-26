@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/bytewise",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/deanlandolt/bytewise"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/bytewise": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Byrne",
+            "githubUsername": "danwbyrne"
+        }
+    ]
+}

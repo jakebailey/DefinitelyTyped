@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/float-equal",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/sindresorhus/float-equal#readme"
+    ],
+    "devDependencies": {
+        "@types/float-equal": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dolan Murvihill",
+            "githubUsername": "dmurvihill"
+        }
+    ]
+}

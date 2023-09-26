@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/desktop-service",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/tariibaba/desktop-service#readme"
+    ],
+    "devDependencies": {
+        "@types/desktop-service": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ayibatari Ibaba",
+            "githubUsername": "tariibaba"
+        }
+    ]
+}

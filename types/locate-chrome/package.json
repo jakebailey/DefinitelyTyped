@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/locate-chrome",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/davidtheclark/locate-chrome"
+    ],
+    "devDependencies": {
+        "@types/locate-chrome": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Houston",
+            "githubUsername": "bhouston"
+        }
+    ]
+}

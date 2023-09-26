@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hyper-function-component",
+    "version": "2.1.99999",
+    "projects": [
+        "https://hyper-function.com/ponent"
+    ],
+    "devDependencies": {
+        "@types/hyper-function-component": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "terry-fei",
+            "githubUsername": "terry-fei"
+        }
+    ]
+}

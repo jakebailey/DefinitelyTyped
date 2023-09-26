@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/doublearray",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/takuyaa/doublearray"
+    ],
+    "devDependencies": {
+        "@types/doublearray": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "MIZUSHIMA Junki",
+            "githubUsername": "mzsm"
+        }
+    ]
+}

@@ -1,6 +1,20 @@
 {
     "private": true,
+    "name": "@types/ziggy-js",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/tightenco/ziggy#readme"
+    ],
     "dependencies": {
         "@types/history": "^4.7.11"
-    }
+    },
+    "devDependencies": {
+        "@types/ziggy-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Allfree",
+            "githubUsername": "benallfree"
+        }
+    ]
 }

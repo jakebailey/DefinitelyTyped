@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/vanilla-masker",
+    "version": "1.2.99999",
+    "projects": [
+        "https://fleury.io/vanilla-masker/"
+    ],
+    "devDependencies": {
+        "@types/vanilla-masker": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BenLorantfy",
+            "githubUsername": "BenLorantfy"
+        }
+    ]
+}

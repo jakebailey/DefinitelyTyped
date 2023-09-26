@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/rabbit.js",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/squaremo/rabbit.js"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/rabbit.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wonshik Kim",
+            "githubUsername": "wokim"
+        }
+    ]
+}

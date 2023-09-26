@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/randomatic",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/randomatic"
+    ],
+    "devDependencies": {
+        "@types/randomatic": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Frelia",
+            "githubUsername": "execfera"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

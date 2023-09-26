@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/uniq",
+    "version": "0.0.99999",
+    "projects": [
+        "https://www.npmjs.com/package/uniq"
+    ],
+    "devDependencies": {
+        "@types/uniq": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Hans Windhoff",
+            "githubUsername": "hansrwindhoff"
+        }
+    ]
+}

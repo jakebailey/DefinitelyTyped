@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/xstyled__styled-components",
+    "version": "1.19.99999",
+    "projects": [
+        "https://github.com/smooth-code/xstyled"
+    ],
+    "dependencies": {
+        "@types/react": "*",
+        "@types/styled-components": "*",
+        "@types/xstyled__system": "*"
+    },
+    "devDependencies": {
+        "@types/xstyled__styled-components": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Joseph Thomas",
+            "githubUsername": "good-idea"
+        }
+    ]
+}

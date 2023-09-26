@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/svgjs.resize",
+    "version": "0.0.99999",
+    "projects": [
+        "http://www.svgjs.com/"
+    ],
+    "devDependencies": {
+        "@types/svgjs.resize": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kevin Gutiérrez",
+            "githubUsername": "jkevingutierrez"
+        }
+    ]
+}

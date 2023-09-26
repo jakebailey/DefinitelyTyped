@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/lcov-parse",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/davglass/lcov-parse"
+    ],
+    "devDependencies": {
+        "@types/lcov-parse": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rouslan Placella",
+            "githubUsername": "roccivic"
+        }
+    ]
+}

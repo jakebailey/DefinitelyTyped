@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/seed-random",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/ForbesLindesay/seed-random"
+    ],
+    "devDependencies": {
+        "@types/node": "*",
+        "@types/seed-random": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jonas Lochmann",
+            "githubUsername": "l-jonas"
+        }
+    ]
+}

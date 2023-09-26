@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/redis-server",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/BrandonZacharie/node-redis-server"
+    ],
+    "devDependencies": {
+        "@types/redis-server": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sander Timmermans",
+            "githubUsername": "Noldaru"
+        }
+    ]
+}

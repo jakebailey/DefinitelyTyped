@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/react-global-configuration",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/morenofa/react-global-configuration#readme"
+    ],
+    "devDependencies": {
+        "@types/react-global-configuration": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ryo Kikuchi",
+            "githubUsername": "ryokik"
+        }
+    ]
+}

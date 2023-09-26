@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/animated_gif",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/sole/Animated_GIF#readme"
+    ],
+    "devDependencies": {
+        "@types/animated_gif": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "yyzclyang",
+            "githubUsername": "yyzclyang"
+        }
+    ]
+}

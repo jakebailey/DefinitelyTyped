@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/gtin",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/xbpf/gtin"
+    ],
+    "devDependencies": {
+        "@types/gtin": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "RafaelKr",
+            "githubUsername": "RafaelKr"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/pdfobject",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/pipwerks/PDFObject"
+    ],
+    "devDependencies": {
+        "@types/pdfobject": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Niels Boogaard",
+            "githubUsername": "nielsboogaard"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

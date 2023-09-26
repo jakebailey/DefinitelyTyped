@@ -1,6 +1,25 @@
 {
     "private": true,
+    "name": "@types/axe-webdriverjs",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/dequelabs/axe-webdriverjs#readme"
+    ],
     "dependencies": {
+        "@types/selenium-webdriver": "*",
         "axe-core": "^3.0.3"
-    }
+    },
+    "devDependencies": {
+        "@types/axe-webdriverjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tyler Krupicka",
+            "githubUsername": "tylerkrupicka"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
 }

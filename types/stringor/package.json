@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/stringor",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/vixerys/stringor"
+    ],
+    "devDependencies": {
+        "@types/stringor": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Muunatic",
+            "githubUsername": "Muunatic"
+        }
+    ]
+}

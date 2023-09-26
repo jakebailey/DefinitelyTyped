@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/math-random",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/michaelrhodes/math-random#readme"
+    ],
+    "devDependencies": {
+        "@types/math-random": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Richie Bendall",
+            "githubUsername": "Richienb"
+        }
+    ]
+}

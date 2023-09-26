@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/hummer-env",
+    "version": "1.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "didi/Hummer",
+    "projects": [
+        "https://github.com/didi/Hummer"
+    ],
+    "devDependencies": {
+        "@types/hummer-env": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mi",
+            "githubUsername": "iammvp"
+        }
+    ]
+}

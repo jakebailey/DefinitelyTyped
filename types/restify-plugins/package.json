@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/restify-plugins",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/restify/plugins"
+    ],
+    "dependencies": {
+        "@types/bunyan": "*",
+        "@types/restify": "*"
+    },
+    "devDependencies": {
+        "@types/restify-plugins": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Костя Третяк",
+            "githubUsername": "KostyaTretyak"
+        }
+    ]
+}

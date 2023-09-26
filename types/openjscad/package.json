@@ -1,6 +1,20 @@
 {
     "private": true,
+    "name": "@types/openjscad",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/joostn/OpenJsCad"
+    ],
     "dependencies": {
         "three": "*"
-    }
+    },
+    "devDependencies": {
+        "@types/openjscad": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dan Marshall",
+            "githubUsername": "danmarshall"
+        }
+    ]
 }

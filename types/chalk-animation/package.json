@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/chalk-animation",
+    "version": "1.6.99999",
+    "projects": [
+        "https://github.com/bokub/chalk-animation"
+    ],
+    "devDependencies": {
+        "@types/chalk-animation": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

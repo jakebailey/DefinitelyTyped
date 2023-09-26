@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/elgamal",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/kripod/elgamal.js"
+    ],
+    "dependencies": {
+        "@types/jsbn": "*"
+    },
+    "devDependencies": {
+        "@types/elgamal": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Yu-Hsi Chiang",
+            "githubUsername": "arbuztw"
+        }
+    ]
+}

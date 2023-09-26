@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/angular-spinner",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/urish/angular-spinner"
+    ],
+    "devDependencies": {
+        "@types/angular": "*",
+        "@types/angular-spinner": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Marcin Biegała",
+            "githubUsername": "Biegal"
+        }
+    ]
+}

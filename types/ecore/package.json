@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ecore",
+    "version": "0.12.99999",
+    "projects": [
+        "https://github.com/emfjson/ecore.js"
+    ],
+    "devDependencies": {
+        "@types/ecore": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mike Tugushev",
+            "githubUsername": "michael-whi"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/squirejs",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/iammerrick/Squire.js"
+    ],
+    "devDependencies": {
+        "@types/squirejs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Bradley Ayers",
+            "githubUsername": "bradleyayers"
+        }
+    ]
+}

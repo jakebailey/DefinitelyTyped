@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jquery-param",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/knowledgecode/jquery-param"
+    ],
+    "devDependencies": {
+        "@types/jquery-param": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Pat Sissons",
+            "githubUsername": "patsissons"
+        }
+    ]
+}

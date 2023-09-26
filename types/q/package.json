@@ -1,0 +1,34 @@
+{
+    "private": true,
+    "name": "@types/q",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/kriskowal/q"
+    ],
+    "devDependencies": {
+        "@types/jquery": "*",
+        "@types/q": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Barrie Nemetchek",
+            "githubUsername": "bnemetchek"
+        },
+        {
+            "name": "Andrew Gaspar",
+            "githubUsername": "AndrewGaspar"
+        },
+        {
+            "name": "John Reilly",
+            "githubUsername": "johnnyreilly"
+        },
+        {
+            "name": "Michel Boudreau",
+            "githubUsername": "mboudreau"
+        },
+        {
+            "name": "TeamworkGuy2",
+            "githubUsername": "TeamworkGuy2"
+        }
+    ]
+}

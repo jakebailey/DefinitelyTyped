@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "name": "@types/pulltorefreshjs",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/BoxFactura/pulltorefresh.js"
+    ],
+    "devDependencies": {
+        "@types/pulltorefreshjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Rosenwasser",
+            "githubUsername": "DanielRosenwasser"
+        },
+        {
+            "name": "Tamas Kinsztler",
+            "githubUsername": "humpedli"
+        },
+        {
+            "name": "Samuel Bodin",
+            "githubUsername": "bodinsamuel"
+        },
+        {
+            "name": "Stefan Langeder",
+            "githubUsername": "slangeder"
+        }
+    ]
+}

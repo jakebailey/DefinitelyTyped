@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/google__maps",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/googlemaps/google-maps-services-js"
+    ],
+    "devDependencies": {
+        "@types/google__maps": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Indri Muska",
+            "githubUsername": "indrimuska"
+        }
+    ]
+}

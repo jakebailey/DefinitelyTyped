@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/trust__keyto",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/EternalDeiwos/keyto#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/trust__keyto": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

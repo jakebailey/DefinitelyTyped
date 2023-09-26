@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/lua-json",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/kcwiki/lua-json#readme"
+    ],
+    "devDependencies": {
+        "@types/lua-json": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "bitomic",
+            "githubUsername": "bitomic"
+        }
+    ]
+}

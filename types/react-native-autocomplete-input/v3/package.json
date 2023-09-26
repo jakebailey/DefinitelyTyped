@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/react-native-autocomplete-input",
+    "version": "3.5.99999",
+    "projects": [
+        "https://github.com/l-urence/react-native-autocomplete-input#readme"
+    ],
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-native": "^0.70"
+    },
+    "devDependencies": {
+        "@types/react-native-autocomplete-input": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ifiok Jr.",
+            "githubUsername": "ifiokjr"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/syslog-pro",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/cyamato/SyslogPro"
+    ],
+    "devDependencies": {
+        "@types/syslog-pro": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

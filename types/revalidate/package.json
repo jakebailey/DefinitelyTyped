@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/revalidate",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/jfairbank/revalidate"
+    ],
+    "devDependencies": {
+        "@types/revalidate": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "alex3165",
+            "githubUsername": "alex3165"
+        }
+    ]
+}

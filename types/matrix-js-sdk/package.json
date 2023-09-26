@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/matrix-js-sdk",
+    "version": "11.0.99999",
+    "projects": [
+        "https://github.com/matrix-org/matrix-js-sdk"
+    ],
+    "devDependencies": {
+        "@types/matrix-js-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Huan LI (李卓桓)",
+            "githubUsername": "huan"
+        },
+        {
+            "name": "André Vitor L. Matos",
+            "githubUsername": "andrevmatos"
+        },
+        {
+            "name": "Thibaut Sardan",
+            "githubUsername": "Tbaut"
+        }
+    ]
+}

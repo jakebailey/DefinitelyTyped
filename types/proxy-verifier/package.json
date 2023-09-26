@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/proxy-verifier",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/chill117/proxy-verifier#readme"
+    ],
+    "dependencies": {
+        "@types/request": "*"
+    },
+    "devDependencies": {
+        "@types/proxy-verifier": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BehindTheMath",
+            "githubUsername": "BehindTheMath"
+        }
+    ]
+}

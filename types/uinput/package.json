@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/uinput",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/santigimeno/node-uinput#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/uinput": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Richter",
+            "githubUsername": "Fidge123"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/esc-pos-encoder",
+    "version": "1.3.99999",
+    "projects": [
+        "https://github.com/NielsLeenheer/EscPosEncoder#readme"
+    ],
+    "devDependencies": {
+        "@types/esc-pos-encoder": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "dlimkin",
+            "githubUsername": "dlimkin"
+        },
+        {
+            "name": "dberri",
+            "githubUsername": "dberri"
+        }
+    ]
+}

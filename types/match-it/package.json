@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/match-it",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/IonicaBizau/match-it#readme"
+    ],
+    "devDependencies": {
+        "@types/match-it": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

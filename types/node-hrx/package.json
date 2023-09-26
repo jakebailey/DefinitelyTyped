@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/node-hrx",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/issa-tseng/node-hrx#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/node-hrx": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christophe Coevoet",
+            "githubUsername": "stof"
+        }
+    ]
+}

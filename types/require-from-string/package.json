@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/require-from-string",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/floatdrop/require-from-string"
+    ],
+    "devDependencies": {
+        "@types/require-from-string": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ika",
+            "githubUsername": "ikatyang"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/module-alias",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/ilearnio/module-alias/"
+    ],
+    "devDependencies": {
+        "@types/module-alias": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kevin Ramharak",
+            "githubUsername": "KevinRamharak"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/vmap",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/dailymotion/vmap-js#readme"
+    ],
+    "devDependencies": {
+        "@types/vmap": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "John G. Gainfort, Jr.",
+            "githubUsername": "jgainfort"
+        }
+    ]
+}

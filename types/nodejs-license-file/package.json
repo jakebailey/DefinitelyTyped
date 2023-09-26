@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/nodejs-license-file",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/bushev/nodejs-license-file"
+    ],
+    "devDependencies": {
+        "@types/nodejs-license-file": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Troy McKinnon",
+            "githubUsername": "trodi"
+        }
+    ]
+}

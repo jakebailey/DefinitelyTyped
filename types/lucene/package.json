@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/lucene",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/bripkens/lucene#readme"
+    ],
+    "devDependencies": {
+        "@types/lucene": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Grynhaus",
+            "githubUsername": "bengry"
+        },
+        {
+            "name": "Hugo Muller",
+            "githubUsername": "HugoMuller"
+        }
+    ]
+}

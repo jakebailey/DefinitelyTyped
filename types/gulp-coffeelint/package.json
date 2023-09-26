@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/gulp-coffeelint",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/janraasch/gulp-coffeelint"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/gulp": "*",
+        "@types/gulp-coffeelint": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Qubo",
+            "githubUsername": "tkQubo"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/grpc-error",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/bojand/grpc-error"
+    ],
+    "devDependencies": {
+        "@types/grpc-error": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Daniel Byrne",
+            "githubUsername": "danwbyrne"
+        }
+    ]
+}

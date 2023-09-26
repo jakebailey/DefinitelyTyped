@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/kavenegar",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/kavenegar/kavenegar-node"
+    ],
+    "devDependencies": {
+        "@types/kavenegar": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nima Ebrazeh",
+            "githubUsername": "nimaebra"
+        }
+    ]
+}

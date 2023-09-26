@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/alertify",
+    "version": "0.3.99999",
+    "projects": [
+        "http://fabien-d.github.io/alertify.js/"
+    ],
+    "devDependencies": {
+        "@types/alertify": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "John Jeffery",
+            "githubUsername": "jjeffery"
+        }
+    ]
+}

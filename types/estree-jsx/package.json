@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/estree-jsx",
+    "version": "1.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "estree-jsx",
+    "projects": [
+        "https://github.com/facebook/jsx"
+    ],
+    "dependencies": {
+        "@types/estree": "*"
+    },
+    "devDependencies": {
+        "@types/estree-jsx": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tony Ross",
+            "githubUsername": "antross"
+        }
+    ]
+}

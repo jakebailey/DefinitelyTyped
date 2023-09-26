@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/koa-static-server",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/pkoretic/koa-static-server"
+    ],
+    "dependencies": {
+        "@types/koa": "*"
+    },
+    "devDependencies": {
+        "@types/koa-static-server": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "wulunyi",
+            "githubUsername": "wulunyi"
+        }
+    ]
+}

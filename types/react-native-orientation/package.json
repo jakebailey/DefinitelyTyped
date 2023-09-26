@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/react-native-orientation",
+    "version": "5.0.99999",
+    "projects": [
+        "https://github.com/yamill/react-native-orientation"
+    ],
+    "devDependencies": {
+        "@types/react-native-orientation": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Moshe Atlow",
+            "githubUsername": "MoLow"
+        }
+    ]
+}

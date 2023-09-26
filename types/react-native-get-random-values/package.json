@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/react-native-get-random-values",
+    "version": "1.8.99999",
+    "projects": [
+        "https://github.com/LinusU/react-native-get-random-values"
+    ],
+    "devDependencies": {
+        "@types/react-native-get-random-values": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Fabio Nettis",
+            "githubUsername": "fabio-nettis"
+        }
+    ]
+}

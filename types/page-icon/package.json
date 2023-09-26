@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/page-icon",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/jiahaog/page-icon"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/page-icon": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "rhysd",
+            "url": "https://rhysd.github.io"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/node-wifi",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/friedrith/node-wifi"
+    ],
+    "devDependencies": {
+        "@types/node-wifi": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "hieyou1",
+            "githubUsername": "hieyou1"
+        }
+    ]
+}

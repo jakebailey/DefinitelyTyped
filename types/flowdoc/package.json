@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/flowdoc",
+    "version": "1.1.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "flowdoc",
+    "projects": [
+        "https://github.com/overflowapp/Flow"
+    ],
+    "devDependencies": {
+        "@types/flowdoc": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stefan Mansson",
+            "githubUsername": "animify"
+        }
+    ]
+}

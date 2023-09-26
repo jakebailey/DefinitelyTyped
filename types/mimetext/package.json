@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mimetext",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/muratgozel/MIMEText"
+    ],
+    "devDependencies": {
+        "@types/mimetext": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Josh Goldberg",
+            "githubUsername": "JoshuaKGoldberg"
+        }
+    ]
+}

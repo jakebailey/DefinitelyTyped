@@ -1,8 +1,3 @@
-// Type definitions for @google-cloud/tasks 0.2
-// Project: https://github.com/googleapis/nodejs-tasks
-// Definitions by: Ifiok Jr. <https://github.com/ifiokjr>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 /// <reference types="node" />
 
 import { CallOptions, GoogleAuth, GoogleAuthOptions, GoogleError } from "google-gax";

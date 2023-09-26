@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/save-csv",
+    "version": "4.1.99999",
+    "projects": [
+        "https://github.com/silverwind/save-csv"
+    ],
+    "devDependencies": {
+        "@types/save-csv": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Frank Brullo",
+            "githubUsername": "FrankBrullo"
+        }
+    ]
+}

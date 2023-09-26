@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/schedule",
+    "version": "0.5.99999",
+    "projects": [
+        "https://reactjs.org/"
+    ],
+    "devDependencies": {
+        "@types/schedule": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nathan Bierema",
+            "githubUsername": "Methuselah96"
+        }
+    ]
+}

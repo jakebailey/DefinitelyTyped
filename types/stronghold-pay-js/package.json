@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "name": "@types/stronghold-pay-js",
+    "version": "2.0.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "stronghold-pay-js-browser",
+    "projects": [
+        "https://docs.strongholdpay.com/stronghold-pay-js/"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/stronghold-pay-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Adrien Etienne",
+            "githubUsername": "AdrienEtienne"
+        },
+        {
+            "name": "Sean Bennett",
+            "githubUsername": "itsseanbennett"
+        }
+    ]
+}

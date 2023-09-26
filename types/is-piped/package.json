@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-piped",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/Qix-/node-is-piped"
+    ],
+    "devDependencies": {
+        "@types/is-piped": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "bendingbender"
+        }
+    ]
+}

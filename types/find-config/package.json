@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/find-config",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/shannonmoeller/find-config"
+    ],
+    "devDependencies": {
+        "@types/find-config": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Luke James",
+            "githubUsername": "itslukej"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/seneca",
+    "version": "2.1.99999",
+    "projects": [
+        "https://www.npmjs.com/package/seneca"
+    ],
+    "devDependencies": {
+        "@types/seneca": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Peter Snider",
+            "githubUsername": "psnider"
+        },
+        {
+            "name": "Kevyn Bruyere",
+            "githubUsername": "kevynb"
+        }
+    ]
+}

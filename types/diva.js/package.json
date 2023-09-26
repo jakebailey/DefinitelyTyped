@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/diva.js",
+    "version": "6.0.99999",
+    "projects": [
+        "https://github.com/DDMAL/diva.js#readme"
+    ],
+    "devDependencies": {
+        "@types/diva.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Juliette Regimbal",
+            "githubUsername": "JRegimbal"
+        }
+    ]
+}

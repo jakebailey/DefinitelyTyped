@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/system-locale",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/derhuerst/system-locale"
+    ],
+    "devDependencies": {
+        "@types/system-locale": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/pug",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/pugjs/pug"
+    ],
+    "devDependencies": {
+        "@types/pug": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "TonyYang",
+            "githubUsername": "TonyPythoneer"
+        }
+    ]
+}

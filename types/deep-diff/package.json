@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/deep-diff",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/flitbit/diff/"
+    ],
+    "typeScriptVersion": "4.9",
+    "devDependencies": {
+        "@types/deep-diff": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ZauberNerd",
+            "githubUsername": "ZauberNerd"
+        }
+    ]
+}

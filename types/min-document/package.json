@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/min-document",
+    "version": "2.19.99999",
+    "projects": [
+        "https://github.com/Raynos/min-document"
+    ],
+    "devDependencies": {
+        "@types/min-document": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ifiok JR.",
+            "githubUsername": "ifiokjr"
+        }
+    ]
+}

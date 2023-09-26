@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/strange",
+    "version": "1.7.99999",
+    "projects": [
+        "https://github.com/moll/js-strange"
+    ],
+    "devDependencies": {
+        "@types/strange": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Anjun Wang",
+            "githubUsername": "wanganjun"
+        }
+    ]
+}

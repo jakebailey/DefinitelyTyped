@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/atob-lite",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/hughsk/atob-lite"
+    ],
+    "devDependencies": {
+        "@types/atob-lite": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gregor Martynus",
+            "githubUsername": "gr2m"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/uglifycss",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/fmarcia/UglifyCSS"
+    ],
+    "devDependencies": {
+        "@types/uglifycss": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "gevik Babakhani",
+            "githubUsername": "blendsdk"
+        }
+    ]
+}

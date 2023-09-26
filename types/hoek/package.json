@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hoek",
+    "version": "4.1.99999",
+    "projects": [
+        "https://github.com/hapijs/hoek"
+    ],
+    "devDependencies": {
+        "@types/hoek": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Prashant Tiwari",
+            "githubUsername": "prashaantt"
+        }
+    ]
+}
