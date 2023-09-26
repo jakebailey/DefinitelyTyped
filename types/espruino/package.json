@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/espruino",
+    "version": "1.94.99999",
+    "projects": [
+        "http://www.espruino.com/",
+        "https://github.com/espruino/espruinotools"
+    ],
+    "devDependencies": {
+        "@types/espruino": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stanislav Berkov",
+            "githubUsername": "stasberkov"
+        },
+        {
+            "name": "Jurand Niemczycki",
+            "githubUsername": "createdbyjurand"
+        }
+    ]
+}

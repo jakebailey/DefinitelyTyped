@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cheet.js",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/namuol/cheet.js"
+    ],
+    "devDependencies": {
+        "@types/cheet.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "giammyisjammy",
+            "githubUsername": "giammyisjammy"
+        }
+    ]
+}

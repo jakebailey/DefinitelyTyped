@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/badwords",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/MauriceButler/badwords#readme"
+    ],
+    "devDependencies": {
+        "@types/badwords": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Saiichi Hashimoto",
+            "githubUsername": "saiichihashimoto"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/create-error",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/tgriesser/create-error"
+    ],
+    "devDependencies": {
+        "@types/create-error": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tanguy Krotoff",
+            "githubUsername": "tkrotoff"
+        }
+    ]
+}

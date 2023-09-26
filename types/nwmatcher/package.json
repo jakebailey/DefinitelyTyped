@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/nwmatcher",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/dperini/nwmatcher"
+    ],
+    "devDependencies": {
+        "@types/nwmatcher": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wouter van Heeswijk",
+            "githubUsername": "woutervh-"
+        }
+    ]
+}

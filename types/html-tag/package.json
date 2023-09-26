@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/html-tag",
+    "version": "2.0.99999",
+    "projects": [
+        "https://www.npmjs.com/package/html-tag"
+    ],
+    "devDependencies": {
+        "@types/html-tag": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "arnu515",
+            "githubUsername": "arnu515"
+        }
+    ]
+}

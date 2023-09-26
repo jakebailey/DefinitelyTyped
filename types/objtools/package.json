@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/objtools",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/zipscene/objtools#readme"
+    ],
+    "devDependencies": {
+        "@types/objtools": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Steve Ripberger",
+            "githubUsername": "me"
+        }
+    ]
+}

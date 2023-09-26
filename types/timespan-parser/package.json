@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/timespan-parser",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/gilly3/timespan-parser/"
+    ],
+    "devDependencies": {
+        "@types/timespan-parser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "OpportunityLiu",
+            "githubUsername": "OpportunityLiu"
+        }
+    ]
+}

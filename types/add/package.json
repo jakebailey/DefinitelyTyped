@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/add",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/ben-ng/add"
+    ],
+    "devDependencies": {
+        "@types/add": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tristan F.",
+            "githubUsername": "LeoDog896"
+        }
+    ]
+}

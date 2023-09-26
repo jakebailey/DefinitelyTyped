@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/core-js",
+    "version": "2.5.99999",
+    "projects": [
+        "https://github.com/zloirock/core-js/"
+    ],
+    "devDependencies": {
+        "@types/core-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ron Buckton",
+            "githubUsername": "rbuckton"
+        },
+        {
+            "name": "Michel Felipe",
+            "githubUsername": "mfdeveloper"
+        }
+    ]
+}

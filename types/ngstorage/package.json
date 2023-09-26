@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/ngstorage",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/gsklee/ngStorage"
+    ],
+    "devDependencies": {
+        "@types/angular": "*",
+        "@types/ngstorage": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jakub Pistek",
+            "githubUsername": "kubiq"
+        }
+    ]
+}

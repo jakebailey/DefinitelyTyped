@@ -1,7 +1,32 @@
 {
     "private": true,
+    "name": "@types/rdfjs__traverser",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/rdfjs-base/traverser"
+    ],
     "type": "module",
     "dependencies": {
         "@rdfjs/types": "*"
-    }
+    },
+    "devDependencies": {
+        "@types/clownface": "*",
+        "@types/rdf-ext": "*",
+        "@types/rdfjs__environment": "*",
+        "@types/rdfjs__traverser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "tpluscode",
+            "githubUsername": "tpluscode"
+        },
+        {
+            "name": "Jesse Wright",
+            "githubUsername": "jeswr"
+        },
+        {
+            "name": "cristianvasquez",
+            "githubUsername": "cristianvasquez"
+        }
+    ]
 }

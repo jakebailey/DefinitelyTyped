@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jira2slack",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/shaunburdick/jira2slack#readme"
+    ],
+    "devDependencies": {
+        "@types/jira2slack": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rob Anderson",
+            "githubUsername": "McTalian"
+        }
+    ]
+}

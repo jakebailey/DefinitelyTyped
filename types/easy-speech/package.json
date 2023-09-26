@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/easy-speech",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/jankapunkt/easy-speech#readme"
+    ],
+    "devDependencies": {
+        "@types/easy-speech": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Robbie",
+            "githubUsername": "RJWadley"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/react-autocomplete",
+    "version": "1.8.99999",
+    "projects": [
+        "https://github.com/reactjs/react-autocomplete"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/react-autocomplete": "workspace:.",
+        "@types/react-dom": "*"
+    },
+    "contributors": [
+        {
+            "name": "Lee Standen",
+            "githubUsername": "lstanden"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/array-same",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/dfcreative/array-same"
+    ],
+    "devDependencies": {
+        "@types/array-same": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

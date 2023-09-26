@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/toidentifier",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/component/toidentifier#readme"
+    ],
+    "devDependencies": {
+        "@types/toidentifier": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

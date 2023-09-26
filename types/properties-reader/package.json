@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/properties-reader",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/steveukx/properties"
+    ],
+    "devDependencies": {
+        "@types/properties-reader": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Zlatko Andonovski",
+            "githubUsername": "Goldsmith42"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/lowercase-object-keys",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/pilmee/lowercase-object-keys#readme"
+    ],
+    "devDependencies": {
+        "@types/lowercase-object-keys": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rajas Paranjpe",
+            "githubUsername": "ChocolateLoverRaj"
+        }
+    ]
+}

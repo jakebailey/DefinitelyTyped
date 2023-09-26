@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/dotenv-flow",
+    "version": "3.3.99999",
+    "projects": [
+        "https://github.com/kerimdzhanov/dotenv-flow"
+    ],
+    "devDependencies": {
+        "@types/dotenv-flow": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dan Kerimdzhanov",
+            "githubUsername": "kerimdzhanov"
+        },
+        {
+            "name": "James Greenleaf",
+            "githubUsername": "aMoniker"
+        }
+    ]
+}

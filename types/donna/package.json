@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/donna",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/atom/donna"
+    ],
+    "devDependencies": {
+        "@types/donna": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "vvakame",
+            "githubUsername": "vvakame"
+        }
+    ]
+}

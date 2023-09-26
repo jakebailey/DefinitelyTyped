@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/expect.js",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/Automattic/expect.js"
+    ],
+    "devDependencies": {
+        "@types/expect.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Teppei Sato",
+            "githubUsername": "teppeis"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/locale",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/florrain/locale"
+    ],
+    "devDependencies": {
+        "@types/express": "*",
+        "@types/locale": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "Emily Marigold Klassen",
+            "githubUsername": "forivall"
+        }
+    ]
+}

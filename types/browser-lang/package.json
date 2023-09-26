@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/browser-lang",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/InJaEE/DefinitelyTyped"
+    ],
+    "devDependencies": {
+        "@types/browser-lang": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "InJaEE",
+            "githubUsername": "InJaEE"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/watermark-dom",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/saucxs/watermark-dom"
+    ],
+    "devDependencies": {
+        "@types/watermark-dom": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "shenhaoliang",
+            "githubUsername": "shlroland"
+        }
+    ]
+}

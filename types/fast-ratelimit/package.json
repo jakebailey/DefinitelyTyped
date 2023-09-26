@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fast-ratelimit",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/valeriansaliou/node-fast-ratelimit"
+    ],
+    "devDependencies": {
+        "@types/fast-ratelimit": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jørgen Vatle",
+            "githubUsername": "JorgenVatle"
+        }
+    ]
+}

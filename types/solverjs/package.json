@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/solverjs",
+    "version": "3.28.99999",
+    "projects": [
+        "https://github.com/suryapratapsinghsuryavanshi/solverjs"
+    ],
+    "devDependencies": {
+        "@types/solverjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Badin",
+            "githubUsername": "martin-badin"
+        }
+    ]
+}

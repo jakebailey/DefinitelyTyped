@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/signalfx",
+    "version": "7.4.99999",
+    "projects": [
+        "https://github.com/signalfx/signalfx-nodejs"
+    ],
+    "devDependencies": {
+        "@types/signalfx": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Max Boguslavskiy",
+            "githubUsername": "maxbogus"
+        }
+    ]
+}

@@ -1,6 +1,25 @@
 {
     "private": true,
+    "name": "@types/crumb",
+    "version": "7.2.99999",
+    "projects": [
+        "https://github.com/hapijs/crumb"
+    ],
     "dependencies": {
+        "@types/hapi": "*",
         "joi": "^17.3.0"
-    }
+    },
+    "devDependencies": {
+        "@types/crumb": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Silas Rech",
+            "githubUsername": "lenovouser"
+        },
+        {
+            "name": "Simon Schick",
+            "githubUsername": "SimonSchick"
+        }
+    ]
 }

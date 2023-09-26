@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/stylis",
+    "version": "4.2.99999",
+    "projects": [
+        "https://github.com/thysultan/stylis.js"
+    ],
+    "devDependencies": {
+        "@types/stylis": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gen Hames",
+            "githubUsername": "heyheyhello"
+        }
+    ]
+}

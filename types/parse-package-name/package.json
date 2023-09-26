@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/parse-package-name",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/egoist/parse-package-name"
+    ],
+    "devDependencies": {
+        "@types/parse-package-name": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Eric Wang",
+            "githubUsername": "fa93hws"
+        }
+    ]
+}

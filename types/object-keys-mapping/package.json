@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/object-keys-mapping",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/coderhaoxin/object-keys-mapping#readme"
+    ],
+    "devDependencies": {
+        "@types/object-keys-mapping": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "newraina",
+            "githubUsername": "newraina"
+        }
+    ]
+}

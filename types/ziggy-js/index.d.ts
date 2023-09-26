@@ -1,9 +1,3 @@
-// Type definitions for ziggy-js 1.3
-// Project: https://github.com/tightenco/ziggy#readme
-// Definitions by: Ben Allfree <https://github.com/benallfree>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// Minimum TypeScript Version: 3.6
-
 import * as H from "history";
 
 export interface Routable {

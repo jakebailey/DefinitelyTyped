@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/tocktimer",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/mrchimp/tock"
+    ],
+    "devDependencies": {
+        "@types/tocktimer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Evan Shortiss",
+            "githubUsername": "evanshortiss"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/protobuf-fieldmask",
+    "version": "1.2.99999",
+    "projects": [
+        "http://github.com/kibertoad/protobuf-fieldmask"
+    ],
+    "devDependencies": {
+        "@types/protobuf-fieldmask": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jorge Yero Salazar",
+            "githubUsername": "jyeros"
+        }
+    ]
+}

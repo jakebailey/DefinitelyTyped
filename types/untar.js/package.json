@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/untar.js",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/antimatter15/untar.js"
+    ],
+    "devDependencies": {
+        "@types/untar.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Andrew Branch",
+            "githubUsername": "andrewbranch"
+        }
+    ]
+}

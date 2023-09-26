@@ -1,9 +1,3 @@
-// Type definitions for @nick-thompson/elementary 0.9
-// Project: https://www.elementary.audio/
-// Definitions by: DefinitelyTyped <https://github.com/DefinitelyTyped>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// Minimum TypeScript Version: 4.0
-
 import * as _el from "./src";
 
 /**

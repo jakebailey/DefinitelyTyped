@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ospath",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/jprichardson/ospath#readme"
+    ],
+    "devDependencies": {
+        "@types/ospath": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kishan Gajera",
+            "githubUsername": "kgajera"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/lowlight",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/wooorm/lowlight"
+    ],
+    "devDependencies": {
+        "@types/lowlight": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ivo Stratev",
+            "githubUsername": "NoHomey"
+        }
+    ]
+}

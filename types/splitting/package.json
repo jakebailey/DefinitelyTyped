@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/splitting",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/shshaw/splitting"
+    ],
+    "devDependencies": {
+        "@types/splitting": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Adam Thompson-Sharpe",
+            "githubUsername": "MysteryBlokHed"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ascii-cats",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/bbihq/ascii-cats"
+    ],
+    "devDependencies": {
+        "@types/ascii-cats": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

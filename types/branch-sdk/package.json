@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/branch-sdk",
+    "version": "2.53.99999",
+    "projects": [
+        "https://github.com/BranchMetrics/web-branch-deep-linking-attribution"
+    ],
+    "devDependencies": {
+        "@types/branch-sdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jonas Daniels",
+            "githubUsername": "jnsdls"
+        }
+    ]
+}

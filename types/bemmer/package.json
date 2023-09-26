@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/bemmer",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/axross/bemmer"
+    ],
+    "devDependencies": {
+        "@types/bemmer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nathan",
+            "githubUsername": "nweber-gh"
+        },
+        {
+            "name": "Bryan",
+            "githubUsername": "bdwain"
+        }
+    ]
+}

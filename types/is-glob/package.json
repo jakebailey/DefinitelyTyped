@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/is-glob",
+    "version": "4.0.99999",
+    "projects": [
+        "https://github.com/micromatch/is-glob"
+    ],
+    "devDependencies": {
+        "@types/is-glob": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "mrmlnc",
+            "githubUsername": "mrmlnc"
+        }
+    ]
+}

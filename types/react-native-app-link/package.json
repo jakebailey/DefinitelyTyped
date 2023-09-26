@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/react-native-app-link",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/datwheat/react-native-app-link#readme"
+    ],
+    "devDependencies": {
+        "@types/react-native-app-link": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "John Wright",
+            "githubUsername": "johngeorgewright"
+        }
+    ]
+}

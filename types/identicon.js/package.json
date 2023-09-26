@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/identicon.js",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/stewartlord/identicon.js"
+    ],
+    "devDependencies": {
+        "@types/identicon.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "D0miH",
+            "githubUsername": "D0miH"
+        }
+    ]
+}

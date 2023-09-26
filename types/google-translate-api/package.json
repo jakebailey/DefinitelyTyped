@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/google-translate-api",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/matheuss/google-translate-api#readme"
+    ],
+    "devDependencies": {
+        "@types/google-translate-api": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "maple3142",
+            "githubUsername": "maple3142"
+        }
+    ]
+}

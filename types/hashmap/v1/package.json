@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hashmap",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/flesler/hashmap"
+    ],
+    "devDependencies": {
+        "@types/hashmap": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rafał Wrzeszcz",
+            "url": "http://wrzasq.pl"
+        }
+    ]
+}

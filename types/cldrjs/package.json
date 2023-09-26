@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/cldrjs",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/rxaviers/cldrjs"
+    ],
+    "devDependencies": {
+        "@types/cldrjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Raman But-Husaim",
+            "githubUsername": "RamanBut-Husaim"
+        },
+        {
+            "name": "Grégoire Castre",
+            "githubUsername": "gcastre"
+        }
+    ]
+}

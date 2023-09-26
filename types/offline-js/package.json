@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/offline-js",
+    "version": "0.7.99999",
+    "projects": [
+        "https://github.com/HubSpot/offline"
+    ],
+    "devDependencies": {
+        "@types/offline-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Chris Wrench",
+            "githubUsername": "cgwrench"
+        }
+    ]
+}

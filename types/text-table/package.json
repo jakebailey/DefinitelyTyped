@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/text-table",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/substack/text-table"
+    ],
+    "devDependencies": {
+        "@types/text-table": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Saad Quadri",
+            "githubUsername": "saadq"
+        }
+    ]
+}

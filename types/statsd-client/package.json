@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "@types/statsd-client",
+    "version": "0.4.99999",
+    "projects": [
+        "https://github.com/msiebuhr/node-statsd-client"
+    ],
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/statsd-client": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Peter Kooijmans",
+            "githubUsername": "peterkooijmans"
+        },
+        {
+            "name": "Christopher Eck",
+            "githubUsername": "chrisleck"
+        }
+    ]
+}

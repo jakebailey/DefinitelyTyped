@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fuzzysearch",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/bevacqua/fuzzysearch"
+    ],
+    "devDependencies": {
+        "@types/fuzzysearch": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Remco Haszing",
+            "githubUsername": "remcohaszing"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/vanilla-modal",
+    "version": "1.6.99999",
+    "projects": [
+        "https://github.com/benceg/vanilla-modal",
+        "https://github.com/thephuse/vanilla-modal"
+    ],
+    "devDependencies": {
+        "@types/vanilla-modal": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sam Nau",
+            "githubUsername": "samnau"
+        }
+    ]
+}

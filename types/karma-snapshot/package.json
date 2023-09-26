@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/karma-snapshot",
+    "version": "0.6.99999",
+    "projects": [
+        "https://github.com/localvoid/karma-snapshot"
+    ],
+    "dependencies": {
+        "@types/karma": "*"
+    },
+    "devDependencies": {
+        "@types/karma-snapshot": "workspace:.",
+        "@types/node": "*"
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz (Peter Blazejewicz)",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

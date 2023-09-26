@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ascii2mathml",
+    "version": "0.5.99999",
+    "projects": [
+        "https://github.com/runarberg/ascii2mathml"
+    ],
+    "devDependencies": {
+        "@types/ascii2mathml": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Muhammad Ragib Hasin",
+            "githubUsername": "RagibHasin"
+        }
+    ]
+}

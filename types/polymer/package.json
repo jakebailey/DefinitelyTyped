@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/polymer",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/Polymer/polymer"
+    ],
+    "dependencies": {
+        "@types/webcomponents.js": "*"
+    },
+    "devDependencies": {
+        "@types/polymer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Louis Grignon",
+            "githubUsername": "lgrignon"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ffmpeg.js",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/Kagami/ffmpeg.js"
+    ],
+    "devDependencies": {
+        "@types/ffmpeg.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Max Boguslavskiy",
+            "githubUsername": "maxbogus"
+        }
+    ]
+}

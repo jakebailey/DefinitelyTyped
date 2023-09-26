@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/atpl",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/soywiz/atpl.js"
+    ],
+    "devDependencies": {
+        "@types/atpl": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Carlos Ballesteros Velasco",
+            "githubUsername": "soywiz"
+        }
+    ]
+}

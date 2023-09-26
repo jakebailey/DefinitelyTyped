@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bind-args",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/kerryChen95/bind-args#readme"
+    ],
+    "devDependencies": {
+        "@types/bind-args": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rajas Paranjpe",
+            "githubUsername": "ChocolateLoverRaj"
+        }
+    ]
+}

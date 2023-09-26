@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/compress.js",
+    "version": "1.1.99999",
+    "projects": [
+        "- (link to the repo is missing)"
+    ],
+    "devDependencies": {
+        "@types/compress.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Yuri Drabik",
+            "githubUsername": "yurist38"
+        }
+    ]
+}

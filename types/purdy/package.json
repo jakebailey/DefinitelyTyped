@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/purdy",
+    "version": "3.5.99999",
+    "projects": [
+        "https://github.com/danielb2/purdy.js"
+    ],
+    "devDependencies": {
+        "@types/purdy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "YellowKirby",
+            "githubUsername": "YellowKirby"
+        }
+    ]
+}

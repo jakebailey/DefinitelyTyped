@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/multy",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/eduardorfs/multy"
+    ],
+    "dependencies": {
+        "@types/busboy": "^0",
+        "@types/koa": "*"
+    },
+    "devDependencies": {
+        "@types/multy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Jan Dolezel",
+            "githubUsername": "dolezel"
+        }
+    ]
+}

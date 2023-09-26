@@ -1,6 +1,21 @@
 {
     "private": true,
+    "name": "@types/rollup-plugin-css-only",
+    "version": "3.1.99999",
+    "projects": [
+        "https://github.com/thgh/rollup-plugin-css-only"
+    ],
     "dependencies": {
+        "@types/node": "*",
         "rollup": "^0.63.4"
-    }
+    },
+    "devDependencies": {
+        "@types/rollup-plugin-css-only": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mateusz Szewc",
+            "githubUsername": "SitamMatt"
+        }
+    ]
 }

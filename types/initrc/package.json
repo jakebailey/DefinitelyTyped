@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/initrc",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/Soldy/initrc"
+    ],
+    "devDependencies": {
+        "@types/initrc": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Soldy",
+            "githubUsername": "Soldy"
+        }
+    ]
+}

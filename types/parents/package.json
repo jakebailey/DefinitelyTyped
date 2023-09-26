@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/parents",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/substack/node-parents"
+    ],
+    "devDependencies": {
+        "@types/parents": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "TeamworkGuy2",
+            "githubUsername": "TeamworkGuy2"
+        }
+    ]
+}

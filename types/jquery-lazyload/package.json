@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/jquery-lazyload",
+    "version": "1.9.99999",
+    "projects": [
+        "https://github.com/tuupola/jquery_lazyload",
+        "http://www.appelsiini.net/projects/lazyload"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/jquery-lazyload": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Anderson Friaça",
+            "githubUsername": "AndersonFriaca"
+        }
+    ]
+}

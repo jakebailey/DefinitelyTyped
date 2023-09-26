@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/prompt",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/flatiron/prompt#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*",
+        "@types/revalidator": "*"
+    },
+    "devDependencies": {
+        "@types/prompt": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Florian Imdahl",
+            "githubUsername": "ffflorian"
+        },
+        {
+            "name": "Matthew Berryman",
+            "githubUsername": "matthewberryman"
+        }
+    ]
+}

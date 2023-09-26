@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/expo-mixpanel-analytics",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/codekadiya/expo-mixpanel-analytics"
+    ],
+    "devDependencies": {
+        "@types/expo-mixpanel-analytics": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Treurnicht",
+            "githubUsername": "martintreurnicht"
+        }
+    ]
+}

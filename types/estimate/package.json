@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/estimate",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/bevacqua/estimate"
+    ],
+    "devDependencies": {
+        "@types/estimate": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Luis Rodrigues",
+            "githubUsername": "goblindegook"
+        }
+    ]
+}

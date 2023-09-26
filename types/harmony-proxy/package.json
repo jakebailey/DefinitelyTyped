@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/harmony-proxy",
+    "version": "1.0.99999",
+    "projects": [
+        "https://www.npmjs.com/package/harmony-proxy"
+    ],
+    "devDependencies": {
+        "@types/harmony-proxy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Remo Jansen",
+            "githubUsername": "remojansen"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/atvlegacycontentkit",
+    "version": "7.7.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "Apple TV ATVLegacyContentKit for TV Experience",
+    "projects": [
+        "n/a (there is no publically available website for the SDK)"
+    ],
+    "devDependencies": {
+        "@types/atvlegacycontentkit": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Shea Smith",
+            "githubUsername": "SheaSmith"
+        }
+    ]
+}

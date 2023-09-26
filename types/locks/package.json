@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/locks",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/Wizcorp/locks"
+    ],
+    "devDependencies": {
+        "@types/locks": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Joshua Graham",
+            "githubUsername": "flippynips"
+        },
+        {
+            "name": "Alexey Ponomarev",
+            "githubUsername": "alexey-detr"
+        }
+    ]
+}

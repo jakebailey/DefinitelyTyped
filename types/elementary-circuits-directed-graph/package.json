@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/elementary-circuits-directed-graph",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/antoinerg/elementary-circuits-directed-graph#readme"
+    ],
+    "devDependencies": {
+        "@types/elementary-circuits-directed-graph": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Michon van Dooren",
+            "githubUsername": "maienm"
+        }
+    ]
+}

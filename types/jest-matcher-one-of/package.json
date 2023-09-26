@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/jest-matcher-one-of",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/d4nyll/jest-matcher-one-of#readme"
+    ],
+    "dependencies": {
+        "@types/jest": "*"
+    },
+    "devDependencies": {
+        "@types/jest-matcher-one-of": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Joe Mitchard",
+            "githubUsername": "joemitchard"
+        }
+    ]
+}

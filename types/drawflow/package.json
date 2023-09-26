@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/drawflow",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/jerosoler/Drawflow"
+    ],
+    "devDependencies": {
+        "@types/drawflow": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Benjamin Maisonneuve",
+            "githubUsername": "BobBDE"
+        }
+    ]
+}

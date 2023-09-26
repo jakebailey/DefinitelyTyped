@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/jquery.postmessage",
+    "version": "0.0.99999",
+    "projects": [
+        "http://benalman.com/projects/jquery-postmessage-plugin/"
+    ],
+    "devDependencies": {
+        "@types/jquery": "*",
+        "@types/jquery.postmessage": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Junle Li",
+            "githubUsername": "lijunle"
+        }
+    ]
+}

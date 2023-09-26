@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/gaussian",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/errcw/gaussian"
+    ],
+    "devDependencies": {
+        "@types/gaussian": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Scott Cooper",
+            "githubUsername": "scttcper"
+        }
+    ]
+}

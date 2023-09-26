@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/graphite",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/felixge/node-graphite"
+    ],
+    "devDependencies": {
+        "@types/graphite": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Muñoz",
+            "githubUsername": "ctumolosus"
+        }
+    ]
+}

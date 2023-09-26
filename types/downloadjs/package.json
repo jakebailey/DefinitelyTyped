@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/downloadjs",
+    "version": "1.4.99999",
+    "projects": [
+        "http://danml.com/download.html"
+    ],
+    "devDependencies": {
+        "@types/downloadjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "cwmoo740",
+            "githubUsername": "cwmoo740"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/ansi-diff-stream",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/mafintosh/ansi-diff-stream"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/ansi-diff-stream": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

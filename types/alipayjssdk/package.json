@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/alipayjssdk",
+    "version": "3.1.99999",
+    "nonNpm": true,
+    "nonNpmDescription": "Alipay JSSDK - alipayjsapi.js",
+    "projects": [
+        "https://myjsapi.alipay.com/alipayjsapi/index.html"
+    ],
+    "devDependencies": {
+        "@types/alipayjssdk": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Yuxiang Ren",
+            "githubUsername": "shlyren"
+        }
+    ]
+}

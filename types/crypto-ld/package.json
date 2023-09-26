@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/crypto-ld",
+    "version": "7.0.99999",
+    "projects": [
+        "https://github.com/digitalbazaar/crypto-ld"
+    ],
+    "devDependencies": {
+        "@types/crypto-ld": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "behruzrahimov",
+            "githubUsername": "behruzrahimov"
+        }
+    ]
+}

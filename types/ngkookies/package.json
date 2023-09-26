@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/ngkookies",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/voronianski/ngKookies"
+    ],
+    "devDependencies": {
+        "@types/ngkookies": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin McWhorter",
+            "githubUsername": "martinmcwhorter"
+        }
+    ]
+}

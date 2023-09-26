@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/yt-search",
+    "version": "2.10.99999",
+    "projects": [
+        "https://github.com/talmobi/yt-search#readme"
+    ],
+    "devDependencies": {
+        "@types/yt-search": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Lauren Yim",
+            "githubUsername": "cherryblossom000"
+        }
+    ]
+}

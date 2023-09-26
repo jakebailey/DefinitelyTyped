@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mv",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/andrewrk/node-mv"
+    ],
+    "devDependencies": {
+        "@types/mv": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Miloslav Nenadál",
+            "githubUsername": "nenadalm"
+        }
+    ]
+}

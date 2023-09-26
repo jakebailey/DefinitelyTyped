@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/memwatch-next",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/marcominetti/node-memwatch"
+    ],
+    "devDependencies": {
+        "@types/memwatch-next": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Cyril Schumacher",
+            "githubUsername": "cyrilschumacher"
+        }
+    ]
+}

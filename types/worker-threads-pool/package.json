@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/worker-threads-pool",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/watson/worker-threads-pool#readme"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/worker-threads-pool": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

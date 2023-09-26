@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/react-cookies",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/bukinoshita/react-cookies/"
+    ],
+    "dependencies": {
+        "@types/cookie": "*",
+        "@types/express": "*"
+    },
+    "devDependencies": {
+        "@types/react-cookies": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Nikolai Lopin",
+            "githubUsername": "nlopin"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bresenham",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/madbence/node-bresenham"
+    ],
+    "devDependencies": {
+        "@types/bresenham": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Richard",
+            "githubUsername": "Chnapy"
+        }
+    ]
+}

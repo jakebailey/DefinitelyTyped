@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/qunit",
+    "version": "1.16.99999",
+    "projects": [
+        "http://qunitjs.com/"
+    ],
+    "devDependencies": {
+        "@types/qunit": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Diullei Gomes",
+            "githubUsername": "diullei"
+        }
+    ]
+}

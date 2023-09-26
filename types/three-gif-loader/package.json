@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/three-gif-loader",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/movableink/three-gif-loader"
+    ],
+    "dependencies": {
+        "@types/omggif": "*",
+        "@types/three": "*"
+    },
+    "devDependencies": {
+        "@types/three-gif-loader": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Lair Junior",
+            "githubUsername": "lairjr"
+        }
+    ]
+}

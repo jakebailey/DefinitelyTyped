@@ -1,6 +1,21 @@
 {
     "private": true,
+    "name": "@types/fluxxor",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/BinaryMuse/fluxxor"
+    ],
     "dependencies": {
+        "@types/react": "*",
         "eventemitter3": "^2.0.3"
-    }
+    },
+    "devDependencies": {
+        "@types/fluxxor": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Yuichi Murata",
+            "githubUsername": "mrk21"
+        }
+    ]
 }

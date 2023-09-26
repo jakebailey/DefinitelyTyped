@@ -1,9 +1,3 @@
-// Type definitions for @xstyled/styled-components 1.19
-// Project: https://github.com/smooth-code/xstyled
-// Definitions by: Joseph Thomas <https://github.com/good-idea>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 3.0
-
 import { SystemProps } from "@xstyled/system";
 import * as React from "react";
 import _styled, {

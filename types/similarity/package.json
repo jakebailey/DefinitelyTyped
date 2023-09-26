@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/similarity",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/words/similarity"
+    ],
+    "devDependencies": {
+        "@types/similarity": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Christian Murphy",
+            "githubUsername": "ChristianMurphy"
+        }
+    ]
+}

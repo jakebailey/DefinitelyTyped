@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/json-patch-gen",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/gregsexton/json-patch-gen"
+    ],
+    "devDependencies": {
+        "@types/json-patch-gen": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Konstantin Rohde",
+            "githubUsername": "RohdeK"
+        }
+    ]
+}

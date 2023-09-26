@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/beats",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/hughsk/beats/"
+    ],
+    "devDependencies": {
+        "@types/beats": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Uri Shaked",
+            "githubUsername": "urish"
+        }
+    ]
+}

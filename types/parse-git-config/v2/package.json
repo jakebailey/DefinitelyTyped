@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/parse-git-config",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/parse-git-config"
+    ],
+    "devDependencies": {
+        "@types/parse-git-config": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Leonard Thieu",
+            "githubUsername": "leonard-thieu"
+        },
+        {
+            "name": "Nikita Litvin",
+            "githubUsername": "deltaidea"
+        }
+    ]
+}

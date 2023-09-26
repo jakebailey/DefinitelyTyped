@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dottie",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/mickhansen/dottie.js"
+    ],
+    "devDependencies": {
+        "@types/dottie": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dom Armstrong",
+            "githubUsername": "domarmstrong"
+        }
+    ]
+}

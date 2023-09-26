@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/elm",
+    "version": "0.19.99999",
+    "projects": [
+        "http://elm-lang.org"
+    ],
+    "devDependencies": {
+        "@types/elm": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dénes Harmath",
+            "githubUsername": "thSoft"
+        },
+        {
+            "name": "Renan Vaz ",
+            "githubUsername": "renanpvaz"
+        }
+    ]
+}

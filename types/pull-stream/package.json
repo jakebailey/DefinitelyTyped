@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/pull-stream",
+    "version": "3.6.99999",
+    "projects": [
+        "https://pull-stream.github.io"
+    ],
+    "devDependencies": {
+        "@types/pull-stream": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rong Shen",
+            "githubUsername": "jacobbubu"
+        }
+    ]
+}

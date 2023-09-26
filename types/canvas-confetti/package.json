@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/canvas-confetti",
+    "version": "1.6.99999",
+    "projects": [
+        "https://github.com/catdad/canvas-confetti#readme"
+    ],
+    "devDependencies": {
+        "@types/canvas-confetti": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Martin Tracey",
+            "githubUsername": "matracey"
+        },
+        {
+            "name": "Josh Batley",
+            "githubUsername": "joshbatley"
+        }
+    ]
+}

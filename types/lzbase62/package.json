@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/lzbase62",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/polygonplanet/lzbase62"
+    ],
+    "devDependencies": {
+        "@types/lzbase62": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "ArthurKa",
+            "githubUsername": "ArthurKa"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/peer-dial",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/fraunhoferfokus/peer-dial"
+    ],
+    "dependencies": {
+        "@types/express": "*",
+        "@types/node": "*",
+        "@types/node-uuid": "*"
+    },
+    "devDependencies": {
+        "@types/peer-dial": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "James Tooley",
+            "githubUsername": "RealTYPICAL"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/rivets",
+    "version": "0.9.99999",
+    "projects": [
+        "http://rivetsjs.com/",
+        "https://github.com/mikeric/rivets"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/rivets": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": " Trevor Baron",
+            "githubUsername": "TrevorDev"
+        },
+        {
+            "name": "Jakub Matjanowski",
+            "githubUsername": "matjanos"
+        }
+    ]
+}

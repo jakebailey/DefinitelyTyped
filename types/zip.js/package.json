@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/zip.js",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/gildas-lormeau/zip.js"
+    ],
+    "devDependencies": {
+        "@types/zip.js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Louis Grignon",
+            "githubUsername": "lgrignon"
+        }
+    ]
+}

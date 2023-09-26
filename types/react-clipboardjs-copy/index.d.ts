@@ -1,8 +1,3 @@
-// Type definitions for react-clipboardjs-copy 1.3
-// Project: https://freeshineit.github.io/react-clipboardjs-copy
-// Definitions by: DefinitelyTyped <https://github.com/DefinitelyTyped>
-// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-
 import * as React from 'react';
 
 export as namespace ReactClipboard;

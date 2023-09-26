@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/mapbox__maki",
+    "version": "7.2.99999",
+    "projects": [
+        "https://github.com/mapbox/maki"
+    ],
+    "devDependencies": {
+        "@types/mapbox__maki": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        },
+        {
+            "name": "Michael Bullington",
+            "githubUsername": "mbullington"
+        }
+    ]
+}

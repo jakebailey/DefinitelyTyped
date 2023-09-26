@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/base64-url",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/joaquimserafim/base64-url"
+    ],
+    "devDependencies": {
+        "@types/base64-url": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Uri Shaked",
+            "githubUsername": "urish"
+        }
+    ]
+}

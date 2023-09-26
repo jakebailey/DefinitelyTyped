@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/bootpag",
+    "version": "1.0.99999",
+    "projects": [
+        "http://botmonster.com/jquery-bootpag/"
+    ],
+    "dependencies": {
+        "@types/jquery": "*"
+    },
+    "devDependencies": {
+        "@types/bootpag": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "MAF.DAP / Romain Deneau",
+            "githubUsername": "rdeneau"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "name": "@types/subleveldown",
+    "version": "4.1.99999",
+    "projects": [
+        "https://github.com/level/subleveldown"
+    ],
+    "dependencies": {
+        "@types/abstract-leveldown": "*",
+        "@types/level-codec": "*",
+        "@types/levelup": "*"
+    },
+    "devDependencies": {
+        "@types/subleveldown": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Carson Farmer",
+            "githubUsername": "carsonfarmer"
+        },
+        {
+            "name": "Dmitry Demensky",
+            "githubUsername": "demensky"
+        }
+    ]
+}

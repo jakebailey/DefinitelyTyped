@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/fb-watchman",
+    "version": "2.0.99999",
+    "projects": [
+        "https://facebook.github.io/watchman/"
+    ],
+    "devDependencies": {
+        "@types/fb-watchman": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wu Haotian",
+            "githubUsername": "whtsky"
+        }
+    ]
+}

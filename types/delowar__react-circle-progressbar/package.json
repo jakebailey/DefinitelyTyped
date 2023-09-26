@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/delowar__react-circle-progressbar",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/delowardev/react-circle-progressbar"
+    ],
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/delowar__react-circle-progressbar": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Seungbin Oh",
+            "githubUsername": "sboh1214"
+        }
+    ]
+}

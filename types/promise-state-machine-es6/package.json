@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/promise-state-machine-es6",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/faleij/promise-state-machine"
+    ],
+    "devDependencies": {
+        "@types/promise-state-machine-es6": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dmitry Zakablukov",
+            "githubUsername": "dmitry-zakablukov"
+        }
+    ]
+}

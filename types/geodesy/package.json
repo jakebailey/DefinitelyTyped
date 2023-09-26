@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/geodesy",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/chrisveness/geodesy",
+        "http://www.movable-type.co.uk/scripts/geodesy-library.html"
+    ],
+    "devDependencies": {
+        "@types/geodesy": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": " Denis Carriere",
+            "githubUsername": "DenisCarriere"
+        },
+        {
+            "name": "Gilbert Handy",
+            "githubUsername": "HandyG52"
+        }
+    ]
+}

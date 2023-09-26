@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/globalize-compiler",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/globalizejs/globalize-compiler"
+    ],
+    "dependencies": {
+        "@types/estree": "*",
+        "@types/globalize": "*"
+    },
+    "devDependencies": {
+        "@types/globalize-compiler": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ian Clanton-Thuon",
+            "githubUsername": "iclanton"
+        }
+    ]
+}

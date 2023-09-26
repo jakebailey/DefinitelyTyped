@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/myanmar-phonenumber",
+    "version": "0.3.99999",
+    "projects": [
+        "https://github.com/kaungmyatlwin/myanmar-phonenumber-js#readme"
+    ],
+    "devDependencies": {
+        "@types/myanmar-phonenumber": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Htet Oo Wai Yan",
+            "githubUsername": "HtetOoWaiYan"
+        }
+    ]
+}

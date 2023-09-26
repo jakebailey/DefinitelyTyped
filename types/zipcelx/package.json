@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/zipcelx",
+    "version": "1.5.99999",
+    "projects": [
+        "https://github.com/dixieio/zipcelx#readme"
+    ],
+    "devDependencies": {
+        "@types/zipcelx": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alessandro Burato",
+            "githubUsername": "aleburato"
+        }
+    ]
+}

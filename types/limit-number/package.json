@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/limit-number",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/electerious/limit-number#readme"
+    ],
+    "devDependencies": {
+        "@types/limit-number": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rajas Paranjpe",
+            "githubUsername": "ChocolateLoverRaj"
+        }
+    ]
+}

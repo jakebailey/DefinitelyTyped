@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/boolify-string",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/sanemat/node-boolify-string"
+    ],
+    "devDependencies": {
+        "@types/boolify-string": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Tobias Henöckl",
+            "url": "http://www.sisyphus.de/"
+        }
+    ]
+}

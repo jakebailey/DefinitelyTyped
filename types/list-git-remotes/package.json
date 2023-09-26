@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/list-git-remotes",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/list-git-remotes"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/list-git-remotes": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

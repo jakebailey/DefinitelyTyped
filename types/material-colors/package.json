@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/material-colors",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/shuhei/material-colors"
+    ],
+    "devDependencies": {
+        "@types/material-colors": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Noah Overcash",
+            "githubUsername": "ncovercash"
+        }
+    ]
+}

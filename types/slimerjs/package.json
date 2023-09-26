@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/slimerjs",
+    "version": "0.10.99999",
+    "projects": [
+        "https://docs.slimerjs.org/current/index.html#api-reference",
+        "https://github.com/laurentj/slimerjs"
+    ],
+    "devDependencies": {
+        "@types/slimerjs": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Alex Wall",
+            "githubUsername": "alexwall"
+        }
+    ]
+}

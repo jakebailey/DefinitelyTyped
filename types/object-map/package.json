@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/object-map",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/xixixao/object-map"
+    ],
+    "devDependencies": {
+        "@types/object-map": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Wolfgang Faust",
+            "githubUsername": "wolfgang42"
+        }
+    ]
+}

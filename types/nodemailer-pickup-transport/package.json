@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/nodemailer-pickup-transport",
+    "version": "0.1.99999",
+    "projects": [
+        "https://www.npmjs.com/package/nodemailer-pickup-transport"
+    ],
+    "dependencies": {
+        "@types/nodemailer": "^3"
+    },
+    "devDependencies": {
+        "@types/nodemailer-pickup-transport": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Peter Snider",
+            "githubUsername": "psnider"
+        }
+    ]
+}

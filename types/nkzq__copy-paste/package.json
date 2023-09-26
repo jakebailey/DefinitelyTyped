@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/nkzq__copy-paste",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/Nkzq/node-copy-paste"
+    ],
+    "devDependencies": {
+        "@types/nkzq__copy-paste": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sfilata",
+            "githubUsername": "sfilata"
+        }
+    ]
+}

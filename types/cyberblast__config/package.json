@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cyberblast__config",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/cyberblast/config"
+    ],
+    "devDependencies": {
+        "@types/cyberblast__config": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "cyberblast",
+            "githubUsername": "cyberblast"
+        }
+    ]
+}

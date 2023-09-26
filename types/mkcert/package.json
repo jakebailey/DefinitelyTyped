@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/mkcert",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/Subash/mkcert/"
+    ],
+    "devDependencies": {
+        "@types/mkcert": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sachin Arunkumar",
+            "githubUsername": "asachin96"
+        }
+    ]
+}

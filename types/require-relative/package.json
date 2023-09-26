@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/require-relative",
+    "version": "0.8.99999",
+    "projects": [
+        "https://github.com/kamicane/require-relative"
+    ],
+    "devDependencies": {
+        "@types/require-relative": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mattias Buelens",
+            "githubUsername": "MattiasBuelens"
+        }
+    ]
+}

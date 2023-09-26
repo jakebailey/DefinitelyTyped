@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/replace-ext",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/wearefractal/replace-ext"
+    ],
+    "devDependencies": {
+        "@types/replace-ext": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Deividas Bakanas",
+            "githubUsername": "DeividasBakanas"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

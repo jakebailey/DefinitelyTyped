@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "name": "@types/response-time",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/expressjs/response-time"
+    ],
+    "dependencies": {
+        "@types/express": "*",
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/response-time": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Uros Smolnik",
+            "githubUsername": "urossmolnik"
+        },
+        {
+            "name": "TonyYang",
+            "githubUsername": "TonyPythoneer"
+        },
+        {
+            "name": "Dan Manastireanu",
+            "githubUsername": "danmana"
+        }
+    ]
+}

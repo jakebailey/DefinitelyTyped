@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/preview-email",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/niftylettuce/preview-email"
+    ],
+    "dependencies": {
+        "@types/mailparser": "*",
+        "@types/node": "*",
+        "@types/nodemailer": "*"
+    },
+    "devDependencies": {
+        "@types/preview-email": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ]
+}

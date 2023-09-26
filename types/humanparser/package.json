@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/humanparser",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/chovy/humanparser"
+    ],
+    "devDependencies": {
+        "@types/humanparser": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Michał Podeszwa",
+            "githubUsername": "MichalPodeszwa"
+        }
+    ]
+}

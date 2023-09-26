@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/long-timeout",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/tellnes/long-timeout"
+    ],
+    "devDependencies": {
+        "@types/long-timeout": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matthias Kunnen",
+            "githubUsername": "MatthiasKunnen"
+        }
+    ]
+}

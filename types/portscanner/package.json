@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/portscanner",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/baalexander/node-portscanner"
+    ],
+    "devDependencies": {
+        "@types/portscanner": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Douglas Duteil",
+            "githubUsername": "douglasduteil"
+        }
+    ]
+}

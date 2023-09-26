@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "@types/web-animations-js",
+    "version": "2.2.99999",
+    "projects": [
+        "https://github.com/web-animations/web-animations-js",
+        "https://github.com/web-animations"
+    ],
+    "typeScriptVersion": "5.1",
+    "devDependencies": {
+        "@types/web-animations-js": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kristian Moerch",
+            "githubUsername": "kritollm"
+        }
+    ]
+}

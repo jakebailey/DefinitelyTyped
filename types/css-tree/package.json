@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/css-tree",
+    "version": "2.3.99999",
+    "projects": [
+        "https://github.com/csstree/csstree"
+    ],
+    "devDependencies": {
+        "@types/css-tree": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Erik Källén",
+            "githubUsername": "erik-kallen"
+        },
+        {
+            "name": "Jason Kratzer",
+            "githubUsername": "pyoor"
+        }
+    ]
+}

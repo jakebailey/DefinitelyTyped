@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/loglinecolor",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/vixerys/loglinecolor"
+    ],
+    "devDependencies": {
+        "@types/loglinecolor": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Muunatic",
+            "githubUsername": "Muunatic"
+        },
+        {
+            "name": "Harunami",
+            "githubUsername": "HarunamiYaki"
+        }
+    ]
+}

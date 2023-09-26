@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/rbush",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/mourner/rbush"
+    ],
+    "devDependencies": {
+        "@types/rbush": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Dan Vanderkam",
+            "url": "http://danvk.org/"
+        }
+    ]
+}

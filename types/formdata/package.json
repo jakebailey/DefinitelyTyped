@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/formdata",
+    "version": "0.10.99999",
+    "projects": [
+        "https://github.com/node-file-api/FormData"
+    ],
+    "devDependencies": {
+        "@types/formdata": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ciarán Ingle",
+            "githubUsername": "inglec-arista"
+        }
+    ]
+}

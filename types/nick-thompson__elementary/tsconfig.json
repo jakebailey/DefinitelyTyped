@@ -1,27 +1,18 @@
 {
     "compilerOptions": {
-        "module"                          : "commonjs",
-        "lib"                             : [
+        "module": "commonjs",
+        "lib": [
             "es6"
         ],
-        "noImplicitAny"                   : true,
-        "noImplicitThis"                  : true,
-        "strictFunctionTypes"             : true,
-        "strictNullChecks"                : true,
-        "baseUrl"                         : "../",
-        "typeRoots"                       : [
-            "../"
-        ],
-        "paths"                           : {
-            "@nick-thompson/*": [
-                "nick-thompson__*"
-            ]
-        },
-        "types"                           : [ ],
-        "noEmit"                          : true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
+        "types": [],
+        "noEmit": true,
         "forceConsistentCasingInFileNames": true
     },
-    "files"          : [
+    "files": [
         "index.d.ts",
         "nick-thompson__elementary-tests.ts"
     ]

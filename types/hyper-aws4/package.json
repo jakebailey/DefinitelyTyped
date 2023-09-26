@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hyper-aws4",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/Tim-Zhang/hyper-aws4#readme"
+    ],
+    "devDependencies": {
+        "@types/hyper-aws4": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BamButz",
+            "githubUsername": "bambutz"
+        }
+    ]
+}

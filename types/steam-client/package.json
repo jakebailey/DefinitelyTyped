@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/steam-client",
+    "version": "2.5.99999",
+    "projects": [
+        "https://github.com/DoctorMcKay/node-steam-client"
+    ],
+    "dependencies": {
+        "@types/bytebuffer": "*",
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/steam-client": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Edward Sammut Alessi",
+            "githubUsername": "Slessi"
+        }
+    ]
+}

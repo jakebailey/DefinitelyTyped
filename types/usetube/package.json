@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/usetube",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/valerebron/usetube"
+    ],
+    "devDependencies": {
+        "@types/usetube": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ezell Frazier",
+            "githubUsername": "lynellf"
+        }
+    ]
+}

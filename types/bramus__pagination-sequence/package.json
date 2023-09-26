@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bramus__pagination-sequence",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/bramus/js-pagination-sequence#readme"
+    ],
+    "devDependencies": {
+        "@types/bramus__pagination-sequence": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Kristján Jökull Sigurðsson",
+            "githubUsername": "kristjanjokull"
+        }
+    ]
+}

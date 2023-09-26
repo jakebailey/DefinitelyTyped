@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/color",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/qix-/color#readme"
+    ],
+    "dependencies": {
+        "@types/color-convert": "*"
+    },
+    "devDependencies": {
+        "@types/color": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Junyoung Clare Jang",
+            "githubUsername": "Airlun"
+        }
+    ]
+}

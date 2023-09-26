@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "@types/karma-sinon-chai",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/kmees/karma-sinon-chai"
+    ],
+    "dependencies": {
+        "@types/chai": "*",
+        "@types/karma": "*",
+        "@types/sinon": "*",
+        "@types/sinon-chai": "*"
+    },
+    "devDependencies": {
+        "@types/karma-sinon-chai": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Shenghao Lei",
+            "githubUsername": "SevenOutman"
+        }
+    ]
+}

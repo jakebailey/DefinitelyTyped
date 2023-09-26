@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/jquery-galleria",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/aino/galleria"
+    ],
+    "devDependencies": {
+        "@types/jquery-galleria": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Robert Imig",
+            "githubUsername": "rimig"
+        }
+    ]
+}

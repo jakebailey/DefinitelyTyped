@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/expectations",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/spmason/expectations"
+    ],
+    "devDependencies": {
+        "@types/expectations": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "vvakame",
+            "githubUsername": "vvakame"
+        }
+    ]
+}

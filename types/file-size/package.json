@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/file-size",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/Nijikokun/file-size"
+    ],
+    "devDependencies": {
+        "@types/file-size": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Richie Bendall",
+            "githubUsername": "Richienb"
+        }
+    ]
+}

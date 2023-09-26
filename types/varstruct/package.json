@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/varstruct",
+    "version": "6.1.99999",
+    "projects": [
+        "https://github.com/varstruct/varstruct"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/varint": "*",
+        "@types/varstruct": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

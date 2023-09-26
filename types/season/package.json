@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/season",
+    "version": "6.0.99999",
+    "projects": [
+        "http://atom.github.io/season"
+    ],
+    "devDependencies": {
+        "@types/season": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Piotr Roszatycki",
+            "githubUsername": "dex4er"
+        }
+    ]
+}

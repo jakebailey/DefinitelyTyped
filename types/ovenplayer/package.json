@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/ovenplayer",
+    "version": "0.10.99999",
+    "projects": [
+        "https://github.com/airensoft/OvenPlayer"
+    ],
+    "devDependencies": {
+        "@types/ovenplayer": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Sangwon Oh",
+            "githubUsername": "SangwonOh"
+        },
+        {
+            "name": "Dygy",
+            "githubUsername": "dygy"
+        }
+    ]
+}

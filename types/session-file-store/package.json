@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "@types/session-file-store",
+    "version": "1.2.99999",
+    "projects": [
+        "https://github.com/valery-barysok/session-file-store"
+    ],
+    "dependencies": {
+        "@types/express": "*",
+        "@types/express-session": "*"
+    },
+    "devDependencies": {
+        "@types/session-file-store": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Gevik Babakhani",
+            "githubUsername": "blendsdk"
+        },
+        {
+            "name": "Junyoung Choi",
+            "githubUsername": "rokt33r"
+        }
+    ]
+}

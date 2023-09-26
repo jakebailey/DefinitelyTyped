@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/settings",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/mgutz/node-settings"
+    ],
+    "devDependencies": {
+        "@types/settings": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Shrey Jain",
+            "githubUsername": "shreyjain1994"
+        }
+    ]
+}

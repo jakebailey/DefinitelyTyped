@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/user-home",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/sindresorhus/user-home"
+    ],
+    "devDependencies": {
+        "@types/user-home": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mohamed Hegazy",
+            "githubUsername": "mhegazy"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/simple-lru",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/smagch/simple-lru"
+    ],
+    "devDependencies": {
+        "@types/simple-lru": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "NN",
+            "githubUsername": "NN---"
+        }
+    ]
+}

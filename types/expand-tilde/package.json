@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/expand-tilde",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/jonschlinkert/expand-tilde"
+    ],
+    "devDependencies": {
+        "@types/expand-tilde": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Chris Arnesen",
+            "githubUsername": "carnesen"
+        }
+    ]
+}

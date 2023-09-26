@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/canvas-gauges",
+    "version": "2.1.99999",
+    "projects": [
+        "https://github.com/Mikhus/canvas-gauges"
+    ],
+    "devDependencies": {
+        "@types/canvas-gauges": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Mikhus",
+            "githubUsername": "Mikhus"
+        }
+    ]
+}

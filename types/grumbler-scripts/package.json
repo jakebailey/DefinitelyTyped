@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/grumbler-scripts",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/krakenjs/grumbler-scripts"
+    ],
+    "devDependencies": {
+        "@types/grumbler-scripts": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "German Ruiz",
+            "githubUsername": "gruiz90"
+        }
+    ]
+}

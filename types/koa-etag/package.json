@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/koa-etag",
+    "version": "3.0.99999",
+    "projects": [
+        "https://github.com/koajs/etag#readme"
+    ],
+    "dependencies": {
+        "@types/etag": "*",
+        "@types/koa": "*"
+    },
+    "devDependencies": {
+        "@types/koa-etag": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Matthew Bull",
+            "githubUsername": "wingsbob"
+        }
+    ]
+}

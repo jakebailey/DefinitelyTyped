@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/flagged-respawn",
+    "version": "1.0.99999",
+    "projects": [
+        "https://github.com/gulpjs/flagged-respawn"
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "devDependencies": {
+        "@types/flagged-respawn": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/next-nprogress",
+    "version": "1.4.99999",
+    "projects": [
+        "https://github.com/sergiodxa/next-nprogress#readme"
+    ],
+    "dependencies": {
+        "@types/nprogress": "*",
+        "@types/react": "*"
+    },
+    "devDependencies": {
+        "@types/next-nprogress": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ovyerus",
+            "githubUsername": "Ovyerus"
+        }
+    ]
+}

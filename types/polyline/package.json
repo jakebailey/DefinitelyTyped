@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/polyline",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/mapbox/polyline"
+    ],
+    "dependencies": {
+        "@types/geojson": "*"
+    },
+    "devDependencies": {
+        "@types/polyline": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Arseniy Maximov",
+            "githubUsername": "Kern0"
+        }
+    ]
+}

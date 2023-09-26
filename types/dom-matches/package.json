@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dom-matches",
+    "version": "2.0.99999",
+    "projects": [
+        "https://github.com/necolas/dom-matches"
+    ],
+    "devDependencies": {
+        "@types/dom-matches": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Avi Vahl",
+            "githubUsername": "AviVahl"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/vortex-web-client",
+    "version": "1.2.99999",
+    "projects": [
+        "http://www.prismtech.com/vortex/vortex-web"
+    ],
+    "devDependencies": {
+        "@types/vortex-web-client": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Stefan Profanter",
+            "githubUsername": "Pro"
+        }
+    ]
+}

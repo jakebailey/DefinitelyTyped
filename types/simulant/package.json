@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/simulant",
+    "version": "0.2.99999",
+    "projects": [
+        "https://github.com/Rich-Harris/simulant#readme"
+    ],
+    "devDependencies": {
+        "@types/simulant": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Elizabeth Craig",
+            "githubUsername": "ecraig12345"
+        }
+    ]
+}

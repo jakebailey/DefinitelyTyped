@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/dynamodb-localhost",
+    "version": "0.0.99999",
+    "projects": [
+        "https://github.com/99xt/dynamodb-localhost"
+    ],
+    "devDependencies": {
+        "@types/dynamodb-localhost": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Adam Jones",
+            "githubUsername": "domdomegg"
+        }
+    ]
+}

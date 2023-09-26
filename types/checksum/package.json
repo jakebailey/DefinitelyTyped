@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/checksum",
+    "version": "0.1.99999",
+    "projects": [
+        "https://github.com/dshaw/checksum"
+    ],
+    "devDependencies": {
+        "@types/checksum": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Rogier Schouten",
+            "githubUsername": "rogierschouten"
+        }
+    ]
+}

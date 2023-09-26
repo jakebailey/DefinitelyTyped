@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/stylenames",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/kmathmann/stylenames"
+    ],
+    "devDependencies": {
+        "@types/stylenames": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Ben Grynhaus",
+            "githubUsername": "bengry"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/polylabel",
+    "version": "1.1.99999",
+    "projects": [
+        "https://github.com/mapbox/polylabel"
+    ],
+    "devDependencies": {
+        "@types/polylabel": "workspace:."
+    },
+    "contributors": [
+        {
+            "name": "Denis Carriere",
+            "githubUsername": "DenisCarriere"
+        }
+    ]
+}
