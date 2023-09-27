@@ -6,6 +6,7 @@
         "https://github.com/googleapis/nodejs-tasks"
     ],
     "dependencies": {
+        "@types/duplexify": "^3.5.0",
         "@types/node": "*",
         "google-gax": "^0.22.1"
     },
