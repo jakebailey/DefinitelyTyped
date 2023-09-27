@@ -1,4 +1,5 @@
 /// <reference types="node" />
+/// <reference types="duplexify" />
 
 import { CallOptions, GoogleAuth, GoogleAuthOptions, GoogleError } from "google-gax";
 import { Transform } from "stream";
