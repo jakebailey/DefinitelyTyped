@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 export = sortObjectByKeyNameList;
 
 declare function sortObjectByKeyNameList<T>(

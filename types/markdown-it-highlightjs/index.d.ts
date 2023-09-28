@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 import hljs = require('highlight.js');
 import { PluginWithOptions } from 'markdown-it';
 

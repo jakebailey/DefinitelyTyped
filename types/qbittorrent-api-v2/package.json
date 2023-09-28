@@ -5,6 +5,9 @@
     "projects": [
         "https://github.com/TheFlow95/node-qbittorrent-api-v2#readme"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/node": "*",
         "@types/qbittorrent-api-v2": "workspace:."

@@ -6,6 +6,7 @@
         "https://github.com/rochdev/datadog-tracer-js#readme"
     ],
     "dependencies": {
+        "@types/node": "*",
         "opentracing": "^0.14.1"
     },
     "devDependencies": {

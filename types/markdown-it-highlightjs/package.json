@@ -7,6 +7,7 @@
     ],
     "dependencies": {
         "@types/markdown-it": "*",
+        "@types/node": "*",
         "highlight.js": "^10.1.0"
     },
     "devDependencies": {

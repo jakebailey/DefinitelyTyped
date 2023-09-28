@@ -7,6 +7,7 @@
     ],
     "dependencies": {
         "@types/empower-core": "*",
+        "@types/node": "*",
         "@types/power-assert-formatter": "*"
     },
     "devDependencies": {

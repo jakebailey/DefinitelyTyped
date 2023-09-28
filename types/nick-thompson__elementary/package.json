@@ -5,6 +5,9 @@
     "projects": [
         "https://www.elementary.audio/"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/nick-thompson__elementary": "workspace:."
     },

@@ -5,6 +5,9 @@
     "projects": [
         "https://github.com/nodeca/pako"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/node": "*",
         "@types/pako": "workspace:."
