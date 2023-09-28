@@ -5,6 +5,9 @@
     "projects": [
         "https://github.com/matrix-org/matrix-js-sdk"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/matrix-js-sdk": "workspace:."
     },

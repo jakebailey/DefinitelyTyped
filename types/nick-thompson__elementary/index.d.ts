@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 import * as _el from "./src";
 
 /**

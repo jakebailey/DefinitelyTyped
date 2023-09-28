@@ -5,6 +5,9 @@
     "projects": [
         "https://github.com/erikras/multireducer"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/multireducer": "workspace:.",
         "@types/node": "*"

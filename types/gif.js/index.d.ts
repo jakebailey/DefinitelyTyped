@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 import { EventEmitter } from "events";
 
 export as namespace GIF;

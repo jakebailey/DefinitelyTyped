@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 import { Boom } from "@hapi/boom";
 import {
     Lifecycle,

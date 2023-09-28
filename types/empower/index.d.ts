@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 import { Options as CoreOptions } from "empower-core";
 import { Formatter } from "power-assert-formatter";
 

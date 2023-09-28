@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 import implementation = require("./implementation");
 import getPolyfill = require("./polyfill");
 import shim = require("./shim");

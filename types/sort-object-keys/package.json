@@ -5,6 +5,9 @@
     "projects": [
         "https://github.com/keithamus/sort-object-keys#readme"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/node": "*",
         "@types/sort-object-keys": "workspace:."

@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 // IP Validation
 /**
  * Checks if an IP address is valid. Same as isIP.

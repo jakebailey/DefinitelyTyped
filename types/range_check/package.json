@@ -5,6 +5,9 @@
     "projects": [
         "https://github.com/keverw/range_check#readme"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/node": "*",
         "@types/range_check": "workspace:."

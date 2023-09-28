@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 /**
  * Login to qBittorrent
  * @async

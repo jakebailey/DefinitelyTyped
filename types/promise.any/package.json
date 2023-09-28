@@ -5,6 +5,9 @@
     "projects": [
         "https://github.com/es-shims/Promise.any#readme"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/node": "*",
         "@types/promise.any": "workspace:."
