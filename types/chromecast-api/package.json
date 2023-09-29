@@ -5,6 +5,9 @@
     "projects": [
         "https://github.com/alxhotel/chromecast-api"
     ],
+    "dependencies": {
+        "@types/node": "*"
+    },
     "devDependencies": {
         "@types/chromecast-api": "workspace:."
     },
