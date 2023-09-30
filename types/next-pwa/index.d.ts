@@ -23,6 +23,11 @@ declare global {
         prototype: PopStateEvent;
         new(type: string, eventInitDict?: PopStateEventInit): PopStateEvent;
     };
+
+    interface Location {
+        readonly origin: string;
+        search: string;
+    }
 }
 
 /**
