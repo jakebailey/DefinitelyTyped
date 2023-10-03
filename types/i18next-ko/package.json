@@ -17,5 +17,6 @@
             "name": "Daniel Waxweiler",
             "githubUsername": "dwaxweiler"
         }
-    ]
+    ],
+    "typeScriptVersion": "5.0"
 }
