@@ -16,5 +16,6 @@
             "name": "Cyril Schumacher",
             "githubUsername": "cyrilschumacher"
         }
-    ]
+    ],
+    "typeScriptVersion": "5.0"
 }

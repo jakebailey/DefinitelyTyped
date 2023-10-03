@@ -20,5 +20,6 @@
             "name": "Silas Rech",
             "githubUsername": "lenovouser"
         }
-    ]
+    ],
+    "typeScriptVersion": "5.0"
 }
