@@ -20,5 +20,6 @@
             "name": "Sascha Zarhuber",
             "githubUsername": "saschazar21"
         }
-    ]
+    ],
+    "typeScriptVersion": "4.9"
 }
