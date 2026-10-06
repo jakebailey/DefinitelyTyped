@@ -792,6 +792,10 @@
             "libraryName": "chownr",
             "asOfVersion": "3.0.0"
         },
+        "chrome-webstore-upload": {
+            "libraryName": "chrome-webstore-upload",
+            "asOfVersion": "3.1.1"
+        },
         "chunked-dc": {
             "libraryName": "chunked-dc",
             "asOfVersion": "0.2.2"
@@ -1965,6 +1969,10 @@
             "libraryName": "empty-trash",
             "asOfVersion": "3.0.0"
         },
+        "encoding-japanese": {
+            "libraryName": "encoding-japanese",
+            "asOfVersion": "2.4.0"
+        },
         "engine.io-client": {
             "libraryName": "engine.io-client",
             "asOfVersion": "6.0.0"
@@ -2036,6 +2044,10 @@
         "escape-string-regexp": {
             "libraryName": "escape-string-regexp",
             "asOfVersion": "2.0.0"
+        },
+        "eslint-plugin-mobx": {
+            "libraryName": "eslint-plugin-mobx",
+            "asOfVersion": "0.1.0"
         },
         "eslint-plugin-mocha": {
             "libraryName": "eslint-plugin-mocha",
@@ -2648,6 +2660,10 @@
         "get-urls": {
             "libraryName": "get-urls",
             "asOfVersion": "9.1.0"
+        },
+        "get-value": {
+            "libraryName": "get-value",
+            "asOfVersion": "4.0.1"
         },
         "getopts": {
             "libraryName": "getopts",
@@ -3364,6 +3380,10 @@
         "is-generator-function": {
             "libraryName": "is-generator-function",
             "asOfVersion": "1.1.0"
+        },
+        "is-html": {
+            "libraryName": "is-html",
+            "asOfVersion": "3.1.0"
         },
         "is-image": {
             "libraryName": "is-image",
@@ -7963,6 +7983,10 @@
             "libraryName": "@trimblemaps/trimblemaps-js",
             "asOfVersion": "3.2.0"
         },
+        "truncate-middle": {
+            "libraryName": "truncate-middle",
+            "asOfVersion": "2.0.0"
+        },
         "ts3-nodejs-library": {
             "libraryName": "ts3-nodejs-library",
             "asOfVersion": "2.0.0"
@@ -8226,6 +8250,10 @@
         "viewport-mercator-project": {
             "libraryName": "viewport-mercator-project",
             "asOfVersion": "7.0.2"
+        },
+        "vimeo__player": {
+            "libraryName": "@vimeo/player",
+            "asOfVersion": "2.29.4"
         },
         "vinyl-file": {
             "libraryName": "vinyl-file",

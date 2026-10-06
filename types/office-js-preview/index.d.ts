@@ -11194,7 +11194,7 @@ declare namespace Office {
          * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          */
         sensitivityLabel: SensitivityLabel;
         /**
@@ -16586,7 +16586,7 @@ declare namespace Office {
          * - Only the `getAsync` method of the SensitivityLabel object is supported.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          */
         sensitivityLabel: SensitivityLabel;
         /**
@@ -20040,7 +20040,7 @@ declare namespace Office {
          * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          */
         sensitivityLabel: SensitivityLabel;
         /**
@@ -24645,7 +24645,7 @@ declare namespace Office {
      * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
      *
      * To learn more about how to manage sensitivity labels in your add-in, see
-     * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+     * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
      */
     interface SensitivityLabel {
         /**
@@ -24661,7 +24661,7 @@ declare namespace Office {
          * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          *
          * @param options - An object literal that contains one or more of the following properties:-
          *        `asyncContext`: Developers can provide any object they wish to access in the callback function.
@@ -24683,7 +24683,7 @@ declare namespace Office {
          * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          *
          * @param callback - When the method completes, the function passed in the `callback` parameter is called with a single parameter, `asyncResult`,
          *                 which is an `Office.AsyncResult` object. The sensitivity label's GUID is returned in the
@@ -24710,7 +24710,7 @@ declare namespace Office {
          * **Tip**: To determine the sensitivity labels available for use, call the `Office.context.sensitivityLabelsCatalog.getAsync` method.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          * 
          * @param sensitivityLabel - The sensitivity label to be applied to the message or appointment being composed. The parameter value can be a sensitivity label's
          *                         unique identifier (GUID) or a {@link Office.SensitivityLabelDetails | SensitivityLabelDetails} object.
@@ -24740,7 +24740,7 @@ declare namespace Office {
          * **Tip**: To determine the sensitivity labels available for use, call the `Office.context.sensitivityLabelsCatalog.getAsync` method.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          * 
          * @param sensitivityLabel - The sensitivity label to be applied to the message or appointment being composed. The parameter value can be a sensitivity label's
          *                         unique identifier (GUID) or a {@link Office.SensitivityLabelDetails | SensitivityLabelDetails} object.
@@ -24759,7 +24759,7 @@ declare namespace Office {
      * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
      *
      * To learn more about how to manage sensitivity labels in your add-in, see
-     * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+     * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
      */
     export interface SensitivityLabelChangedEventArgs {
         /**
@@ -24783,7 +24783,7 @@ declare namespace Office {
      * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
      *
      * To learn more about how to manage sensitivity labels in your add-in, see
-     * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+     * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
      */
     interface SensitivityLabelDetails {
         /**
@@ -24822,7 +24822,7 @@ declare namespace Office {
      * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
      *
      * To learn more about how to manage sensitivity labels in your add-in, see
-     * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+     * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
      */
     export interface SensitivityLabelsCatalog {
         /**
@@ -24840,7 +24840,7 @@ declare namespace Office {
          * **Recommended**: To determine whether the catalog of sensitivity labels is enabled in Outlook, call `getIsEnabledAsync` before using `getAsync`.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          *
          * @param options - An object literal that contains one or more of the following properties:-
          *        `asyncContext`: Developers can provide any object they wish to access in the callback function.
@@ -24864,7 +24864,7 @@ declare namespace Office {
          * **Recommended**: To determine whether the catalog of sensitivity labels is enabled in Outlook, call `getIsEnabledAsync` before using `getAsync`.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          * 
          * @param callback - When the method completes, the function passed in the `callback` parameter is called with a single parameter, `asyncResult`,
          *                 which is an `Office.AsyncResult` object. The available sensitivity labels and their properties are returned in the
@@ -24887,7 +24887,7 @@ declare namespace Office {
          * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          *
          * @param options - An object literal that contains one or more of the following properties:-
          *        `asyncContext`: Developers can provide any object they wish to access in the callback function.
@@ -24911,7 +24911,7 @@ declare namespace Office {
          * **Important**: To use the sensitivity label feature in your add-in, you must have a Microsoft 365 E5 subscription.
          *
          * To learn more about how to manage sensitivity labels in your add-in, see
-         * {@link https://learn.microsoft.com/office/dev/add-ins/outlook/sensitivity-label | Manage the sensitivity label of your message or appointment in compose mode}.
+         * {@link https://learn.microsoft.com/office/dev/add-ins/develop/sensitivity-label | Manage sensitivity labels in Office Add-ins}.
          *
          * @param callback - When the method completes, the function passed in the `callback` parameter is called with a single parameter, `asyncResult`,
          *                 which is an `Office.AsyncResult` object. The status of the catalog of sensitivity labels is returned in the `asyncResult.value` property.
@@ -27202,6 +27202,14 @@ declare namespace Excel {
          * [Api set: ExcelApi 1.16]
          */
         errorSubType?: BusyErrorCellValueSubType | "Unknown" | "ExternalLinksGeneric" | "LoadingImage" | "PlaceholderInFormula";
+        /**
+         * Optionally, a #BUSY! error may store the previous value stored in the cell, before the current transient operation began.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        previousValue?: CellValue;
     }
     /**
      * Represents types of #CALC! errors.
@@ -32052,6 +32060,14 @@ declare namespace Excel {
          * @beta
          */
         errorType?: ErrorCellValueType.python | "Python";
+        /**
+         * Indicates that this `#PYTHON!` error originated from the workbook's initialization Python code (rather than from a worksheet cell formula).
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        duringInitialization?: boolean;
     }
     /**
      * Represents types of #CONNECT! errors.
@@ -35800,6 +35816,30 @@ declare namespace Excel {
         /** The request context associated with the object. This connects the add-in's process to the Office host application's process. */
         context: RequestContext;
         /**
+         * Gets the ABAC (attribute-based access control) attribute values associated with this label.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly abacAttributeValues: SensitivityLabelAbacAttributeValue[];
+        /**
+         * Gets a value indicating whether ABAC (attribute-based access control) attributes are required for this label.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly isAbacAttributesRequired: boolean;
+        /**
+         * Gets a value indicating whether ABAC (attribute-based access control) is enabled for this label.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly isAbacEnabled: boolean;
+        /**
          * Gets the sublabels of the sensitivity label. Returns `null` if a label doesn't have any sublabels.
          *
          * @remarks
@@ -35983,6 +36023,50 @@ declare namespace Excel {
         userDefined = "UserDefined"
     }
     /**
+     * Represents the data type of an attribute-based access control (ABAC) attribute.
+     *
+     * @remarks
+     * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+     * @beta
+     */
+    enum SensitivityLabelAbacAttributeDataType {
+        /**
+         * The data type is unknown or not mapped.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        unknown = "Unknown",
+        /**
+         * The attribute value is a string.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        stringValue = "StringValue",
+        /**
+         * The attribute value is a boolean.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        booleanValue = "BooleanValue",
+        /**
+         * The attribute value is a number.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        numberValue = "NumberValue",
+        /**
+         * The attribute value is a date.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        dateValue = "DateValue"
+    }
+    /**
      * Represents the result of updating the sensitivity label on the workbook.
      *
      * @remarks
@@ -36066,7 +36150,28 @@ declare namespace Excel {
          * [Api set: ExcelApi BETA (PREVIEW ONLY)]
          * @beta
          */
-        crossTenant = "CrossTenant"
+        crossTenant = "CrossTenant",
+        /**
+         * The label update failed because ABAC (attribute-based access control) is not supported.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        unsupportedAbac = "UnsupportedAbac",
+        /**
+         * The label update failed because required ABAC (attribute-based access control) attributes are missing.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        abacAttributesRequired = "AbacAttributesRequired",
+        /**
+         * The label update failed because removing the label is not supported.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        removingLabelNotSupported = "RemovingLabelNotSupported"
     }
     /**
      * Provides methods to check the status of the catalog of sensitivity labels in Excel and retrieve all available sensitivity labels if the catalog is enabled.
@@ -36086,6 +36191,15 @@ declare namespace Excel {
          * @beta
          */
         readonly getLabelingCapability: Excel.LabelingCapability | "NoLicense" | "LabelingDisabled" | "LabelingPolicyNotFound" | "LabelingEnabled";
+        /**
+         * Gets the ABAC (attribute-based access control) attributes that are available to the current user.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         * @returns An array of `SensitivityLabelAbacAttribute` objects.
+         */
+        getAttributes(): OfficeExtension.ClientResult<SensitivityLabelAbacAttribute[]>;
         /**
          * Gets sensitivity labels that are available to the current user.
          *
@@ -36192,6 +36306,160 @@ declare namespace Excel {
         toJSON(): {
             [key: string]: string;
         };
+    }
+    /**
+     * Represents a single value of an ABAC (attribute-based access control) attribute.
+     *
+     * @remarks
+     * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+     * @beta
+     */
+    class SensitivityLabelAbacAttributeValue extends OfficeExtension.ClientObject {
+        /** The request context associated with the object. This connects the add-in's process to the Office host application's process. */
+        context: RequestContext;
+        /**
+         * Gets the display name of the attribute value.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly displayName: string;
+        /**
+         * Gets the display order of the attribute value.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly displayOrder: number;
+        /**
+         * Gets the unique identifier of the attribute value.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly id: string;
+        /**
+         * Gets a value indicating whether the attribute value is active.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly isActive: boolean;
+        /**
+         * Queues up a command to load the specified properties of the object. You must call `context.sync()` before reading the properties.
+         *
+         * @param options Provides options for which properties of the object to load.
+         */
+        load(options?: Excel.Interfaces.SensitivityLabelAbacAttributeValueLoadOptions): Excel.SensitivityLabelAbacAttributeValue;
+        /**
+         * Queues up a command to load the specified properties of the object. You must call `context.sync()` before reading the properties.
+         *
+         * @param propertyNames A comma-delimited string or an array of strings that specify the properties to load.
+         */
+        load(propertyNames?: string | string[]): Excel.SensitivityLabelAbacAttributeValue;
+        /**
+         * Queues up a command to load the specified properties of the object. You must call `context.sync()` before reading the properties.
+         *
+         * @param propertyNamesAndPaths `propertyNamesAndPaths.select` is a comma-delimited string that specifies the properties to load, and `propertyNamesAndPaths.expand` is a comma-delimited string that specifies the navigation properties to load.
+         */
+        load(propertyNamesAndPaths?: {
+            select?: string;
+            expand?: string;
+        }): Excel.SensitivityLabelAbacAttributeValue;
+        /**
+        * Overrides the JavaScript `toJSON()` method in order to provide more useful output when an API object is passed to `JSON.stringify()`. (`JSON.stringify`, in turn, calls the `toJSON` method of the object that's passed to it.)
+        * Whereas the original `Excel.SensitivityLabelAbacAttributeValue` object is an API object, the `toJSON` method returns a plain JavaScript object (typed as `Excel.Interfaces.SensitivityLabelAbacAttributeValueData`) that contains shallow copies of any loaded child properties from the original object.
+        */
+        toJSON(): Excel.Interfaces.SensitivityLabelAbacAttributeValueData;
+    }
+    /**
+     * Represents an ABAC (attribute-based access control) attribute.
+     *
+     * @remarks
+     * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+     * @beta
+     */
+    class SensitivityLabelAbacAttribute extends OfficeExtension.ClientObject {
+        /** The request context associated with the object. This connects the add-in's process to the Office host application's process. */
+        context: RequestContext;
+        /**
+         * Gets the data type of the attribute.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly dataType: Excel.SensitivityLabelAbacAttributeDataType | "Unknown" | "StringValue" | "BooleanValue" | "NumberValue" | "DateValue";
+        /**
+         * Gets the display name of the attribute.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly displayName: string;
+        /**
+         * Gets the display order of the attribute.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly displayOrder: number;
+        /**
+         * Gets a value indicating whether the attribute is active.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly isActive: boolean;
+        /**
+         * Gets a value indicating whether the attribute supports multiple values.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly isMultiValued: boolean;
+        /**
+         * Gets the values of the attribute.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        readonly values: SensitivityLabelAbacAttributeValue[];
+        /**
+         * Queues up a command to load the specified properties of the object. You must call `context.sync()` before reading the properties.
+         *
+         * @param options Provides options for which properties of the object to load.
+         */
+        load(options?: Excel.Interfaces.SensitivityLabelAbacAttributeLoadOptions): Excel.SensitivityLabelAbacAttribute;
+        /**
+         * Queues up a command to load the specified properties of the object. You must call `context.sync()` before reading the properties.
+         *
+         * @param propertyNames A comma-delimited string or an array of strings that specify the properties to load.
+         */
+        load(propertyNames?: string | string[]): Excel.SensitivityLabelAbacAttribute;
+        /**
+         * Queues up a command to load the specified properties of the object. You must call `context.sync()` before reading the properties.
+         *
+         * @param propertyNamesAndPaths `propertyNamesAndPaths.select` is a comma-delimited string that specifies the properties to load, and `propertyNamesAndPaths.expand` is a comma-delimited string that specifies the navigation properties to load.
+         */
+        load(propertyNamesAndPaths?: {
+            select?: string;
+            expand?: string;
+        }): Excel.SensitivityLabelAbacAttribute;
+        /**
+        * Overrides the JavaScript `toJSON()` method in order to provide more useful output when an API object is passed to `JSON.stringify()`. (`JSON.stringify`, in turn, calls the `toJSON` method of the object that's passed to it.)
+        * Whereas the original `Excel.SensitivityLabelAbacAttribute` object is an API object, the `toJSON` method returns a plain JavaScript object (typed as `Excel.Interfaces.SensitivityLabelAbacAttributeData`) that contains shallow copies of any loaded child properties from the original object.
+        */
+        toJSON(): Excel.Interfaces.SensitivityLabelAbacAttributeData;
     }
     /**
      * Represents an `AllowEditRange` object found in a worksheet. This object works with worksheet protection properties.
@@ -67952,6 +68220,12 @@ declare namespace Excel {
          */
         linkedEntityDataDomainRefreshModeChanged = "LinkedEntityDataDomainRefreshModeChanged",
         /**
+         * LinkedEntityCellValueLoaded represents the type of event registered when the `LinkedEntityCellValue` object requested by `LoadLinkedEntityCellValue` method is loaded.
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         */
+        linkedEntityDataDomainLinkedEntityCellValueLoaded = "LinkedEntityDataDomainLinkedEntityCellValueLoaded",
+        /**
          * TableQueryRefreshCompleted represents the type of event registered when a table query refresh is completed.
          * @remarks
          * [Api set: ExcelApi BETA (PREVIEW ONLY)]
@@ -72711,7 +72985,7 @@ declare namespace Excel {
          *
          * @param dateText Is text that represents a date in a Microsoft Excel date format, between 1/1/1900 or 1/1/1904 (depending on the workbook's date system) and 12/31/9999.
          */
-        datevalue(dateText: string | Excel.Range | Excel.RangeReference | Excel.FunctionResult<any>): FunctionResult<number>;
+        datevalue(dateText: string | number | Excel.Range | Excel.RangeReference | Excel.FunctionResult<any>): FunctionResult<number>;
         /**
          * Returns the day of the month, a number from 1 to 31.
          *
@@ -75492,6 +75766,7 @@ declare namespace Excel {
         accessDenied = "AccessDenied",
         apiNotFound = "ApiNotFound",
         conflict = "Conflict",
+        dirtySupportingFormula = "DirtySupportingFormula",
         emptyChartSeries = "EmptyChartSeries",
         filteredRangeConflict = "FilteredRangeConflict",
         formulaLengthExceedsLimit = "FormulaLengthExceedsLimit",
@@ -75939,6 +76214,7 @@ declare namespace Excel {
             /**
              * Represents the raw values of the specified range. The data returned could be a string, number, or Boolean. Cells that contain an error will return the error string.
                         If the returned value starts with a plus ("+"), minus ("-"), or equal sign ("="), Excel interprets this value as a formula.
+                        Locale-shaped strings (such as the date "19-8-2025" in nl-NL or fr-FR, format DD-MM-YYYY) are stored as text instead of as dates. To ensure dates are stored as dates, use a locale-aware API like `formulasLocal` or use a locale-neutral format like ISO (YYYY-MM-DD) or a numeric date serial.
              *
              * @remarks
              * [Api set: ExcelApi 1.1]
@@ -81197,6 +81473,30 @@ declare namespace Excel {
         /** An interface describing the data returned by calling `sensitivityLabelDetails.toJSON()`. */
         interface SensitivityLabelDetailsData {
             /**
+             * Gets the ABAC (attribute-based access control) attribute values associated with this label.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            abacAttributeValues?: SensitivityLabelAbacAttributeValue[];
+            /**
+             * Gets a value indicating whether ABAC (attribute-based access control) attributes are required for this label.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isAbacAttributesRequired?: boolean;
+            /**
+             * Gets a value indicating whether ABAC (attribute-based access control) is enabled for this label.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isAbacEnabled?: boolean;
+            /**
              * Gets the sublabels of the sensitivity label. Returns `null` if a label doesn't have any sublabels.
              *
              * @remarks
@@ -81283,6 +81583,92 @@ declare namespace Excel {
              * @beta
              */
             getLabelingCapability?: Excel.LabelingCapability | "NoLicense" | "LabelingDisabled" | "LabelingPolicyNotFound" | "LabelingEnabled";
+        }
+        /** An interface describing the data returned by calling `sensitivityLabelAbacAttributeValue.toJSON()`. */
+        interface SensitivityLabelAbacAttributeValueData {
+            /**
+             * Gets the display name of the attribute value.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            displayName?: string;
+            /**
+             * Gets the display order of the attribute value.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            displayOrder?: number;
+            /**
+             * Gets the unique identifier of the attribute value.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            id?: string;
+            /**
+             * Gets a value indicating whether the attribute value is active.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isActive?: boolean;
+        }
+        /** An interface describing the data returned by calling `sensitivityLabelAbacAttribute.toJSON()`. */
+        interface SensitivityLabelAbacAttributeData {
+            /**
+             * Gets the data type of the attribute.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            dataType?: Excel.SensitivityLabelAbacAttributeDataType | "Unknown" | "StringValue" | "BooleanValue" | "NumberValue" | "DateValue";
+            /**
+             * Gets the display name of the attribute.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            displayName?: string;
+            /**
+             * Gets the display order of the attribute.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            displayOrder?: number;
+            /**
+             * Gets a value indicating whether the attribute is active.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isActive?: boolean;
+            /**
+             * Gets a value indicating whether the attribute supports multiple values.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isMultiValued?: boolean;
+            /**
+             * Gets the values of the attribute.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            values?: SensitivityLabelAbacAttributeValue[];
         }
         /** An interface describing the data returned by calling `allowEditRange.toJSON()`. */
         interface AllowEditRangeData {
@@ -82407,6 +82793,7 @@ declare namespace Excel {
             /**
              * Represents the raw values of the specified range. The data returned could be a string, number, or Boolean. Cells that contain an error will return the error string.
                         If the returned value starts with a plus ("+"), minus ("-"), or equal sign ("="), Excel interprets this value as a formula.
+                        Locale-shaped strings (such as the date "19-8-2025" in nl-NL or fr-FR, format DD-MM-YYYY) are stored as text instead of as dates. To ensure dates are stored as dates, use a locale-aware API like `formulasLocal` or use a locale-neutral format like ISO (YYYY-MM-DD) or a numeric date serial.
              *
              * @remarks
              * [Api set: ExcelApi 1.1]
@@ -89089,6 +89476,30 @@ declare namespace Excel {
              */
             $all?: boolean;
             /**
+             * Gets the ABAC (attribute-based access control) attribute values associated with this label.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            abacAttributeValues?: boolean;
+            /**
+             * Gets a value indicating whether ABAC (attribute-based access control) attributes are required for this label.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isAbacAttributesRequired?: boolean;
+            /**
+             * Gets a value indicating whether ABAC (attribute-based access control) is enabled for this label.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isAbacEnabled?: boolean;
+            /**
              * Gets the sublabels of the sensitivity label. Returns `null` if a label doesn't have any sublabels.
              *
              * @remarks
@@ -89266,6 +89677,112 @@ declare namespace Excel {
              * @beta
              */
             getLabelingCapability?: boolean;
+        }
+        /**
+         * Represents a single value of an ABAC (attribute-based access control) attribute.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        interface SensitivityLabelAbacAttributeValueLoadOptions {
+            /**
+              Specifying `$all` for the load options loads all the scalar properties (such as `Range.address`) but not the navigational properties (such as `Range.format.fill.color`).
+             */
+            $all?: boolean;
+            /**
+             * Gets the display name of the attribute value.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            displayName?: boolean;
+            /**
+             * Gets the display order of the attribute value.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            displayOrder?: boolean;
+            /**
+             * Gets the unique identifier of the attribute value.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            id?: boolean;
+            /**
+             * Gets a value indicating whether the attribute value is active.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isActive?: boolean;
+        }
+        /**
+         * Represents an ABAC (attribute-based access control) attribute.
+         *
+         * @remarks
+         * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+         * @beta
+         */
+        interface SensitivityLabelAbacAttributeLoadOptions {
+            /**
+              Specifying `$all` for the load options loads all the scalar properties (such as `Range.address`) but not the navigational properties (such as `Range.format.fill.color`).
+             */
+            $all?: boolean;
+            /**
+             * Gets the data type of the attribute.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            dataType?: boolean;
+            /**
+             * Gets the display name of the attribute.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            displayName?: boolean;
+            /**
+             * Gets the display order of the attribute.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            displayOrder?: boolean;
+            /**
+             * Gets a value indicating whether the attribute is active.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isActive?: boolean;
+            /**
+             * Gets a value indicating whether the attribute supports multiple values.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            isMultiValued?: boolean;
+            /**
+             * Gets the values of the attribute.
+             *
+             * @remarks
+             * [Api set: ExcelApi BETA (PREVIEW ONLY)]
+             * @beta
+             */
+            values?: boolean;
         }
         /**
          * Represents an `AllowEditRange` object found in a worksheet. This object works with worksheet protection properties.
@@ -90804,6 +91321,7 @@ declare namespace Excel {
             /**
              * Represents the raw values of the specified range. The data returned could be a string, number, or Boolean. Cells that contain an error will return the error string.
                         If the returned value starts with a plus ("+"), minus ("-"), or equal sign ("="), Excel interprets this value as a formula.
+                        Locale-shaped strings (such as the date "19-8-2025" in nl-NL or fr-FR, format DD-MM-YYYY) are stored as text instead of as dates. To ensure dates are stored as dates, use a locale-aware API like `formulasLocal` or use a locale-neutral format like ISO (YYYY-MM-DD) or a numeric date serial.
              *
              * @remarks
              * [Api set: ExcelApi 1.1]
@@ -99557,6 +100075,7 @@ declare namespace Excel {
             /**
              * For EACH ITEM in the collection: Represents the raw values of the specified range. The data returned could be a string, number, or Boolean. Cells that contain an error will return the error string.
                         If the returned value starts with a plus ("+"), minus ("-"), or equal sign ("="), Excel interprets this value as a formula.
+                        Locale-shaped strings (such as the date "19-8-2025" in nl-NL or fr-FR, format DD-MM-YYYY) are stored as text instead of as dates. To ensure dates are stored as dates, use a locale-aware API like `formulasLocal` or use a locale-neutral format like ISO (YYYY-MM-DD) or a numeric date serial.
              *
              * @remarks
              * [Api set: ExcelApi 1.1]
